@@ -1,0 +1,56 @@
+{
+  "batch_id": "miao-image-review-01-2026-11-21",
+  "source": "苗族生活图.40幅.清代彩绘.pdf",
+  "status": "AI-assisted visual transcription drafts; not independently verified by a historian",
+  "method": "Compared original high-resolution scans with earlier Stage 2 PaddleOCR candidate strings",
+  "published_pages": [
+    5,
+    43
+  ],
+  "staged_but_not_published": [
+    {
+      "pdf_page": 26,
+      "reason": "11 text columns visible in the scan, only 9 OCR columns recovered; substantial omissions"
+    }
+  ],
+  "ocr_raw_preserved": true,
+  "corrections": [
+    {
+      "page": 5,
+      "ids": [
+        "miao-001",
+        "ocr-0aa54e2d1b74-p0005"
+      ],
+      "uncorrected_pairs": [
+        [
+          "挿",
+          "插"
+        ],
+        [
+          "争",
+          "爭"
+        ]
+      ],
+      "legacy_extra_character_removed": "已",
+      "transcription_without_punctuation": "羅漢苗在黎平府屬男女衣青短披風習俗鄙陋婚姻先野合而後行聘未室者插羽於首女髻戴梳巧能織錦出入必佩刀弩性獷悍喜爭鬪"
+    },
+    {
+      "page": 43,
+      "ids": [
+        "miao-039",
+        "ocr-0aa54e2d1b74-p0043"
+      ],
+      "uncorrected_pairs": [
+        [
+          "二十餘幅",
+          "三十餘幅"
+        ],
+        [
+          "雞大骨",
+          "雞犬骨"
+        ]
+      ],
+      "transcription_without_punctuation": "補籠苗在南籠安順各屬衣尚青以帕束首婦人以青布纏頭長裙摺多至三十餘幅拖腰以彩布一幅下垂若綬而以青布襲之十二月為歲首歛牛馬雞犬骨作醋至酸臭為佳稱富積者則曰貯醋桶幾世矣婚皆苟合"
+    }
+  ]
+}
