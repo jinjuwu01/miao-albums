@@ -56,3 +56,6 @@
  .site-header nav a{font-size:10px}
  .searchbar button{min-width:97px;font-size:12px}
 }
+
+.reader-notice .note-en{font:11px/1.7 Georgia,serif;color:#896e5c;margin:7px 0 0}
+@media(max-width:760px){.hero-copy>.hero-en{font-size:13px}.local-edits-info .method-en{line-height:1.8}}
