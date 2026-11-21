@@ -3,7 +3,8 @@
   const LEGACY = Array.isArray(window.MIAO_RECORDS) ? window.MIAO_RECORDS : [];
   const IMPORTED = Array.isArray(window.MIAO_IMPORTED_RECORDS) ? window.MIAO_IMPORTED_RECORDS : [];
   const IMAGE_DRAFTS = window.MIAO_VISUAL_DRAFTS && typeof window.MIAO_VISUAL_DRAFTS === 'object' ? window.MIAO_VISUAL_DRAFTS : {};
-  const BASE = [...LEGACY, ...IMPORTED].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
+  const COLUMN_REVIEWS = window.MIAO_COLUMN_REVIEWS && typeof window.MIAO_COLUMN_REVIEWS === 'object' ? window.MIAO_COLUMN_REVIEWS : {};
+  const BASE = [...LEGACY, ...IMPORTED].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
   const byId = id => document.getElementById(id);
   const dom = {list:byId('result-list'),reader:byId('reader-content'),search:byId('search-input'),count:byId('result-count'),summary:byId('search-summary'),filter:byId('status-filter'),sort:byId('sort-order'),album:byId('album-filter')};
   let selected = BASE.some(r=>r.id===decodeURIComponent(location.hash.slice(1))) ? decodeURIComponent(location.hash.slice(1)) : (BASE[0]?.id || '');
@@ -40,7 +41,7 @@
     return BASE.map(record).filter(r => {
       if(dom.album.value!=='all' && r.source_title!==dom.album.value)return false;
        if(state==='ocr_unverified' && r.status!=='ocr_unverified')return false;
-      if(state==='editorial_draft' && !['editorial_draft','image_checked_draft','local_edit'].includes(r.status))return false;
+      if(state==='editorial_draft' && !['editorial_draft','image_checked_draft','human_reviewed','local_edit'].includes(r.status))return false;
       return match(r,q);
     }).sort((a,b)=>dom.sort.value==='desc'?b.sort_index-a.sort_index:a.sort_index-b.sort_index);
   }
@@ -51,7 +52,7 @@
     if(idx<0)return esc(input);
     return `${esc(input.slice(0,idx))}<mark>${esc(input.slice(idx,idx+first.length))}</mark>${esc(input.slice(idx+first.length))}`;
   }
-  function statusLabel(r){return r.status==='local_edit'?'本机校订 / Local edit':r.status==='image_checked_draft'?'AI 图像校读草稿 / AI image-checked draft':r.status==='editorial_draft'?'人工试校 / Editorial draft':'机器待校 / Unverified OCR';}
+  function statusLabel(r){return r.status==='human_reviewed'?'人工逐列校读 / Human-reviewed':r.status==='local_edit'?'本机校订 / Local edit':r.status==='image_checked_draft'?'AI 图像校读草稿 / AI image-checked draft':r.status==='editorial_draft'?'人工试校 / Editorial draft':'机器待校 / Unverified OCR';}
   function showResults(){
     results=getResults();
     dom.count.textContent=`${results.length} 条 / records`;
@@ -73,12 +74,12 @@
     const idx=results.findIndex(x=>x.id===selected);
     const caption=r.transcription || r.ocr_raw || '';
     const translation=r.translation||'';
-    const isOriginal=['editorial_draft','image_checked_draft','local_edit'].includes(r.status);
+    const isOriginal=['editorial_draft','image_checked_draft','human_reviewed','local_edit'].includes(r.status);
     dom.reader.innerHTML=`
       <div class="reader-head"><div><div class="record-kicker">${esc(r.source_title)} · PDF 第 ${r.pdf_page} 页 / Page ${r.pdf_page}${r.page_total?' / '+r.page_total:''}</div><h3>${esc(r.title)}</h3><p>${esc(r.title_en)} · 扫描页 / Scanned page</p></div><div class="head-actions"><button class="nav-btn" id="prev-record" ${idx===0?'disabled':''} title="上一条 / Previous record">←</button><button class="nav-btn" id="next-record" ${idx===results.length-1?'disabled':''} title="下一条 / Next record">→</button></div></div>
       <div class="status-bar"><span class="status-label ${r.status==='ocr_unverified'?'ocr':''}">${statusLabel(r)}</span><span>文字状态 / Text status: ${statusLabel(r)}</span></div>
       <div class="reader-grid"><div class="scan-pane"><div class="pane-title">原始图像 <small>ORIGINAL SCAN</small></div><div class="image-stage" id="image-stage"><img id="scan-image" src="${esc(mode==='full'?r.image:r.text_image)}" alt="第 ${r.pdf_page} 页 / Page ${r.pdf_page} ${mode==='full'?'扫描预览 / scan':'题记裁图 / caption crop'}" draggable="false"></div><div class="image-toolbar"><div><button type="button" class="${mode==='full'?'active':''}" id="show-full">整页 / Full page</button><button type="button" class="${mode==='crop'?'active':''}" id="show-crop" ${r.text_image && r.text_image!==r.image?'':'disabled title="暂无独立题记裁图 / No caption crop available"'}>题记放大 / Crop</button></div><div><button id="zoom-out" type="button" aria-label="缩小图像">−</button><span id="zoom-indicator" style="font-size:10px;min-width:28px;text-align:center">1×</span><button id="zoom-in" type="button" aria-label="放大图像">＋</button><a href="${esc(r.image)}" target="_blank" rel="noopener noreferrer">查看原图 / View image ↗</a></div></div><p class="source-note">来源 / Source: ${esc(r.source_title)} · PDF 第 ${r.pdf_page} 页 / Page ${r.pdf_page}。网页仅提供图像预览；引证前请核对原件。 / Web preview only; verify against the original scan before citing.</p></div>
-      <div class="text-pane"><div class="pane-title">题记与翻译 <small>PARALLEL READING</small></div><article class="text-card"><div class="text-card-head"><strong>${r.status==='image_checked_draft'?'AI 图像校读草稿':isOriginal?'中文试校稿':'机器 OCR 初稿'} <span>${r.status==='image_checked_draft'?'Image-checked draft':isOriginal?'Editorial transcription':'Unverified OCR'}</span></strong><span>${statusLabel(r)}</span></div><div class="text-card-body chinese">${caption?highlight(caption,dom.search.value):'<span class="text-placeholder">本页未检出文字，请核对扫描件。 / No text detected; consult the image.</span>'}</div></article>
+      <div class="text-pane"><div class="pane-title">题记与翻译 <small>PARALLEL READING</small></div><article class="text-card"><div class="text-card-head"><strong>${r.status==='human_reviewed'?'人工逐列校读稿':r.status==='image_checked_draft'?'AI 图像校读草稿':isOriginal?'中文试校稿':'机器 OCR 初稿'} <span>${r.status==='human_reviewed'?'Human-reviewed transcription':r.status==='image_checked_draft'?'Image-checked draft':isOriginal?'Editorial transcription':'Unverified OCR'}</span></strong><span>${statusLabel(r)}</span></div><div class="text-card-body chinese">${caption?highlight(caption,dom.search.value):'<span class="text-placeholder">本页未检出文字，请核对扫描件。 / No text detected; consult the image.</span>'}</div></article>
       <article class="text-card"><div class="text-card-head"><strong>AI 英译 <span>English translation</span></strong><span>${translation?'试译 / Draft only':'无译文 / Not available'}</span></div><div class="text-card-body english">${translation?highlight(translation,dom.search.value):'<span class="text-placeholder">本页尚无英文译文；须先核对 OCR，避免错误翻译。 / No English translation yet. OCR must be checked against the scan before translation.</span>'}</div></article>
       <details class="ocr-details"><summary>机器 OCR 原文（未校） · Unverified raw OCR ▾</summary><p>${esc(r.ocr_raw||'无可用 OCR 文字。 / No OCR text available.')}</p><small>OCR 可能误字、漏字、错序；不可直接引用。 / OCR may contain errors and scrambled column order; do not cite without verification.</small></details>
       <div class="reader-notice"><strong>版本说明 / Editorial status:</strong> ${esc(r.notes)}<p class="note-en" lang="en">Machine-generated text requires checking against the original image; notes may be available in Chinese only.</p></div></div></div>
@@ -111,7 +112,7 @@
   for (const title of albums) { const option=document.createElement('option'); option.value=title; option.textContent=title; dom.album.appendChild(option); }
   if(byId('total-records')) byId('total-records').textContent=String(BASE.length);
   if(byId('total-ocr')) byId('total-ocr').textContent=String(BASE.filter(r=>Boolean(r.ocr_raw)).length);
-  if(byId('edited-records')) byId('edited-records').textContent=String(new Set(BASE.filter(r=>['editorial_draft','image_checked_draft'].includes(r.status)).map(r=>r.source_title+'#'+r.pdf_page)).size).padStart(2,'0');
+  if(byId('edited-records')) byId('edited-records').textContent=String(new Set(BASE.filter(r=>['editorial_draft','image_checked_draft','human_reviewed'].includes(r.status)).map(r=>r.source_title+'#'+r.pdf_page)).size).padStart(2,'0');
   byId('search-button').addEventListener('click',showResults);
   dom.search.addEventListener('input',showResults);
   dom.filter.addEventListener('change',showResults);
