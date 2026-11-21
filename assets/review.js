@@ -87,6 +87,7 @@
     pageData=newPage(selectedRecord);
     activeId=currentColumns()[0]?.id||null;
     el.raw.textContent=selectedRecord.ocr_raw||"本页没有原始 OCR 文本。";
+    $("existing-draft").textContent=DRAFTS[selectedRecord.id]?.transcription||selectedRecord.transcription||"本页尚无已有校读稿。";
     currentImageReady=false;
     el.image.src=selectedRecord.image;
     $("image-resolution").textContent="载入图像中…";
@@ -188,6 +189,7 @@
     const i=currentColumns().findIndex(c=>c.id===col.id);
     el.title.textContent="第 "+(i+1)+" 列 / Column "+(i+1);
     for (const [key,field] of Object.entries(fields)) field.value=col[key];
+    for (let k=0;k<4;k++) $("box-"+["x","y","w","h"][k]).value=(col.box[k]*100).toFixed(2);
     $("move-left").disabled=i<=0;
     $("move-right").disabled=i===currentColumns().length-1;
     paintCrop();
@@ -242,6 +244,17 @@
     save();render();
   });
   $("add-column").addEventListener("click",()=>createColumn([.44,.12,.11,.72]));
+  for (let k=0;k<4;k++) {
+    const field=$("box-"+["x","y","w","h"][k]);
+    field.addEventListener("change",()=>{
+      const col=activeColumn();if(!col)return;
+      const v=Number(field.value)/100;
+      if(!Number.isFinite(v))return;
+      const b=col.box.slice();b[k]=v;
+      col.box=normalColumn({box:b}).box;
+      save();render();
+    });
+  }
   for (const [key,field] of Object.entries(fields)) {
     field.addEventListener("input",()=>{const c=activeColumn();if (!c)return;c[key]=field.value;save();renderSummary();if(key==="status")renderList();});
     if (key==="status")field.addEventListener("change",()=>{const c=activeColumn();if(!c)return;c.status=field.value;save();renderList();renderSummary();});
