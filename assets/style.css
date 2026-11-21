@@ -5,7 +5,7 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.image-stage img{transition:none}}
 
 
-/* Bilingual homepage: one historically sourced illustration and an accessible profile link. */
+/* Bilingual homepage: edge-cropped single-image hero and developer link. */
 .hero{grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);gap:clamp(32px,4vw,64px);min-height:510px;padding:62px 5.2% 60px}
 .hero h1{font-size:clamp(37px,4vw,61px);line-height:1.38;margin:24px 0 11px}
 .hero-copy>.hero-title-en{font:normal clamp(20px,2vw,29px)/1.38 Georgia,"Times New Roman",serif;letter-spacing:-.012em;color:#687773;margin:0 0 26px;max-width:560px}
@@ -13,10 +13,8 @@
 .hero-link{display:inline-flex;align-items:center;gap:9px;flex-wrap:wrap}
 .hero-link .hero-link-en{font:normal 12px Georgia,serif;color:#8f6a55}
 .hero-link span[aria-hidden]{padding-left:9px}
-.hero-image.hero-single{display:block;position:static;max-width:445px;width:100%;margin:0;padding:8px;background:#fffaf2;box-shadow:0 12px 30px rgba(32,37,35,.08);border:1px solid #ded6c8;justify-self:center;align-self:center}
-.hero-single img{width:100%;height:340px;object-fit:contain;object-position:center;display:block;background:#f2ebdf}
-.hero-source{font:11px/1.65 var(--sans);color:#69675f;padding:10px 7px 4px;text-align:left}
-.hero-source span{display:block;margin-top:6px;font:11px/1.55 Georgia,serif;color:#838075}
+.hero-image.hero-single{display:block;position:static;max-width:445px;width:100%;margin:0;padding:0;overflow:hidden;background:#eee8df;box-shadow:0 12px 30px rgba(32,37,35,.08);border:1px solid #ded6c8;justify-self:center;align-self:center}
+.hero-single img{width:100%;height:340px;display:block;object-fit:cover;object-position:center 44%;transform:scale(1.18);transform-origin:center 44%;background:#eee8df}
 .site-header nav a[target="_blank"]:hover{text-decoration:underline;text-underline-offset:4px}
 .stats-note span{display:block;color:#909187;font:11px/1.65 Georgia,serif;margin-top:5px}
 .section-heading h2 .section-heading-en{display:block;font:normal 18px/1.5 Georgia,serif;color:#7f8178;margin-top:3px}
@@ -48,7 +46,7 @@
  .local-edits-info .local-edits-description{margin-top:12px}
 }
 @media(max-width:425px){
- .hero-image.hero-single{max-width:330px}.hero-single img{height:275px}.hero-source{font-size:10px}
+ .hero-image.hero-single{max-width:330px}.hero-single img{height:275px}
  .brand-copy strong{font-size:15px}
  .site-header nav{gap:9px}
  .site-header nav a{font-size:10px}
