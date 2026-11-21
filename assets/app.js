@@ -53,13 +53,13 @@
   function statusLabel(r){return r.status==='local_edit'?'本机校订':r.status==='editorial_draft'?'人工试校 / AI 英译':'OCR 待校';}
   function showResults(){
     results=getResults();
-    dom.count.textContent=`${results.length} 幅`;
+    dom.count.textContent=`${results.length} 条记录`;
     dom.summary.textContent=(dom.search.value.trim()?`关键词：${dom.search.value.trim()}`:'显示跨图册目录')+(results.length>250?' · 当前显示前 250 条，请缩小检索范围':'');
     if(!results.length){dom.list.innerHTML='<div class="no-results">没有匹配的画幅。<br>可以改用其他字词或清除过滤条件。</div>';dom.reader.innerHTML='<div class="empty-state">暂无匹配记录。</div>';return;}
     if(!results.some(r=>r.id===selected))selected=results[0].id;
     dom.list.innerHTML=results.slice(0,250).map(r=>{
       const txt=r.transcription||r.ocr_raw||r.visual_tags.join(' · ');
-      return `<button class="result-item ${r.id===selected?'selected':''}" type="button" data-record="${esc(r.id)}" aria-current="${r.id===selected?'true':'false'}"><img src="${esc(r.thumb || r.image)}" alt="第${r.folio}幅彩绘缩略图" loading="lazy"><span class="result-item-body"><span class="item-top"><strong>${esc(r.title)}</strong><span>${String(r.folio).padStart(2,'0')}/${r.page_total||40}</span></span><small>${esc(r.source_title)} · PDF 第 ${r.pdf_page} 页</small><p>${highlight(txt.slice(0,100),dom.search.value)}</p><span class="dot-status">${statusLabel(r)}</span></span></button>`;
+      return `<button class="result-item ${r.id===selected?'selected':''}" type="button" data-record="${esc(r.id)}" aria-current="${r.id===selected?'true':'false'}"><img src="${esc(r.thumb || r.image)}" alt="${esc(r.source_title)} · 第${r.pdf_page}页缩略图" loading="lazy"><span class="result-item-body"><span class="item-top"><strong>${esc(r.title)}</strong><span>${String(r.folio).padStart(2,'0')}/${r.page_total||40}</span></span><small>${esc(r.source_title)} · PDF 第 ${r.pdf_page} 页</small><p>${highlight(txt.slice(0,100),dom.search.value)}</p><span class="dot-status">${statusLabel(r)}</span></span></button>`;
     }).join('');
     dom.list.querySelectorAll('[data-record]').forEach(b=>b.addEventListener('click',()=>select(b.dataset.record)));
     renderReader();
@@ -74,7 +74,7 @@
     const translation=r.translation||'';
     const isOriginal=['editorial_draft','local_edit'].includes(r.status);
     dom.reader.innerHTML=`
-      <div class="reader-head"><div><div class="record-kicker">${esc(r.source_title)} · PDF PAGE ${r.pdf_page}${r.page_total?' / '+r.page_total:''}</div><h3>${esc(r.title)}</h3><p>${esc(r.title_en)} · 清代彩绘题记</p></div><div class="head-actions"><button class="nav-btn" id="prev-record" ${idx===0?'disabled':''} title="上一幅">←</button><button class="nav-btn" id="next-record" ${idx===results.length-1?'disabled':''} title="下一幅">→</button></div></div>
+      <div class="reader-head"><div><div class="record-kicker">${esc(r.source_title)} · PDF PAGE ${r.pdf_page}${r.page_total?' / '+r.page_total:''}</div><h3>${esc(r.title)}</h3><p>${esc(r.title_en)} · 原始扫描页</p></div><div class="head-actions"><button class="nav-btn" id="prev-record" ${idx===0?'disabled':''} title="上一幅">←</button><button class="nav-btn" id="next-record" ${idx===results.length-1?'disabled':''} title="下一幅">→</button></div></div>
       <div class="status-bar"><span class="status-label ${r.status==='ocr_unverified'?'ocr':''}">${statusLabel(r)}</span><span>文字状态：${isOriginal?'有独立校订试稿':'仅保留未经核对的 OCR 输出'}</span></div>
       <div class="reader-grid"><div class="scan-pane"><div class="pane-title">原始图像 <small>ORIGINAL SCAN</small></div><div class="image-stage" id="image-stage"><img id="scan-image" src="${esc(mode==='full'?r.image:r.text_image)}" alt="第 ${r.folio} 幅${mode==='full'?'原始彩绘':'题记局部'}" draggable="false"></div><div class="image-toolbar"><div><button type="button" class="${mode==='full'?'active':''}" id="show-full">整幅画</button><button type="button" class="${mode==='crop'?'active':''}" id="show-crop" ${r.text_image && r.text_image!==r.image?'':'disabled title="本页暂无独立题记裁图"'}>题记放大</button></div><div><button id="zoom-out" type="button" aria-label="缩小图像">−</button><span id="zoom-indicator" style="font-size:10px;min-width:28px;text-align:center">1×</span><button id="zoom-in" type="button" aria-label="放大图像">＋</button><a href="${esc(r.image)}" target="_blank" rel="noopener noreferrer">原图 ↗</a></div></div><p class="source-note">来源：${esc(r.source_title)} · PDF 第 ${r.pdf_page} 页。可放大网页预览图；最终引证请核对原始扫描件。</p></div>
       <div class="text-pane"><div class="pane-title">题记与翻译 <small>PARALLEL READING</small></div><article class="text-card"><div class="text-card-head"><strong>${isOriginal?'中文转录':'机器 OCR 初稿'} <span>${isOriginal?'Chinese transcription':'Unverified OCR'}</span></strong><span>${isOriginal?'人工试校草稿':'未校订'}</span></div><div class="text-card-body chinese">${caption?highlight(caption,dom.search.value):'<span class="text-placeholder">本页未检出文字或 OCR 结果为空，请核对左侧扫描件。</span>'}</div></article>
