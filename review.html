@@ -61,6 +61,7 @@
           <div><button type="button" id="move-left" class="mini">↑ 前移</button><button type="button" id="move-right" class="mini">↓ 后移</button>
           <button type="button" id="remove-column" class="mini danger">删除此列</button></div>
         </div>
+        <div class="coord-grid"><label>X %<input id="box-x" type="number" min="0" max="100" step="0.1"></label><label>Y %<input id="box-y" type="number" min="0" max="100" step="0.1"></label><label>W %<input id="box-w" type="number" min="0.1" max="100" step="0.1"></label><label>H %<input id="box-h" type="number" min="0.1" max="100" step="0.1"></label></div>
         <div class="crop-box"><canvas id="column-crop" aria-label="选中文字列高清裁图"></canvas><span>原图裁剪预览 / Column crop preview</span></div>
         <label>PaddleOCR 原文 / OCR candidate A
           <textarea id="field-paddle" rows="3" spellcheck="false" placeholder="可从 OCR JSON 导入，或粘贴原识别结果"></textarea>
@@ -95,6 +96,7 @@
       <div id="combined-text" class="combined-text"></div>
       <button id="copy-combined" type="button" class="secondary">复制汇总文字 / Copy</button>
       <div class="coverage" id="coverage"></div>
+      <details class="source-ocr"><summary>查看数据库已有整页校读稿（只读） / Existing draft</summary><pre id="existing-draft"></pre></details>
       <hr>
       <p class="help"><strong>导入说明：</strong>支持本工具导出的 JSON，以及含 <code>rec_texts</code> 和 <code>rec_boxes</code>/<code>rec_polys</code> 的 PaddleOCR JSON。坐标来自原始 OCR 图片；若图片尺寸不同，可填写 OCR 图像宽高（像素）。导入后必须核对框的位置。</p>
       <div class="dims">
