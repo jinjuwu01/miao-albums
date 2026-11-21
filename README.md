@@ -2,6 +2,42 @@
 
 清代《苗族生活图》研究用试验性数据库。**这不是已完成的学术校勘版。**
 
+
+## 将 PaddleOCR 结果导入网站（多图册）
+
+本项目新增了 scripts/import_paddle_ocr.py，负责把本地的 PaddleOCR 批量结果导入网页。现有 40 幅经整理的记录保持不变；新图册每页拥有自己的来源、页码、OCR 文本和网页预览图。网站会同时搜索两类记录。
+
+**Mac 操作（进入之前安装成功的 Python 虚拟环境）：**
+
+1. 用 GitHub Desktop 克隆 jinjuwu01/miao-albums 到 ~/miao-albums，或使用 git clone。
+2. 确保原始 PDF 仍在 ~/miao-ocr/images/，已完成的 OCR 输出仍在 ~/miao-ocr/results_batch/。
+3. 在 Terminal 执行：
+
+    cd ~/miao-albums
+    source ~/miao-ocr/.venv/bin/activate
+    python scripts/import_paddle_ocr.py --site-root . --max-pages 10
+
+   确认页面图像/文字对应正确之后，导入所有已完成页面：
+
+    python scripts/import_paddle_ocr.py --site-root .
+
+   如 OCR 或 PDF 使用了自定义路径，可通过 --ocr-root 和 --pdf-root 指定。
+
+4. 本地预览：
+
+    python -m http.server 8000
+
+   打开 http://localhost:8000/，核对图册下拉菜单、来源页码、图像和 OCR 初稿。
+5. 通过 GitHub Desktop 提交并推送修改：data/imported_ocr.js、data/imported_ocr.json、images/collections/ 文件夹。原 PDF、results_batch 原始 JSON 和暂存文件**不用上传**。GitHub Pages 将自动重新部署。
+
+导入程序可重复运行，使用稳定的 PDF 来源路径+页码生成记录 ID，不会重复添加同一页面。人工校订文字会尽可能保留在 data/imported_ocr.json；若校订只存在浏览器 localStorage，必须另外导出和合并，不能视为已同步。不要运行旧的 build_from_pdf.py 覆盖已校订的 legacy records。
+
+**注意：** 这里的“数据库”是 GitHub Pages 上的静态 JSON/JavaScript 全文索引，不是提供用户账号或服务器写入功能的 SQL 数据库。新 OCR 文字未经人工校对，暂未校正繁体竖排阅读顺序；图册标题最初来自 PDF 文件名，学术目录与馆藏信息仍需补充。每页 WebP 是网页预览图，不代替原始高清 PDF。
+
+**容量限制：** GitHub Pages 发布站点不得超过 1 GB，官方文档 https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits 。若扩展至数千页并接近限制，应使用外部对象存储或 IIIF 图像服务，同时在仓库中保留轻量的 OCR 索引。
+
+---
+
 ## 目前的数据
 
 - 原 PDF 为 **47 页**；第 **5–44 页**包括 **40 幅**彩绘。

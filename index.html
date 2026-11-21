@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f7f4ed">
-  <meta name="description" content="清代苗图数字资料库原型：浏览40幅彩绘，对照题记影像、机器识别文本、校订试稿与英文翻译。">
+  <meta name="description" content="清代苗图数字资料库：跨图册检索原始影像、PaddleOCR 未校稿与人工校订文本。">
   <title>清代苗图 | Miao Albums Digital Archive</title>
   <link rel="stylesheet" href="assets/style.css">
 </head>
@@ -29,23 +29,23 @@
     <div class="hero-image"><img src="images/001.webp" alt="《苗族生活图》第一幅彩绘：人物织布与旁侧题记"><div class="image-credit">来源：用户提供的《苗族生活图》扫描件 · 第 1 幅</div></div>
   </section>
   <div class="quick-stats" aria-label="数据库当前规模">
-    <div><span class="stat-number">40</span><span>幅彩绘 <small>Illustrations</small></span></div>
-    <div><span class="stat-number">40</span><span>份机器 OCR 试稿 <small>Unverified OCR</small></span></div>
-    <div><span class="stat-number">01</span><span>幅中文校订与英译示例 <small>Editorial draft</small></span></div>
-    <div class="stats-note">目前是单册试验版；这些数字不代表已完成的学术校勘。</div>
+    <div><span class="stat-number" id="total-records">40</span><span>条页面记录 <small>Page records</small></span></div>
+    <div><span class="stat-number" id="total-ocr">40</span><span>页有 OCR 文字 <small>OCR text</small></span></div>
+    <div><span class="stat-number" id="edited-records">01</span><span>条人工试校记录 <small>Editorial drafts</small></span></div>
+    <div class="stats-note">可按不同图册检索；机器识别文字并非已校定的历史原文。</div>
   </div>
 
   <section class="explore" id="explore" aria-labelledby="explore-title">
-    <div class="section-heading"><div><div class="eyebrow muted">SEARCH THE COLLECTION / 全文检索</div><h2 id="explore-title">检索与对照阅读</h2></div><p>图像全文目录 · 扫描第 5–44 页</p></div>
+    <div class="section-heading"><div><div class="eyebrow muted">SEARCH THE COLLECTION / 全文检索</div><h2 id="explore-title">检索与对照阅读</h2></div><p>多图册目录 · 跨 PDF 全文检索</p></div>
     <div class="searchbox">
       <label for="search-input">搜索题记文字、英文译文、标题或画面标签 <span>Search captions, translation &amp; visual tags</span></label>
       <div class="searchbar"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7.5"/><path d="m17 17 4.5 4.5"/></svg><input id="search-input" type="search" autocomplete="off" placeholder="如：織錦 / 织锦 / 婚姻 / brocade / 牛…"><button id="search-button" type="button">检索 <span>Search</span></button></div>
       <div class="search-hints"><span>试试：</span><button class="chip" data-query="織錦">織錦</button><button class="chip" data-query="婚姻">婚姻</button><button class="chip" data-query="舞蹈">舞蹈</button><button class="chip" data-query="brocade">brocade</button><span class="syntax-hint">空格 = AND · | = OR · -词 = 排除</span></div>
     </div>
-    <div class="toolbar"><div class="toolbar-left"><strong id="result-count">40 幅</strong><span id="search-summary">显示整册目录</span></div><div class="toolbar-right"><label for="status-filter">状态</label><select id="status-filter"><option value="all">全部画幅</option><option value="editorial_draft">已有人工作业的试稿</option><option value="ocr_unverified">仅机器 OCR</option></select><label for="sort-order">排序</label><select id="sort-order"><option value="asc">画幅正序</option><option value="desc">画幅倒序</option></select><button id="export-button" class="quiet-button" type="button" title="导出当前结果的 CSV">导出 CSV ↓</button></div></div>
+    <div class="toolbar"><div class="toolbar-left"><strong id="result-count">40 幅</strong><span id="search-summary">显示整册目录</span></div><div class="toolbar-right"><label for="album-filter">图册</label><select id="album-filter"><option value="all">全部图册</option></select><label for="status-filter">状态</label><select id="status-filter"><option value="all">全部画幅</option><option value="editorial_draft">已有人工作业的试稿</option><option value="ocr_unverified">仅机器 OCR</option></select><label for="sort-order">排序</label><select id="sort-order"><option value="asc">画幅正序</option><option value="desc">画幅倒序</option></select><button id="export-button" class="quiet-button" type="button" title="导出当前结果的 CSV">导出 CSV ↓</button></div></div>
 
     <div class="workspace">
-      <aside class="result-panel" aria-label="检索结果"><div class="panel-heading">ILLUSTRATION INDEX <span>画幅目录</span></div><div class="result-list" id="result-list"></div><div class="result-footer">点选画幅以查看原图、题记及译文</div></aside>
+      <aside class="result-panel" aria-label="检索结果"><div class="panel-heading">ILLUSTRATION INDEX <span>画幅目录</span></div><div class="result-list" id="result-list"></div><div class="result-footer">点选记录查看扫描原图、OCR 与校订文本</div></aside>
       <section class="reader-panel" id="reader-panel" aria-live="polite"><div id="reader-content"><div class="empty-state">请选择一幅画查看详情。</div></div></section>
     </div>
   </section>
@@ -53,14 +53,15 @@
   <section class="methodology" id="methodology"><div class="section-heading"><div><div class="eyebrow muted">READING AS EVIDENCE / 阅读须知</div><h2>关于这份试验性数字版本</h2></div></div>
     <div class="method-grid">
       <article><div class="method-number">01</div><h3>图像优先 <span>Image first</span></h3><p>所有记录都保留原始扫描页，题记另提供局部放大图。图像中的文字才是史料，搜索索引只是协助定位。</p></article>
-      <article><div class="method-number">02</div><h3>识别与校勘分离 <span>OCR ≠ transcription</span></h3><p>本版使用繁体中文竖排 OCR 生成 40 幅的未校验机器稿，误字与错序可能很多。只有第 1 幅有人工试校中文和英文译稿，仍未完成正式校勘。</p></article>
+      <article><div class="method-number">02</div><h3>识别与校勘分离 <span>OCR ≠ transcription</span></h3><p>各图册机器 OCR 均属待校稿，可能存在误字、漏字与竖排列序错误；只有标为「人工试校」的记录拥有独立校订文本，且不等于最终定本。</p></article>
       <article><div class="method-number">03</div><h3>翻译有边界 <span>Translation is a guide</span></h3><p>译文是辅助理解的 AI 英文试稿，不是可引用的原始材料。历史题记中的族称和贬抑性描述应视为编绘者的立场，而非对现实社群的客观描述。</p></article>
-      <article><div class="method-number">04</div><h3>出处待核 <span>Source &amp; rights</span></h3><p>本版图像来自所提供的《苗族生活图·40幅·清代彩绘》PDF。原藏机构、馆藏号、扫描版权与更完整的版本信息尚待核实，正式公开传播前应先确认使用许可。</p></article>
+      <article><div class="method-number">04</div><h3>出处待核 <span>Source &amp; rights</span></h3><p>图册可能来自不同的 PDF 或馆藏版本。请逐册核查藏所、版本、著录和扫描件的传播许可；网页 OCR 不能替代原件。</p></article>
     </div>
     <div class="local-edits-info"><strong>个人校订工具</strong><p>在画幅详情中可以修改中文转录、英文译文和校勘说明。修改只保存在当前浏览器的本地存储，不会同步到 GitHub 或其他访客。可导出 JSON 保存校订。</p><button id="download-edits" class="quiet-button" type="button">导出本机校订 JSON ↓</button></div>
   </section>
 </main>
-<footer class="footer"><span><strong>苗图数字档案</strong> · Miao Albums Digital Archive</span><span>单册试验版 · 机器转录须与扫描影像核对 · 2026</span></footer>
+<footer class="footer"><span><strong>苗图数字档案</strong> · Miao Albums Digital Archive</span><span>多图册研究试验版 · 机器转录须与扫描影像核对 · 2026</span></footer>
 <script src="data/records.js"></script>
+<script src="data/imported_ocr.js"></script>
 <script src="assets/app.js"></script>
 </body></html>
