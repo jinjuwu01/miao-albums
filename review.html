@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f4ed">
+  <title>逐列 OCR 复核 | 苗图数字档案</title>
+  <link rel="stylesheet" href="assets/review.css">
+</head>
+<body>
+<header class="masthead">
+  <div><a class="brand" href="./index.html">苗图数字档案 <span>MIAO ALBUMS</span></a>
+    <h1>逐列 OCR 复核 <small>Column-by-column OCR Review</small></h1>
+    <p>按原图逐列核读，保留机器原文和每一次修改。编辑内容仅存于当前浏览器；请导出备份。</p>
+  </div>
+  <a href="./index.html" class="back">← 返回数据库 / Back to Archive</a>
+</header>
+<main>
+  <div class="toolbar">
+    <label>选择图册页 / Select page <select id="page-select"></select></label>
+    <label class="upload">打开本地高清页图 / Open high-resolution image
+      <input id="highres" type="file" accept="image/png,image/jpeg,image/webp,image/tiff,image/bmp">
+    </label>
+    <label class="upload">导入 OCR / 校读 JSON
+      <input id="import-json" type="file" accept=".json,application/json">
+    </label>
+    <button id="export-page" type="button">导出本页 JSON / Export</button>
+    <button id="export-all" type="button" class="secondary">备份全部页 / Backup all</button>
+  </div>
+  <div id="message" class="message" role="status" aria-live="polite"></div>
+  <div class="workspace">
+    <section class="panel image-panel" aria-labelledby="image-heading">
+      <div class="panel-heading">
+        <h2 id="image-heading">原图与文字列 <small>Image &amp; columns</small></h2>
+        <span id="image-resolution"></span>
+      </div>
+      <p class="help">在原图上按住鼠标拖出一个矩形框，即可新增一列。已框选的列可以点击修改；请尽量框住完整的一列文字。推荐先打开本地高清图。</p>
+      <div class="image-scroll">
+        <div id="image-board" class="image-board">
+          <img id="page-image" alt="选中图册的原始页面预览" draggable="false">
+          <div id="boxes-overlay" class="boxes-overlay" aria-label="拖动框选文字列"></div>
+        </div>
+      </div>
+      <div class="image-actions">
+        <button id="sort-columns" type="button" class="secondary">从右至左排序 / Sort right to left</button>
+        <button id="add-column" type="button" class="secondary">新增空白列 / Add empty column</button>
+        <span id="columns-count">0 列 / columns</span>
+      </div>
+      <details class="source-ocr"><summary>展开原始整页 OCR（只读） / Original OCR — read-only</summary>
+        <pre id="raw-ocr"></pre>
+      </details>
+    </section>
+
+    <section class="panel editor-panel" aria-labelledby="editor-heading">
+      <div class="panel-heading"><h2 id="editor-heading">逐列校读 <small>Column review</small></h2><span id="save-state">仅本地保存 / Local only</span></div>
+      <div id="columns" class="column-list" aria-label="文字列目录"></div>
+      <div id="empty-editor" class="empty-editor">先在左侧原图上框选文字列。<span>Draw a box around a vertical text column to begin.</span></div>
+      <form id="column-editor" hidden>
+        <div class="editor-heading">
+          <h3 id="column-title">文字列</h3>
+          <div><button type="button" id="move-left" class="mini">↑ 前移</button><button type="button" id="move-right" class="mini">↓ 后移</button>
+          <button type="button" id="remove-column" class="mini danger">删除此列</button></div>
+        </div>
+        <div class="crop-box"><canvas id="column-crop" aria-label="选中文字列高清裁图"></canvas><span>原图裁剪预览 / Column crop preview</span></div>
+        <label>PaddleOCR 原文 / OCR candidate A
+          <textarea id="field-paddle" rows="3" spellcheck="false" placeholder="可从 OCR JSON 导入，或粘贴原识别结果"></textarea>
+        </label>
+        <label>第二模型候选 / Candidate B（可选）
+          <textarea id="field-alternative" rows="3" spellcheck="false" placeholder="在这里粘贴独立模型的识别结果"></textarea>
+        </label>
+        <label>校读文字 / Reviewed transcription
+          <textarea id="field-reviewed" rows="4" spellcheck="false" placeholder="对照高清原图逐字核读。无法辨认的字用 □ 并在说明中注明"></textarea>
+        </label>
+        <label>疑字与校勘说明 / Notes
+          <textarea id="field-notes" rows="2" placeholder="记录疑难字、候选读法及修改依据"></textarea>
+        </label>
+        <label>校读状态 / Review status
+          <select id="field-status">
+            <option value="unverified">机器待校 / Unverified</option>
+            <option value="ai_draft">AI 辅助草稿 / AI-assisted draft</option>
+            <option value="human_reviewed">人工已核对 / Human-reviewed</option>
+          </select>
+        </label>
+        <div class="editor-footer">
+          <button type="button" id="copy-paddle" class="secondary">复制 A 到校读框</button>
+          <button type="button" id="download-crop" class="secondary">导出本列裁图 PNG</button>
+          <button type="submit" class="primary">保存本列 / Save</button>
+        </div>
+      </form>
+    </section>
+
+    <aside class="panel output-panel" aria-labelledby="output-heading">
+      <div class="panel-heading"><h2 id="output-heading">逐列汇总 <small>Combined text</small></h2></div>
+      <p class="help">依当前列顺序拼接校读文字。未校列不会被自动补入。这里不修改数据库中的原始 OCR 或已有校读稿。</p>
+      <div id="combined-text" class="combined-text"></div>
+      <button id="copy-combined" type="button" class="secondary">复制汇总文字 / Copy</button>
+      <div class="coverage" id="coverage"></div>
+      <hr>
+      <p class="help"><strong>导入说明：</strong>支持本工具导出的 JSON，以及含 <code>rec_texts</code> 和 <code>rec_boxes</code>/<code>rec_polys</code> 的 PaddleOCR JSON。坐标来自原始 OCR 图片；若图片尺寸不同，可填写 OCR 图像宽高（像素）。导入后必须核对框的位置。</p>
+      <div class="dims">
+        <label>OCR 图宽 / Width <input type="number" id="ocr-width" min="1" placeholder="自动 / Auto"></label>
+        <label>OCR 图高 / Height <input type="number" id="ocr-height" min="1" placeholder="自动 / Auto"></label>
+      </div>
+      <p class="footnote">数据不会自动提交至 GitHub，重新导入 OCR 数据可能替换本页列框；建议事先导出备份。正式发表前必须人工核实原图和版本出处。</p>
+    </aside>
+  </div>
+</main>
+<script src="data/records.js"></script>
+<script src="data/imported_ocr.js"></script>
+<script src="data/reviewed_drafts.js"></script>
+<script src="assets/review.js"></script>
+</body>
+</html>
