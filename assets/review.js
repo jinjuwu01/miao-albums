@@ -88,7 +88,7 @@
     activeId=currentColumns()[0]?.id||null;
     el.raw.textContent=selectedRecord.ocr_raw||"本页没有原始 OCR 文本。";
     currentImageReady=false;
-    el.image.src=selectedRecord.text_image||selectedRecord.image;
+    el.image.src=selectedRecord.image;
     $("image-resolution").textContent="载入图像中…";
     history.replaceState(null,"","?id="+encodeURIComponent(id));
     render();
