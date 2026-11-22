@@ -5,9 +5,10 @@
 - 原件：[Wellcome Collection, MS Chinese 99](https://wellcomecollection.org/works/f8b2bkkd)，公版標記 Public Domain Mark。「百苗圖」是本站的系列工作名稱，不代表原件書名。
 - 已核查使用者上傳的 **52 張 3000px 掃描**：其中 **29 頁為左側竪排題記、右側彩繪的對開圖文頁**；其餘 23 張是封面、空白、襯頁或色卡等非正文頁。全套頁面保留，不刪除或合併非正文影像。
 - [圖冊獨立數據檔](data/wellcome_ms99_scans.js)：52 條原始掃描記錄；29 幅圖文頁可單獨放大題記或顯示彩繪。網站圖像通過 Wellcome IIIF 遠程展示；未把高清 JPG 全部存入 GitHub。
-- [AI 高解析度視讀及英譯草稿](data/wellcome_ms99_ocr_drafts.js)：**29 個圖文對開頁均有中文 AI 視讀及英文試譯**，但這不是人工校勘完成版。其中第 33 掃描頁因題名和長段行政沿革尚不確定，明確標記「部分試稿」；其餘頁仍有疑字標記和待核說明。不可把機器初讀誤稱為已校訂文本。
+- [AI 高解析度視讀及英譯草稿](data/wellcome_ms99_ocr_drafts.js)：**29 個圖文對開頁均有中文 AI 視讀及英文試譯**，但這不是人工校勘完成版。其中第 33 掃描頁已經透過重新放大原始圖像，補完行政沿革初稿，並與《皇清職貢圖》卷八平行記載比對題名為『𦍕獷苗』；全冊仍有疑字與校勘說明，並非人工校訂定本。不可把機器初讀誤稱為已校訂文本。
 - [API OCR 候選層](data/wellcome_ms99_api_ocr_candidates.js)：與上述 AI 圖像視讀的文字分開存儲。API 工作流不會覆寫已視讀的 29 份草稿。
-- 新增關鍵物產記錄：[第 15 掃描頁（紅苗）](https://jinjuwu01.github.io/miao-albums/index.html#wellcome-ms99-p0015) 記『土產硃砂、黑芝麻、水銀』；[第 33 掃描頁（題名待核）](https://jinjuwu01.github.io/miao-albums/index.html#wellcome-ms99-p0033) 記『石阡產硃砂、水銀』。後者目前為不完整校讀稿，引用前須看原圖。
+- [第 47 掃描頁](https://jinjuwu01.github.io/miao-albums/index.html#wellcome-ms99-p0047) 六種歷史族稱已依原圖重新補全為『狄𦍕狑狪猺獞』（首字異體待核）；先前四字試讀作廢。比較《皇清職貢圖》卷八之『𤝎𦍕狑狪猺獞』，不以異本抄本代替本頁。
+- 新增關鍵物產記錄：[第 15 掃描頁（紅苗）](https://jinjuwu01.github.io/miao-albums/index.html#wellcome-ms99-p0015) 記『土產硃砂、黑芝麻、水銀』；[第 33 掃描頁（題名待核）](https://jinjuwu01.github.io/miao-albums/index.html#wellcome-ms99-p0033) 記『石阡產硃砂、水銀』。後者已完成一輪全文視讀，但仍非人工校訂定本，引用前須看原圖。
 - 最重要的個別條目之一：[第 36 掃描頁（猺苗）](https://jinjuwu01.github.io/miao-albums/index.html#wellcome-ms99-p0036)，末尾記錄『土產硃砂、雄磺』；仍須以原圖及相關版本複核。
 - [逐列 OCR 復核工具](review.html) 可以選擇 Wellcome 原頁；非文字掃描不需要 OCR。
 
