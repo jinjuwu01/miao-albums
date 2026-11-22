@@ -62,7 +62,9 @@
 .hero-about-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(24px,5vw,76px);align-items:stretch;max-width:1080px;margin:0 auto}
 .hero-about-panel{min-width:0;padding:22px 24px 24px;background:var(--paper);border:1px solid var(--border)}
 .hero-about-panel h2{font:500 19px/1.5 var(--serif);letter-spacing:.01em;margin:0 0 12px;color:var(--ink)}
-.hero-about-panel-en h2{font-family:var(--sans);font-weight:500;letter-spacing:0}
+.hero-about-panel-en{display:flex;flex-direction:column;align-items:stretch}
+.hero-about-panel-en h2.hero-about-en-title{display:block;order:0;flex:none;width:100%;font-family:var(--sans);font-weight:500;letter-spacing:0;margin:0 0 12px}
+.hero-about-panel-en p.hero-about-en-description{display:block;order:1;flex:none;width:100%;margin:0}
 .hero-about-panel p{font:normal 14px/1.85 var(--sans);color:#58625e;margin:0;overflow-wrap:break-word}
 .hero-about-panel-en p{color:#69736e}
 .site-header nav{column-gap:clamp(16px,2vw,34px)}
