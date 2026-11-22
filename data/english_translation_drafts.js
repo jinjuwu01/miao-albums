@@ -1388,5 +1388,89 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-1125a70eadfd-p0043": {
     "translation": "The Gaopo Miao, also called Dingban Miao, live around Pingyuan and Qianxi. They wear black clothing, cultivate mountain grains, and use boards about a chi long to secure women's hair. The source describes informal partner choice and praises women's weaving.\n\nVerse (provisional): Amid bamboo fences and thatched houses on high slopes, families grow upland grains, mulberry, and hemp and eat simple vegetable dishes.",
     "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0045": {
+    "translation": "The Pingfa Miao live under Xintianying in Guiding. Men wear grass garments and short skirts and carry spears and crossbows; women wear short tops, long tube skirts, and long hairpins. Dogs are used in wedding, funeral, and sacrificial rites.\n\nVerse (provisional): Grass clothing recalls farm families, while the barking of dogs marks villages whose rituals use them. Weapons are mentioned as familiar accessories.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0047": {
+    "translation": "The Hei Zhongjia live in Qingjiang and engage in tree cultivation and commerce. Han neighbors often borrow capital or enter partnerships with them. The text describes generous extensions of credit and an extreme debt-enforcement custom: removing a guarantor's ancestral bones until the lost loan is repaid, called 'taking the white and releasing the black.'\n\nVerse (provisional): Trees provide a livelihood and wealth from trade, while trust encourages repeated lending; the last line refers to disputes when guarantees fail.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0049": {
+    "translation": "The Qingjiang Zhongjia live around Taigong. Women farm and weave; men wear red headcloths and carry large swords. The source alleges that armed groups once seized lone travelers, confined them in wooden stocks, and demanded ransom, but claims stern punishment has reduced the practice.\n\nVerse (provisional): Women do agricultural labor while men, the poet alleges, gather to mistreat lone travelers and demand ransom.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0051": {
+    "translation": "The Liminzi live in Qianxi, Dading, Qingzhen, and nearby areas. Men trade, while women farm, spin wool into clothing, wear straw sandals, and tend livestock. Their annual festivals are described as resembling Han customs.\n\nVerse (provisional): Men pursue trade and women weave when farming work permits. Their festivals resemble those of Han people, and women's footwear is described as modest.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0053": {
+    "translation": "The Bai'erzi live in Weining. Men follow Han styles, while women retain Miao clothing. The name is explained by cases in which Han men married into Miao households, fathered children, and sometimes returned to Han communities, leaving the mothers to raise children.\n\nVerse (provisional): The poet explains the label by an absence of fathers in many households and by marriages between Han men and Miao women.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0055": {
+    "translation": "The Bai Longjia live around Dading and Pingyuan. They favor white clothing, gather herbs and lacquer in the mountains, and carry their products on their backs to sell in markets. Marriages and funerals broadly follow Han rites.\n\nVerse (provisional): White garments, market trading, and Han-style rites mark the group; the poet comments on goods transported on the back.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0057": {
+    "translation": "The Bai Zhongjia live in Libo. Men wear fox-tail ornaments, and women wear light-blue clothing, finely pleated cloud-patterned skirts, red embroidered shoes, and colored leg coverings. In early spring they gather around a hollow log called a bazao and play courtship games, sometimes embracing around the waist. Parents are said to watch without forbidding them. Chinese-speaking outsiders may take part; a gift of Miao cloth later marks the end of such relationships when a woman marries.\n\nVerse (provisional): The poem refers to fox-tail ornaments, blue garments, early-spring games, and a cloth gift ending former courtship ties. Its language is judgmental.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0059": {
+    "translation": "The Tu Gelao live around Weining. Men weave grass garments and work as hired laborers for Guoluo households. The source claims they apply heated oil to their feet and move through mountains with the agility of monkeys.\n\nVerse (provisional): The poem emphasizes hard labor, poverty, grass clothing, heated oil, and swift movement across hillsides.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0061": {
+    "translation": "The Yaque Miao live around Guiyang. Women trim their tops and skirts with white cloth. They settle in mountains, grow upland grains, and select hilltop grave sites. The author likens their speech to birdsong and says local elders resolve matters involving officials.\n\nVerse (provisional): Mountain settlement and cultivation are described alongside speech likened to chattering birds.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0063": {
+    "translation": "The Hulu Miao live around Luohu. In hostile terms, the author accuses them of banditry and neglecting agriculture but claims they now obey official rules.\n\nVerse (provisional): The poem reproaches them for trespass instead of fieldwork, then contrasts the alleged past with their inclusion in government registers.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0065": {
+    "translation": "The Hongzhou Miao live under Liping. Men cultivate the land, and women weave fine cotton and ramie cloth, especially the celebrated 'Hongzhou ramie cloth,' widely sold in markets.\n\nVerse (provisional): The poet praises diligent farming, fine Hongzhou ramie cloth, women's spinning, and successful market sales.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0067": {
+    "translation": "The Xixi Miao live in Tianzhu. Women wear skirts above the knees and wrap blue cloth around their legs. Unmarried men and women meet for songs and dancing outdoors; couples may form unions before formal gifts of cattle are exchanged after the birth of a child. [One object carried by women at the meetings is unreadable.]\n\nVerse (provisional): The poet comments on short skirts and courtship rites that take place outdoors rather than under strict domestic supervision.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0069": {
+    "translation": "The Chezai Miao live around Guzhou. Men practice crafts and women excel at needlework. Unmarried people gather at moon-dancing grounds, where men play instruments and women sing; partners choose one another. The account traces the community to six hundred soldiers of Ma Sanbao who married into Miao families.\n\nVerse (provisional): The six hundred households are recalled as men and women sing and choose partners; the poet calls the customs close to Han practice in some respects.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0071": {
+    "translation": "The group historically called Sheng Miao live around Taigong, Kaili, Huangping, and Shibing. The account describes eating foods raw or barely cooked, including fish and meat, and characterizes the group with the author's term 'wild.'\n\nVerse (provisional): The poem criticizes lightly cooked fish and meat and compares the food to ancient raw-food customs.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0073": {
+    "translation": "The Heijiao Miao live around Qingjiang and Taigong. Men wear short tops and loose trousers, white feathers in their hair, and carry spears and swords. The source alleges armed raiding and describes divination using two snails in a basin to settle uncertain matters. It also records restrictions on widows' remarriage and on marriage with men who refuse to raid. These are historical allegations.\n\nVerse (provisional): White feathers and fierce fighting are invoked, while the last line describes seeking an omen by observing snails.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0075": {
+    "translation": "The Heilou Miao live in the Eight Stockades of Qingjiang. Neighboring villages build a high assembly hall and hang a hollow wooden drum inside. When disputes occur, the drum summons armed villagers to hear the stockade leader's decision. The party concerned supplies cattle and wine, and false alarms incur cattle fines.\n\nVerse (provisional): A tall assembly hall holds the drum; its sound summons weapons and villagers, while breaches of village rules are punished with cattle.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0077": {
+    "translation": "The Duanqun Miao live in the Eight Stockades of Duyun. Men wear short tops and loose trousers; women wear extremely short, pleated clothing. The text describes collecting purple dye plants, drinking alcohol, sleeping in mountain hollows, and winter bathing in streams, in language critical of local dress.\n\nVerse (provisional): The poet ridicules short skirts and exposed waists and mentions women gathering purple plants.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0079": {
+    "translation": "The Jianding Miao live around Guiyang. Men wear pointed hairstyles, celebrate a major festival on the first day of the eleventh lunar month, and farm alongside their wives.\n\nVerse (provisional): The poet compares the pointed hairstyles of a farming couple to two turtles and describes fieldwork in midwinter.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0081": {
+    "translation": "The Langci Miao [name uncertain] live in Weining. The source describes a postpartum practice in which a father remains indoors holding the newborn for a month while the mother farms and prepares food. At a parent's deathbed, relatives reportedly turn the head backward so the parent may 'look at descendants'; the text says this custom has declined.\n\nVerse (provisional): The poet criticizes what he sees as an imbalance of labor between husband and wife, using conventional domestic ideals as his standard.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0083": {
+    "translation": "The Luohan Miao live in the Eight Stockades and Danjiang. Men wear fox-tail ornaments and loose hair, and the group particularly reveres Maitreya Buddha. On the third day of the third lunar month, people bring food offerings, sing and dance for three days, and avoid cooking fires.\n\nVerse (provisional): The poem evokes fox-tail ornaments, loose hair, Buddhist devotion, and a three-day celebration without cooking fires.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0085": {
+    "translation": "The Liudong people live in Liping. Women wear short garments, colorful skirts, patterned shoes, and leg wraps. Young couples exchange clothing or belts to arrange marriages. Female neighbors escort the bride with blue umbrellas, and celebrations involve three days of singing, drinking, and dancing. The bride may return to her natal home, with the groom visiting at night until childbirth completes the formal marriage arrangements.\n\nVerse (provisional): The poem describes exchanging clothing instead of relying on matchmakers, the use of umbrellas during bridal escorts, and praises the group's reported literacy.",
+    "translation_status": "ai_draft"
   }
 };
