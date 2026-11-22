@@ -1,0 +1,1920 @@
+{
+  "batch_id": "four-miao-albums-first-pass-2026-11-21",
+  "status": "source-structure-checked-images-and-ocr-local-bundle-not-yet-uploaded",
+  "policy": "Page structure and caption-painting correspondence verified from user-uploaded scans. Automated Tesseract candidate OCR is NOT a corrected transcription. Do not fabricate text for images or covers.",
+  "sources": [
+    {
+      "key": "jingong",
+      "title": "進貢苗蠻圖（陳枚畫）",
+      "pdf_pages": 79,
+      "plate_count": 68,
+      "layout": "spread_caption_left_artwork_right",
+      "nontext_pages": [
+        1,
+        2,
+        15,
+        49,
+        50,
+        51,
+        52,
+        72,
+        73,
+        74,
+        79
+      ],
+      "plate_map": [
+        {
+          "plate_number": 1,
+          "section": "first_section",
+          "art_pdf_page": 3,
+          "text_pdf_page": 3,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 2,
+          "section": "first_section",
+          "art_pdf_page": 4,
+          "text_pdf_page": 4,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 3,
+          "section": "first_section",
+          "art_pdf_page": 5,
+          "text_pdf_page": 5,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 4,
+          "section": "first_section",
+          "art_pdf_page": 6,
+          "text_pdf_page": 6,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 5,
+          "section": "first_section",
+          "art_pdf_page": 7,
+          "text_pdf_page": 7,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 6,
+          "section": "first_section",
+          "art_pdf_page": 8,
+          "text_pdf_page": 8,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 7,
+          "section": "first_section",
+          "art_pdf_page": 9,
+          "text_pdf_page": 9,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 8,
+          "section": "first_section",
+          "art_pdf_page": 10,
+          "text_pdf_page": 10,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 9,
+          "section": "first_section",
+          "art_pdf_page": 11,
+          "text_pdf_page": 11,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 10,
+          "section": "first_section",
+          "art_pdf_page": 12,
+          "text_pdf_page": 12,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 11,
+          "section": "first_section",
+          "art_pdf_page": 13,
+          "text_pdf_page": 13,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 12,
+          "section": "first_section",
+          "art_pdf_page": 14,
+          "text_pdf_page": 14,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 13,
+          "section": "first_section_continued",
+          "art_pdf_page": 16,
+          "text_pdf_page": 16,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 14,
+          "section": "first_section_continued",
+          "art_pdf_page": 17,
+          "text_pdf_page": 17,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 15,
+          "section": "first_section_continued",
+          "art_pdf_page": 18,
+          "text_pdf_page": 18,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 16,
+          "section": "first_section_continued",
+          "art_pdf_page": 19,
+          "text_pdf_page": 19,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 17,
+          "section": "first_section_continued",
+          "art_pdf_page": 20,
+          "text_pdf_page": 20,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 18,
+          "section": "first_section_continued",
+          "art_pdf_page": 21,
+          "text_pdf_page": 21,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 19,
+          "section": "first_section_continued",
+          "art_pdf_page": 22,
+          "text_pdf_page": 22,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 20,
+          "section": "first_section_continued",
+          "art_pdf_page": 23,
+          "text_pdf_page": 23,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 21,
+          "section": "first_section_continued",
+          "art_pdf_page": 24,
+          "text_pdf_page": 24,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 22,
+          "section": "first_section_continued",
+          "art_pdf_page": 25,
+          "text_pdf_page": 25,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 23,
+          "section": "first_section_continued",
+          "art_pdf_page": 26,
+          "text_pdf_page": 26,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 24,
+          "section": "first_section_continued",
+          "art_pdf_page": 27,
+          "text_pdf_page": 27,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 25,
+          "section": "first_section_continued",
+          "art_pdf_page": 28,
+          "text_pdf_page": 28,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 26,
+          "section": "first_section_continued",
+          "art_pdf_page": 29,
+          "text_pdf_page": 29,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 27,
+          "section": "first_section_continued",
+          "art_pdf_page": 30,
+          "text_pdf_page": 30,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 28,
+          "section": "first_section_continued",
+          "art_pdf_page": 31,
+          "text_pdf_page": 31,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 29,
+          "section": "first_section_continued",
+          "art_pdf_page": 32,
+          "text_pdf_page": 32,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 30,
+          "section": "first_section_continued",
+          "art_pdf_page": 33,
+          "text_pdf_page": 33,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 31,
+          "section": "first_section_continued",
+          "art_pdf_page": 34,
+          "text_pdf_page": 34,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 32,
+          "section": "first_section_continued",
+          "art_pdf_page": 35,
+          "text_pdf_page": 35,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 33,
+          "section": "first_section_continued",
+          "art_pdf_page": 36,
+          "text_pdf_page": 36,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 34,
+          "section": "first_section_continued",
+          "art_pdf_page": 37,
+          "text_pdf_page": 37,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 35,
+          "section": "first_section_continued",
+          "art_pdf_page": 38,
+          "text_pdf_page": 38,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 36,
+          "section": "first_section_continued",
+          "art_pdf_page": 39,
+          "text_pdf_page": 39,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 37,
+          "section": "first_section_continued",
+          "art_pdf_page": 40,
+          "text_pdf_page": 40,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 38,
+          "section": "first_section_continued",
+          "art_pdf_page": 41,
+          "text_pdf_page": 41,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 39,
+          "section": "first_section_continued",
+          "art_pdf_page": 42,
+          "text_pdf_page": 42,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 40,
+          "section": "first_section_continued",
+          "art_pdf_page": 43,
+          "text_pdf_page": 43,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 41,
+          "section": "first_section_continued",
+          "art_pdf_page": 44,
+          "text_pdf_page": 44,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 42,
+          "section": "first_section_continued",
+          "art_pdf_page": 45,
+          "text_pdf_page": 45,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 43,
+          "section": "first_section_continued",
+          "art_pdf_page": 46,
+          "text_pdf_page": 46,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 44,
+          "section": "first_section_continued",
+          "art_pdf_page": 47,
+          "text_pdf_page": 47,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 45,
+          "section": "first_section_continued",
+          "art_pdf_page": 48,
+          "text_pdf_page": 48,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 46,
+          "section": "second_section",
+          "art_pdf_page": 53,
+          "text_pdf_page": 53,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 47,
+          "section": "second_section",
+          "art_pdf_page": 54,
+          "text_pdf_page": 54,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 48,
+          "section": "second_section",
+          "art_pdf_page": 55,
+          "text_pdf_page": 55,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 49,
+          "section": "second_section",
+          "art_pdf_page": 56,
+          "text_pdf_page": 56,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 50,
+          "section": "second_section",
+          "art_pdf_page": 57,
+          "text_pdf_page": 57,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 51,
+          "section": "second_section",
+          "art_pdf_page": 58,
+          "text_pdf_page": 58,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 52,
+          "section": "second_section",
+          "art_pdf_page": 59,
+          "text_pdf_page": 59,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 53,
+          "section": "second_section",
+          "art_pdf_page": 60,
+          "text_pdf_page": 60,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 54,
+          "section": "second_section",
+          "art_pdf_page": 61,
+          "text_pdf_page": 61,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 55,
+          "section": "second_section",
+          "art_pdf_page": 62,
+          "text_pdf_page": 62,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 56,
+          "section": "second_section",
+          "art_pdf_page": 63,
+          "text_pdf_page": 63,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 57,
+          "section": "second_section",
+          "art_pdf_page": 64,
+          "text_pdf_page": 64,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 58,
+          "section": "second_section",
+          "art_pdf_page": 65,
+          "text_pdf_page": 65,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 59,
+          "section": "second_section",
+          "art_pdf_page": 66,
+          "text_pdf_page": 66,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 60,
+          "section": "second_section",
+          "art_pdf_page": 67,
+          "text_pdf_page": 67,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 61,
+          "section": "second_section",
+          "art_pdf_page": 68,
+          "text_pdf_page": 68,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 62,
+          "section": "second_section",
+          "art_pdf_page": 69,
+          "text_pdf_page": 69,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 63,
+          "section": "second_section",
+          "art_pdf_page": 70,
+          "text_pdf_page": 70,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 64,
+          "section": "second_section",
+          "art_pdf_page": 71,
+          "text_pdf_page": 71,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 65,
+          "section": "last_section",
+          "art_pdf_page": 75,
+          "text_pdf_page": 75,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 66,
+          "section": "last_section",
+          "art_pdf_page": 76,
+          "text_pdf_page": 76,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 67,
+          "section": "last_section",
+          "art_pdf_page": 77,
+          "text_pdf_page": 77,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 68,
+          "section": "last_section",
+          "art_pdf_page": 78,
+          "text_pdf_page": 78,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        }
+      ]
+    },
+    {
+      "key": "qiansheng",
+      "title": "黔省諸苗全圖（上下冊）",
+      "pdf_pages": 76,
+      "plate_count": 68,
+      "layout": "spread_artwork_left_caption_right",
+      "nontext_pages": [
+        1,
+        2,
+        36,
+        37,
+        38,
+        39,
+        75,
+        76
+      ],
+      "plate_map": [
+        {
+          "plate_number": 1,
+          "section": "upper_volume",
+          "art_pdf_page": 3,
+          "text_pdf_page": 3,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 2,
+          "section": "upper_volume",
+          "art_pdf_page": 4,
+          "text_pdf_page": 4,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 3,
+          "section": "upper_volume",
+          "art_pdf_page": 5,
+          "text_pdf_page": 5,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 4,
+          "section": "upper_volume",
+          "art_pdf_page": 6,
+          "text_pdf_page": 6,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 5,
+          "section": "upper_volume",
+          "art_pdf_page": 7,
+          "text_pdf_page": 7,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 6,
+          "section": "upper_volume",
+          "art_pdf_page": 8,
+          "text_pdf_page": 8,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 7,
+          "section": "upper_volume",
+          "art_pdf_page": 9,
+          "text_pdf_page": 9,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 8,
+          "section": "upper_volume",
+          "art_pdf_page": 10,
+          "text_pdf_page": 10,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 9,
+          "section": "upper_volume",
+          "art_pdf_page": 11,
+          "text_pdf_page": 11,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 10,
+          "section": "upper_volume",
+          "art_pdf_page": 12,
+          "text_pdf_page": 12,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 11,
+          "section": "upper_volume",
+          "art_pdf_page": 13,
+          "text_pdf_page": 13,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 12,
+          "section": "upper_volume",
+          "art_pdf_page": 14,
+          "text_pdf_page": 14,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 13,
+          "section": "upper_volume",
+          "art_pdf_page": 15,
+          "text_pdf_page": 15,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 14,
+          "section": "upper_volume",
+          "art_pdf_page": 16,
+          "text_pdf_page": 16,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 15,
+          "section": "upper_volume",
+          "art_pdf_page": 17,
+          "text_pdf_page": 17,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 16,
+          "section": "upper_volume",
+          "art_pdf_page": 18,
+          "text_pdf_page": 18,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 17,
+          "section": "upper_volume",
+          "art_pdf_page": 19,
+          "text_pdf_page": 19,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 18,
+          "section": "upper_volume",
+          "art_pdf_page": 20,
+          "text_pdf_page": 20,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 19,
+          "section": "upper_volume",
+          "art_pdf_page": 21,
+          "text_pdf_page": 21,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 20,
+          "section": "upper_volume",
+          "art_pdf_page": 22,
+          "text_pdf_page": 22,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 21,
+          "section": "upper_volume",
+          "art_pdf_page": 23,
+          "text_pdf_page": 23,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 22,
+          "section": "upper_volume",
+          "art_pdf_page": 24,
+          "text_pdf_page": 24,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 23,
+          "section": "upper_volume",
+          "art_pdf_page": 25,
+          "text_pdf_page": 25,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 24,
+          "section": "upper_volume",
+          "art_pdf_page": 26,
+          "text_pdf_page": 26,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 25,
+          "section": "upper_volume",
+          "art_pdf_page": 27,
+          "text_pdf_page": 27,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 26,
+          "section": "upper_volume",
+          "art_pdf_page": 28,
+          "text_pdf_page": 28,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 27,
+          "section": "upper_volume",
+          "art_pdf_page": 29,
+          "text_pdf_page": 29,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 28,
+          "section": "upper_volume",
+          "art_pdf_page": 30,
+          "text_pdf_page": 30,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 29,
+          "section": "upper_volume",
+          "art_pdf_page": 31,
+          "text_pdf_page": 31,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 30,
+          "section": "upper_volume",
+          "art_pdf_page": 32,
+          "text_pdf_page": 32,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 31,
+          "section": "upper_volume",
+          "art_pdf_page": 33,
+          "text_pdf_page": 33,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 32,
+          "section": "upper_volume",
+          "art_pdf_page": 34,
+          "text_pdf_page": 34,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 33,
+          "section": "upper_volume",
+          "art_pdf_page": 35,
+          "text_pdf_page": 35,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 34,
+          "section": "lower_volume",
+          "art_pdf_page": 40,
+          "text_pdf_page": 40,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 35,
+          "section": "lower_volume",
+          "art_pdf_page": 41,
+          "text_pdf_page": 41,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 36,
+          "section": "lower_volume",
+          "art_pdf_page": 42,
+          "text_pdf_page": 42,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 37,
+          "section": "lower_volume",
+          "art_pdf_page": 43,
+          "text_pdf_page": 43,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 38,
+          "section": "lower_volume",
+          "art_pdf_page": 44,
+          "text_pdf_page": 44,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 39,
+          "section": "lower_volume",
+          "art_pdf_page": 45,
+          "text_pdf_page": 45,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 40,
+          "section": "lower_volume",
+          "art_pdf_page": 46,
+          "text_pdf_page": 46,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 41,
+          "section": "lower_volume",
+          "art_pdf_page": 47,
+          "text_pdf_page": 47,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 42,
+          "section": "lower_volume",
+          "art_pdf_page": 48,
+          "text_pdf_page": 48,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 43,
+          "section": "lower_volume",
+          "art_pdf_page": 49,
+          "text_pdf_page": 49,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 44,
+          "section": "lower_volume",
+          "art_pdf_page": 50,
+          "text_pdf_page": 50,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 45,
+          "section": "lower_volume",
+          "art_pdf_page": 51,
+          "text_pdf_page": 51,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 46,
+          "section": "lower_volume",
+          "art_pdf_page": 52,
+          "text_pdf_page": 52,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 47,
+          "section": "lower_volume",
+          "art_pdf_page": 53,
+          "text_pdf_page": 53,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 48,
+          "section": "lower_volume",
+          "art_pdf_page": 54,
+          "text_pdf_page": 54,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 49,
+          "section": "lower_volume",
+          "art_pdf_page": 55,
+          "text_pdf_page": 55,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 50,
+          "section": "lower_volume",
+          "art_pdf_page": 56,
+          "text_pdf_page": 56,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 51,
+          "section": "lower_volume",
+          "art_pdf_page": 57,
+          "text_pdf_page": 57,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 52,
+          "section": "lower_volume",
+          "art_pdf_page": 58,
+          "text_pdf_page": 58,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 53,
+          "section": "lower_volume",
+          "art_pdf_page": 59,
+          "text_pdf_page": 59,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 54,
+          "section": "lower_volume",
+          "art_pdf_page": 60,
+          "text_pdf_page": 60,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 55,
+          "section": "lower_volume",
+          "art_pdf_page": 61,
+          "text_pdf_page": 61,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 56,
+          "section": "lower_volume",
+          "art_pdf_page": 62,
+          "text_pdf_page": 62,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 57,
+          "section": "lower_volume",
+          "art_pdf_page": 63,
+          "text_pdf_page": 63,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 58,
+          "section": "lower_volume",
+          "art_pdf_page": 64,
+          "text_pdf_page": 64,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 59,
+          "section": "lower_volume",
+          "art_pdf_page": 65,
+          "text_pdf_page": 65,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 60,
+          "section": "lower_volume",
+          "art_pdf_page": 66,
+          "text_pdf_page": 66,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 61,
+          "section": "lower_volume",
+          "art_pdf_page": 67,
+          "text_pdf_page": 67,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 62,
+          "section": "lower_volume",
+          "art_pdf_page": 68,
+          "text_pdf_page": 68,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 63,
+          "section": "lower_volume",
+          "art_pdf_page": 69,
+          "text_pdf_page": 69,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 64,
+          "section": "lower_volume",
+          "art_pdf_page": 70,
+          "text_pdf_page": 70,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 65,
+          "section": "lower_volume",
+          "art_pdf_page": 71,
+          "text_pdf_page": 71,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 66,
+          "section": "lower_volume",
+          "art_pdf_page": 72,
+          "text_pdf_page": 72,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 67,
+          "section": "lower_volume",
+          "art_pdf_page": 73,
+          "text_pdf_page": 73,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 68,
+          "section": "lower_volume",
+          "art_pdf_page": 74,
+          "text_pdf_page": 74,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        }
+      ]
+    },
+    {
+      "key": "qianmiao57",
+      "title": "黔苗圖說（57幅附解說本）",
+      "pdf_pages": 118,
+      "plate_count": 57,
+      "layout": "alternating_artwork_then_caption",
+      "nontext_pages": [
+        1,
+        62,
+        63,
+        118
+      ],
+      "plate_map": [
+        {
+          "plate_number": 1,
+          "section": "upper_volume",
+          "art_pdf_page": 2,
+          "text_pdf_page": 3,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 2,
+          "section": "upper_volume",
+          "art_pdf_page": 4,
+          "text_pdf_page": 5,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 3,
+          "section": "upper_volume",
+          "art_pdf_page": 6,
+          "text_pdf_page": 7,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 4,
+          "section": "upper_volume",
+          "art_pdf_page": 8,
+          "text_pdf_page": 9,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 5,
+          "section": "upper_volume",
+          "art_pdf_page": 10,
+          "text_pdf_page": 11,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 6,
+          "section": "upper_volume",
+          "art_pdf_page": 12,
+          "text_pdf_page": 13,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 7,
+          "section": "upper_volume",
+          "art_pdf_page": 14,
+          "text_pdf_page": 15,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 8,
+          "section": "upper_volume",
+          "art_pdf_page": 16,
+          "text_pdf_page": 17,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 9,
+          "section": "upper_volume",
+          "art_pdf_page": 18,
+          "text_pdf_page": 19,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 10,
+          "section": "upper_volume",
+          "art_pdf_page": 20,
+          "text_pdf_page": 21,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 11,
+          "section": "upper_volume",
+          "art_pdf_page": 22,
+          "text_pdf_page": 23,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 12,
+          "section": "upper_volume",
+          "art_pdf_page": 24,
+          "text_pdf_page": 25,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 13,
+          "section": "upper_volume",
+          "art_pdf_page": 26,
+          "text_pdf_page": 27,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 14,
+          "section": "upper_volume",
+          "art_pdf_page": 28,
+          "text_pdf_page": 29,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 15,
+          "section": "upper_volume",
+          "art_pdf_page": 30,
+          "text_pdf_page": 31,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 16,
+          "section": "upper_volume",
+          "art_pdf_page": 32,
+          "text_pdf_page": 33,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 17,
+          "section": "upper_volume",
+          "art_pdf_page": 34,
+          "text_pdf_page": 35,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 18,
+          "section": "upper_volume",
+          "art_pdf_page": 36,
+          "text_pdf_page": 37,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 19,
+          "section": "upper_volume",
+          "art_pdf_page": 38,
+          "text_pdf_page": 39,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 20,
+          "section": "upper_volume",
+          "art_pdf_page": 40,
+          "text_pdf_page": 41,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 21,
+          "section": "upper_volume",
+          "art_pdf_page": 42,
+          "text_pdf_page": 43,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 22,
+          "section": "upper_volume",
+          "art_pdf_page": 44,
+          "text_pdf_page": 45,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 23,
+          "section": "upper_volume",
+          "art_pdf_page": 46,
+          "text_pdf_page": 47,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 24,
+          "section": "upper_volume",
+          "art_pdf_page": 48,
+          "text_pdf_page": 49,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 25,
+          "section": "upper_volume",
+          "art_pdf_page": 50,
+          "text_pdf_page": 51,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 26,
+          "section": "upper_volume",
+          "art_pdf_page": 52,
+          "text_pdf_page": 53,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 27,
+          "section": "upper_volume",
+          "art_pdf_page": 54,
+          "text_pdf_page": 55,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 28,
+          "section": "upper_volume",
+          "art_pdf_page": 56,
+          "text_pdf_page": 57,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 29,
+          "section": "upper_volume",
+          "art_pdf_page": 58,
+          "text_pdf_page": 59,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 30,
+          "section": "upper_volume",
+          "art_pdf_page": 60,
+          "text_pdf_page": 61,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 31,
+          "section": "lower_volume",
+          "art_pdf_page": 64,
+          "text_pdf_page": 65,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 32,
+          "section": "lower_volume",
+          "art_pdf_page": 66,
+          "text_pdf_page": 67,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 33,
+          "section": "lower_volume",
+          "art_pdf_page": 68,
+          "text_pdf_page": 69,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 34,
+          "section": "lower_volume",
+          "art_pdf_page": 70,
+          "text_pdf_page": 71,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 35,
+          "section": "lower_volume",
+          "art_pdf_page": 72,
+          "text_pdf_page": 73,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 36,
+          "section": "lower_volume",
+          "art_pdf_page": 74,
+          "text_pdf_page": 75,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 37,
+          "section": "lower_volume",
+          "art_pdf_page": 76,
+          "text_pdf_page": 77,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 38,
+          "section": "lower_volume",
+          "art_pdf_page": 78,
+          "text_pdf_page": 79,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 39,
+          "section": "lower_volume",
+          "art_pdf_page": 80,
+          "text_pdf_page": 81,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 40,
+          "section": "lower_volume",
+          "art_pdf_page": 82,
+          "text_pdf_page": 83,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 41,
+          "section": "lower_volume",
+          "art_pdf_page": 84,
+          "text_pdf_page": 85,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 42,
+          "section": "lower_volume",
+          "art_pdf_page": 86,
+          "text_pdf_page": 87,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 43,
+          "section": "lower_volume",
+          "art_pdf_page": 88,
+          "text_pdf_page": 89,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 44,
+          "section": "lower_volume",
+          "art_pdf_page": 90,
+          "text_pdf_page": 91,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 45,
+          "section": "lower_volume",
+          "art_pdf_page": 92,
+          "text_pdf_page": 93,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 46,
+          "section": "lower_volume",
+          "art_pdf_page": 94,
+          "text_pdf_page": 95,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 47,
+          "section": "lower_volume",
+          "art_pdf_page": 96,
+          "text_pdf_page": 97,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 48,
+          "section": "lower_volume",
+          "art_pdf_page": 98,
+          "text_pdf_page": 99,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 49,
+          "section": "lower_volume",
+          "art_pdf_page": 100,
+          "text_pdf_page": 101,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 50,
+          "section": "lower_volume",
+          "art_pdf_page": 102,
+          "text_pdf_page": 103,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 51,
+          "section": "lower_volume",
+          "art_pdf_page": 104,
+          "text_pdf_page": 105,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 52,
+          "section": "lower_volume",
+          "art_pdf_page": 106,
+          "text_pdf_page": 107,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 53,
+          "section": "lower_volume",
+          "art_pdf_page": 108,
+          "text_pdf_page": 109,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 54,
+          "section": "lower_volume",
+          "art_pdf_page": 110,
+          "text_pdf_page": 111,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 55,
+          "section": "lower_volume",
+          "art_pdf_page": 112,
+          "text_pdf_page": 113,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 56,
+          "section": "lower_volume",
+          "art_pdf_page": 114,
+          "text_pdf_page": 115,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 57,
+          "section": "lower_volume",
+          "art_pdf_page": 116,
+          "text_pdf_page": 117,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        }
+      ]
+    },
+    {
+      "key": "mukong",
+      "title": "黔苗圖說（木孔恭摹繪本）",
+      "pdf_pages": 80,
+      "plate_count": 37,
+      "layout": "alternating_artwork_then_caption",
+      "nontext_pages": [
+        1,
+        2,
+        3,
+        78,
+        79,
+        80
+      ],
+      "plate_map": [
+        {
+          "plate_number": 1,
+          "section": "single_volume",
+          "art_pdf_page": 4,
+          "text_pdf_page": 5,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 2,
+          "section": "single_volume",
+          "art_pdf_page": 6,
+          "text_pdf_page": 7,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 3,
+          "section": "single_volume",
+          "art_pdf_page": 8,
+          "text_pdf_page": 9,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 4,
+          "section": "single_volume",
+          "art_pdf_page": 10,
+          "text_pdf_page": 11,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 5,
+          "section": "single_volume",
+          "art_pdf_page": 12,
+          "text_pdf_page": 13,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 6,
+          "section": "single_volume",
+          "art_pdf_page": 14,
+          "text_pdf_page": 15,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 7,
+          "section": "single_volume",
+          "art_pdf_page": 16,
+          "text_pdf_page": 17,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 8,
+          "section": "single_volume",
+          "art_pdf_page": 18,
+          "text_pdf_page": 19,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 9,
+          "section": "single_volume",
+          "art_pdf_page": 20,
+          "text_pdf_page": 21,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 10,
+          "section": "single_volume",
+          "art_pdf_page": 22,
+          "text_pdf_page": 23,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 11,
+          "section": "single_volume",
+          "art_pdf_page": 24,
+          "text_pdf_page": 25,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 12,
+          "section": "single_volume",
+          "art_pdf_page": 26,
+          "text_pdf_page": 27,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 13,
+          "section": "single_volume",
+          "art_pdf_page": 28,
+          "text_pdf_page": 29,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 14,
+          "section": "single_volume",
+          "art_pdf_page": 30,
+          "text_pdf_page": 31,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 15,
+          "section": "single_volume",
+          "art_pdf_page": 32,
+          "text_pdf_page": 33,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 16,
+          "section": "single_volume",
+          "art_pdf_page": 34,
+          "text_pdf_page": 35,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 17,
+          "section": "single_volume",
+          "art_pdf_page": 36,
+          "text_pdf_page": 37,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 18,
+          "section": "single_volume",
+          "art_pdf_page": 38,
+          "text_pdf_page": 39,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 19,
+          "section": "single_volume",
+          "art_pdf_page": 40,
+          "text_pdf_page": 41,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 20,
+          "section": "single_volume",
+          "art_pdf_page": 42,
+          "text_pdf_page": 43,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 21,
+          "section": "single_volume",
+          "art_pdf_page": 44,
+          "text_pdf_page": 45,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 22,
+          "section": "single_volume",
+          "art_pdf_page": 46,
+          "text_pdf_page": 47,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 23,
+          "section": "single_volume",
+          "art_pdf_page": 48,
+          "text_pdf_page": 49,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 24,
+          "section": "single_volume",
+          "art_pdf_page": 50,
+          "text_pdf_page": 51,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 25,
+          "section": "single_volume",
+          "art_pdf_page": 52,
+          "text_pdf_page": 53,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 26,
+          "section": "single_volume",
+          "art_pdf_page": 54,
+          "text_pdf_page": 55,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 27,
+          "section": "single_volume",
+          "art_pdf_page": 56,
+          "text_pdf_page": 57,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 28,
+          "section": "single_volume",
+          "art_pdf_page": 58,
+          "text_pdf_page": 59,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 29,
+          "section": "single_volume",
+          "art_pdf_page": 60,
+          "text_pdf_page": 61,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 30,
+          "section": "single_volume",
+          "art_pdf_page": 62,
+          "text_pdf_page": 63,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 31,
+          "section": "single_volume",
+          "art_pdf_page": 64,
+          "text_pdf_page": 65,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 32,
+          "section": "single_volume",
+          "art_pdf_page": 66,
+          "text_pdf_page": 67,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 33,
+          "section": "single_volume",
+          "art_pdf_page": 68,
+          "text_pdf_page": 69,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 34,
+          "section": "single_volume",
+          "art_pdf_page": 70,
+          "text_pdf_page": 71,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 35,
+          "section": "single_volume",
+          "art_pdf_page": 72,
+          "text_pdf_page": 73,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 36,
+          "section": "single_volume",
+          "art_pdf_page": 74,
+          "text_pdf_page": 75,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        },
+        {
+          "plate_number": 37,
+          "section": "single_volume",
+          "art_pdf_page": 76,
+          "text_pdf_page": 77,
+          "text_status": "unverified",
+          "title_status": "unverified"
+        }
+      ]
+    }
+  ]
+}
