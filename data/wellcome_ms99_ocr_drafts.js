@@ -1,4 +1,4 @@
-// Wellcome MS Chinese 99: provisional AI image readings and English drafts; never cite as human-verified.
+// Provisional AI readings from high-resolution Wellcome MS Chinese 99 scans; NOT human-reviewed.
 window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
   "wellcome-ms99-p0005": {
     "title": "倮猓",
@@ -282,11 +282,11 @@ window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
     "transcription_scope": "provisional_full_with_uncertainties"
   },
   "wellcome-ms99-p0047": {
-    "title": "狄猺狑狪〔題名待核〕",
-    "title_en": "Six groups in Libo (historical heading uncertain)",
-    "transcription": "查狄猺狑狪六種雜居荔波縣屬。元時係南丹安撫司，明洪武間改土歸流，置荔波縣，隸廣西省。國朝雍正十年改歸黔省，隸都勻府，並無苗賦，亦無物產。其風俗、衣服雖別，語言嗜好不甚相遠。歲時致祭，樂飲，雜魚肉酒飯，男女成列，連袂而舞，相悅者負之而去，遂婚媾焉。",
-    "translation": "The source describes six groups living together in Libo County, using several historical ethnonyms whose precise handwritten characters require verification. It states that Libo was formerly under the native pacification office of Nandan, came under regular administration in the Ming, and was assigned to Guangxi, before being transferred to Guizhou under Duyun Prefecture in the tenth Yongzheng year. It claims the groups have different clothing and customs but relatively similar speech and preferences. The account describes seasonal sacrifices, communal food and drink, and men and women dancing in lines while holding hands; partners who took a liking to each other reportedly formed marriages. It records no separate Miao tax or local products.",
-    "notes": "AI 高精度图像逐列初读，未经人工独立核校。题头四个族称难辨，暂用『狄猺狑狪』作为疑读；正文称『六種』，不能据暂读四字推断人数或族群数量。",
+    "title": "狄𦍕狑狪猺獞〔首字待核〕",
+    "title_en": "Six historically named groups in Libo (first glyph uncertain)",
+    "transcription": "查狄𦍕狑狪猺獞六種雜居荔波縣屬。元時係南丹安撫司，明洪武間改土歸流，置荔波縣，隸廣西省。國朝雍正十年改歸黔省，隸都勻府，並無苗賦，亦無物產。其風俗、衣服雖別，語言嗜好不甚相遠。歲時致祭，樂飲，雜魚肉酒飯，男女成列，連袂而舞，相悅者負之而去，遂婚媾焉。",
+    "translation": "The manuscript names six groups, provisionally transcribed as 狄, 𦍕, 狑, 狪, 猺, and 獞, living together in Libo County. The first glyph may be a historical variant, recorded as 𤝎 in parallel editions. Libo was formerly under the Nandan native pacification office; during the Ming it came under regular administration within Guangxi, and in the tenth year of Yongzheng it was transferred to Guizhou under Duyun Prefecture. The text says no distinct Miao levy or local products were registered. It describes differences in clothing and customs but relative similarities in language and preferences. People reportedly made seasonal offerings, shared food and drink, and danced in lines; those attracted to one another could depart together and marry. These are claims of the historical source, not ethnographic facts about present-day communities.",
+    "notes": "2026-11-22 重新放大原始高清扫描页 47，确认题记右侧实际上连写六个族称『狄𦍕狑狪猺獞』；旧 AI 试稿只读出四个，现据原图改正。首字形接近『狄』而《皇清職貢圖》卷八平行文本作『𤝎』，暂保留疑字记录，不以异本直接覆盖手稿。原文应是六种，不是四种；英译已同步更正。未经研究者独立人工核校。参见《皇清職貢圖》卷八荔波縣条。",
     "status": "image_checked_draft",
     "page_kind": "caption",
     "translation_status": "ai_draft",
