@@ -23,6 +23,8 @@ jobs:
       - name: Validate source pages and JavaScript
         run: |
           node --check assets/app.js
+          node --check assets/catalog.js
+          node --check data/manuscript_catalog.js
           node --check data/dian_page_fixes.js
           node --check data/miaoman_48_drafts.js
           node --check data/miaoman_41_drafts.js
@@ -33,9 +35,13 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html _site/
+          cp collections.html _site/
           cp -R assets data images _site/
           touch _site/.nojekyll
           test -s _site/index.html
+          test -s _site/collections.html
+          test -s _site/assets/catalog.js
+          test -s _site/data/manuscript_catalog.js
           test -s _site/data/records.js
           test -s _site/data/imported_ocr.js
           test -s _site/images/001.webp
