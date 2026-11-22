@@ -2,6 +2,12 @@
 
 Last updated: 2026-11-22.
 
+## English translation pass (2026-11-22)
+
+All **86 of 86** records now have English translations following their *current provisional Chinese transcription* from beginning to end, rather than selective summaries. Their earlier English texts remain preserved under `prior_english_summary_20261122`. The new record fields include `english_kind: source_aligned_translation_draft` and `english_completeness: full_relative_to_chinese_draft`.
+
+'Full' here means coverage of the *currently stored Chinese OCR draft*, **not** all text on the physical manuscript verified independently. Both Chinese and English remain provisional; `[unreadable]` or `[unclear]` in English represents unresolved Chinese characters or clauses. Verify against the Manchester scan before citing.
+
 ## Status and caveat
 
 92 candidate source scans received: 86 text-bearing manuscript pages (2 preface pages, 2 scenic-description pages, 82 ethnographic captions); 5 blank leaves and 1 seal leaf have no body OCR.
@@ -10,7 +16,7 @@ Last updated: 2026-11-22.
 - 45 leaves were revisited in a second pass with explicit right-to-left `transcription_columns` and revised provisional English corresponding to those columns.
 - 41 other leaves retain first-pass full/near-full AI source-reading drafts and need column-by-column review.
 - 0 pages currently have status `excerpt_only`, though legibility uncertainty remains on many full-page drafts.
-- All 86 records retain draft English; some are **interpretive summaries**, not source-aligned full translations, and have been labeled as such.
+- All 86 records now have source-ordered provisional English renderings; the former interpretive summaries are preserved in a separate field.
 
 ## Second-pass reviewed leaves (all still provisional)
 
