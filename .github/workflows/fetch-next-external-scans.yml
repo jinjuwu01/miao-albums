@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '.github/workflows/fetch-next-external-scans.yml'
+      - 'scripts/fetch_next_external_scans.py'
   workflow_dispatch:
 permissions:
   contents: write
@@ -23,7 +24,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/external_source_pilot_inventory.json
-          git add images/external_pilot/rsl_v1_p01* images/external_pilot/rsl_v2_p* images/external_pilot/manchester_p00[89].jpg images/external_pilot/manchester_p01[012].jpg
+          git add images/external_pilot/rsl_v1_p* images/external_pilot/rsl_v2_p* images/external_pilot/manchester_p0*.jpg
           if ! git diff --cached --quiet; then
             git commit -m 'Save source image previews for next bilingual manuscript review batch'
             for i in 1 2 3 4; do
