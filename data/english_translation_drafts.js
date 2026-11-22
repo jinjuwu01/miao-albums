@@ -1956,5 +1956,105 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-e7b41523743e-p0051": {
     "translation": "The Hong Gelao live around Guangshun, Pingyuan, and Qingping. They farm diligently and place coffins containing deceased relatives in caves or by rivers or large trees rather than burying them, sometimes marking the place with a memorial called a 'family hall.' The author says these customs are changing.",
     "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0053": {
+    "translation": "The Hua Gelao, also called Dou Gelao, live around Zhenyuan, Shibing, Shiqian, Longquan, Pingyue, and Huangping. The author portrays men as preferring hunting deer and trapping birds to farming. Women wear embroidery in five colors and cocoon-like bead ornaments.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0055": {
+    "translation": "The Shui Gelao live around Shibing and Yuqing. They enjoy fishing and are said to dive into deep water in winter. Men wear blue clothing and women finely pleated long skirts. Marriage and funeral practices are compared with Han conventions.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0057": {
+    "translation": "The Guoluan Gelao live around Pingyuan and Dading. Men weave diagonally patterned cloth, while women wrap blue cloth around their hair in rings like pot rims. In illness, they make a tiger-head figure from flour or ash and pray before it instead of taking medicine. The author disparages drinking and farming practices. [The ritual material is uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0059": {
+    "translation": "The Pipao Gelao live around Pingyue. Men wear short skirts and an outer cape; the text reports diligent farming and making a living by casting plowshares.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0061": {
+    "translation": "The Mu Gelao [heading uncertain] live across several districts, with surnames Wang, Li, Jin, and Wen. In winter they dig earth hearths. Rituals include straw dragon figures and five-colored banners. The author says they respect teachers and that some children enter local schools.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0063": {
+    "translation": "The Ge Zhuang [name uncertain] live in Libo County. Men farm and women spin cotton and weave, wearing embroidered short skirts. After parents die they sing instead of weeping, bury the body between boards without a coffin, and mourn at graves for three days.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0065": {
+    "translation": "The Bo people live in Pu'an and Shuicheng. Men and women wear felt garments and are described as Buddhists who chant mantras. The source makes disparaging claims about cleanliness but portrays them as gentle.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0067": {
+    "translation": "The Manren live near Xintian and Danjiang. Men wear straw rain capes and women blue-patterned skirts. The text records cattle slaughter, songs, and dances at funerals and a major festival in the tenth lunar month.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0069": {
+    "translation": "The Turen are found across Guizhou. Marriage customs are compared with Han customs. Men trade, women farm, and songs are exchanged across the fields. On New Year's Day people beat gongs and drums, sing to spirits, and are hosted with food and drink in the villages they visit.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0071": {
+    "translation": "The Gangren live downstream. The source describes their disposition as suspicious and refers to blue clothing, flowered skirts, bare feet, and gathering reed leaves for insulation against winter cold. [Some gender and clothing words are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0073": {
+    "translation": "The Yao are said to have migrated from Guangxi to Guiding, Qingping, and Dushan during Yongzheng. They prefer streamside settlements, channel water from streams through bark conduits, gather medicinal herbs, and practice medicine after fieldwork. Their treasured medical book is written in obscure seal-like characters. The author praises their honesty.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0075": {
+    "translation": "The Yangbao Miao live around Zunyi and Longquan. They use matchmakers for marriage, and their funerals include mourning rituals. The text mentions poisoned crossbows and says village elders resolve disputes.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0077": {
+    "translation": "The Zangguang Miao [name uncertain] live near Duyun, Liping, and Shiqian and include Yang, Shi, Long, Zhang, and Ou surnames. Men farm according to household needs and women weave clothes; fishing and hunting are pursued when time permits. Dwellings may have unplastered walls and mud-sealed doors. Dogs are exchanged as gifts at marriages and funerals.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0079": {
+    "translation": "The Jiugu Miao around Kaili are linked by legend to nine survivors of Zhuge Liang's southern campaign. The text portrays them as skilled fighters with iron helmets and armor, shields, spears, and large crossbows drawn by three men. In 1732 Qing forces conducted campaigns and confiscated weapons, and new garrisons were built.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0081": {
+    "translation": "The Bafan Miao live in Dingfan. They dress like Han communities. Women reportedly do more field and weaving work than men, farming by day and weaving by night, and rice is pounded with a wooden mortar. Funerals may proceed without selecting auspicious dates.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0083": {
+    "translation": "The Zijiang [here written Zijin] Miao live around Huangping, Qingping, and Danjiang and are compared with the Jiuming Jiuxing group in Dushan. The first day of the tenth lunar month is their major festival; they remain indoors behind shut doors as a taboo. The source notes some study and serve in military schools.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0085": {
+    "translation": "The Gulin Miao live under Dingfan. Men carry spears and crossbows, farm, and are portrayed as fierce. Women weave fine cloth in demand at market. Marriage uses matchmakers.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0087": {
+    "translation": "The Yangdong Luohan Miao live in Liping. Men cultivate land and trade. Women wear wooden combs above loose hair and linked gold or silver earrings. Their embroidered chest panels are ornamented with metal, and they wash their hair with scented water, which the author praises.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0089": {
+    "translation": "The Kemeng Guyang Miao live around Jinzhusi in Guangshun. They dwell in cliffs reached by bamboo ladders and farm without cattle, using iron hoes. At a parent's death they sing and dance; when the cuckoo calls the following year they mourn, saying that the bird returns but their parent cannot.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0091": {
+    "translation": "The Dong Miao live near Tianzhu and Jinping. They cultivate cotton on flat land, with food and clothing compared with Han customs. Women wear blue headcloths and flowered skirts and produce fine brocade. Related communities are recorded in Hunan.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0093": {
+    "translation": "The Qing Miao dwell near forested mountains in Pingyuan. They grow upland grains instead of cultivating ordinary fields and weave colorful patterned garments themselves.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0095": {
+    "translation": "The Lengjia Miao live in Libo. The last day of the tenth lunar month is an important spirit festival. Men and women cover their heads in blue patterned scarves, gather to sing and dance, and may form unions before formal betrothal and marriage recognition after children are born.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0097": {
+    "translation": "The Goujia Miao [heading uncertain] live in Libo. They wear garments ending above the knees, make New Year offerings to Panhu, settle near water, grow cotton, and spin and weave. The text says they use carved wooden tallies as tokens rather than written documents.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0099": {
+    "translation": "The Dijia Miao live around Duyun and Libo. Men fish and hunt and women spin and weave cloth called Dijia cloth. Their short garments and tube skirts have patterned borders, and New Year gatherings involve dancing and courtship.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0101": {
+    "translation": "The Liu'ezi of Dading and Weining include black and white branches. Men wear pointed topknots and women long garments without skirts. After a year families reopen coffins to wash ancestral bones, wrap them, and rebury them. Illness is attributed to unclean ancestral remains. The author says the practice has declined under official prohibition.",
+    "translation_status": "ai_draft"
   }
 };
