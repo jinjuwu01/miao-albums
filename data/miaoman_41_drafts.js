@@ -26,7 +26,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0004": {
     "folio": 2,
@@ -37,7 +38,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0005": {
     "folio": 3,
@@ -48,7 +50,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0006": {
     "folio": 4,
@@ -59,7 +62,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0007": {
     "folio": 5,
@@ -70,7 +74,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0008": {
     "folio": 6,
@@ -81,7 +86,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0009": {
     "folio": 7,
@@ -92,7 +98,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0010": {
     "folio": 8,
@@ -103,7 +110,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0011": {
     "folio": 9,
@@ -114,7 +122,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：題名首字無法可靠辨認，已用□標記。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：題名首字無法可靠辨認，已用□標記。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0012": {
     "folio": 10,
@@ -125,7 +134,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：題名首字「侗／洞」仍待複核。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：題名首字「侗／洞」仍待複核。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0013": {
     "folio": 11,
@@ -136,7 +146,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0014": {
     "folio": 12,
@@ -147,7 +158,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0015": {
     "folio": 13,
@@ -158,7 +170,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0016": {
     "folio": 14,
@@ -169,7 +182,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：「里民子」及「耳鞋」等字待核。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：「里民子」及「耳鞋」等字待核。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0017": {
     "folio": 15,
@@ -180,7 +194,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0018": {
     "folio": 16,
@@ -191,7 +206,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0019": {
     "folio": 17,
@@ -202,7 +218,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0020": {
     "folio": 18,
@@ -213,7 +230,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：「樓上畜畜樓下」字形及斷句不確定。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：「樓上畜畜樓下」字形及斷句不確定。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0021": {
     "folio": 19,
@@ -224,7 +242,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0022": {
     "folio": 20,
@@ -235,7 +254,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0023": {
     "folio": 21,
@@ -246,7 +266,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0024": {
     "folio": 22,
@@ -257,7 +278,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0025": {
     "folio": 23,
@@ -268,7 +290,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：題名第二字不能確定，保留□；「猓羅工」亦存疑。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：題名第二字不能確定，保留□；「猓羅工」亦存疑。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0026": {
     "folio": 24,
@@ -279,7 +302,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0027": {
     "folio": 25,
@@ -290,7 +314,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0028": {
     "folio": 26,
@@ -301,7 +326,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0029": {
     "folio": 27,
@@ -312,7 +338,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：末尾「牛」獨立一列，按原圖保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：末尾「牛」獨立一列，按原圖保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0030": {
     "folio": 28,
@@ -323,7 +350,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0031": {
     "folio": 29,
@@ -334,7 +362,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0032": {
     "folio": 30,
@@ -345,7 +374,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0033": {
     "folio": 31,
@@ -356,7 +386,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：器物名「長鼓」等仍應人工核字。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：器物名「長鼓」等仍應人工核字。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0034": {
     "folio": 32,
@@ -367,7 +398,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0035": {
     "folio": 33,
@@ -378,7 +410,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0036": {
     "folio": 34,
@@ -389,7 +422,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0037": {
     "folio": 35,
@@ -400,7 +434,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0038": {
     "folio": 36,
@@ -411,7 +446,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0039": {
     "folio": 37,
@@ -422,7 +458,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0040": {
     "folio": 38,
@@ -433,7 +470,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "ocr_reordered_draft",
     "transcription_kind": "machine_reordered_unverified",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0041": {
     "folio": 39,
@@ -444,7 +482,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：「踏犁」等用字待核。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：「踏犁」等用字待核。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0042": {
     "folio": 40,
@@ -455,7 +494,8 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：族稱「洞崽」需核對異體字。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。 疑讀：族稱「洞崽」需核對異體字。",
+    "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0043": {
     "folio": 41,
@@ -466,6 +506,7 @@ window.MIAOMAN_41_DRAFTS = {
     "status": "image_checked_draft",
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。"
+    "notes": "依高清原圖逐列核讀的 AI 草稿，尚未由研究者逐字確認。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "page_total": 41
   }
 };
