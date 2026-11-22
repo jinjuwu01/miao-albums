@@ -55,3 +55,18 @@
 
 .reader-notice .note-en{font:11px/1.7 Georgia,serif;color:#896e5c;margin:7px 0 0}
 @media(max-width:760px){.hero-copy>.hero-en{font-size:13px}.local-edits-info .method-en{line-height:1.8}}
+
+/* Introduction to Miao albums, linked from the first navigation item. */
+.about-miao{padding:66px 5.2% 60px;background:#fcfaf5;border-top:1px solid var(--border);border-bottom:1px solid var(--border);scroll-margin-top:18px}
+.about-miao .section-heading{margin-bottom:17px}
+.miao-intro{max-width:1060px}
+.miao-intro p{margin:0;font-size:15px;line-height:2;color:#4f5b56}
+.miao-intro .intro-en{margin-top:18px;color:#747a74;font:14px/1.85 Georgia,"Times New Roman",serif}
+.site-header nav{column-gap:clamp(16px,2vw,34px)}
+@media(max-width:760px){
+  .about-miao{padding:48px 16px;scroll-margin-top:10px}
+  .miao-intro p{font-size:14px;line-height:1.95}
+  .miao-intro .intro-en{font-size:13px;line-height:1.85}
+  .site-header nav{column-gap:clamp(12px,3vw,23px)}
+}
+@media(max-width:425px){.site-header nav{column-gap:9px}}
