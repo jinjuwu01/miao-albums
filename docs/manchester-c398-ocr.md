@@ -18,7 +18,7 @@ From the repository root:
     python3 scripts/process_manchester_c398.py --mode ocr --pages candidate
     python3 scripts/process_manchester_c398.py --mode publish
 
-This is a resumable research workflow. The "candidate" queue comprises the two already known preface pages and possible odd-numbered caption leaves in both volumes. Each image is **classified before transcription**, and paintings/blank leaves produce no body text.
+This is a resumable research workflow. The "candidate" queue comprises 57 remaining possible odd-numbered caption canvases (vol. I 75–95 and vol. II 105–195); the existing 35 drafts are skipped. Each image is **classified before transcription**, and paintings/blank leaves produce no body text.
 
 Work files appear in manchester_c398_work/scans/ and manchester_c398_work/ocr/. Publication writes ONLY data/manchester_ocr_candidates.js. Existing 35 draft entries take priority, so no pre-existing transcription is overwritten. The site marks new OCR as provisional AI readings; doubtful glyphs appear as □.
 
