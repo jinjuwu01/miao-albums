@@ -76,12 +76,12 @@
     // Image-verified from the institution's actual canvas scans (2026-11-22).
     const confirmedBlank = n>=2&&n<=5;
     const confirmedPreface = n===6||n===7;
-    const checkedPainting = n>=8&&n<=44&&n%2===0;
-    const checkedText = n>=9&&n<=43&&n%2===1;
+    const checkedPainting = n>=8&&n<=74&&n%2===0;
+    const checkedText = n>=9&&n<=73&&n%2===1;
     // The physical object alternates a painting leaf with its description:
     // painting n (even) => inscription n+1; inscription n (odd) => painting n-1.
     const relatedCanvas = checkedPainting?n+1:checkedText?n-1:null;
-    const verifiedTitles = {9:"觀音寺圖說",11:"猓羅圖說",13:"蔡家苗",15:"白猓羅",17:"宋家苗",19:"曾竹龍家",21:"青仲家",23:"補籠仲家",25:"大頭龍家",27:"打牙犵狫",29:"剪髮犵狫",31:"黑樓苗",33:"洪州苗",35:"生苗",37:"狗耳龍家",39:"土犵狫",41:"紅苗",43:"里民子"};
+    const verifiedTitles = {9:"觀音寺圖說",11:"猓羅圖說",13:"蔡家苗",15:"白猓羅",17:"宋家苗",19:"曾竹龍家",21:"青仲家",23:"補籠仲家",25:"大頭龍家",27:"打牙犵狫",29:"剪髮犵狫",31:"黑樓苗",33:"洪州苗",35:"生苗",37:"狗耳龍家",39:"土犵狫",41:"紅苗",43:"里民子",45:"林犵",47:"花撞",49:"水犵狫",51:"青苗",53:"獠苗",55:"花苗",57:"紅犵狫",59:"花犵狫",61:"鍋圈犵狫",63:"土人",65:"洞人",67:"夷人",69:"楊洞羅漢苗",71:"白苗",73:"馬鐙龍家"};
     const verifiedTitle = verifiedTitles[n]||null;
     const leaf = vol===1?n-1:n-103;
     const cover = n===1||n===103;
