@@ -28,6 +28,7 @@ BASE = "https://image.digitalcollections.manchester.ac.uk/iiif"
 PREFIX = "PR-CHCR-00398-000-"
 COLLECTION = "Chinese Crawford 398"
 CANDIDATE_PAGES = [75] + list(range(77, 96, 2)) + list(range(105, 196, 2))
+ALL_POSSIBLE_TEXT_PAGES = [6, 7] + list(range(9, 96, 2)) + list(range(105, 196, 2))
 PROMPT = """You are transcribing a photographed eighteenth-century Chinese manuscript
 from the University of Manchester, Chinese Crawford 398, not from any other edition.
 FIRST inspect this very image. Classify it as 'caption', 'preface',
@@ -47,6 +48,8 @@ All fields must be strings. Do not use Markdown code fences."""
 def pages_from_spec(raw):
     if raw == "candidate":
         return CANDIDATE_PAGES
+    if raw == "text":
+        return ALL_POSSIBLE_TEXT_PAGES
     if raw == "all":
         return list(range(1, 203))
     pages = set()
@@ -181,7 +184,7 @@ def publish(root, repo):
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--mode", choices=["download", "ocr", "publish"], required=True)
-    parser.add_argument("--pages", default="candidate", help="candidate (default), all, 9,11,13, or 105-195")
+    parser.add_argument("--pages", default="candidate", help="text (92 text-page candidates), candidate (57 new), all (202), or 9,11,13")
     parser.add_argument("--width", type=int, default=2400)
     parser.add_argument("--model", default="gpt-4.1", help="API vision model, for example gpt-4.1")
     parser.add_argument("--root", type=Path, default=Path("manchester_c398_work"))
