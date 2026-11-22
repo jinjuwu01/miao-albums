@@ -27,7 +27,7 @@ from pathlib import Path
 BASE = "https://image.digitalcollections.manchester.ac.uk/iiif"
 PREFIX = "PR-CHCR-00398-000-"
 COLLECTION = "Chinese Crawford 398"
-CANDIDATE_PAGES = [6, 7] + list(range(9, 96, 2)) + list(range(105, 196, 2))
+CANDIDATE_PAGES = [75] + list(range(77, 96, 2)) + list(range(105, 196, 2))
 PROMPT = """You are transcribing a photographed eighteenth-century Chinese manuscript
 from the University of Manchester, Chinese Crawford 398, not from any other edition.
 FIRST inspect this very image. Classify it as 'caption', 'preface',
