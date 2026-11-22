@@ -81,3 +81,8 @@
 /* Chen Hao Man Miao Tushuo: one left-hand inscription + one right-hand painting per original spread. Original scan remains unchanged. */
 .plate-frame.plate-half.chenhao-half{aspect-ratio:0.75;max-width:100%;}
 .result-thumb.spread-right img{transform:scale(1.8);transform-origin:right center}
+
+/* Developer attribution beneath the local editing section. */
+.developer-credit{margin:21px 0 0;font-size:12px;line-height:1.85;color:#6d706a}
+.developer-credit a{font-family:var(--font-en);color:var(--accent);text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.developer-credit a:hover{color:var(--ink)}
