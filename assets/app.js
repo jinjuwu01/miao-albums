@@ -95,7 +95,7 @@
   const conv = {};
   PAIRS.split(/\s+/).forEach(x=>{if([...x].length===2)conv[[...x][0]]=[...x][1];});
   const norm = s => [...String(s??'').normalize('NFKC').toLowerCase()].map(ch=>conv[ch]||ch).join('').replace(/[\s\p{P}\p{S}]+/gu,' ' ).trim();
-  const searchable = r => norm([r.source_title,r.source_file,r.title,r.title_en,r.transcription,r.translation,(['illustration','non_text','colophon','preface'].includes(r.page_kind)||r.review_batch==='miaoman48-2026-11-source-aware-v1'?'':r.ocr_raw),r.notes,...(r.tags||[]),...(r.visual_tags||[])].join(' '));
+  const searchable = r => norm([r.source_title,r.source_file,r.shelfmark,r.volume,r.copy_id,r.work_id,r.title,r.title_en,r.transcription,r.translation,(['illustration','non_text','colophon','preface'].includes(r.page_kind)||r.review_batch==='miaoman48-2026-11-source-aware-v1'?'':r.ocr_raw),r.notes,...(r.tags||[]),...(r.visual_tags||[])].join(' '));
   const match = (r,query) => {
     if (!query.trim()) return true;
     const corpus=searchable(r);
