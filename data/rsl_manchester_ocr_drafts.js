@@ -1,5 +1,5 @@
 // AI image-checked Chinese readings and English draft translations. NOT human reviewed.
-// RSL v1 pages 5-9 only. Manuscript variants and uncertain graphs must be checked against high-resolution scans.
+// RSL v1 pp.5-9: more complete provisional drafts; Manchester canvases 6-7: OPENING EXCERPTS ONLY.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -95,5 +95,33 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "visual_tags": [],
     "source_review": "RSL Ф.274 №54.1; Commons PDF; 2026-11-22; 1280px cropped image",
     "translation_scope": "draft; uncertain terms paraphrased or omitted"
+  },
+  "manchester-c398-p006": {
+    "title": "《蠻獠圖說》總序（首段部分試讀）",
+    "title_en": "General preface to the Manliao Illustrations (opening excerpt)",
+    "status": "image_checked_draft",
+    "page_kind": "preface",
+    "transcription_scope": "partial_preamble_only",
+    "ocr_raw": "蠻獠圖說總序\n黔為西南荒裔，錯處諸蠻中。郡縣之設，始於故明。今雖漸加□廓，而族類猶未□變也。\n〔以下各列尚待核讀，非原文〕",
+    "transcription": "蠻獠圖說總序\n黔為西南荒裔，錯處諸蠻中。郡縣之設，始於故明。今雖漸加□廓，而族類猶未□變也。\n〔以下各列尚待核讀，非原文〕",
+    "translation": "General Preface to the Illustrations and Descriptions of the Manliao. The text locates Guizhou on the southwestern frontier, among diverse populations classified by its author as 'Man.' It states that the establishment of prefectures and counties began under the Ming, and that the region's communities had not yet been fully transformed despite subsequent changes. Only the opening sentences have been tentatively read; the rest of this page remains untranslated.",
+    "translation_status": "ai_draft",
+    "notes": "館方 IIIF Canvas 6；已看原始影像，確認整張為《蠻獠圖說》總序的竪排文字。此處只保存開頭幾列，兩個疑字以 □ 標記；〔〕是校讀註而非原文。餘列未讀，不可宣稱本頁已完成轉錄與英譯。此處為清代編者視角。",
+    "ocr_engine": "visual AI reading (partial); Tesseract pilot rejected",
+    "translation_scope": "opening excerpt only"
+  },
+  "manchester-c398-p007": {
+    "title": "《蠻獠圖說》總序（續頁部分試讀）",
+    "title_en": "General preface continuation (partial reading)",
+    "status": "image_checked_draft",
+    "page_kind": "preface",
+    "transcription_scope": "partial_preamble_only",
+    "ocr_raw": "苗蠻，苗之名有東苗、西苗、花苗、青苗、白苗、黑苗、紅苗、箐苗……\n〔以下各列尚待核讀，非原文〕",
+    "transcription": "苗蠻，苗之名有東苗、西苗、花苗、青苗、白苗、黑苗、紅苗、箐苗……\n〔以下各列尚待核讀，非原文〕",
+    "translation": "The preface lists numerous historical labels for peoples grouped under 'Miao,' including Eastern Miao, Western Miao, Flower Miao, Green Miao, White Miao, Black Miao, Red Miao, and Qing (bamboo-grove) Miao. This is a partial translation of the opening enumeration, not a translation of the full page; these are Qing-era categories rather than necessarily modern ethnic self-identifications.",
+    "translation_status": "ai_draft",
+    "notes": "館方 IIIF Canvas 7，總序續頁。只核讀開首的族稱列，省略號表示尚未轉錄；其餘文字仍須逐字核圖。不要將此局部閱讀標為完整 OCR。",
+    "ocr_engine": "visual AI reading (partial); Tesseract pilot rejected",
+    "translation_scope": "opening ethnic-label list only"
   }
 };
