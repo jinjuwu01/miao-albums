@@ -24,7 +24,11 @@
       vol.hash + "/" + file + "/page" + page + "-" + width + "px-" + file + ".jpg";
     for (let page=1;page<=vol.total;page++) {
       const id="rsl-f274-v"+vol.volume+"-p"+String(page).padStart(3,"0");
-      const isCover=page===1;
+      const verifiedRslPlates = {5:"黑猓羅",6:"羅鬼女官",7:"白猓羅",8:"宋家苗",9:"蔡家苗"};
+    const plateName = vol.volume===1 ? verifiedRslPlates[page] : null;
+    const cropBase = "images/external_pilot/rsl_v1_p"+String(page).padStart(3,"0");
+    const isCover=page===1;
+    const isNonText = vol.volume===1 && page>=2 && page<=4;
       records.push({
         id, collection_id:"rsl-f274-54", copy_id:"rsl-f274-54",
         work_id:"work-guizhou-82", source_kind:"pdf",
@@ -32,15 +36,21 @@
         source_file:vol.file, source_url:pdf, source_rights:"Public Domain Mark · Wikimedia Commons",
         volume:vol.volume===1?"上冊 / Volume I":"下冊 / Volume II", shelfmark:vol.shelf,
         folio:page, pdf_page:page, page_total:vol.total, plate_total:null,
-        source_pdf_page:page, page_kind:isCover?"non_text":"scan_only",
-        image:preview(page,960), thumb:preview(page,500), high_res_image:preview(page,1280),
-        text_image:preview(page,1280), paired_image:null,
-        title:isCover?"封面（原冊書衣）":"第"+page+"頁掃描（待逐葉核讀）",
-        title_en:isCover?"Original cover":"PDF page "+page+" · leaf content awaiting verification",
+        source_pdf_page:page, page_kind:(isCover||isNonText)?"non_text":plateName?"caption":"scan_only",
+        image:preview(page,960), thumb:plateName?cropBase+"_artwork.jpg":preview(page,500), high_res_image:preview(page,1280),
+        text_image:plateName?cropBase+"_text.jpg":preview(page,1280), paired_image:plateName?cropBase+"_artwork.jpg":null,
+        artwork_image:plateName?cropBase+"_artwork.jpg":null, caption_image:plateName?cropBase+"_text.jpg":null,
+        spread_layout:plateName?"artwork_left_caption_right":null,
+        title:plateName?plateName:(isCover?"封面（原冊書衣）":isNonText?"封面、裝幀或空白襯頁":"第"+page+"頁掃描（待逐葉核讀）"),
+        title_en:plateName?"Plate "+(page-4)+" · "+plateName+" (historical label)":(isCover?"Original cover":isNonText?"Blank/cover/endpaper":"PDF page "+page+" · leaf content awaiting verification"),
         ocr_raw:"", transcription:"", translation:"",
-        translation_status:isCover?"not_applicable":"not_started",
-        status:isCover?"non_text":"scan_only",
-        notes:isCover?
+        translation_status:(isCover||isNonText)?"not_applicable":"not_started",
+        status:(isCover||isNonText)?"non_text":plateName?"caption_pending":"scan_only",
+        notes:isNonText?
+          "已檢查原始 PDF 掃描：本頁是非正文、裝幀或空白襯頁，不做中文 OCR。":
+          plateName?
+          "已檢查原始影像：本頁左半為彩繪、右半為手寫竪排題記；分別保存裁圖，原掃描不被替換。來源俄羅斯國立圖書館，"+vol.shelf+"。頁碼按 Commons PDF 計，族稱和文字仍需核讀。":
+          isCover?
           "俄羅斯國立圖書館手稿部，"+vol.shelf+"。此頁為原冊書衣；保留原掃描，不進行題記 OCR。原始 PDF 可以在 Wikimedia Commons 查閱。":
           "俄羅斯國立圖書館手稿部，"+vol.shelf+"。本條僅對應 PDF 第"+page+"頁，圖文分割、族稱、題記、英譯均未逐葉核定。網頁預覽由 Wikimedia Commons PDF 縮圖服務動態提供；如縮圖載入失敗，請使用原館 PDF。不得將此頁視作已校讀的圖說。",
         tags:[],visual_tags:[],ocr_engine:null,scan_index:page
