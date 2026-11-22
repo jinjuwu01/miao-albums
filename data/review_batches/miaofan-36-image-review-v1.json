@@ -1,0 +1,388 @@
+{
+  "batch_id": "miaofan-36-image-review-v1",
+  "source": "苗蕃图.两册.清末墨书彩绘本.pdf",
+  "pdf_pages": 41,
+  "annotated_plates": 36,
+  "full_caption_pages": [
+    4,
+    21
+  ],
+  "label_only_pages": [
+    24,
+    41
+  ],
+  "non_illustrated_pages": [
+    1,
+    2,
+    3,
+    22,
+    23
+  ],
+  "status": "AI image-checked provisional drafts; 0 scholar-verified",
+  "source_pdf_used": true,
+  "source_image_alignment": "original PDF pages",
+  "historical_ethnonyms_provisional": true,
+  "raw_ocr_unchanged": true,
+  "entries": [
+    {
+      "pdf_page": 4,
+      "id": "ocr-eb4f91a82238-p0004",
+      "title": "花土獠",
+      "transcription": "花土獠服尚青藍婦女衣花繡短褂繫桶裙婚不親迎送嫁者携酒食以薦婿家祖先自正月至二月擊銅鼓跳舞為樂謂之過小年",
+      "kind": "full_caption",
+      "ocr_raw": "花上獠\n花土撩服尚青藍婦女衣花繡袒褐繫桶裙婚\n月至二月擊銅鼓跳舞爲樂謂之過小年\n不親迎送嫁者携酒食以薦壻家祖先自正\n\n\n銅按",
+      "notes": "右頁題名及左頁正文已核讀；旁注涉及銅鼓與馬援，字形尚有疑難，未混入正文。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 5,
+      "id": "ocr-eb4f91a82238-p0005",
+      "title": "腊欲（疑）",
+      "transcription": "腊欲性極蠢直男服青藍女著白衣雜糧不敷常種瓜菜以為食婚喪尚儉",
+      "kind": "full_caption",
+      "ocr_raw": "腊欲性極蠢直男服青藍女著白衣雜糧不\n腊欲\n敷常種瓜菜以為食婚喪尚儉\n\n3",
+      "notes": "題名「腊欲」字形待核；保留歷史作者對群體的評價性措辭。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 6,
+      "id": "ocr-eb4f91a82238-p0006",
+      "title": "腊兜（疑）",
+      "transcription": "腊兜與僕喇相似怕近漢人男女亦知耕織婚喪飲食甚儉男服藍布大袖衫有領女服紅布大袖衫開一窩以頭套而服之",
+      "kind": "full_caption",
+      "ocr_raw": "腊免\n腊鬼與僕喇相似怕近漢人男女亦知耕織\n服紅布大袖衫開一寓以頭套而服之\n婚喪飲食甚儉男服藍布大袖衫有領女\n\n小",
+      "notes": "題名「腊兜」及「開一窩」待進一步核讀。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 7,
+      "id": "ocr-eb4f91a82238-p0007",
+      "title": "□烏（疑）",
+      "transcription": "□烏性遲緩自謂□獲之後居深山僻壤擇漢人足跡不到之處引水於田捕魚為業男服藍衣腰不繫帶女人短衣青裙頭裹青布若方巾飾銀泡於頂",
+      "kind": "full_caption",
+      "ocr_raw": "孤烏\n猛烏性遲緩自謂洫獲之後居深山僻壤擇\n青布若方巾飾銀泡於頂\n男服藍衣腰不繫帶女人短衣青裙頭曩\n漢人足跡不到之處引水於田捕魚為業",
+      "notes": "原圖首字及「□獲」存疑，使用「□」而不依語境臆補；與舊 OCR 的「孤烏」需再比較。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 8,
+      "id": "ocr-eb4f91a82238-p0008",
+      "title": "舍烏",
+      "transcription": "舍烏性粗直婚禮極儉居父母喪宰牲掛紙幡祭獻宴客吹嗩吶為樂暇則持弩以取禽鳥往來競射以多獲者為強",
+      "kind": "full_caption",
+      "ocr_raw": "舍烏性粗直婚禮極儉居父母喪宰牲掛紙\n舍焉\n旛祭獻晏客吹瑣吶為樂暇則持弩以取\n禽鳥徃來競射以多獲者為強\n\n用\nMOLTE",
+      "notes": "校正舊 OCR「舍焉」等誤字，保留清代用字。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 9,
+      "id": "ocr-eb4f91a82238-p0009",
+      "title": "普剽",
+      "transcription": "普剽俗與刺烏小異不剃頭男著青白長領短衣不分寒暑身披布被鑲火焰邊刻不少離女人桶裙遍身掛紅綠珠親亡令子婿跳舞親屬擊鼓鳴鑼吹牛角祭獻名曰娛屍",
+      "kind": "full_caption",
+      "ocr_raw": "普剽\n普剽俗與刺烏小異不剃頭男著青白長領\n壻跳舞親屬擊鼓鳴鑼吹牛角祭献名曰\n娛屍\n少離女人桶裙遍身掛紅綠珠親亡令子\n短衣不分寒暑身披布被鑲火焰邊刻不",
+      "notes": "原圖「剽／刺」等相近字需再獨立核驗；已按右起豎列重排。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 10,
+      "id": "ocr-eb4f91a82238-p0010",
+      "title": "水擺夷",
+      "transcription": "水擺夷居多傍水喜浴男渡舡女傭工糊口夫死名為鬼妻無復可嫁又能為鬼魅以一掃擊衣服即變形為象馬豬羊貓犬立通衢行人稍畏避之即為所魅入罨中食人五臟易之以土",
+      "kind": "full_caption",
+      "ocr_raw": "水擺夷\n水擺夷居多傍水喜浴男渡舡女傭工糊口夫\n之以土\n人稍畏避之郎為所魅入罰中食人五臟易\n擊衣服卽變形為象馬豬羊貓犬立通衢行\n死名爲鬼妻無復可嫁又能爲鬼魅以一掃",
+      "notes": "末兩列「入罨中」等疑字仍需精校；神怪敘述是歷史作者的記載，非客觀事實。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 11,
+      "id": "ocr-eb4f91a82238-p0011",
+      "title": "白猓羅",
+      "transcription": "白猓羅性直朴服尚青藍婦人以布圍頭耕畢合家携酒饌郊外祭土神後長者盤坐幼者跪敬酒食一若賓客相飲者然",
+      "kind": "full_caption",
+      "ocr_raw": "白猥擺性直朴服尚青藍婦人以布圗頭耕畢\n白稞擺\n跪敬酒食一若賓客相飲者然\n合家攜酒饌郊外祭土神後長者盤坐幼者",
+      "notes": "據原圖校正原 OCR 的族稱「白猥擺」。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 12,
+      "id": "ocr-eb4f91a82238-p0012",
+      "title": "黑猓羅",
+      "transcription": "黑猓羅性朴多種旱地居茅舍中堂作火爐男女圍繞而臥懼箠撻而不畏死男女服近漢婦女戴青布橫穿青衣釘銀泡數匝食惟雜糧婚亦央媒聘禮用牛一條銀或六兩十二兩喪與漢同葬以火化祭則羊豕捶死雞鳥不殺",
+      "kind": "full_caption",
+      "ocr_raw": "黑稞擺\n黑稞玀性朴多種旱地居茅舍中堂作火爐男\n不殺\n兩喪與漢同葬以火化祭則羊豕捶死鷄鼻\n糧婚亦央媒聘禮用牛一條銀或六兩十二\n婦女戴青布橫穿青衣釘銀泡數匝食惟雜\n女圗繞而卧懼箠撻而不畏死男女服近漢",
+      "notes": "「橫穿」「雞鳥」字形及分句待複核；按原圖完整豎列保留正文。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 13,
+      "id": "ocr-eb4f91a82238-p0013",
+      "title": "聶素（疑）",
+      "transcription": "聶素居永平里服食日用與猓羅同讀書力田紡織貿易性情較醇",
+      "kind": "full_caption",
+      "ocr_raw": "聶素居永平里服食日用與稞羅同讀書力\n聶素\n田紡織貿易性情較醇蠶\n\nROAR\n福",
+      "notes": "首二字歷史族稱待複核。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 14,
+      "id": "ocr-eb4f91a82238-p0014",
+      "title": "沙人",
+      "transcription": "沙人習尚同儂人慓勁過之親死所祭之肉不食或棄或餽諸同人",
+      "kind": "full_caption",
+      "ocr_raw": "沙人習尚同儂人慓勁過之親死所祭之肉不\n沙人\n食或棄或餽諸同人\n\n\na\n080",
+      "notes": "短題記，已核對左頁兩列。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 15,
+      "id": "ocr-eb4f91a82238-p0015",
+      "title": "黑拐雞（疑）",
+      "transcription": "黑拐雞性如桀獸居必負險出入挾弓弩帶左錦臥以牛皮四季擁爐以度長夜小隙則數世必報大德若忘種蔽為食多居王弄安南二里",
+      "kind": "full_caption",
+      "ocr_raw": "黑拇雞\n黑狗鷄性如桀獸居必負險出八挾弓弩帶左\n世必報大德若忘種蔽為食多居王弄安南\n鍾臥以牛皮四季擁炉以度長夜小隙則數",
+      "notes": "族稱第二字及「帶左錦」「種蔽」等字串、斷句未確認；只作暫讀，保留舊 OCR。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 16,
+      "id": "ocr-eb4f91a82238-p0016",
+      "title": "山車",
+      "transcription": "山車居逢春里性不畏寒鵠面鳩形男子衣間以紅白線織之婦人盤頭似方巾短衣白裙喪無孝服割牲以祭葬用木牀盛屍火化",
+      "kind": "full_caption",
+      "ocr_raw": "山車居逄春里性不畏寒鵠鳩形男子衣\n山車\n白裙喪無孝服割牲以祭葬用木牀盛屍\n火化\n間以紅白線織之婦人盤頭似方巾短衣\n\n山\nouhre\nLo",
+      "notes": "「鵠面鳩形」等字形待複核；「火化」兩字見左端末列。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 17,
+      "id": "ocr-eb4f91a82238-p0017",
+      "title": "普馬",
+      "transcription": "普馬性與人殊刀耕火種婚禮尚財人死不論男女俱埋於長房下常行走處每日以滾水澆之俟腐取出以肉另埋骨則洗淨用綴為袋盛之家人盡穿紅綠殺豬牛令婿負之跳舞藏於家三年乃葬遇疾病則取用舟跳以為未瘞之骨作祟也",
+      "kind": "full_caption",
+      "ocr_raw": "瞽馬性與人殊刀耕火種婚禮尚財人死不\n普馬\n取用舟跳以為未瘞之骨作崇也\n壻負之跳舞藏於家三年乃葬遇疾病則\n用綴為袋盛之家人盡穿紅綠殺豬牛令\n滾水澆之俟腐取出以肉另埋骨則洗净\n論男女俱埋於長房下常行走處每日以\n\n聘",
+      "notes": "多列連讀疑難，尤其「用綴」「取用舟跳」，必須研究者逐字複核。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 18,
+      "id": "ocr-eb4f91a82238-p0018",
+      "title": "普列",
+      "transcription": "普列東安里有之束髮椎髻播種之日捽牛於側以豬首奠祭土神婚亦有媒喪則火化",
+      "kind": "full_caption",
+      "ocr_raw": "普列東安里有之束髮推髻播種之日捽牛\ns善列\n於側以豬首奠祭土神婚亦有媒喪則火\n\nB\n口口口",
+      "notes": "已據高清圖校正舊 OCR 對題名的錯識。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 19,
+      "id": "ocr-eb4f91a82238-p0019",
+      "title": "僰子（疑）",
+      "transcription": "僰子古白國支流性詭俗儉又謂之民家子知讀書婚喪葬祭與漢相近衣服食用亦異他夷六月念四日臠生肉合蒜而食燃炬為樂稱曰佳節",
+      "kind": "full_caption",
+      "ocr_raw": "燃子\n僰子古白國支流性詭俗儉又謂之民家子知\n稱曰佳節\n夷六月念四日臠生肉合蒜而食燃炬為樂\n讀書婚喪葬祭與漢相近衣服食用亦異他",
+      "notes": "首字可疑，舊 OCR 曾誤為「燃」；「六月念四日」按圖面暫錄。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 20,
+      "id": "ocr-eb4f91a82238-p0020",
+      "title": "黑土獠",
+      "transcription": "黑土獠喜種水田男穿青衣褂女上穿短衣用五色碎布簇成四方錦於前後與補相似下穿青桶裙婚喪亦近花土獠送葬女婿吹葫笙跳舞尸前",
+      "kind": "full_caption",
+      "ocr_raw": "黑土獠\n黑土獠喜種水田男穿青衣褂女上穿短衣用\n笙跳舞尸前\n穿青桶裙婚喪亦近花土獠送葬女壻吹葫\n五色碎布簇成四方錦於前後與補相似下",
+      "notes": "正文末句涉及葫笙，按圖面核錄，仍應精校。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 21,
+      "id": "ocr-eb4f91a82238-p0021",
+      "title": "白土獠",
+      "transcription": "白土獠性狡詐重農力穡卜居近水以便耕作十月朔為歲首習漢語聞舊無此種多自阿迷蒙自流入",
+      "kind": "full_caption",
+      "ocr_raw": "白土獠\n白土獠性狡詐重農力穡卜居近水以便耕作\n迷蒙自流入\n十月朔為歲首習漢語開舊無此種多自阿",
+      "notes": "舊 OCR 漏掉部分首尾列；「阿迷」與「聞舊」的字形待核。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 24,
+      "id": "ocr-eb4f91a82238-p0024",
+      "title": "馬剌",
+      "transcription": "馬剌",
+      "kind": "image_label_only",
+      "ocr_raw": "馬刺\n谷米\nC\n火\n茶\n\n山\n\nE\nM\n荣米\nTu",
+      "notes": "第二冊僅有彩畫旁的兩字題名，左頁無說明，不生成不存在的正文。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 25,
+      "id": "ocr-eb4f91a82238-p0025",
+      "title": "剌烏（疑）",
+      "transcription": "剌烏",
+      "kind": "image_label_only",
+      "ocr_raw": "福\n喇烏\n7\n人\nX\n2\n茶\n米米",
+      "notes": "僅題名；第一字形近「剌／刺」，需要第二輪核讀。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 26,
+      "id": "ocr-eb4f91a82238-p0026",
+      "title": "阿猓（疑）",
+      "transcription": "阿猓",
+      "kind": "image_label_only",
+      "ocr_raw": "阿稞\n琪\n建\nX\n7",
+      "notes": "僅題名；第二字與舊 OCR「稞」有異，需再核。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 27,
+      "id": "ocr-eb4f91a82238-p0027",
+      "title": "阿者",
+      "transcription": "阿者",
+      "kind": "image_label_only",
+      "ocr_raw": "阿者\n\nX\nS",
+      "notes": "僅題名，左頁空白。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 28,
+      "id": "ocr-eb4f91a82238-p0028",
+      "title": "阿繫（疑）",
+      "transcription": "阿繫",
+      "kind": "image_label_only",
+      "ocr_raw": "阿繫\n\n心",
+      "notes": "僅題名；第二字寫法特殊，讀法待確認。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 29,
+      "id": "ocr-eb4f91a82238-p0029",
+      "title": "旱擺夷",
+      "transcription": "旱擺夷",
+      "kind": "image_label_only",
+      "ocr_raw": "早擺夷\nf\nERSE\n5\n有茶\nAHAT",
+      "notes": "僅題名，校正舊 OCR「早擺夷」。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 30,
+      "id": "ocr-eb4f91a82238-p0030",
+      "title": "黑猓剌（疑）",
+      "transcription": "黑猓剌",
+      "kind": "image_label_only",
+      "ocr_raw": "里猴制\n冠\n33\nnnDn",
+      "notes": "僅題名；第二、三字寫法尚待核。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 31,
+      "id": "ocr-eb4f91a82238-p0031",
+      "title": "阿渡",
+      "transcription": "阿渡",
+      "kind": "image_label_only",
+      "ocr_raw": "阿渡\nV\n心\nuA\n1，",
+      "notes": "僅題名，左頁空白。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 32,
+      "id": "ocr-eb4f91a82238-p0032",
+      "title": "阿成",
+      "transcription": "阿成",
+      "kind": "image_label_only",
+      "ocr_raw": "阿成\n\nNEE\n卷兴\n兴游\n兴",
+      "notes": "僅題名，左頁空白。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 33,
+      "id": "ocr-eb4f91a82238-p0033",
+      "title": "白猓剌（疑）",
+      "transcription": "白猓剌",
+      "kind": "image_label_only",
+      "ocr_raw": "白獲喇\nn\n心\n2\n2\nA\nn\nC\nN\n品",
+      "notes": "僅題名；「猓剌」兩字暫錄，待核。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 34,
+      "id": "ocr-eb4f91a82238-p0034",
+      "title": "剌猴（疑）",
+      "transcription": "剌猴",
+      "kind": "image_label_only",
+      "ocr_raw": "喇猴\ny\neu\n2\n小",
+      "notes": "僅題名；第一字的刀旁與剌／刺易混。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 35,
+      "id": "ocr-eb4f91a82238-p0035",
+      "title": "窩泥",
+      "transcription": "窩泥",
+      "kind": "image_label_only",
+      "ocr_raw": "T\n窝泥\n1\n63\nY\nlool",
+      "notes": "僅題名，左頁空白。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 36,
+      "id": "ocr-eb4f91a82238-p0036",
+      "title": "猺人",
+      "transcription": "猺人",
+      "kind": "image_label_only",
+      "ocr_raw": "猺人\nP\n5\n少\nocc\n0\n业",
+      "notes": "僅題名，左頁空白。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 37,
+      "id": "ocr-eb4f91a82238-p0037",
+      "title": "阿夏",
+      "transcription": "阿夏",
+      "kind": "image_label_only",
+      "ocr_raw": "阿夏\nsu\n强\n\n0\n83\nG\n花",
+      "notes": "僅題名，左頁空白。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 38,
+      "id": "ocr-eb4f91a82238-p0038",
+      "title": "白母雞",
+      "transcription": "白母雞",
+      "kind": "image_label_only",
+      "ocr_raw": "白母雞\n城\n兰\n\n7\n1.\n务\nF",
+      "notes": "僅題名，左頁空白。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 39,
+      "id": "ocr-eb4f91a82238-p0039",
+      "title": "儂人（疑）",
+      "transcription": "儂人",
+      "kind": "image_label_only",
+      "ocr_raw": "傻人\ny\n—1\n00\nG\n1\n11",
+      "notes": "僅題名；舊 OCR 誤為「傻人」，按圖面初步讀作「儂人」。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 40,
+      "id": "ocr-eb4f91a82238-p0040",
+      "title": "普岔",
+      "transcription": "普岔",
+      "kind": "image_label_only",
+      "ocr_raw": "普岔\n心\n4\n2\n1\n5",
+      "notes": "僅題名，左頁空白。",
+      "not_scholar_verified": true
+    },
+    {
+      "pdf_page": 41,
+      "id": "ocr-eb4f91a82238-p0041",
+      "title": "花猓剌（疑）",
+      "transcription": "花猓剌",
+      "kind": "image_label_only",
+      "ocr_raw": "花獲喇\n3",
+      "notes": "僅題名；第二、三字形需學者再核。",
+      "not_scholar_verified": true
+    }
+  ]
+}
