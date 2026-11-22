@@ -1,0 +1,30 @@
+name: Validate external Miao album scan indexes
+
+on:
+  push:
+    paths:
+      - 'data/rsl_manchester_scans.js'
+      - 'data/rsl_manchester_ocr_drafts.js'
+      - 'assets/app.js'
+      - 'assets/review.js'
+      - 'index.html'
+      - 'review.html'
+      - 'scripts/process_external_albums.py'
+      - 'scripts/validate_external_albums.cjs'
+      - '.github/workflows/validate-external-albums.yml'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Python OCR pipeline syntax
+        run: python3 -m py_compile scripts/process_external_albums.py
+      - name: JavaScript syntax and record integrity
+        run: |
+          node --check data/rsl_manchester_scans.js
+          node --check data/rsl_manchester_ocr_drafts.js
+          node --check assets/app.js
+          node --check assets/review.js
+          node scripts/validate_external_albums.cjs
