@@ -2,7 +2,7 @@
 
 ## Current status (2026-11-22)
 
-The site indexes 202 official IIIF canvases, including covers, paintings, inscriptions, and binding details. 35 Manchester records currently have provisional Chinese readings: two preface pages and 33 caption pages. Most readings are excerpts, not certified full OCR.
+The site indexes 202 official IIIF canvases. On 2026-11-22 the user provided 92 high-resolution candidate text-page images. Of these, 86 contain Chinese text (2 prefaces, 2 scenic descriptions and 82 ethnographic captions), 5 are blank and 1 is a seal leaf. There are 86 provisional searchable Chinese readings: 35 prior drafts preserved and 51 new source-specific drafts added. At least 45 readings are labeled excerpt-only; the remaining 41 are provisional full/near-full passes, NOT certified full OCR. New English text is interpretive summary rather than line-by-line translation.
 
 The manuscript belongs to the University of Manchester Library. Original scans: https://www.digitalcollections.manchester.ac.uk/view/PR-CHCR-00398
 
@@ -18,7 +18,7 @@ From the repository root:
     python3 scripts/process_manchester_c398.py --mode ocr --pages candidate
     python3 scripts/process_manchester_c398.py --mode publish
 
-This is a resumable research workflow. The "text" download queue comprises 92 possible preface/caption canvases: 2 preface pages, 44 odd-page candidates in vol. I, and 46 in vol. II. Some may be blank or otherwise not textual; inspect the images. The "candidate" OCR queue contains only 57 remaining possible odd-numbered caption canvases; the 35 existing drafts remain unchanged. Each image is **classified before transcription**, and paintings/blank leaves produce no body text.
+This is a resumable research workflow. The "text" download queue comprises 92 possible preface/caption canvases: 2 preface pages, 44 odd-page candidates in vol. I, and 46 in vol. II. The uploaded images confirm five blank pages and one seal leaf. The "candidate" OCR queue contains only 57 remaining possible odd-numbered caption canvases; the 35 existing drafts remain unchanged. Each image is **classified before transcription**, and paintings/blank leaves produce no body text.
 
 Work files appear in manchester_c398_work/scans/ and manchester_c398_work/ocr/. Publication writes ONLY data/manchester_ocr_candidates.js. Existing 35 draft entries take priority, so no pre-existing transcription is overwritten. The site marks new OCR as provisional AI readings; doubtful glyphs appear as □.
 
