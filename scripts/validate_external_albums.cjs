@@ -29,7 +29,7 @@ vm.runInNewContext(read("data/rsl_manchester_ocr_drafts.js"),ctx);
 const drafts=ctx.window.MIAO_RSL_MANCHESTER_OCR_DRAFTS;
 const entries=Object.entries(drafts);
 const byId=new Map(a.map(x=>[x.id,x]));
-ok(entries.length>=22,"expected at least 22 Chinese/English draft records");
+ok(entries.length>=63,"expected at least 63 Chinese/English draft records");
 for(const [id,item] of entries){
   const source=byId.get(id);
   ok(source,"draft has no physical copy scan: "+id);
@@ -38,10 +38,20 @@ for(const [id,item] of entries){
   ok(item.status!=="human_reviewed","AI draft must not claim to be human-reviewed: "+id);
 }
 const inspectedRsl=a.filter(x=>x.collection_id==="rsl-f274-54"&&x.page_kind==="caption");
-ok(inspectedRsl.length===21,"expected 21 inspected two-page Russian spreads");
+ok(inspectedRsl.length===54,"expected 54 inspected two-page Russian spreads");
 for(const r of inspectedRsl){
   ok(r.artwork_image&&r.caption_image,"two distinct crop references missing for "+r.id);
   ok(fs.existsSync(r.artwork_image)&&fs.existsSync(r.caption_image),"crop missing on disk: "+r.id);
+}
+const manText=a.filter(x=>x.collection_id==="manchester-c398"&&x.page_kind==="caption");
+const manPaint=a.filter(x=>x.collection_id==="manchester-c398"&&x.page_kind==="illustration");
+ok(manText.length===8,"expected eight image-checked Manchester description leaves");
+ok(manPaint.length===9,"expected nine image-checked Manchester illustration leaves");
+for(const x of manText){
+  ok(x.paired_image&&x.paired_pdf_page===x.scan_index-1,"caption paired with wrong Manchester painting: "+x.id);
+}
+for(const x of manPaint){
+  ok(x.paired_image&&x.paired_pdf_page===x.scan_index+1,"painting paired with wrong Manchester caption: "+x.id);
 }
 const home=read("index.html"),review=read("review.html"),app=read("assets/app.js");
 ok(home.includes("data/rsl_manchester_scans.js"),"main website missing source index");
@@ -51,4 +61,4 @@ ok(app.includes("RSL_MANCHESTER_OCR_DRAFTS"),"separate AI candidate overlay miss
 ok(!home.includes('data/rsl_manchester_ocr_drafts.js') ||
    home.indexOf('data/rsl_manchester_scans.js')<home.indexOf('data/rsl_manchester_ocr_drafts.js'),
    "OCR overlay must load after scan sources");
-console.log("OK: 295 indexed scans; 21 RSL painting/caption crops; "+entries.length+" draft readings, all source-linked; no painted/blank-page OCR");
+console.log("OK: 295 indexed scans; 54 RSL painting/caption crops; "+entries.length+" draft readings, all source-linked; no painted/blank-page OCR");
