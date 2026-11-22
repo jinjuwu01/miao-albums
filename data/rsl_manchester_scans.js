@@ -1,8 +1,8 @@
 /* Two physical copies, digitized at their holding institutions.
    Russian State Library Ф.274 №54.1 and №54.2: Commons 47 + 46 PDF page images.
    Manchester Chinese Crawford 398: 202 IIIF canvases (2 vols, covers/edges included).
-   Catalogue verified 2026-11-22, but full leaf-by-leaf transcription NOT performed.
-   No human-reviewed text, no guessed ethnic headings, no fabricated translations.
+   Catalogue verified 2026-11-22. Both Russian volumes now have source-image-based provisional caption text for their 41 plates; many readings remain uncertain and are not human-certified.
+   No human-certified text; check uncertain historic headings, character readings, and excerpt-only translations against source scans.
    Remote previews are live institutional/Commons images; no PDF bytes are hosted here.
  */
 (() => {
@@ -27,7 +27,7 @@
       // Historical headings are edition-specific, transcribed from scan images.
       // Do not copy the wording of a different Miao album recension.
       const verifiedV1 = {5:"黑猓羅",6:"羅鬼女官",7:"白猓羅",8:"宋家苗",9:"蔡家苗",10:"卡尤仲家",11:"補籠仲家",12:"青仲家",13:"曾竹籠家",14:"狗耳龍家",15:"馬蹬龍家",16:"大頭龍家",17:"花苗",18:"紅苗",19:"白苗",20:"青苗",21:"黑苗",22:"東苗",23:"西苗",24:"夯苗",25:"獠苗",26:"打牙苗",27:"剪髮犵狫",28:"豬屎犵狫",29:"紅犵狫",30:"花犵狫",31:"水犵狫",32:"銅圈犵狫",33:"披袍犵狫",34:"林犵苗",35:"花撞苗",36:"夷人",37:"蠻人",38:"土人",39:"洞人",40:"瑤人",41:"楊保苗",42:"樣獵苗（題字待核）",43:"九股苗",44:"八番苗",45:"紫姜苗"};
-      const verifiedV2 = {4:"谷蒲苗",5:"陽洞羅漢苗",6:"克孟牯羊苗",7:"洞苗",8:"箐苗",9:"伶家苗（題字待核）",10:"狪家苗",11:"種林家苗（題字待核）",12:"額子（題字待核）",13:"白額子",14:"舟家蠻",15:"九名九姓苗",16:"齊頭苗（題字待核）",17:"洞夷苗（題字待核）",18:"八寨黑苗",19:"清江黑苗",20:"樓居黑苗",21:"黑山苗",22:"黑生苗",23:"高坡苗",24:"平伐苗",25:"黑仲家",26:"清江仲家",27:"里民子",28:"白兒子",29:"白龍家",30:"白仲家",31:"土犵狫",32:"雞雀苗",33:"葫蘆苗",34:"洪州苗（題字待核）",35:"西溪苗",36:"車寨苗",37:"生苗",38:"黑腳苗",39:"黑樓苗",40:"短裙苗",41:"尖頭苗",42:"郎慈苗（題字待核）",43:"羅潑苗",44:"洞夷苗"};
+      const verifiedV2 = {4:"谷蘭苗",5:"陽洞羅漢苗",6:"克孟牯羊苗",7:"洞苗",8:"箐苗",9:"伶家苗（題字待核）",10:"狪家苗",11:"種林家苗（題字待核）",12:"六額子（題字待核）",13:"白額子",14:"舟家蠻",15:"九名九姓苗",16:"斧頭苗（題字待核）",17:"洞夷苗（題字待核）",18:"八寨黑苗",19:"清江黑苗",20:"樓居黑苗",21:"黑山苗",22:"黑生苗",23:"高坡苗",24:"平伐苗",25:"黑仲家",26:"清江仲家",27:"里民子",28:"白兒子",29:"白龍家",30:"白仲家",31:"土犵狫",32:"雞雀苗",33:"葫蘆苗",34:"洪州苗（題字待核）",35:"西溪苗",36:"車寨苗",37:"生苗",38:"黑腳苗",39:"黑樓苗",40:"短裙苗",41:"尖頭苗",42:"郎慈苗（題字待核）",43:"羅潑苗",44:"洞夷苗"};
       const plateName = vol.volume===1 ? verifiedV1[page] : verifiedV2[page];
       const cropBase = "images/external_pilot/rsl_v"+vol.volume+"_p"+String(page).padStart(3,"0");
       const artCrop = cropBase + (vol.volume===1 && page<=9 ? "_artwork.jpg" : "_left.jpg");
