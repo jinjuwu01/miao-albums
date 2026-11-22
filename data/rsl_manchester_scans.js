@@ -30,6 +30,8 @@
       const verifiedV2 = {4:"谷蒲苗",5:"陽洞羅漢苗",6:"克孟牯羊苗",7:"洞苗",8:"箐苗",9:"第卌七種（族稱待核）",10:"狪家苗"};
       const plateName = vol.volume===1 ? verifiedV1[page] : verifiedV2[page];
       const cropBase = "images/external_pilot/rsl_v"+vol.volume+"_p"+String(page).padStart(3,"0");
+      const artCrop = cropBase + (vol.volume===1 && page<=9 ? "_artwork.jpg" : "_left.jpg");
+      const txtCrop = cropBase + (vol.volume===1 && page<=9 ? "_text.jpg" : "_right.jpg");
       const isCover=page===1;
       const isNonText = (vol.volume===1 && page>=2 && page<=4)||(vol.volume===2 && (page===2||page===3));
       const plateIndex=vol.volume===1?page-4:page+38;
@@ -41,9 +43,9 @@
         volume:vol.volume===1?"上冊 / Volume I":"下冊 / Volume II", shelfmark:vol.shelf,
         folio:plateName?plateIndex:page, pdf_page:page, page_total:vol.total, plate_total:null,
         source_pdf_page:page, page_kind:(isCover||isNonText)?"non_text":plateName?"caption":"scan_only",
-        image:preview(page,960), thumb:plateName?cropBase+"_artwork.jpg":preview(page,500), high_res_image:preview(page,1280),
-        text_image:plateName?cropBase+"_text.jpg":preview(page,1280), paired_image:plateName?cropBase+"_artwork.jpg":null,
-        artwork_image:plateName?cropBase+"_artwork.jpg":null, caption_image:plateName?cropBase+"_text.jpg":null,
+        image:preview(page,960), thumb:plateName?artCrop:preview(page,500), high_res_image:preview(page,1280),
+        text_image:plateName?txtCrop:preview(page,1280), paired_image:plateName?artCrop:null,
+        artwork_image:plateName?artCrop:null, caption_image:plateName?txtCrop:null,
         spread_layout:plateName?"artwork_left_caption_right":null,
         spread_image_layout:plateName?"artwork_left_caption_right":null,
         title:plateName?plateName:(isCover?"封面（原冊書衣）":isNonText?"封面、裝幀或空白襯頁":"第"+page+"頁掃描（待逐葉核讀）"),
