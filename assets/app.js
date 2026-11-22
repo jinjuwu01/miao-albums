@@ -19,8 +19,23 @@
   const MIAOMAN_SINGLE_82_DRAFTS = window.MIAOMAN_SINGLE_82_DRAFTS && typeof window.MIAOMAN_SINGLE_82_DRAFTS === 'object' ? window.MIAOMAN_SINGLE_82_DRAFTS : {};
   const MANMIAO_CHENHAO_80_DRAFTS = window.MANMIAO_CHENHAO_80_DRAFTS && typeof window.MANMIAO_CHENHAO_80_DRAFTS === 'object' ? window.MANMIAO_CHENHAO_80_DRAFTS : {};
   const GUIZHOU_QUANSHENG_20_DRAFTS = window.GUIZHOU_QUANSHENG_20_DRAFTS && typeof window.GUIZHOU_QUANSHENG_20_DRAFTS === 'object' ? window.GUIZHOU_QUANSHENG_20_DRAFTS : {};
-  const IMPORTED_DISPLAY = IMPORTED.flatMap(r=>(r.collection_id==='9e2b3d98dc2e'&&r.pdf_page>=3&&r.pdf_page<=29&&MIAOMAN_54_PLATES.length===54)?MIAOMAN_54_PLATES.filter(p=>p.pdf_page===r.pdf_page):[r]);
-  const BASE = [...LEGACY, ...IMPORTED_DISPLAY, ...(Array.isArray(window.MIAO_JINGONG_68_DRAFTS) ? window.MIAO_JINGONG_68_DRAFTS : []), ...(Array.isArray(window.MIAO_QIANSHENG_68_DRAFTS) ? window.MIAO_QIANSHENG_68_DRAFTS : [])].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), ...(DIAN_36_DRAFTS[r.id] || {}), ...(MIAOFAN_36_DRAFTS[r.id] || {}), ...(DIAN_PAGE_FIXES[r.id] || {}), ...(MIAOMAN_48_DRAFTS[r.id] || {}), ...(MIAOMAN_41_DRAFTS[r.id] || {}), ...(MIAOMAN_82_DRAFTS[r.id] || {}), ...(MIAOMAN_41FRAMES_DRAFTS[r.id] || {}), ...(MIAOMAN_54_FRONT[r.id] || {}), ...(MIAOMAN_42_DRAFTS[r.id] || {}), ...(MIAOMAN_SINGLE_82_DRAFTS[r.id] || {}), ...(MANMIAO_CHENHAO_80_DRAFTS[r.id] || {}), ...(GUIZHOU_QUANSHENG_20_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
+  // One visible record per source-PDF leaf. Keep later image-checked plate records
+  // instead of the earlier unverified OCR rows for exactly the same scanned leaf.
+  // Do NOT merge distinct manuscripts or different scanned leaves with similar text.
+  const JINGONG_PLATES = Array.isArray(window.MIAO_JINGONG_68_DRAFTS) ? window.MIAO_JINGONG_68_DRAFTS : [];
+  const QIANSHENG_PLATES = Array.isArray(window.MIAO_QIANSHENG_68_DRAFTS) ? window.MIAO_QIANSHENG_68_DRAFTS : [];
+  const REPLACEMENTS = [
+    ...LEGACY.map(r => ({collection:'0aa54e2d1b74', page:r.pdf_page, preferred:r.id})),
+    ...JINGONG_PLATES.map(r => ({collection:'090f21b2429e', page:r.pdf_page, preferred:r.id})),
+    ...QIANSHENG_PLATES.map(r => ({collection:'a730d8585776', page:r.pdf_page, preferred:r.id}))
+  ];
+  const REPLACEMENT_BY_LEAF = new Map(REPLACEMENTS.map(r => [r.collection+':'+r.page, r.preferred]));
+  const IMPORTED_UNIQUE = IMPORTED.filter(r => !REPLACEMENT_BY_LEAF.has(r.collection_id+':'+r.pdf_page));
+  // Keep any earlier browser-only edits on hidden OCR rows accessible on the preferred record.
+  const OLD_EDIT_ID_BY_PREFERRED = new Map(IMPORTED.filter(r => REPLACEMENT_BY_LEAF.has(r.collection_id+':'+r.pdf_page))
+    .map(r => [REPLACEMENT_BY_LEAF.get(r.collection_id+':'+r.pdf_page), r.id]));
+  const IMPORTED_DISPLAY = IMPORTED_UNIQUE.flatMap(r=>(r.collection_id==='9e2b3d98dc2e'&&r.pdf_page>=3&&r.pdf_page<=29&&MIAOMAN_54_PLATES.length===54)?MIAOMAN_54_PLATES.filter(p=>p.pdf_page===r.pdf_page):[r]);
+  const BASE = [...LEGACY, ...IMPORTED_DISPLAY, ...JINGONG_PLATES, ...QIANSHENG_PLATES].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), ...(DIAN_36_DRAFTS[r.id] || {}), ...(MIAOFAN_36_DRAFTS[r.id] || {}), ...(DIAN_PAGE_FIXES[r.id] || {}), ...(MIAOMAN_48_DRAFTS[r.id] || {}), ...(MIAOMAN_41_DRAFTS[r.id] || {}), ...(MIAOMAN_82_DRAFTS[r.id] || {}), ...(MIAOMAN_41FRAMES_DRAFTS[r.id] || {}), ...(MIAOMAN_54_FRONT[r.id] || {}), ...(MIAOMAN_42_DRAFTS[r.id] || {}), ...(MIAOMAN_SINGLE_82_DRAFTS[r.id] || {}), ...(MANMIAO_CHENHAO_80_DRAFTS[r.id] || {}), ...(GUIZHOU_QUANSHENG_20_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
   const byId = id => document.getElementById(id);
   const dom = {list:byId('result-list'),reader:byId('reader-content'),search:byId('search-input'),count:byId('result-count'),summary:byId('search-summary'),filter:byId('status-filter'),sort:byId('sort-order'),album:byId('album-filter')};
   let selected = BASE.some(r=>r.id===decodeURIComponent(location.hash.slice(1))) ? decodeURIComponent(location.hash.slice(1)) : (BASE[0]?.id || '');
@@ -28,7 +43,10 @@
   const EDIT_KEY='miao_albums_edits_v1';
   const readEdits = () => { try {const data=JSON.parse(localStorage.getItem(EDIT_KEY)||'{}');return data&&typeof data==='object'?data:{};}catch(e){return {};} };
   let edits=readEdits();
-  const record = obj => ({...obj,...(edits[obj.id]||{}),status:edits[obj.id]?'local_edit':obj.status});
+  const record = obj => {
+    const saved = edits[obj.id] || edits[OLD_EDIT_ID_BY_PREFERRED.get(obj.id)] || null;
+    return {...obj,...(saved||{}),status:saved?'local_edit':obj.status};
+  };
   const esc = s => String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
   // A deliberately limited offline conversion map; not a general-purpose OpenCC implementation.
   const PAIRS='織织 錦锦 羅罗 漢汉 屬属 風风 習习 禮礼 婚婚 姻姻 來来 髮发 髻髻 爭争 鬥斗 體体 服服 飾饰 刀刀 弩弩 與与 進进 歲岁 獞獞 祭祭 舞舞 踏踏 採采 會会 買买 賣卖 圖图 內内 處处 降降 較较 類类 籃篮 編编 鐵铁 銅铜 紅红 書书 語语 風风 衣衣 藥药 畫画 著着 農农 絲丝 綢绸 結结 嬰婴 獷犷 悍悍 紡纺 紗纱 綿绵 婦妇 野野 斗斗 藏藏 關关 談谈 飲饮 漁渔 馬马 職职 眾众 對对 製制 照照 華华 兒儿 牽牵 器器 舊旧 變变 各各 言言 歸归 雲云 廣广 州州 黎黎 平平 蠟蜡 染染 盤盘 節节 慶庆 騎骑 牛牛 笙笙 樂乐 嫁嫁 娶娶 窟窟 掃扫 經经 發发 經经 承承 識识 較较 實实 錄录 檔档 誌志 傳传 戰战 證证 講讲 煙烟 槍枪 鋤锄 裝装 盜盗 機机 養养 銀银 頭头 梳梳 佩佩 短短 長长 戴戴 室室 門门 將将 邊边 義义 鄉乡 俗俗 聘聘';
