@@ -1,0 +1,5 @@
+# Large external scans, PDFs, and private API candidates stay on the researcher's computer.
+work/external_albums/
+__pycache__/
+*.pyc
+.DS_Store
