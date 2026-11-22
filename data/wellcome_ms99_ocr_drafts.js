@@ -1,6 +1,6 @@
 // Wellcome MS Chinese 99 · provisional AI image readings, NOT human-verified.
-// 2026-11-22, from user-supplied high resolution scan crops. Blank pages are not OCRed.
-// raw OCR is intentionally left empty; these are visual-reading drafts, not OCR engine outputs.
+// 2026-11-22, from user-supplied high resolution scan crops; blank leaves excluded.
+// OCR engine raw output is intentionally not misrepresented as corrected text.
 window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
   "wellcome-ms99-p0005": {
     "title": "倮猓",
@@ -56,6 +56,78 @@ window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
     "transcription": "查蔡家苗，即蔡人，本中國之裔。春秋時，蔡為楚子蠶食，俘其民而放之南徼，遂流為夷。並無土司部落，明始歸流。在貴筑、修文、清平、清鎮、威寧、大定、平遠等處，民苗雜居，稅糧一體，並無苗額，亦無苗地物產。男子製毧為衣，婦人以毧為髻飾，以青布若牛角狀，高尺許，用長簪綰之。短衣長裙，筒褲，不通言，猶存古禮。",
     "translation": "The account calls this group the “Caijia Miao” and asserts that they descend from people of the ancient state of Cai. According to its narrative, Cai was encroached upon by Chu during the Spring and Autumn period, and captives were sent to the southern frontier, where they subsequently became classified as non-Han peoples. The text says that the group had no native chieftain organization and came under regular administration in the Ming. It locates them in Guizhu, Xiuwen, Qingping, Qingzhen, Weining, Dading, and Pingyuan, where it says they lived among other residents and paid taxes without a separate Miao assessment. It describes clothing made from woven fabric and women's distinctive horn-shaped headdresses fashioned with blue cloth and secured with long hairpins. Its closing assessment that their speech was not understood yet that they retained ancient customs reflects the author's perspective.",
     "notes": "2026-11-22 AI 对照高清裁图视读的中文草稿及英译，尚待研究者逐字核校。族源叙述是原作者的历史主张，并非现代学术结论。『毧』『筒褲』等字形需复核。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0019": {
+    "title": "峒人",
+    "title_en": "Dong people (historical label)",
+    "transcription": "查峒人係西南夷，散處下游，無土司部落，明始歸流，並無賦稅。冬採茅花為絮以禦寒，飲食避鹽醬。夫婦出入必偶，性多忌，喜殺。土產峒錦。",
+    "translation": "The account identifies the “Dong people” as peoples of the southwestern frontier, dispersed along the lower river areas. It says they had no native chieftain divisions, came under regular administration beginning in the Ming, and were not subject to taxation. In winter they collected reed or grass fluff for insulation against the cold. The author claims that they avoided salt and sauces in their diet, that husbands and wives always went out together, and that they were jealous and prone to killing. The final line names Dong brocade as a local product. The latter characterizations reflect the historical author's assumptions.",
+    "notes": "AI 依据高清题记直接视读，尚未人工独立核校。『峒／洞』『茅花』及历史族称保留可见字形；对『喜殺』的历史偏见在英译中注明。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0025": {
+    "title": "犵狫",
+    "title_en": "Gelao (historical ethnonym)",
+    "transcription": "查犵狫係西南夷，並無部落土司，明始歸流。所在多有民苗雜居，稅糧一體，並無苗額，亦無苗地物產。苗人屋宇去地數尺，架以巨木，上覆杉葉，如羊柵，謂之羊樓。其人悍而善奔，輕命重義，得片肉卮酒，即捐軀與之。",
+    "translation": "The group historically labeled “Gelao” is described as a people of the southwestern frontier without tribal native chieftain offices who came under regular administration in the Ming. The text says that members of different communities lived interspersed and paid taxes on the same basis, without separate Miao quotas or designated Miao lands or products. It describes houses raised several feet above the ground on substantial timber supports, roofed with fir foliage, and called “yanglou” (literally, “sheep towers”). The author portrays the people as bold runners who prize loyalty above life, claiming that even a small portion of meat and a cup of wine could secure their devotion. Such generalizations are those of the historical writer.",
+    "notes": "高精度裁图 AI 视觉初读；未经研究者核校。『犵狫』历史族称与『卮酒』请再次复核；『羊柵』字形也待考。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0035": {
+    "title": "六額子",
+    "title_en": "Liu'ezi (historical label)",
+    "transcription": "查六額子在大定府屬，有黑白二種。宋時係烏撒部，元明內附，授宣慰使。國朝康熙三年改土歸流，置府。夷人男子結尖髻，帶耳環、項圈，婦人長衣不著裙。風俗與龍家苗略同，應輸稅糧，民苗一體，並無苗額。土產巖尖、穀毧蓑、烏梅、山丹、杜鵑、豪猪、竹鼯。",
+    "translation": "The “Liu'ezi” are placed within Dading Prefecture and divided by the account into black and white categories. It associates them with the Wusa division under the Song, describes their incorporation under the Yuan and Ming, and states that native administration was replaced by regular administration in the third Kangxi year. Men are described as wearing pointed topknots, earrings, and neck rings; women are said to wear long garments without skirts. The text compares their customs to those of the Longjia Miao and says that they paid taxes on the same basis as other subjects, without a distinct Miao quota. It ends with a list of local products, plants, and animals.",
+    "notes": "AI 依据高清扫描题记视读，非学者人工核校。『六額子』『巖尖』『穀毧蓑』等专名及物产需校核。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0036": {
+    "title": "猺苗",
+    "title_en": "Yao Miao (historical label)",
+    "transcription": "查猺苗在永豐州、冊亨、羅斛等處，原隸粵省，向為泗城土府所屬。雍正五年分隸黔省，改土歸流，設永豐州治，分駐冊亨州同、羅斛州判，隸南籠府。額征化海認納苗賦銀四十九兩八錢九分。苗人俱蓬髮，衣服與漢人同。婦人短衣長裙，首蒙青花布手巾，勤於耕織。性悍嗜殺，自改流後漸遵禮法。土產硃砂、雄磺。",
+    "translation": "The source places those called “Yao Miao” around Yongfeng Department, Ceheng, and Luohu. It says the area formerly belonged to Guangdong Province and was under the native prefecture of Sicheng; in the fifth year of Yongzheng it was transferred to Guizhou and reorganized under regular administration, with offices established at Yongfeng, Ceheng, and Luohu subordinate to Nanlong Prefecture. A Miao tax payment of 49 taels, 8 mace, and 9 candareens of silver is specified. The account describes hairstyles and clothing, noting women's short jackets, long skirts, and blue patterned headcloths, as well as agricultural and textile work. It characterizes the group as violent and says that customary practices changed under regular administration—an evaluative claim of the original author. The listed local products are cinnabar and realgar.",
+    "notes": "AI 直接对照图像初校，未经研究者逐字核对。末句明确可见『土產硃砂雄磺』，与矿物及边疆环境史相关；『雄磺』是否应规范作『雄黃』需据原字确认，暂不擅改。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0037": {
+    "title": "平伐苗",
+    "title_en": "Pingfa Miao (historical label)",
+    "transcription": "查平伐苗在貴定縣屬。明洪武置新添衛，領平伐、大平伐、小平伐、新添、把平、丹平各長官司。萬曆三十三年設貴定縣。國朝順治十八年革丹平司，改土歸流；康熙二十六年裁衛併縣；雍正五年革把平司，改土歸流，仍領平伐、大平伐、小平伐、新添四土司。苗人男子披草衣短裙，婦人穿長桶裙。婚姻及享賓皆屠狗。性喜閒，出入必執長鎗。近皆馴服。應輸稅糧，民苗共納。土產葛布。",
+    "translation": "The “Pingfa Miao” are placed under Guiding County. The text traces local administration from the establishment of Xintian Guard under the Ming through successive changes in native-official jurisdictions during the Wanli, Shunzhi, Kangxi, and Yongzheng reigns. It describes men's grass garments and short skirts and women's long tubular skirts. The author claims that dogs were slaughtered for weddings and for entertaining guests, and characterizes the people as fond of leisure and accustomed to carrying long spears. It says they had more recently come under official control, and that taxes were paid collectively with other residents. Ramie or kudzu cloth is listed as a local product. The ethnographic judgments are those of the historical source.",
+    "notes": "AI 按原图竖列进行初读，未经独立校对。『平伐』『把平』『丹平』等官署地名须核对，『性喜閒』读法待考。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0040": {
+    "title": "花苗",
+    "title_en": "Hua Miao (historical group label)",
+    "transcription": "查花苗係西南夷，並無土司部落，明始歸流，在貴陽、大定、遵義等處，民苗雜居，稅糧一體，並無苗額，亦無苗地物產。衣無衿裹而納諸首，男以青布裹頭，婦人蓄尾禿髮為髻，大如斗籠，以木梳先用臘繪花於布而後染之，既染去臘，則花紋似錦，用為裳服，故曰花苗。每歲孟春合男女於野，謂之跳月；擇平壤地為月場，鮮衣艷裝，男吹蘆笙，女振響鈴，盤旋歌舞，情投契而共處，生子乃歸夫家。其性戇而畏法，其俗陋而力勤，以六月為歲首。",
+    "translation": "The text locates the “Hua Miao” in the southwestern frontier around Guiyang, Dading, and Zunyi, among other residents, and says that they had no separate native chieftain units or distinct Miao tax quotas. It describes blue headwraps for men and elaborate women's hairstyles. The account then describes a wax-resist textile process: designs are drawn in wax on cloth, the cloth is dyed, and the wax is removed, leaving patterns resembling brocade. It offers this patterned dress as the explanation of the group's name. The passage goes on to describe the spring “jumping the moon” festival, in which young men play the lusheng reed-pipe instrument and women ring bells while participants dance and form relationships. It says couples may begin living together before a woman joins her husband's household after childbirth. The author adds disparaging judgments about character and customs, and says the sixth month marked the beginning of the year. These descriptions preserve the source's historical viewpoint.",
+    "notes": "2026-11-22 AI 视觉识读草稿，未经研究者逐列校核。原文写『臘』而非现代规范的『蠟』，目前按可见写法保留；『衣無衿裹』『蓄尾禿髮』等字需复核。跳月及蜡染叙述是史料中作者的表述。",
     "status": "image_checked_draft",
     "page_kind": "caption",
     "translation_status": "ai_draft",
