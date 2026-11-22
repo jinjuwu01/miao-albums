@@ -452,5 +452,97 @@ window.MIAO_ENGLISH_DRAFTS = {
   "new-jingong-plate045": {
     "translation": "The Chezai Miao are said to descend from several hundred soldiers of Ma Sanbao who settled after a campaign near Shuixi and formed households with Miao women. Men and women are described as skilled in playing instruments, singing, and dancing together at social visits. Some speak Chinese but also retain distinct local speech. Men wrap their heads with blue cloth and women wear multicolored Miao dress. The account locates them among six stockades.",
     "translation_status": "ai_draft"
+  },
+  "new-jingong-plate046": {
+    "translation": "The Tumu are described as hereditary local headmen under Dading, comprising black and white branches. A lineage account traces them through Jihuo, Luodian, and the An chieftain family and says men bind blue cloth into horn-shaped headpieces. The source praises their horsemanship, hunting, and use of weapons, while reporting that they do not intermarry with commoners. [An extensive middle passage on places and hereditary offices has not yet been securely transcribed.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate048": {
+    "translation": "The Jiantou Guoguo live in Guiding. Men and women keep their hair cut to about an inch, and the dead are cremated on piles of firewood. The text also mentions another group, the Zhu or Gou Guoguo [designation uncertain], whom the author depicts in demeaning terms as unwashed and sharing quarters with domestic animals. It alleges that they eat prey voraciously. Those in Qingping are said to understand Chinese and obey government orders; related communities occur in Shiqian, Liping, and Guzhou.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate049": {
+    "translation": "The Xixi Miao are said here to live under Dading Prefecture. Men dress in blue cloth and women in multicolored garments. Men and women wear loose hair, play the lusheng, and meet for moon dancing. The author portrays nighttime courtship and relationships in moralizing language and links the group name to these practices.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate052": {
+    "translation": "The [Yi/Shuang] Erzi [group name uncertain] live around Dading. The account describes men and women farming, although one phrase about men's work appears contradictory. On the third day of the third, sixth day of the sixth, and ninth day of the ninth lunar months, villages offer livestock and wine before sacred trees. Elderly women arrange their hair in coils. The text also describes servants who are treated leniently, permitted to marry, and given a small share of land, and households living in elevated houses. [Several social and property terms remain unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate054": {
+    "translation": "The 'Black Branch' is described as occupying a rank below the hereditary Tumu chiefs. Its members are subject to restrictions on living and traveling with Tumu families, and may be fined for failing to step aside on the road. Elaborate deference is required when meeting a chief. The source also describes a hierarchy within Guoluo groups and a wedding custom in which a bride washes the feet of senior relatives in return for money or gifts. Funerary customs are compared with those of the Tumu. [A passage about marriage sanctions is missing.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate055": {
+    "translation": "The Qing Miao live around Guiyang, Anshun, and Dading. Men wear bamboo hats, while women wear patterned headcloths, large earrings, short tops, and long skirts. They farm and, according to the source, some study classical texts. At a parent's death, the body is kept at home for three days and dogs are used in ritual offerings. The text describes an unusual sideways burial and courtship at flower-dancing gatherings, with cattle and wine subsequently offered as betrothal gifts. [The phrase explaining the burial position remains uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate057": {
+    "translation": "The Hong Miao live in Tongren Prefecture; surnames listed include Wu, Long, Shi, Ma, and Bai. Their clothing uses red, green, and patterned fabrics. The author claims they prepare meat by singeing off the hair and cooking it only briefly. The dead are placed in coffins, while images or garments of the deceased are displayed during drumming and dancing, called tiaogu ('drum dancing'). On a specified day in the fifth lunar month, spouses reportedly sleep apart and observe silence and seclusion to avert harm from tigers. Women are said to help reconcile disputes.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate058": {
+    "translation": "The Bai Zhongjia live in Pingyue, Duyun, Xingyi, and nearby areas. Men and women wear fox-tail ornaments and light-colored clothing and work at agriculture. The source describes a leisure activity involving striking or sounding an old wooden post and contests in which people embrace around the waist and try to overpower one another, with spectators praising winners or penalizing losers. [Several terms for the game and its instruments are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate059": {
+    "translation": "The Qingjiang Hei Miao live in Qingjiang, Liping, and Guzhou. The passage describes marriage obligations between related families, including a payment called 'nephew money' when a marriage cannot proceed. It also mentions youthful courtship, mourning at graves, and bamboo poles decorated with colored thread to commemorate a deceased person's former partners. The tenth lunar month begins the New Year. The text portrays divisions between households of higher and lower status and says guests receive wine served from ox horns. [Several kinship rules require close rechecking.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate060": {
+    "translation": "The Hong Guoguo live under Guiyang. Men and women wear homespun cloth, and women weave tube skirts from sheep or dog wool. The source distinguishes groups associated with flowered cloth and red cloth, and says they form separate marriage circles. [The middle portion of the original description remains untranscribed; no additional customs are inferred here.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate061": {
+    "translation": "The Luohan Miao live under Liping. The account says they revere Buddhist arhats at rock caves. Men and women wear fox-tail ornaments; men wear blue clothing and women patterned Miao brocade resembling that of the Hua Miao. Their other customs are described as similar to those of neighboring Miao groups.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate062": {
+    "translation": "The Duanqun Miao live around Zhenyuan and Sinan. Men and women wear embroidered brocade; women's skirts reach above the knees, and wealthier women wear many silver neck rings. Sweetened balls of glutinous rice are exchanged as signs of friendship or affection. In their spare time, people gather purple dye plants in the mountains, alongside agricultural work.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate063": {
+    "translation": "The Baizi live around Yijianli under Dading. The source makes explicitly derogatory claims about courtship and sexual conduct in the presence of relatives. It says men trade woolen goods while women spin, weave, and work diligently at farming. These assertions reflect the author's moralizing perspective.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate064": {
+    "translation": "The Heijiao Miao live around Liping and Duyun and are compared with the Hei Sheng Miao. Men wear pheasant feathers in their hair and earth-colored clothing; women wear flowered garments. The author claims that before attempting theft, they practice divination with snails and decide whether to steal cattle or horses according to whether the snails open. The passage characterizes the people as fierce and poor; these are historical allegations rather than independently verified observations.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate065": {
+    "translation": "The Gutou Miao live under Sizhou. Men wear blue garments, and women wrap their hair in tall cloth arrangements compared with horse stirrups. The people cultivate diligently. Those without cattle are said to plow by human labor, with one person pulling and another pushing the plow.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate066": {
+    "translation": "The Guozhu Longjia live in Guangshun. Men wear hemp clothing and women wear a single hairpin in an old-fashioned style, with rows of colored woolen beads decorating their collars. At birthdays of lineage elders, family members present gifts as signs of respect. The account compares their clothing and customs with those of the Madeng and Datou Longjia.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate068": {
+    "translation": "The group called Manren is recorded in Xintian and [Danxing, uncertain]. Men wear grass garments and short homespun skirts. At funerals cattle are slaughtered and people sing and dance. The first day of the tenth lunar month is a major festival; offerings to spirits fall on particular calendrical days. The text describes farming, fishing, hunting, and carrying knives or crossbows and mentions Ranjia Man communities along the Yanhe River with similar customs. [Several place names and ritual words require checking.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate047": {
+    "translation": "The Chezai Miao are said to descend from several hundred soldiers of Ma Sanbao who settled after a campaign near Shuixi and formed households with Miao women. Men and women are described as skilled in playing instruments, singing, and dancing together at social visits. Some speak Chinese but also retain distinct local speech. Men wrap their heads with blue cloth and women wear multicolored Miao dress. The account locates them among six stockades.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate050": {
+    "translation": "The Liudong people live in Guangshun and are said to have migrated from Guangxi during the eighth year of Yongzheng (1730). The account describes cave dwellings and marriage within their own community rather than with other groups. At weddings, several people escort the bride carrying umbrellas, one of which covers her. The bride's household prepares a full dowry; she may cover her mouth with white cloth while female relatives accompany her. Otherwise, men's and women's dress resembles that of Han people.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate051": {
+    "translation": "The Lengjia Miao live around Qingjiang, the Eight Stockades, and Guzhou. The source says couples may choose one another without arranged marriage or a matchmaker and meet in the mountains. A formal betrothal ceremony may follow the birth of a child, with gifts of silver, cattle, or horses exchanged. Both families honor their ancestors as the continuation of the lineage is recognized.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate053": {
+    "translation": "The Louju Miao have head ornaments likened to sheep's horns, worn by men and women alike. They prefer elevated houses, raise livestock, and wear distinctive clothing: men carry large knives while women wear multicolored garments. Communities are found around Xingyi. The text describes courtship through lusheng playing and moon dancing and says the people also farm diligently.",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate056": {
+    "translation": "The Maoda Zhongjia live around Xingyi. The source describes a courtship game in which young men and women meet in caves and strike at one another with bamboo tubes or implements decorated with chicken feathers. According to the account, the outcome helps determine a marriage match, and the winning or losing participant must perform a ritual gesture called 'rooster head.' [The details of the game are difficult to read and should not be interpreted literally without checking the scan.]",
+    "translation_status": "ai_draft"
+  },
+  "new-jingong-plate067": {
+    "translation": "The Kemeng Guyang Miao live in Jinzhusi, Guangshun. They carve dwellings into high cliffs, sometimes reached by long bamboo ladders, and cultivate slopes using hand tools rather than draft cattle. Courtship involves lusheng dancing, while betrothal gifts may be exchanged after children are born. The source describes singing and dancing rather than weeping immediately after a parent's death in a rite termed naoshi. Yet, upon hearing the cuckoo in spring, the family weeps, saying that the bird returns each year but the deceased parent does not. [Some agricultural and marriage terms are uncertain.]",
+    "translation_status": "ai_draft"
   }
 };
