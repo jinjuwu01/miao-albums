@@ -9,8 +9,8 @@
 - [俄藏下冊，Ф.274 №54.2](https://jinjuwu01.github.io/miao-albums/index.html#rsl-f274-v2-p002)：原始 PDF 共 46 掃描頁；不與上冊或其他同名傳本合併。
 - [曼徹斯特 Chinese Crawford 398](https://jinjuwu01.github.io/miao-albums/index.html#manchester-c398-p002)：官方 IIIF **202 canvases**（卷一 1–102、卷二 103–202）。**其中 186 張標注為館方序列的葉片索引（1–95 號與 1–92 號，分卷計）；16 張為封面、封底、書口或其他裝幀照片**。此數字是影像序列，**不是** 186 幅已校正畫作的主張。
 - 合計新增 **295 條可逐頁瀏覽的原始掃描記錄**。每條有穩定 ID、`copy_id`、`work_id`、原館藏號、原頁碼、遠端影像與來源連結。俄藏 PDF 的 Commons 頁面縮圖有可能受遠端轉碼／載入限制；若無法顯示，可在詳細頁使用原件 PDF 來源連結，切勿用其他版本畫作替代。
-- 對俄藏，只有 PDF 第一頁書衣可確定為非正文；其他頁的文字／彩繪結構，**尚未逐張分類**。曼徹斯特的非正文分類來自 IIIF canvas label，不得將每個序號直接視為畫幅或題記。
-- **文字狀態：新增 0 條已完成 OCR，新增 0 條已完成英文譯文。** 本次更新沒有改動既有人工校讀文件。所有未處理頁均標注 `scan_only`，而非虛構的識讀文字。資料檔：[data/rsl_manchester_scans.js](data/rsl_manchester_scans.js)。
+- 已逐張核圖：俄藏上冊 PDF 第 1–4 頁為書衣、封面或襯頁；第 5–9 頁為左圖、右側題記的五幅對開圖說，並分離了彩繪與題記小圖。曼徹斯特 IIIF Canvas 2–5 為空白襯頁，Canvas 6–7 為《蠻獠圖說》總序的手寫文字；其餘未核圖的葉片仍標記 `scan_only`，不能當作已完成 OCR。
+- **文字狀態：已新增 7 條中文 AI 視讀／英文試譯草稿（俄藏上冊 PDF 第 5–9 頁五幅、曼徹斯特 Canvas 6–7 總序開首片段）。新增人工已校定稿為 0。** 俄藏仍有疑字；曼徹斯特只譯了開首可確認部分，未將餘文冒充全文。Tesseract 機器 OCR 在書法手稿上出現嚴重亂碼，僅作質量測試留在獨立資料檔，未匯入正式閱讀層。原掃描索引：[data/rsl_manchester_scans.js](data/rsl_manchester_scans.js)；試讀稿：[data/rsl_manchester_ocr_drafts.js](data/rsl_manchester_ocr_drafts.js)。
 
 ### 中文 OCR／英譯的下一個可執行工作流
 
@@ -33,7 +33,7 @@ python3 scripts/process_external_albums.py --source all --mode publish --dry-run
 python3 scripts/process_external_albums.py --source all --mode publish
 ```
 
-草稿輸出在被 `.gitignore` 排除的 `work/external_albums/`，尚未經人工目視核對之前請勿以正式轉錄引用。正式發表層是獨立的 `data/rsl_manchester_ocr_drafts.js`（目前空物件）。**此批腳本已加入代碼倉庫，但未在此工作環境實際執行下載或 OpenAI OCR。** 下一步必須驗證逐頁影像可用性，確認圖文是否對開、記錄題記的實際版面，然後逐幅校讀轉錄、譯文、疑字與不同傳本差異。
+草稿輸出在被 `.gitignore` 排除的 `work/external_albums/`，尚未經人工目視核對之前請勿以正式轉錄引用。正式試讀稿層是獨立的 `data/rsl_manchester_ocr_drafts.js`（已有 7 條 AI 草稿，未人工校訂）。**此批腳本已加入代碼倉庫，但未在此工作環境實際執行下載或 OpenAI OCR。** 下一步必須驗證逐頁影像可用性，確認圖文是否對開、記錄題記的實際版面，然後逐幅校讀轉錄、譯文、疑字與不同傳本差異。
 
 ---
 
@@ -45,7 +45,7 @@ python3 scripts/process_external_albums.py --source all --mode publish
 - Manchester Chinese Crawford 398：已核實官方 [IIIF v2 Manifest](https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398)。在館藏詳細頁按「展開 IIIF 逐頁影像」，瀏覽器會在使用者點擊後載入遠端清單，按每 24 頁展示縮圖；若館方限制跨來源請直接在原站查看。遠端縮圖的授權依曼徹斯特館方規定（IIIF 註明圖片與可下載材料的權利不同）。
 - 「Wellcome MS Chinese 103」館方目前標為 `Wellcome Chinese Collection 103`，沒有確認「雲南營制苗蠻圖冊」的正式館藏題名；後者是第三方識別，暫不能以此代替館藏書目。
 - 俄罗斯国家图书馆《百苗圖》是**拟题**，以書號 Ф.274 №54.1–54.2 作為版本鍵；掃描分別在 Commons 上下冊。早稻田《苗族習俗圖説》與已有陳浩相關圖冊疑似相關，須先對勘去重。
-- **此批只提交作品、館藏版本與來源入口，沒有新增任何未經核實的 `transcription`、`translation`、`ocr_raw` 或圖像檔。** 原有 970 等頁面 OCR 統計（實際數量由現有記錄動態產生）與人工編輯資料完全不變。
+- **初期的館藏目錄只收錄書目線索；此後獨立新增了兩套館藏的掃描索引與 7 條帶缺字註記的中文試讀／英譯草稿。** 原有人工校勘資料沒有被覆寫，首頁的頁面和 OCR 統計由現有記錄動態產生。
 
 ### 下一步匯入規則 / Rules for importing scanned leaves
 
