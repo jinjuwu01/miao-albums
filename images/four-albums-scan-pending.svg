@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="840" viewBox="0 0 1200 840" role="img" aria-labelledby="t d">
+<title id="t">原始扫描尚待发布 / Scan not yet hosted</title><desc id="d">A neutral notice. Not a reproduction of the historical artwork.</desc>
+<rect width="1200" height="840" fill="#eee9df"/>
+<rect x="72" y="64" width="1056" height="712" rx="10" fill="#f8f5ef" stroke="#d4c6b3" stroke-width="2"/>
+<path d="M160 182h880M160 652h880" stroke="#d0c4b5" stroke-width="2"/>
+<text x="600" y="365" fill="#453c31" text-anchor="middle" font-family="Noto Serif SC,Songti SC,serif" font-size="45">原始图像尚待上传</text>
+<text x="600" y="435" fill="#62594c" text-anchor="middle" font-family="Georgia,serif" font-size="29">Original scan not yet hosted</text>
+<text x="600" y="540" fill="#817669" text-anchor="middle" font-family="Noto Serif SC,Songti SC,serif" font-size="22">这不是历史彩绘，仅为网站临时提示图</text>
+<text x="600" y="575" fill="#817669" text-anchor="middle" font-family="Georgia,serif" font-size="18">Not a reproduction of the source image</text>
+</svg>
