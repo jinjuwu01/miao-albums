@@ -1580,5 +1580,113 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-9e2b3d98dc2e-plate0027": {
     "translation": "The 'Wild Xifan' wear loose hair and felt garments and do not remain in fixed settlements. They grow wheat and raise cattle and yaks. The author distinguishes their customs from those of other Tibetan groups near Yongbei and Yongchang.",
     "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0028": {
+    "translation": "The Miao Guoluo build thatched houses in mountain areas and sit or sleep around hearths. Men wear robes and bird-feather caps; women wear triangular headdresses and embroidered chest and back panels. They sing to the lusheng and wear straw sandals. The source locates them around Menghua and Yongchang.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0029": {
+    "translation": "The Kucong live in rocky mountain places, grow vegetables, and wear blue cloth. The author praises their thrift and gentle manner and compares their customs with those of the Nuobi. They are found near Jingdong, Pu'er, and Yuanjiang.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0030": {
+    "translation": "The Aka of Pu'er are depicted in derogatory terms about intelligence and appearance. Men wear waist wraps and hunt occasionally after farming; women wear blue garments fastened with red vines and visit towns.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0031": {
+    "translation": "The Burmese Genzi outside Simao are described as impetuous and fierce. They bind cloth around their heads, wear close-sleeved silk garments, and domesticate elephants to carry firewood and water or to ride.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0032": {
+    "translation": "The Burmese Mangzi outside Simao are described as calm and commercially minded, wearing colorful silks. They inscribe their script on palm leaves or bamboo using iron styli. The source describes translation from their script into Burmese and then Chinese for official correspondence.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0033": {
+    "translation": "The Sanzuomao of Simao cultivate tea and hunt. Their clothes have long strips of cloth hanging behind like tails. The text explains three patches of shaved hair through loyalty to the emperor and reverence for parents. [The symbolism of the hairstyle is uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0034": {
+    "translation": "The Hei Pu of Weiyuan in Pu'er are described as dark-complexioned, with speech likened to Tibetan. They farm, spin fibers, and are especially skilled at making bamboo utensils.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0035": {
+    "translation": "The Longren around Pu'er farm and weave. On New Year's Day they play on swings, which the author interprets as training agility and symbolizing wishes for longevity.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0036": {
+    "translation": "The Hei Woni under Simao cultivate tea. Women are diligent spinners and, according to the source, keep working with thread even as they walk along roads.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0037": {
+    "translation": "Burmese Buddhist monks are described as eating meat and pungent foods but refusing meat from animals they see killed. They write Buddhist scriptures on palm leaves in Burmese characters, keep chickens and cats, and chant while the animals circle nearby.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0038": {
+    "translation": "The Hua Baiyi of Pu'er live near water and make a living from fishing and farming. They are said to favor sour and spicy flavors. In the third lunar month, men and women beat drums, gather flowers, and pile sand as offerings to the Buddha in hopes of good fortune.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0039": {
+    "translation": "The Youyula, also called Geluo, are said to come from a neighboring state. They keep only a small tuft of hair, hence the name 'one-tuft hair'; the text describes tattooing, scant clothing, and bodily strength. They are found beyond Simao. [The name of the state is uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0040": {
+    "translation": "The Lao people near the Pu'er frontier wear cloth garments and lacquered hats. They are described as gentle, enter towns for trade, and exchange goods according to local needs.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0041": {
+    "translation": "The Changtoufa, or 'long-haired people,' are described as wearing long loose hair and tattoos and enduring difficult terrain. They are recorded around the Jiulong River under Pu'er.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0042": {
+    "translation": "The Burmese Bengzi beyond Simao are described as warlike, with clothing and food similar to the Genzi. They carry weapons when going out and are said not to retreat even when encountering dangerous wild animals.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0043": {
+    "translation": "The Luhei Guoluo wear clothing like the Hei Guoluo, enjoy hunting, and ride horses through forested valleys while carrying spears. They live under Lin'an.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0044": {
+    "translation": "The Sahuan Guoluo of Mengzi under Lin'an are described as differing somewhat from the black and white Guoluo branches. They cultivate diligently and are said to eat birds and rodents.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0045": {
+    "translation": "The Woni of Lin'an and neighboring prefectures are characterized by the author as thrifty. Men pierce their ears and go barefoot; women coil red-and-white silk into their hairstyles and wear multicolored garments. Customs vary by locality.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0046": {
+    "translation": "The Maicha under Lin'an offer strong cattle as betrothal gifts. At weddings people play the lusheng and drink wine to entertain guests. The author portrays them as industrious and contented throughout the year.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0047": {
+    "translation": "The Pula, also called Pula with an alternate character, live near Lin'an. The source uses the label 'wild' and says their speech is unintelligible to outsiders. They farm and carry sheepskins wherever they travel.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0048": {
+    "translation": "The Tu Liao live under Lin'an and other prefectures. The author describes them as straightforward. Men wear plain cloth and women colored garments. They work as woodcutters or tenant farmers; their customs are compared with those of the Bai Guoluo.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0049": {
+    "translation": "The Bai Woni of Zhenyuan farm and weave; men and women wear blue-and-white garments. They carry produce or goods to market in baskets. The author calls them fierce but law-abiding.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0050": {
+    "translation": "The Ye Guzong live in rugged mountain valleys near Zhenyuan and Yuanjiang. The source uses highly demeaning descriptions, claiming they live among wild animals without permanent houses.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0051": {
+    "translation": "The Nuobi are described as a branch of the Woni around Yuanjiang and Pu'er. The author calls them proud but principled. They eat rice with their hands, live in remote settlements, rarely visit towns, and work diligently.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0052": {
+    "translation": "The Shansu of Yuanjiang wear short hair and go barefoot. They build plank houses deep in the mountains, grow millet, weave bamboo goods to sell at market, and hunt animals for roasting.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0053": {
+    "translation": "The Kasui of Yuanjiang are said to enjoy songs and dancing. Weddings involve matchmakers and substantial bridewealth; the account interprets this as valuing daughters.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0054": {
+    "translation": "The Hei Pu of Yuanjiang are praised for their house-building skills and craftsmanship in bamboo beds and other furnishings. They raise sheep but do not eat mutton.",
+    "translation_status": "ai_draft"
   }
 };
