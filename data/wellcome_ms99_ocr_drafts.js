@@ -1,6 +1,4 @@
-// Wellcome MS Chinese 99, provisional AI reading + draft English translation.
-// Based on user-supplied high-resolution page images. Not independently human-reviewed.
-// □ means illegible character. Page 0033 has an explicit omission in administrative history.
+// Wellcome MS Chinese 99: provisional AI image readings and English drafts; never cite as human-verified.
 window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
   "wellcome-ms99-p0005": {
     "title": "倮猓",
@@ -349,13 +347,13 @@ window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
     "transcription_scope": "provisional_full_with_uncertainties"
   },
   "wellcome-ms99-p0033": {
-    "title": "□□苗（原題待核）",
-    "title_en": "Historical Miao heading illegible (scan 33)",
-    "transcription": "查□□苗在都勻、黎平、黃平、龍泉、龍里、石阡、施秉、餘慶等處。在都勻者，明時置府，領丹平、丹行、平州、天壩、平浪、邦水、都勻正副各長官司。國朝康熙二十三年革丹平司，五十二年革丹行司，五十五年革平州司，五十九年革天壩司，雍正五年革平浪司，俱改土歸流，仍領邦水、都勻正副三土司。在黎平者，明時置府，領古州、曹滴、潭溪、八丹、洪州、西山、福祿、永從等長官司。〔以下各州縣、長官司沿革數列待完整逐字校核〕。國朝因之。苗種最夥，剽悍不逾門戶，不局出入以泥封之。其服食風俗與漢人同，男子計口而耕，婦人度身而織；暇則操弓以漁獵為事。應輸稅糧，惟黎平府屬額征化海認納苗賦銀一百六十八兩八錢六分一釐三毫，餘俱民苗一體，並無苗額。都勻產苗酒、黑鉛、白鉛、棉花、銀杏、百合、鯽魚、方竹；黎平產苗錦、皮布、木耳、排香草、青皮香；黃平產黃精、南星、竹雞；龍泉產湘妃竹；石阡產硃砂、水銀、鐵膽、木瓜、知母、湘妃竹、白兔；施秉產香禾米、蔓竹；餘慶產石膏、朴竹、萬壽菊、香禾米。",
-    "translation": "The historical ethnonym at the head of this long entry has not yet been securely identified. It places the group across Duyun, Liping, Huangping, Longquan, Longli, Shiqian, Shibing, and Yuqing. The opening section traces the native chieftain offices and successive administrative reorganizations of these places; part of that lengthy section still awaits exact transcription. The account then describes agriculture, household textile work, and fishing and hunting, as well as separate or shared tax assessments, including a levy assigned to Liping. The final product lists are particularly important: the Shiqian entry names cinnabar (zhusha, 硃砂) and mercury (shuiyin, 水銀), together with several medicinal products. Elsewhere the source names wine, lead, cotton, brocade, mushrooms, plants, and bamboo. This is a provisional reading and partly an English summary, not a complete verified translation.",
-    "notes": "2026-11-22 AI 依据用户高清扫描视读；尚未经过研究者校核。此页文字极密，原族称字形和中段行政沿革尚未完整转录，因此明确标为部分试稿，不冒称已完成全文 OCR。重点确认左侧物产栏可见『石阡產硃砂、水銀』；其余物产地名仍应复查。",
-    "transcription_scope": "partial_administrative_middle_omitted",
-    "translation_scope": "partial_summary",
+    "title": "𦍕獷苗",
+    "title_en": "𦍕獷 Miao (historical group label)",
+    "transcription": "查𦍕獷苗在都勻、黎平、黃平、龍泉、龍里、石阡、施秉、餘慶等處。在都勻者，明時置府，領丹平、丹行、平州、天壩、平浪、邦水、都勻正副各長官司。國朝康熙二十三年革丹平司，五十二年革丹行司，五十五年革平州司，五十九年革天壩司，雍正五年革平浪司，俱改土歸流，仍領邦水、都勻正副三土司。在黎平者，明時置府，領古州、曹滴、潭溪、八丹、洪州、西山、福祿、永從、湖耳、亮寨、歐陽、新化、龍里、中林、赤溪各長官司，後革福祿、永從二司改土歸流，置永從縣。國朝順治十七年革曹滴司，康熙二十三年革赤溪司，二十五年革西山司，俱改土歸流，仍領古州、八丹、亮寨、新化、龍里、中林、潭溪正副、洪州正副、湖耳正副、歐陽正副十四土司。在黃平者，明時置州，領朗城、巖門二長官司，朗城、重安二土吏目。國朝雍正五年革朗城司及土吏目改土歸流，仍領巖門一土司、重安一土吏目。在龍泉者，明時改龍泉司為縣，設土縣丞、土主簿、土百戶，後革土百戶改土歸流。國朝康熙二十三年革土縣丞、土主簿，俱改土歸流。在龍里者，明時係龍里衛，領龍里、水東、羊腸、大、小谷龍五長官司，後革龍里、水東二司改土歸流。國朝康熙十一年改衛為縣，領羊腸、大、小谷龍三土司。在石阡者，元時係石阡長官司，明永樂十一年置石阡府，領龍泉、葛彰、苗民、石阡正副五長官司，萬曆間改龍泉司為龍泉縣。國朝康熙二年革葛彰司，二十三年革苗民司，五十年革石阡正司，俱改土歸流，仍領石阡一副土司。在施秉者，元時係施秉前江軍民長官司，明洪武五年改設蠻夷司，正統九年革蠻夷長官司改土歸流，設施秉縣。在餘慶者，元時係白泥、餘慶二長官司，明萬曆間置餘慶縣，改餘慶司為土縣丞、白泥司為土主簿，屬縣。國朝因之。苗種最夥，荊壁不塗，門戶不扃，出入以泥封之。其服食風俗與漢人同，男子計口而耕，婦人度身而織，暇則操弓以漁獵為事。應輸稅糧，惟黎平府屬額征化海認納苗賦銀一百六十八兩八錢六分一釐三毫，餘俱民苗一體，並無苗額。都勻產苗酒、黑鉛、白鉛、棉花、銀杏、百合、鯽魚、方竹；黎平產苗錦、皮布、木耳、排香草、青皮香；黃平產黃精、南星、竹雞；龍泉產湘妃竹；石阡產硃砂、水銀、鐵膽、木瓜、知母、湘妃竹、白兔；施秉產香禾米、蔓竹；餘慶產石膏、朴竹、萬壽菊、香禾米。",
+    "translation": "The group historically called the ‘𦍕獷 Miao’ is placed across Duyun, Liping, Huangping, Longquan, Longli, Shiqian, Shibing, and Yuqing. A long opening section records the establishment and abolition of hereditary native administrative offices in each district during the Ming and Qing, including the conversion of jurisdictions into regular county and prefectural administration. The text says the community had many members and describes houses with unplastered walls and doors sealed with mud rather than locked. It reports that men cultivated land and women made textiles, and that fishing and hunting were also practiced. It describes tax payment alongside other residents, apart from a specified assessment for Liping. Local products are listed separately for each district: these include wine, black and white lead, cotton, brocade, medicinal plants, iron-related products, and bamboo. Particularly important, the Shiqian entry explicitly lists cinnabar (硃砂) and mercury (水銀). This is an image-based, provisional translation of the manuscript’s contents; the ethnonym, administrative details, and rare product names still require independent scholarly collation.",
+    "notes": "2026-11-22 高解析度掃描逐列 AI 視讀的全文初稿（不是人工校勘定本）。頁首族稱原圖疑讀，與《皇清職貢圖》卷八之『𦍕獷苗』及都勻、黎平、黃平等地名對勘後暫定，並非以異本替代原件。已重新對原圖辨出中段行政沿革及『荊壁不塗，門戶不扃』，保留原頁其他疑字與行政名詞待校。第33頁左側物產欄實見『石阡產硃砂、水銀』，其對汞史研究尤為重要。英譯仍為概括性試譯，不是逐句對譯。參見 https://zh.wikisource.org/zh-hant/皇清職貢圖_(四庫全書本)/卷8",
+    "transcription_scope": "provisional_full_with_uncertainties",
+    "translation_scope": "provisional_summary_of_full_transcription",
     "status": "image_checked_draft",
     "page_kind": "caption",
     "translation_status": "ai_draft",
