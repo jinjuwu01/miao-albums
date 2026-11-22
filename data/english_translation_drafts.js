@@ -100,5 +100,65 @@ window.MIAO_ENGLISH_DRAFTS = {
   "new-qiansheng-plate025": {
     "translation": "The Hongzhou Miao live in Liping Prefecture. The men farm industriously, much like their Han neighbors, while women excel in spinning and weaving. Their fine ramie cloth is widely sold in markets and is known as 'Hongzhou ramie cloth.'\n\nVerse (provisional): Hongzhou cotton and ramie textiles are praised for their quality. Women weave, men farm, and the poem describes women singing to the sound of the lusheng.",
     "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate026": {
+    "translation": "The Xixi Miao live in Tianzhu County. Women wear skirts ending above the knees and bind blue cloth around their waists. Unmarried young men and women gather outdoors carrying baskets, singing and dancing. Those who fall in love meet to drink in the fields. According to the text, unions may be formed before a formal betrothal offering of cattle after a child is born.\n\nVerse (provisional): Songs and dances echo across the Xixi fields. The poem disapprovingly describes unregulated courtship, as young men and women carry baskets through the mountains in spring.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate027": {
+    "translation": "The Chezai Miao live around Guzhou. The men practice various crafts and the women excel at needlework. Unmarried couples gather at open-air 'moon grounds' to sing and dance, choosing partners through mutual affection in a practice called tiaoyue ('moon dancing'). The source traces the community to six hundred soldiers of Ma Sanbao who reportedly joined local Miao families.\n\nVerse (provisional): Six hundred soldiers of the Ma family married into local households and learned to play the lusheng. Their moon dances and songs were praised, and loving couples chose one another.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate028": {
+    "translation": "The group historically called Sheng Miao is located around Guyang, Huangping, Kaili, and Shibing. The source portrays them as 'wild' and explains the label by alleging that they prefer fish, birds, and other meat barely cooked and still bloody.\n\nVerse (provisional): The poem repeats the author's description of the Sheng Miao as people who carry knives and spears and hunt wild animals in the mountains. [The last line is uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate029": {
+    "translation": "The Heijiao Miao live around Qingjiang and Guyang. The men wear short garments and put white feathers in their hair. In the author's hostile account, they carry weapons in groups and used to raid others. To divine auspicious and inauspicious outcomes, they place two shells or snails in water and observe their movements. The account describes restrictions on widows' remarriage and says these customs have since changed.\n\nVerse (provisional): The poem depicts armed raiding parties and describes divination with dark snails in water.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate030": {
+    "translation": "The Heilou Miao live in the Eight Stockades of Qingjiang. Neighboring villages build tall structures on open ground called gathering halls, each equipped with a long wooden drum. When disputes occur, the drum summons armed villagers, who listen to the village head's judgment. Anyone who fails to attend without cause must pay a cow as a fine. The household involved supplies cattle, wine, and food for the gathering.\n\nVerse (provisional): The village's tall assembly hall has a great drum. At its sound people gather with spears and knives, while cattle and wine provision the assembly.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate031": {
+    "translation": "The Duanshang Miao live in the Eight Stockades of Duyun. Men wear short tops and loose trousers. The source describes women's extremely short, heavily pleated skirts and sleeveless garments, using explicitly disparaging language about modesty. It says people gather wild plants for food, enjoy alcohol, and sometimes sleep in mountain hollows or streambeds even in winter.\n\nVerse (provisional): The poem mocks the short skirts, describes winter bathing and sleeping outdoors after drinking, and ends with an openly demeaning comparison. These are the historical author's judgments, not an objective description.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate032": {
+    "translation": "The Jianding Miao live around Guiyang. Men and women arrange their hair into pointed topknots and celebrate a major festival on the first day of the eleventh lunar month. The account says married couples cultivate fields together.\n\nVerse (provisional): On the festival of midwinter [ritual wording uncertain], husband and wife till the fields side by side. Both sexes wear pointed topknots, from which the group's name is said to derive.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate033": {
+    "translation": "The Langci Miao [group name uncertain] are said to live around Weining. The source describes a form of postpartum seclusion in which a father stays indoors holding the newborn for a month while the mother returns to fieldwork and prepares food for him. It also records a former deathbed practice of turning a dying parent's head backward so that the parent could 'look at descendants,' adding that this practice had become less common.\n\nVerse (provisional): After childbirth the mother prepares food for her husband, who holds the infant at home. The poem also refers to turning a dying parent's head backward to see later generations. [The wording is partially uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate034": {
+    "translation": "The Luohan Miao live in the Eight Stockades and Danjiang. Men wear their hair loose behind and adorn their heads with a tail-like ornament. They particularly revere Maitreya Buddha. On the third day of the third lunar month, men and women present food to the Buddha and refrain from lighting cooking fires, which the author likens to the Cold Food Festival.\n\nVerse (provisional): The poem emphasizes their Buddhist devotion and observance resembling the Cold Food custom.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate035": {
+    "translation": "The Bai Luoluo are recorded in Dading and Anshun prefectures. The source presents them as a subordinate branch compared with the Hei Luoluo, using derogatory descriptions of their food and ritual customs. It says they sometimes cremate bodies wrapped in grass and refers to a related group in Puding called Ahe. [Several descriptions of cooking vessels and customs are unclear.]\n\nVerse (provisional): The verse recalls an ancestral figure, Jihuo, and the southwestern region of Shuixi, then invokes the old term 'land of ghosts' and unfamiliar writing. The language expresses the historical author's perspective.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate036": {
+    "translation": "The Songjia Miao live in Guiyang and Anshun. The text claims that their ancestors came from China's central plains and were exiled to frontier regions in antiquity. It says their language and writing resemble those of Han people, men wear hats and long-fronted robes, and weddings involve the groom's household sending an escort to the bride's family. The source describes norms governing relations with mothers-in-law, men's farming, women's weaving, and the education of boys, some of whom entered local schools through examinations.\n\nVerse (provisional): Once people of the central realm, the poem says, they were exiled among frontier peoples. Yet they maintain farming, weaving, and formal wedding and funeral rites.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate037": {
+    "translation": "The Caijia Miao are found around Guizhu, Xiuwen, Qingzhen, Weining, and Pingyuan. Men wear felt garments. Women have tall head ornaments said to resemble ox horns, ornamented with blue cloth and long hairpins. Fathers-in-law and daughters-in-law avoid speaking directly. During the first three days of mourning they abstain from rice and meat and eat millet gruel. The text records a custom of a widow being expected to die with her husband, sometimes averted by her natal family's intervention.\n\nVerse (provisional): The poem mentions avoidance between in-laws, restricted mourning foods, and the disturbing practice of widow sacrifice, from which a woman might be rescued by her natal family.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate038": {
+    "translation": "The Kayou Zhongjia live in Guiyang, Anshun, Xingyi, Pingyue, and surrounding areas. They wear blue clothing, and women cover their heads with patterned scarves, short fitted tops, and finely pleated skirts with cloud motifs. The sixth day of the sixth month is a major festival. At spring gatherings, unmarried men and women dance, sing, and exchange colored balls or cloth as signs of affection. The account describes cattle, wine, and shared feasts as part of marriage transactions. [Some wording concerning betrothal payments is uncertain.]\n\nVerse (provisional): Young women and men toss colored balls amid lusheng music and moon dances. Their clothing changes little with the seasons, and cattle are offered in funeral rites.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate039": {
+    "translation": "The Pulong Zhongjia are recorded in Guiyang, Dingfan, Guangshun, Xingyi, and Anshun. Their principal festival falls on the first day of the twelfth lunar month, when they play bronze drums, sometimes said to have been left by Zhuge Liang. Wealthy households purchase drums at high prices. At funerals cattle are slaughtered, relatives gather, and wine is served from ox horns. Mourners avoid meat and eat fish and shrimp; fish and birds are used in sacrifices. An umbrella is placed over the grave and burned a year later. The author claims that formerly they avenged insults with weapons but increasingly obeyed official regulations.\n\nVerse (provisional): The bronze drums sound, wine is served from ox horns, and former feuds are contrasted with recent submission to magistrates.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate040": {
+    "translation": "The Qing Zhongjia live around Qingjiang, Guzhou, and Danjiang. They wear blue headcloths and clothing. Women are said to excel at embroidery and games involving boards or balls. A chosen lover is called a 'malang.' Couples may meet at night, with their parents' knowledge, while avoiding a woman's brothers. Betrothal gifts include cattle and wine. The account states that carved wooden tallies serve as tokens in place of written documents.\n\nVerse (provisional): Women are praised for needlework and games; the poem describes courtship with a malang tolerated by parents but hidden from brothers.",
+    "translation_status": "ai_draft"
   }
 };
