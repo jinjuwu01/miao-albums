@@ -1,6 +1,5 @@
 // Wellcome MS Chinese 99 · provisional AI image readings, NOT human-verified.
-// 2026-11-22, from user-supplied high resolution scan crops; blank leaves excluded.
-// OCR engine raw output is intentionally not misrepresented as corrected text.
+// All source readings must be checked by the researcher against high-resolution image.
 window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
   "wellcome-ms99-p0005": {
     "title": "倮猓",
@@ -128,6 +127,42 @@ window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
     "transcription": "查花苗係西南夷，並無土司部落，明始歸流，在貴陽、大定、遵義等處，民苗雜居，稅糧一體，並無苗額，亦無苗地物產。衣無衿裹而納諸首，男以青布裹頭，婦人蓄尾禿髮為髻，大如斗籠，以木梳先用臘繪花於布而後染之，既染去臘，則花紋似錦，用為裳服，故曰花苗。每歲孟春合男女於野，謂之跳月；擇平壤地為月場，鮮衣艷裝，男吹蘆笙，女振響鈴，盤旋歌舞，情投契而共處，生子乃歸夫家。其性戇而畏法，其俗陋而力勤，以六月為歲首。",
     "translation": "The text locates the “Hua Miao” in the southwestern frontier around Guiyang, Dading, and Zunyi, among other residents, and says that they had no separate native chieftain units or distinct Miao tax quotas. It describes blue headwraps for men and elaborate women's hairstyles. The account then describes a wax-resist textile process: designs are drawn in wax on cloth, the cloth is dyed, and the wax is removed, leaving patterns resembling brocade. It offers this patterned dress as the explanation of the group's name. The passage goes on to describe the spring “jumping the moon” festival, in which young men play the lusheng reed-pipe instrument and women ring bells while participants dance and form relationships. It says couples may begin living together before a woman joins her husband's household after childbirth. The author adds disparaging judgments about character and customs, and says the sixth month marked the beginning of the year. These descriptions preserve the source's historical viewpoint.",
     "notes": "2026-11-22 AI 视觉识读草稿，未经研究者逐列校核。原文写『臘』而非现代规范的『蠟』，目前按可见写法保留；『衣無衿裹』『蓄尾禿髮』等字需复核。跳月及蜡染叙述是史料中作者的表述。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0018": {
+    "title": "青苗",
+    "title_en": "Qing Miao (historical group label)",
+    "transcription": "查青苗係西南夷，並無土司部落，明始歸流，在修文、鎮寧、黔西等處，民苗雜居，稅糧一體，並無苗額，亦無苗地物產。衣裙尚青。婦人以青布製如九華巾蒙首，衣止及腰，裙僅掩膝。男子頂竹笠，踵草履，出入必佩刀。性強悍好鬥，頗同於倮猓，然猶知畏法，不敢為盜。每歲孟春男女聚歌，相悅即通媒妁。男子未婚者剪腦後髮，娶乃留之。",
+    "translation": "The account places the “Qing Miao” in Xiuwen, Zhenning, Qianxi, and nearby areas. It says they had no native chieftain divisions, came under regular administration from the Ming, and paid taxes without a distinct Miao assessment. The author describes a preference for blue clothing: women wore blue-cloth head coverings, waist-length upper garments, and skirts reaching only the knees. Men are said to wear bamboo hats and straw footwear and to carry knives outdoors. The source describes them as fierce and quarrelsome but unwilling to engage in theft for fear of the law. It also reports springtime gatherings at which young men and women sang, formed attachments, and arranged marriages through go-betweens. Unmarried men reportedly cut their hair at the back of the head, letting it grow once married. The character judgments belong to the historical observer.",
+    "notes": "AI 依据高清扫描图像视读，待逐字人工确认。『九華巾』『踵草履』及结尾发式习俗需复核原图。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0034": {
+    "title": "天苗",
+    "title_en": "Tian Miao (historical group label)",
+    "transcription": "查天苗姬姓相傳為周之後，並無土司部落。明始歸流，在平越、黃平等處，民苗雜居，稅糧一體，並無苗額，亦無苗地物產。男婦衣俱尚青，左衽。女工紡織，善染，以十一月為歲首。祀祖必請家長主祭祝讚。其性柔順，不喜鬥狠，勤儉安貧，不為盜。近讀書應試，將於齊民。",
+    "translation": "The account claims that the “Tian Miao” had the surname Ji and descended from the Zhou. It says the group had no native chieftain offices and was brought under regular government administration in the Ming. Its members are located around Pingyue and Huangping, living among other residents and taxed without a separate Miao quota. Men and women are said to favor blue garments fastened to the left; women practiced spinning, weaving, and dyeing. The eleventh lunar month reportedly marked the start of the year. An elder of the household presided over ancestral rites. The author describes the people as gentle, industrious, frugal, and increasingly participating in formal education and examinations. The claims of origins and character reflect the historical source.",
+    "notes": "高清原图 AI 逐列视觉校读初稿，尚待学者复核。『姬姓相傳為周之後』是图说作者的族源叙述，不等于历史事实；末句『將於齊民』待核字形。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0046": {
+    "title": "猺人",
+    "title_en": "Yao people (historical ethnonym)",
+    "transcription": "查猺人在貴定之平伐司，黔省原無此種，係雍正二年自粵西遷至。居無常處，並無賦稅，亦無物產。男女衣尚青，長不過膝。所祀之神曰盤瓠。勤耕種，暇則入山採藥行醫。",
+    "translation": "The source places the people it calls “Yao” in Pingfa, under Guiding, claiming that they had migrated there from western Guangdong in the second year of Yongzheng and had not previously been found in Guizhou. It says their settlements were impermanent, that they paid no tax, and that no local products were recorded. Men and women are described as wearing blue garments no longer than the knee. Their deity is identified as Panhu. The text says they worked diligently in agriculture and, when free from farming, entered the mountains to gather medicinal plants and practice healing.",
+    "notes": "2026-11-22 AI 依高清原图做的初步视读（未独立人工核校）。『猺』按原字保留；药材采集和行医叙述与地方技术知识相关。",
     "status": "image_checked_draft",
     "page_kind": "caption",
     "translation_status": "ai_draft",
