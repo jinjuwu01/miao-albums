@@ -980,5 +980,77 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-e4a7e4a3b955-p0043": {
     "translation": "The Liudong people live around Liping. Women like colored garments, finely patterned pointed shoes, and decorated leg coverings. Unmarried couples exchange clothing and belts as signs of courtship. At weddings, many neighboring women carry blue umbrellas, sing, dance, and accompany the bride to the groom's home for three days of feasting. The bride then returns to her natal home, and the groom visits at night until children are born and a formal betrothal is completed. Women's dowries include lengths of cloth; women weave diligently, men may be literate, and funeral customs are said to resemble those of Han communities.",
     "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0003": {
+    "translation": "The Hei Guoluo live under Dading in black and white branches, also historically called Wuman or Luogui. The source traces their rulers to Jihuo, who is said to have supported Zhuge Liang and been made king of Luodian, an ancestor of the An chieftains. It describes forty-eight hereditary divisions, strong armor and weapons, horses, hunting, and warfare.\n\nVerse (provisional): In former times Jihuo ruled southern peoples; the Guoluo spread across Shuixi. In a place the poet calls a 'ghost realm,' people revere spirits and their writing appears to him like tangled worms. These judgments belong to the historical author.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0005": {
+    "translation": "The 'female official' (nüguan) is the principal wife of a Guoluo chief, called nai qing [reading provisional]. She braids her hair into a bun decorated with silver flowers and pins, and wears large earrings and long skirts. A son not born to this principal wife cannot succeed to the chieftainship. If the heir is a minor, she administers the territory in his place.\n\nVerse (provisional): Silver blossoms ornament her forehead and her hair is coiled; narrow sleeves and a long skirt trail to the ground. Dressed in reddish clothing, she rides a horse beneath the blue sky as people gather to watch.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0007": {
+    "translation": "The Bai Guoluo of Dading are described as traders in tea, related to the Hei Guoluo. In disparaging language, the source claims they cook and eat small animals in simple three-legged pots and cremate bodies wrapped in hides or grass.\n\nVerse (OCR order uncertain): The black branch is said to rank higher than the white; the poem invokes primitive food customs and a three-legged cooking pot. [The first line and ordering remain doubtful.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0009": {
+    "translation": "The Songjiazi of Guiyang and Anshun are said to descend from people exiled south from the central states during the Spring and Autumn period and regarded as ancestors of a Song native-official lineage. Their spoken and written language is described as matching Chinese.\n\nVerse (OCR order uncertain): The poem comments critically on unusual marriage traditions, new styles of clothing, and an enactment of taking the bride, despite familiar men's and women's headwear.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0011": {
+    "translation": "The Caijiazi live around Xiuwen and Weining. Men wear felt garments; women make tall hornlike felt headdresses adorned with blue cloth and long hairpins, with short tops and long skirts. Fathers-in-law and daughters-in-law avoid speaking. In mourning, people forgo rice and meat for three days and eat millet gruel, a custom the author considers a remnant of antiquity.\n\nVerse (OCR order uncertain): A tall felt headdress is held by a long pin; millet gruel is eaten while in mourning. The poet disparages the costume but acknowledges the mourning rite.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0013": {
+    "translation": "The Kayou Xiajia [name uncertain] live around Guiyang, Anshun, Duyun, and Xingyi. Women wear long finely pleated skirts and patterned headscarves. The sixth day of the sixth month is a major festival, and unmarried men and women gather for moon dancing and throwing colored balls. Funerals include cattle slaughter and offerings of chicken and wine, which relatives share.\n\nVerse (OCR order uncertain): Young women gather in flowered clothing and blue headscarves; in the moon-dancing ground they toss colored balls. Several words are uncertain.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0015": {
+    "translation": "The Bulong Xiajia [name uncertain] live around Dingfan, Guangshun, Guiyang, and Anshun. They celebrate by beating bronze drums, and at funerals slaughter cattle for guests. The principal mourner avoids meat, eating fish and shrimp instead. An umbrella is placed over the grave and burned a year later.\n\nVerse (OCR order uncertain): Bronze drums sound for the New Year, and the poem considers the customs of the Bulong branch. [Some words are unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0017": {
+    "translation": "The Qing Xiajia [name uncertain] live around Guzhou and Qingjiang. Women wear blue headcloths and clothes, are skilled at embroidery and board games, and the men may speak Chinese without knowing written characters. Carved wood serves as a token of agreement.\n\nVerse (OCR order uncertain): Carved wooden marks are highly valued, and throwing balls or playing games is common. [Other lines are unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0019": {
+    "translation": "The Zengzhu Longjia live around Anshun. They wear patterned clothing and square fine-cloth headscarves. At family celebrations they bring wine and sheep, sometimes showing off several new sets of clothing. The dead are cremated, the bones collected for burial, and family graves swept on the seventh day of the seventh lunar month.\n\nVerse (OCR order uncertain): Sheep and wine honor kin, and rich new clothing is displayed. The seventh day of the seventh month is set aside for ancestral offerings.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0021": {
+    "translation": "The Gou'er Longjia live around Anshun and Dading and favor white clothing. Men bind their hair. After the start of spring, a wooden 'spirit pole' is raised in the fields, and young people dance to choose partners, afterward offering cattle or horses as betrothal gifts.\n\nVerse (OCR order uncertain): Decorative beads and paired pointed buns give the 'dog-ear' name; beneath a spirit pole, dancing in spring brings couples together.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0023": {
+    "translation": "The Madeng Longjia live around Guxibao and Dingying under Zhenning. They wear white in ordinary life and blue during mourning. Women make headpieces of dark cloth shaped like horse stirrups. Men farm for a living.\n\nVerse (OCR order uncertain): Men and women usually wear white, and the stirrup-shaped headpieces are dark. Mourning changes clothing to blue; the poet comments on the unusual style.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0025": {
+    "translation": "The Datou Longjia live around Puding and Zhenning. Men wear bamboo hats and straw sandals. Women wear blue clothing and coil their hair with horsehair into large buns, giving rise to the name 'large-headed Longjia.' Both sexes farm diligently.\n\nVerse (OCR order uncertain): The poet asks why this branch is called 'large-headed,' answering with the distinctive hair coils. [The first line is incomplete.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0027": {
+    "translation": "The Hua Miao live around Dading and Anshun. In early spring, men and women gather at open moon-dancing grounds, playing the lusheng, shaking bells, singing, and dancing. Marriage may also be arranged through matchmakers and formal gifts.\n\nVerse (OCR order uncertain): The lusheng sounds alongside bells; patterned clothing and new combs adorn the dancers at springtime gatherings.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0029": {
+    "translation": "The Hong Miao live under Tongren. Their clothing is woven from multicolored silk, and women wear red skirts. In fights, the author says, firearms may be used and women intervene to reconcile the sides. On a specified day of the fifth lunar month, spouses sleep apart and remain silent and indoors in a ritual connected with fears of tigers.\n\nVerse (OCR order uncertain): The poem notes red silk clothes, an ominous date in the fifth month, and women's ability to stop quarrels.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0031": {
+    "translation": "The Bai Miao live around Longli and Guiding. They favor white garments. Men may go barefoot with loose hair; women wear hair coils, long pins, and patterned skirts. For ancestral sacrifices, large cattle are made to fight and the victor is taken as an auspicious sign before slaughter. Families then sing and drink together.\n\nVerse (OCR order uncertain): The poem describes choosing a ritual leader, feeding cattle for sacrifices, white garments, and the contest between bulls.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0033": {
+    "translation": "The Qing Miao live around Xiuwen and Qianxi. Women wear blue cloth and arrange their hair in coils with decorative headscarves; men wear bamboo hats and straw sandals.\n\nVerse (OCR order uncertain): The poem mentions blue headcloths, women's hemp work, grass sandals, bamboo hats, and hair worn differently after marriage.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0039": {
+    "translation": "The Hei Miao live around Duyun, the Eight Stockades, and Danjiang. The author characterizes them as combative and says they carry blades, wear white feathers, and use bamboo lusheng instruments for dances at spring gatherings marking a good harvest.\n\nVerse (OCR order uncertain): Living on hillsides and near water produces different customs; the poem also mentions vegetables, bracken ash, fermented foods, silver ornaments, and fashionable dress.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0041": {
+    "translation": "The Dong Miao live around Xiuwen and Guizhu. Women wear patterned sleeveless tops and finely pleated skirts. In midwinter, a village ritual specialist is invited for ancestral offerings and cattle sacrifice, followed by communal drinking. The source says the group respects official obligations and hunts in spring.\n\nVerse (OCR order uncertain): The poem refers to sleeveless flowered garments and ancestral offerings, though its reference to the festival month conflicts with the prose.",
+    "translation_status": "ai_draft"
   }
 };
