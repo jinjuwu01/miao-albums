@@ -1,0 +1,882 @@
+{
+  "batch_id": "miaoman48-2026-11-source-aware-v1",
+  "source_pdf": "苗蛮图册.四十八幅.清末墨书彩绘本.pdf",
+  "pdf_total_pages": 49,
+  "cover_pages": [
+    1
+  ],
+  "illustration_and_caption_pages": {
+    "start": 2,
+    "end": 49,
+    "count": 48
+  },
+  "source_layout": "each illustrated page contains its own vertical caption on the left",
+  "visual_check_count": 9,
+  "machine_reorder_only_count": 39,
+  "scholar_verified_count": 0,
+  "raw_ocr_preserved": true,
+  "does_not_replace_scans": true,
+  "notes": "Automated vertical OCR text ordering is not itself character-level proofreading. The nine visual-review drafts are provisional; the remaining 39 text pages require direct high-resolution visual checking.",
+  "records": [
+    {
+      "pdf_page": 1,
+      "record_id": "ocr-06b056128ca2-p0001",
+      "page_kind": "cover",
+      "draft_status": "not_applicable",
+      "raw_ocr_preserved": true
+    },
+    {
+      "pdf_page": 2,
+      "record_id": "ocr-06b056128ca2-p0002",
+      "title": "克孟牯羊苗",
+      "status": "image_checked_draft",
+      "characters": 91,
+      "ocr_characters": 91,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "首字「克／九」及「躔笙」等字形仍須復核。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 3,
+      "record_id": "ocr-06b056128ca2-p0003",
+      "title": "猓羅（疑）",
+      "status": "image_checked_draft",
+      "characters": 162,
+      "ocr_characters": 162,
+      "ocr_block_count": 6,
+      "block_order": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "首二字族稱、詩句中的罕見字、引文斷句仍需學者逐字審定。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 4,
+      "record_id": "ocr-06b056128ca2-p0004",
+      "title": "黑苗",
+      "status": "image_checked_draft",
+      "characters": 61,
+      "ocr_characters": 61,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "「鎗刀矛」的刀槍器物詞組與重量單位保留原圖寫法，仍待第二人核讀。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 5,
+      "record_id": "ocr-06b056128ca2-p0005",
+      "title": "花猓羅",
+      "status": "image_checked_draft",
+      "characters": 97,
+      "ocr_characters": 97,
+      "ocr_block_count": 4,
+      "block_order": [
+        2,
+        1,
+        0,
+        3
+      ],
+      "uncertainty": "「灼毛齧血」等字形依圖暫讀，須再次核對。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 6,
+      "record_id": "ocr-06b056128ca2-p0006",
+      "title": "狎家苗",
+      "status": "ocr_reordered_draft",
+      "characters": 67,
+      "ocr_characters": 67,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 7,
+      "record_id": "ocr-06b056128ca2-p0007",
+      "title": "黑腳苗",
+      "status": "ocr_reordered_draft",
+      "characters": 72,
+      "ocr_characters": 72,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 8,
+      "record_id": "ocr-06b056128ca2-p0008",
+      "title": "林猪（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 120,
+      "ocr_characters": 120,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 9,
+      "record_id": "ocr-06b056128ca2-p0009",
+      "title": "蠻人",
+      "status": "ocr_reordered_draft",
+      "characters": 45,
+      "ocr_characters": 45,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 10,
+      "record_id": "ocr-06b056128ca2-p0010",
+      "title": "六額子",
+      "status": "ocr_reordered_draft",
+      "characters": 95,
+      "ocr_characters": 95,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 11,
+      "record_id": "ocr-06b056128ca2-p0011",
+      "title": "九股苗",
+      "status": "image_checked_draft",
+      "characters": 254,
+      "ocr_characters": 254,
+      "ocr_block_count": 9,
+      "block_order": [
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "較長的兵器描寫含「偏架」「子母砲」等歷史器物詞，仍應核對異體字與行文。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 12,
+      "record_id": "ocr-06b056128ca2-p0012",
+      "title": "花苗",
+      "status": "ocr_reordered_draft",
+      "characters": 34,
+      "ocr_characters": 34,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 13,
+      "record_id": "ocr-06b056128ca2-p0013",
+      "title": "花苗",
+      "status": "ocr_reordered_draft",
+      "characters": 52,
+      "ocr_characters": 52,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 14,
+      "record_id": "ocr-06b056128ca2-p0014",
+      "title": "黑苗",
+      "status": "ocr_reordered_draft",
+      "characters": 45,
+      "ocr_characters": 45,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 15,
+      "record_id": "ocr-06b056128ca2-p0015",
+      "title": "猺人",
+      "status": "ocr_reordered_draft",
+      "characters": 101,
+      "ocr_characters": 101,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 16,
+      "record_id": "ocr-06b056128ca2-p0016",
+      "title": "剪頭犵狫（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 106,
+      "ocr_characters": 106,
+      "ocr_block_count": 4,
+      "block_order": [
+        1,
+        0,
+        3,
+        2
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 17,
+      "record_id": "ocr-06b056128ca2-p0017",
+      "title": "牂牁（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 92,
+      "ocr_characters": 92,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 18,
+      "record_id": "ocr-06b056128ca2-p0018",
+      "title": "花苗",
+      "status": "ocr_reordered_draft",
+      "characters": 36,
+      "ocr_characters": 36,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 19,
+      "record_id": "ocr-06b056128ca2-p0019",
+      "title": "陽洞羅漢苗",
+      "status": "ocr_reordered_draft",
+      "characters": 107,
+      "ocr_characters": 107,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 20,
+      "record_id": "ocr-06b056128ca2-p0020",
+      "title": "峒人（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 132,
+      "ocr_characters": 132,
+      "ocr_block_count": 5,
+      "block_order": [
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 21,
+      "record_id": "ocr-06b056128ca2-p0021",
+      "title": "西苗",
+      "status": "ocr_reordered_draft",
+      "characters": 148,
+      "ocr_characters": 148,
+      "ocr_block_count": 5,
+      "block_order": [
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 22,
+      "record_id": "ocr-06b056128ca2-p0022",
+      "title": "鍋圈犵狫（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 76,
+      "ocr_characters": 76,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 23,
+      "record_id": "ocr-06b056128ca2-p0023",
+      "title": "花犵狫（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 146,
+      "ocr_characters": 146,
+      "ocr_block_count": 5,
+      "block_order": [
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 24,
+      "record_id": "ocr-06b056128ca2-p0024",
+      "title": "楊保",
+      "status": "ocr_reordered_draft",
+      "characters": 49,
+      "ocr_characters": 49,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 25,
+      "record_id": "ocr-06b056128ca2-p0025",
+      "title": "東苗",
+      "status": "ocr_reordered_draft",
+      "characters": 115,
+      "ocr_characters": 115,
+      "ocr_block_count": 4,
+      "block_order": [
+        2,
+        1,
+        3,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 26,
+      "record_id": "ocr-06b056128ca2-p0026",
+      "title": "青苗",
+      "status": "image_checked_draft",
+      "characters": 96,
+      "ocr_characters": 96,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "「箐苗」等地名、族稱仍須核原圖。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 27,
+      "record_id": "ocr-06b056128ca2-p0027",
+      "title": "宋家",
+      "status": "ocr_reordered_draft",
+      "characters": 127,
+      "ocr_characters": 127,
+      "ocr_block_count": 5,
+      "block_order": [
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 28,
+      "record_id": "ocr-06b056128ca2-p0028",
+      "title": "犵兜（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 76,
+      "ocr_characters": 76,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 29,
+      "record_id": "ocr-06b056128ca2-p0029",
+      "title": "猓羅",
+      "status": "ocr_reordered_draft",
+      "characters": 176,
+      "ocr_characters": 176,
+      "ocr_block_count": 6,
+      "block_order": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 30,
+      "record_id": "ocr-06b056128ca2-p0030",
+      "title": "僰人",
+      "status": "ocr_reordered_draft",
+      "characters": 75,
+      "ocr_characters": 75,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 31,
+      "record_id": "ocr-06b056128ca2-p0031",
+      "title": "八番",
+      "status": "ocr_reordered_draft",
+      "characters": 94,
+      "ocr_characters": 94,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 32,
+      "record_id": "ocr-06b056128ca2-p0032",
+      "title": "黑苗",
+      "status": "ocr_reordered_draft",
+      "characters": 190,
+      "ocr_characters": 190,
+      "ocr_block_count": 7,
+      "block_order": [
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 33,
+      "record_id": "ocr-06b056128ca2-p0033",
+      "title": "蔡家苗",
+      "status": "ocr_reordered_draft",
+      "characters": 104,
+      "ocr_characters": 104,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 34,
+      "record_id": "ocr-06b056128ca2-p0034",
+      "title": "馬鐙龍家",
+      "status": "ocr_reordered_draft",
+      "characters": 47,
+      "ocr_characters": 47,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 35,
+      "record_id": "ocr-06b056128ca2-p0035",
+      "title": "夭苗",
+      "status": "ocr_reordered_draft",
+      "characters": 111,
+      "ocr_characters": 111,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 36,
+      "record_id": "ocr-06b056128ca2-p0036",
+      "title": "花苗",
+      "status": "ocr_reordered_draft",
+      "characters": 246,
+      "ocr_characters": 246,
+      "ocr_block_count": 9,
+      "block_order": [
+        8,
+        7,
+        6,
+        5,
+        4,
+        2,
+        1,
+        0,
+        3
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 37,
+      "record_id": "ocr-06b056128ca2-p0037",
+      "title": "土人",
+      "status": "ocr_reordered_draft",
+      "characters": 159,
+      "ocr_characters": 159,
+      "ocr_block_count": 6,
+      "block_order": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 38,
+      "record_id": "ocr-06b056128ca2-p0038",
+      "title": "花苗",
+      "status": "ocr_reordered_draft",
+      "characters": 43,
+      "ocr_characters": 43,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 39,
+      "record_id": "ocr-06b056128ca2-p0039",
+      "title": "紅苗",
+      "status": "ocr_reordered_draft",
+      "characters": 122,
+      "ocr_characters": 122,
+      "ocr_block_count": 5,
+      "block_order": [
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 40,
+      "record_id": "ocr-06b056128ca2-p0040",
+      "title": "黑苗",
+      "status": "image_checked_draft",
+      "characters": 52,
+      "ocr_characters": 52,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "「聞殺」等字形有疑，未擅自依語意替換。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 41,
+      "record_id": "ocr-06b056128ca2-p0041",
+      "title": "打牙犵狫（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 60,
+      "ocr_characters": 60,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 42,
+      "record_id": "ocr-06b056128ca2-p0042",
+      "title": "酉龍家",
+      "status": "ocr_reordered_draft",
+      "characters": 79,
+      "ocr_characters": 79,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 43,
+      "record_id": "ocr-06b056128ca2-p0043",
+      "title": "白苗",
+      "status": "ocr_reordered_draft",
+      "characters": 113,
+      "ocr_characters": 113,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 44,
+      "record_id": "ocr-06b056128ca2-p0044",
+      "title": "荔波雜居諸種",
+      "status": "ocr_reordered_draft",
+      "characters": 82,
+      "ocr_characters": 82,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 45,
+      "record_id": "ocr-06b056128ca2-p0045",
+      "title": "短裙苗",
+      "status": "ocr_reordered_draft",
+      "characters": 36,
+      "ocr_characters": 36,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 46,
+      "record_id": "ocr-06b056128ca2-p0046",
+      "title": "狗耳龍家",
+      "status": "ocr_reordered_draft",
+      "characters": 115,
+      "ocr_characters": 115,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 47,
+      "record_id": "ocr-06b056128ca2-p0047",
+      "title": "儂苗（疑）",
+      "status": "ocr_reordered_draft",
+      "characters": 82,
+      "ocr_characters": 82,
+      "ocr_block_count": 3,
+      "block_order": [
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "所有字形仍待研究者抽查",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 48,
+      "record_id": "ocr-06b056128ca2-p0048",
+      "title": "谷藺苗",
+      "status": "image_checked_draft",
+      "characters": 60,
+      "ocr_characters": 60,
+      "ocr_block_count": 2,
+      "block_order": [
+        1,
+        0
+      ],
+      "uncertainty": "本頁兩列文字已對照高清掃描；標點未加。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    },
+    {
+      "pdf_page": 49,
+      "record_id": "ocr-06b056128ca2-p0049",
+      "title": "紫薑苗",
+      "status": "image_checked_draft",
+      "characters": 102,
+      "ocr_characters": 102,
+      "ocr_block_count": 4,
+      "block_order": [
+        3,
+        2,
+        1,
+        0
+      ],
+      "uncertainty": "「但訐而饕詖」等字詞需另行核讀，保留可見原字與待考語句。",
+      "raw_ocr_preserved": true,
+      "independently_scholar_verified": false
+    }
+  ]
+}
