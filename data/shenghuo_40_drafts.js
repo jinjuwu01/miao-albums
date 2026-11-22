@@ -292,22 +292,24 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "translation": "The Hei Guoluo are dark in appearance and are also called Wuman (\"Black Man\"). They habitually throw javelins. In their method, each holds a bamboo tube beneath the arm and throws while riding a horse; the phrase describing the tube (□□) is illegible. They are said to hit whatever they aim at."
   },
   "miao-017": {
-    "title": "祥獛苗（疑）",
-    "transcription": "祥獛苗雜處都勻施秉黃平石阡龍泉餘慶黎平龍里荊璧。不塗門戶，扇出入以泥封之。服飾婚喪與漢人同。男子計口而耕，婦人度身而織。婚喪以笑相遺送。",
+    "title": "羊黄苗",
+    "transcription": "羊黄苗雜處都勻施秉黃平石阡龍泉餘慶黎平龍里荊璧。不塗門戶，扇出入以泥封之。服飾婚喪與漢人同。男子計口而耕，婦人度身而織。婚喪以笑相遺送。",
     "status": "image_checked_draft",
-    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。開頭歷史族稱「祥獛」字形不確定；已補入舊 OCR 漏掉的右側列。",
+    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。已補入舊 OCR 漏掉的右側列。讀者核正 PDF 第 21 頁族稱應為「羊黄苗」，先前 AI 草稿誤作「祥獛苗（疑）」，今已訂正。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
     "source_pdf_page": 21,
-    "translation": "The Xianggu Miao (ethnonym uncertain) live intermixed in Duyun, Shibing, Huangping, Shiqian, Longquan, Yuqing, Liping, Longli, and Jingbi. They do not paint their doors; when entering or leaving they seal them with mud. Their dress and marriage and funerary rites resemble those of Han people. Men cultivate according to the number of mouths to feed, and women weave according to their bodies' needs. Smiles accompany gifts at weddings and funerals (wording uncertain)."
+    "translation": "The Yanghuang Miao live intermixed in Duyun, Shibing, Huangping, Shiqian, Longquan, Yuqing, Liping, Longli, and Jingbi. They do not paint their doors; when entering or leaving they seal them with mud. Their dress and marriage and funerary rites resemble those of Han people. Men cultivate according to the number of mouths to feed, and women weave according to their bodies' needs. Smiles accompany gifts at weddings and funerals (wording uncertain).",
+    "title_en": "Yanghuang Miao (historical source label)"
   },
   "ocr-0aa54e2d1b74-p0021": {
-    "title": "祥獛苗（疑）",
-    "transcription": "祥獛苗雜處都勻施秉黃平石阡龍泉餘慶黎平龍里荊璧。不塗門戶，扇出入以泥封之。服飾婚喪與漢人同。男子計口而耕，婦人度身而織。婚喪以笑相遺送。",
+    "title": "羊黄苗",
+    "transcription": "羊黄苗雜處都勻施秉黃平石阡龍泉餘慶黎平龍里荊璧。不塗門戶，扇出入以泥封之。服飾婚喪與漢人同。男子計口而耕，婦人度身而織。婚喪以笑相遺送。",
     "status": "image_checked_draft",
-    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。開頭歷史族稱「祥獛」字形不確定；已補入舊 OCR 漏掉的右側列。",
+    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。已補入舊 OCR 漏掉的右側列。讀者核正 PDF 第 21 頁族稱應為「羊黄苗」，先前 AI 草稿誤作「祥獛苗（疑）」，今已訂正。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
     "source_pdf_page": 21,
-    "translation": "The Xianggu Miao (ethnonym uncertain) live intermixed in Duyun, Shibing, Huangping, Shiqian, Longquan, Yuqing, Liping, Longli, and Jingbi. They do not paint their doors; when entering or leaving they seal them with mud. Their dress and marriage and funerary rites resemble those of Han people. Men cultivate according to the number of mouths to feed, and women weave according to their bodies' needs. Smiles accompany gifts at weddings and funerals (wording uncertain)."
+    "translation": "The Yanghuang Miao live intermixed in Duyun, Shibing, Huangping, Shiqian, Longquan, Yuqing, Liping, Longli, and Jingbi. They do not paint their doors; when entering or leaving they seal them with mud. Their dress and marriage and funerary rites resemble those of Han people. Men cultivate according to the number of mouths to feed, and women weave according to their bodies' needs. Smiles accompany gifts at weddings and funerals (wording uncertain).",
+    "title_en": "Yanghuang Miao (historical source label)"
   },
   "miao-018": {
     "title": "猓猓",
