@@ -1,5 +1,5 @@
-// Source-specific provisional Chinese image readings and English draft translations. NOT human reviewed.
-// partial_visual_excerpt marks incomplete reading; editorial brackets and ellipses are not original manuscript text.
+// Image-checked AI draft transcriptions and corresponding provisional English translations. NOT human-reviewed.
+// [editorial lacunae] and omissions are not source text. Do not merge distinct manuscript copies.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -438,5 +438,309 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "notes": "俄羅斯國立圖書館 Ф.274 №54.2，Commons PDF第7頁。已核對右頁多列竪排文字，因具體地名距離及中間字句未能確認，刻意用省略號隔開可辨片段；禁止把分隔片段當連續逐字原文。",
     "source_review": "Original cropped image images/external_pilot/rsl_v2_p007_right.jpg",
     "translation_scope": "selected_noncontiguous_verified_phrases"
+  },
+  "rsl-f274-v1-p019": {
+    "title": "白苗",
+    "title_en": "白苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第十五 白苗\n白苗在龍里、貴定、黔西等屬，穿白衣。男子蓬頭赤足。\n〔中間及後續文字待逐列校讀〕",
+    "transcription": "第十五 白苗\n白苗在龍里、貴定、黔西等屬，穿白衣。男子蓬頭赤足。\n〔中間及後續文字待逐列校讀〕",
+    "translation": "Fifteenth: White Miao. The author locates the people labeled White Miao around Longli, Guiding, and Qianxi and says that they wear white clothing. Men are described as wearing their hair unbound and going barefoot. The remaining columns, including descriptions of women's ornaments and sacrifices, await transcription.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 19, image crop images/external_pilot/rsl_v1_p019_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。首句及男子服飾開頭可辨；後續牲畜祭祀段未校。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "白苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p020": {
+    "title": "青苗",
+    "title_en": "青苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第十六 青苗\n青苗在黔西、鎮寧、修文、貴筑等處。衣尚青。婦人以青布綰髮為髻，上裝九華巾。男子竹笠草履，性情獷悍，今亦馴良。在平遠者又名箐苗。",
+    "transcription": "第十六 青苗\n青苗在黔西、鎮寧、修文、貴筑等處。衣尚青。婦人以青布綰髮為髻，上裝九華巾。男子竹笠草履，性情獷悍，今亦馴良。在平遠者又名箐苗。",
+    "translation": "Sixteenth: Qing Miao. The compiler places these people in Qianxi, Zhenning, Xiuwen, Guizhu and other districts. Blue is said to be favored in clothing. Women's hair is bound in a bun with blue cloth and a decorated head covering; men wear bamboo hats and straw footwear. The author characterizes their temperament in disparaging terms but says they have become more accommodating. Those in Pingyuan are also called Qing Miao, written with a different character for Qing.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "translation_scope": "provisional_full_page",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 20, image crop images/external_pilot/rsl_v1_p020_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。短篇整頁已依右至左逐列視讀。『九華巾』『箐苗』仍需核本；作者貶抑性詞彙屬史料觀點。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "青苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p021": {
+    "title": "黑苗",
+    "title_en": "黑苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第十七 黑苗\n黑苗在都匀、八寨、丹江、鎮遠、黎平、清江、古州等州府屬。族類甚眾，習俗多異，衣服皆尚黑。\n〔男子髮式、武備、婚姻與喪葬各列尚待逐字核校〕",
+    "transcription": "第十七 黑苗\n黑苗在都匀、八寨、丹江、鎮遠、黎平、清江、古州等州府屬。族類甚眾，習俗多異，衣服皆尚黑。\n〔男子髮式、武備、婚姻與喪葬各列尚待逐字核校〕",
+    "translation": "Seventeenth: Black Miao. The account places the groups classified under this label in Duyun, Bazhai, Danjiang, Zhenyuan, Liping, Qingjiang, Guzhou and neighboring areas. It remarks that the category encompasses many groups with different customs and says their clothing is predominantly black. The ensuing descriptions of men's hairstyles, weapons, marriage and funerary practices have not yet been transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 21, image crop images/external_pilot/rsl_v1_p021_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。僅錄兩列可確定的地名及概要，不將其他族名的相似文字移植入本冊。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "黑苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p022": {
+    "title": "東苗",
+    "title_en": "東苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第十八 東苗\n東苗在貴筑、修文、龍里、清鎮及廣順、清平各府州縣屬有族。",
+    "transcription": "第十八 東苗\n東苗在貴筑、修文、龍里、清鎮及廣順、清平各府州縣屬有族。",
+    "translation": "Eighteenth: Eastern Miao. The inscription records communities designated Eastern Miao in the jurisdictions of Guizhu, Xiuwen, Longli, Qingzhen, Guangshun, and Qingping. This unusually short caption consists primarily of a geographical list.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "translation_scope": "provisional_full_page",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 22, image crop images/external_pilot/rsl_v1_p022_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。原題記極短，已按四列原文通讀；末尾『有族』用字保留，不按現代文法擅改。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "東苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p023": {
+    "title": "西苗",
+    "title_en": "西苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第十九 西苗\n西苗有馬、謝、何、羅、雷等姓，在貴陽、平越二府屬。娶親必另寢，私通孕產乃同室。\n〔秋收集會、衣著及歌舞等後文待校〕",
+    "transcription": "第十九 西苗\n西苗有馬、謝、何、羅、雷等姓，在貴陽、平越二府屬。娶親必另寢，私通孕產乃同室。\n〔秋收集會、衣著及歌舞等後文待校〕",
+    "translation": "Nineteenth: Western Miao. The source lists the surnames Ma, Xie, He, Luo and Lei and situates the people it calls Western Miao in Guiyang and Pingyue prefectures. It makes claims about marriage and sleeping arrangements, suggesting that the couple only shares a room following pregnancy. Further passages on harvest gatherings, clothing and song have not yet been translated.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 23, image crop images/external_pilot/rsl_v1_p023_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。開首兩列可讀；原文婚俗敘述不應視作未經證實的現代民族誌。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "西苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p024": {
+    "title": "夯苗",
+    "title_en": "夯苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十 夯苗\n夯苗在平越屬。\n〔性情、婚姻與服飾段落待核〕",
+    "transcription": "第二十 夯苗\n夯苗在平越屬。\n〔性情、婚姻與服飾段落待核〕",
+    "translation": "Twentieth: Hang Miao. The opening locates the historically designated group in the Pingyue jurisdiction. The remaining handwritten columns describe temperament, marriage and dress but are not yet reliably transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 24, image crop images/external_pilot/rsl_v1_p024_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。題頭原字形疑作『夯』，待高清及平行抄本核對，不自行更正族稱。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "夯苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p025": {
+    "title": "獠苗",
+    "title_en": "獠苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十一 獠苗\n獠苗在貞豐、羅斛、冊亨三處，原隸廣西，雍正五年改隸黔省。勤耕力作，雜髮穿衣俱如漢人，惟婦人蒙髮、短衣、長裙。\n〔末句二至三字待辨〕",
+    "transcription": "第二十一 獠苗\n獠苗在貞豐、羅斛、冊亨三處，原隸廣西，雍正五年改隸黔省。勤耕力作，雜髮穿衣俱如漢人，惟婦人蒙髮、短衣、長裙。\n〔末句二至三字待辨〕",
+    "translation": "Twenty-first: Liao Miao. The manuscript locates the people so labeled in Zhenfeng, Luohu, and Ceheng, stating that these localities formerly belonged to Guangxi and came under Guizhou in the fifth year of the Yongzheng reign. The author describes diligent cultivation and dress resembling that of Han people, except that women cover their hair and wear short upper garments with long skirts. Several final characters remain unresolved.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 25, image crop images/external_pilot/rsl_v1_p025_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。雍正五年行政沿革按本頁照錄，引用時須另行核查。『雜髮』及末句待校。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "獠苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p026": {
+    "title": "打牙苗",
+    "title_en": "打牙苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十二 打牙苗\n打牙苗在黔西、平越、清鎮等屬。\n〔以下關於髮式、婦女服裝、生計的文字尚待核讀〕",
+    "transcription": "第二十二 打牙苗\n打牙苗在黔西、平越、清鎮等屬。\n〔以下關於髮式、婦女服裝、生計的文字尚待核讀〕",
+    "translation": "Twenty-second: Daya Miao, an ethnonym used in the source. The opening situates the group around Qianxi, Pingyue and Qingzhen. Later descriptions of hairstyles, women's clothing, and livelihood practices are not yet transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 26, image crop images/external_pilot/rsl_v1_p026_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。本頁字跡行草較多，目前只採信卷題及開頭可辨地名；不以機器亂碼填入後文。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "打牙苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p027": {
+    "title": "剪髮犵狫",
+    "title_en": "剪髮犵狫 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十三 剪髮犵狫\n剪髮犵狫在貴定、施秉、平遠州屬，又名剪髮犵狫。男女皆蓄頂髮為髻，勤耕力作。人死則積薪而焚之。",
+    "transcription": "第二十三 剪髮犵狫\n剪髮犵狫在貴定、施秉、平遠州屬，又名剪髮犵狫。男女皆蓄頂髮為髻，勤耕力作。人死則積薪而焚之。",
+    "translation": "Twenty-third: Cut-Hair Gelao, a historical term for a group designated Gelao in the manuscript. The account places them in Guiding, Shibing, and the Pingyuan jurisdiction. Men and women are described as keeping the hair at the crown in a topknot and working diligently at agriculture. When a person dies, it says, firewood is piled up and the body cremated.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "translation_scope": "provisional_full_page",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 27, image crop images/external_pilot/rsl_v1_p027_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。短篇圖說已按原頁五列視讀。族稱的同名重述保留原本；歷史分類不等同現代社群自稱。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "剪髮犵狫"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p028": {
+    "title": "豬屎犵狫",
+    "title_en": "豬屎犵狫 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十四 豬屎犵狫\n豬屎犵狫在石阡、黎平、古州、平遠各屬。身面不洗，其臭穢不堪。\n〔後文待校〕",
+    "transcription": "第二十四 豬屎犵狫\n豬屎犵狫在石阡、黎平、古州、平遠各屬。身面不洗，其臭穢不堪。\n〔後文待校〕",
+    "translation": "Twenty-fourth: Zhu-shi Gelao, a derogatory historical designation. The compiler places the group in Shiqian, Liping, Guzhou and Pingyuan, and makes highly disparaging claims about washing and bodily cleanliness. These are prejudicial descriptions in a Qing manuscript, not reliable modern ethnography. The remainder is untranscribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 28, image crop images/external_pilot/rsl_v1_p028_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。此族稱帶貶義，資料庫只依原件引用並明確註明歷史作者的偏見；未完成後續武器、喪禮等列。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "豬屎犵狫"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p029": {
+    "title": "紅犵狫",
+    "title_en": "紅犵狫 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十五 紅犵狫\n紅犵狫在廣順、平遠、清平等屬。親死殮以棺而不葬，置崖穴中，或臨大河，不施蔽蓋，而傍樹木為主。",
+    "transcription": "第二十五 紅犵狫\n紅犵狫在廣順、平遠、清平等屬。親死殮以棺而不葬，置崖穴中，或臨大河，不施蔽蓋，而傍樹木為主。",
+    "translation": "Twenty-fifth: Red Gelao. The source locates this group in Guangshun, Pingyuan and Qingping. It claims that, when relatives die, their bodies are placed in coffins but not immediately buried; instead the coffins are set in cliff cavities or beside large rivers, without additional coverings, using nearby trees as markers. The description reflects a historical observer's representation of mortuary customs.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "translation_scope": "provisional_full_page",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 29, image crop images/external_pilot/rsl_v1_p029_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。已通讀短篇。『蔽蓋』之字形與『為主』之含義需以原大圖再次核實。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "紅犵狫"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p030": {
+    "title": "花犵狫",
+    "title_en": "花犵狫 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十六 花犵狫\n花犵狫又名花兜苗，在施秉、龍泉及黃平等處。男子慣耕作而好獵，以逐鹿羅雀為事。婦女兩袖口繡五采，周身銀飾，以養蠶為業。\n〔尾列待核〕",
+    "transcription": "第二十六 花犵狫\n花犵狫又名花兜苗，在施秉、龍泉及黃平等處。男子慣耕作而好獵，以逐鹿羅雀為事。婦女兩袖口繡五采，周身銀飾，以養蠶為業。\n〔尾列待核〕",
+    "translation": "Twenty-sixth: Flower Gelao, also called Flower-Dou Miao in this historical classification. The manuscript places them in Shibing, Longquan and Huangping. Men are described as farming and hunting deer and birds, while women embroider the cuffs of their sleeves in multiple colors, wear silver adornments, and raise silkworms. The final column remains to be read.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 30, image crop images/external_pilot/rsl_v1_p030_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。已核服飾、生計主段；首地名『龍泉』及尾句應再與館藏高分辨圖對校。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "花犵狫"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p031": {
+    "title": "水犵狫",
+    "title_en": "水犵狫 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十七 水犵狫\n水犵狫亦名犵兜苗，在施秉、余慶等屬，善捕魚，隆冬能入淵，不畏冷。男子衣服與漢人同，婦人穿細摺長裙，婚姻祭祀循漢禮，知法畏官。",
+    "transcription": "第二十七 水犵狫\n水犵狫亦名犵兜苗，在施秉、余慶等屬，善捕魚，隆冬能入淵，不畏冷。男子衣服與漢人同，婦人穿細摺長裙，婚姻祭祀循漢禮，知法畏官。",
+    "translation": "Twenty-seventh: Water Gelao, alternatively called Gedou Miao in the manuscript. The source locates them in Shibing, Yuqing and nearby districts and reports that they are skilled fishers who enter deep water even in winter. It compares men's clothing to Han attire, describes women's finely pleated long skirts, and says marriages and sacrifices follow Han rituals and that the people recognize officials' authority.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "translation_scope": "provisional_full_page",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 31, image crop images/external_pilot/rsl_v1_p031_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。原文較短，已通讀。首句別名可能為『犵兜苗』，末尾『知法畏官』表現出編者立場，須註明。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "水犵狫"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p032": {
+    "title": "銅圈犵狫",
+    "title_en": "銅圈犵狫 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十八 銅圈犵狫\n銅圈犵狫在平遠州。男子自後分以斜文布為衣，婦人以青帕繞髻如銅圈狀。\n〔其餘服飾、祈禱與日常段落待核〕",
+    "transcription": "第二十八 銅圈犵狫\n銅圈犵狫在平遠州。男子自後分以斜文布為衣，婦人以青帕繞髻如銅圈狀。\n〔其餘服飾、祈禱與日常段落待核〕",
+    "translation": "Twenty-eighth: Copper-Ring Gelao. The manuscript places this group in Pingyuan and describes women wrapping blue cloth around their hair in a ring-like shape, hence the assigned name. The rest of the caption, discussing clothing and ritual practices, remains untranscribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 32, image crop images/external_pilot/rsl_v1_p032_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。只有開首地名及頭飾描述足以較可靠地辨認，全文尚未完成。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "銅圈犵狫"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p033": {
+    "title": "披袍犵狫",
+    "title_en": "披袍犵狫 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第二十九 披袍犵狫\n披袍犵狫在黃平州。男女衣長尺許，外披一袍，前短後長。蓋□為桶裙，羊毛織成。性淳謹，勤耕作，插犁為生。係淳屬苗也。",
+    "transcription": "第二十九 披袍犵狫\n披袍犵狫在黃平州。男女衣長尺許，外披一袍，前短後長。蓋□為桶裙，羊毛織成。性淳謹，勤耕作，插犁為生。係淳屬苗也。",
+    "translation": "Twenty-ninth: Cloak-Wearing Gelao. The source places this group in Huangping. It describes short garments and an additional cloak, shorter at the front than behind, with woolen textiles used for a tubular skirt; one character in that phrase cannot yet be read. The compiler portrays the group as diligent cultivators who make their living by ploughing.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "translation_scope": "provisional_full_page",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 33, image crop images/external_pilot/rsl_v1_p033_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。對原頁五列已作初讀；『蓋□為桶裙』『淳屬』等可能存在異體或誤識，仍需高清再查。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "披袍犵狫"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p034": {
+    "title": "林犵苗",
+    "title_en": "林犵苗 (historical manuscript term)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十 林犵苗\n林犵有土、黎、全、父等姓，散居各府。\n〔後續衣飾、服役及家庭敘述待逐字核校〕",
+    "transcription": "第三十 林犵苗\n林犵有土、黎、全、父等姓，散居各府。\n〔後續衣飾、服役及家庭敘述待逐字核校〕",
+    "translation": "Thirtieth: Lin Ge Miao, as designated by this manuscript. The opening lists several surnames and describes the people as living across different prefectures. Much of the unusually long account of clothing, service, and family relations remains to be read.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "opening_or_selected_columns_only",
+    "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
+    "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 34, image crop images/external_pilot/rsl_v1_p034_right.jpg",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。本篇長且草書難辨。族稱中的『犵』及姓氏『父』待與大圖核實，不應推斷自稱或現代族屬。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "tags": [
+      "林犵苗"
+    ],
+    "visual_tags": []
   }
 };
