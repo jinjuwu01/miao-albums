@@ -1,7 +1,7 @@
 (() => {
   "use strict";
   const $ = id => document.getElementById(id);
-  const IMPORTED = [...(Array.isArray(window.MIAO_IMPORTED_RECORDS) ? window.MIAO_IMPORTED_RECORDS : []), ...(Array.isArray(window.MIAO_FOUR_ALBUMS) ? window.MIAO_FOUR_ALBUMS.filter(r=>!r.image_pending) : [])];
+  const IMPORTED = Array.isArray(window.MIAO_IMPORTED_RECORDS) ? window.MIAO_IMPORTED_RECORDS : [];
   const PLATES54 = Array.isArray(window.MIAOMAN_54_PLATES) ? window.MIAOMAN_54_PLATES : [];
   const DRAFTS42 = window.MIAOMAN_42_DRAFTS && typeof window.MIAOMAN_42_DRAFTS==='object' ? window.MIAOMAN_42_DRAFTS : {};
   const SINGLE82 = window.MIAOMAN_SINGLE_82_DRAFTS && typeof window.MIAOMAN_SINGLE_82_DRAFTS==='object' ? window.MIAOMAN_SINGLE_82_DRAFTS : {};
