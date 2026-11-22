@@ -2424,5 +2424,85 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-fdb097a9db87-p0062": {
     "translation": "The Dongzai Miao live near Guzhou and are divided into large and small stockades, the former called Yetou and the latter Dongzai. The smaller groups are expected to obey the larger, and intermarriage can bring severe penalties. The source particularly praises their boats and navigation skills.",
     "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0063": {
+    "translation": "The Eight-Stockade Hei Miao live under Duyun. Women wear colored fabric trim and embroidered chest panels called zhedu. Young people meet in a communal malang house. Betrothal involves cattle, wine, and payments called 'head money'; a bride may return to her parents after three days. Further payments can be demanded by her natal relatives or even after a couple's death, called 'ghost-head money.' [The original transcription has scrambled column order, so the exact sequence of obligations remains uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0064": {
+    "translation": "The Qingjiang Hei Miao are described as wearing cloth-bound hair, silver neck rings, large earrings, and wide trousers; both sexes go barefoot. They plant trees and trade with Han neighbors, buying used theatrical brocade robes at high prices. Unmarried men and women sing on hillsides, share wine from ox horns, and may become couples before formal marriage after childbirth.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0065": {
+    "translation": "The Louju Hei Miao live around the Eight Stockades and Danjiang. Men farm while women wear horn-shaped coiffures. They live upstairs and keep livestock beneath. The dead may remain in coffins for twenty years before villages jointly arrange a mass burial at a common ancestral ground or 'spirit hall,' whose objects are subject to taboos.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0066": {
+    "translation": "The Heishan Miao live around Taigong, Guzhou, and Qingjiang. They bind hair in blue cloth and inhabit mountain valleys. The historical author accuses them of neglecting agriculture and plundering, while noting divination with grass stalks and saying that they have recently become quiet.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0067": {
+    "translation": "The Hei Sheng Miao live in Qingjiang. In hostile language, the author alleges that armed bands used torches, spears, and swords to raid wealthy families. The text credits official campaigns in the thirteenth year of Yongzheng (1735) with bringing them under the law.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0068": {
+    "translation": "The Gaopo Miao, also called Dingban Miao, live around Pingyuan and Qianxi. They wear blue, cultivate hillsides, and women secure their hair with a long wooden board, giving the group its name. Women weave diligently and couples may form unions by mutual choice.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0069": {
+    "translation": "The Pingfa Miao live near Xintianying in Guiding. Men wear grass garments and short skirts. Women wear short tops, tube skirts, and long pins in their coiffures. Dogs are used in wedding and sacrificial rites.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0070": {
+    "translation": "The Hei Xiajia live under Qingjiang and are said to prosper from timber growing and trade with Han neighbors. The text portrays their lending as generous and describes a practice of digging up guarantors' ancestral remains after fraud or unpaid debts, marked with a red flag, to compel recovery of the loan. The author says introduction of baojia guarantees ended the practice.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0071": {
+    "translation": "The Qingjiang Xiajia live around Taigong. Women farm diligently; men wear red headcloths and carry large swords. The source alleges groups once seized lone travelers and confined them in wooden stocks while demanding ransom. Severe punishment is said to have ended such practices.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0072": {
+    "translation": "The Liminzi live around Guiyang, Qianxi, Dading, and Qingzhen. Men make a living trading, while women farm, wear straw sandals, and weave woolen cloth in spare time. They raise livestock in the mountains and observe festivals similar to those of Han communities.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0073": {
+    "translation": "The Bai'erzi live around Weining and Yunnan. Men follow Han styles and women retain local Miao customs. The source says the group arose through Han men marrying into Miao households and sometimes leaving mothers to raise children alone, explaining the name.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0074": {
+    "translation": "The Bai Longjia live around Dading and Pingyuan. They wear white garments, collect lacquer sap in the mountains for market, and carry goods on their backs. Their marriage and funerary practices are compared with standard rites.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0075": {
+    "translation": "The Bai Xiajia live in Libo. Men wear fox-tail ornaments and women light-blue garments, cloud-patterned pleated skirts, and red embroidered shoes. During early spring, men and women strike hollow wooden instruments called bazao and play courtship games, sometimes embracing around the waist. Parents watch without objection, while Chinese-speaking outsiders called wailang may join. After marriage, cloth payments terminate earlier relationships. [The Chinese transcription has scrambled phrases.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0076": {
+    "translation": "The Tu Gelao [heading uncertain] live near Weining. Men weave grass garments and work as hired laborers for Guoluo households. The source claims they rub heated oil on their feet before traveling quickly through mountain terrain.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0077": {
+    "translation": "The Yaque Miao live around Guiyang. Women wear white-bordered clothes at the chest, sleeves, and skirts. They prefer high mountains, grow mixed grains, and choose hilltops as grave sites. The author likens their language to birdsong and says village elders settle disputes involving officials.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0078": {
+    "translation": "The Hulu Miao live around Dingfan and Luohu. The source disparagingly accuses them of violence, group robbery, and neglecting agriculture, but claims stricter laws have led them to obey local rules.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0079": {
+    "translation": "The Hongzhou Miao live under Liping. Men farm in a manner compared with Han communities, while women weave fine cotton and ramie cloth. Their cloth is sought after at markets as 'Hongzhou ramie cloth.'",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0080": {
+    "translation": "The Xixi Miao live near Tianzhu. Women wear skirts ending above the knees and wrap their legs in blue cloth. Unmarried men and women gather outdoors for songs, games, and drinking. Couples may form unions before cattle are given as betrothal gifts after childbirth.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0081": {
+    "translation": "The Chezai Miao live around Guzhou. Men pursue skilled trades and women excel in needlework. Unmarried people sing and dance at open 'moon grounds' and choose partners through mutual affection. The source claims descent from six hundred soldiers of Ma Sanbao who married into Miao families.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0082": {
+    "translation": "The group historically termed Sheng Miao lives around Taigong, Kaili, Huangping, and Shibing. The author portrays the group as 'wild' and says they prefer fish and meat raw or only lightly cooked, a characterization reflecting his historical biases.",
+    "translation_status": "ai_draft"
   }
 };
