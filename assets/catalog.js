@@ -12,12 +12,13 @@
   const total = document.getElementById("catalog-total");
   const digital = document.getElementById("catalog-digitized");
   total.textContent = db.copies.length;
-  digital.textContent = db.copies.filter(x => x.access === "digitized").length;
+  digital.textContent = db.copies.filter(x => x.access === "digitized" || x.online === true).length;
 
   const badge = {
-    digitized:["線上影像 / Online facsimile", "digital"],
-    review:["影像或書目待核 / Verification needed", "review"],
-    catalog:["書目線索 / Catalogue lead", "catalog"]
+    digitized:["線上圖冊 / Digital facsimile", "digital"],
+    catalog:["館藏已著錄 / Catalogued", "catalog"],
+    fragment:["散頁 / Detached leaf", "fragment"],
+    review:["文獻線索待核 / Research lead", "review"]
   };
   const relation = {
     "new-copy":"獨立待錄館藏 / Distinct holding",
@@ -35,13 +36,13 @@
       && (region.value === "all" || region.value === x.region)
       && (!q || [x.title,x.title_en,x.institution,x.institution_en,x.shelfmark,works.get(x.work_id)?.title, x.note].join(" ").toLocaleLowerCase().includes(q))
     ).sort((a,b) => a.priority-b.priority || a.title.localeCompare(b.title,"zh-Hant"));
-    count.textContent = choices.length + " 種館藏版本 / copies";
+    count.textContent = choices.length + " 條館藏記錄與線索 / copy records & leads";
     root.innerHTML = choices.map(x => `
       <article class="copy-card${location.hash === "#"+x.id ? " active" : ""}" id="card-${esc(x.id)}">
         <div class="copy-overline"><span class="copy-access ${labels(x.access)[1]}">${labels(x.access)[0]}</span><span class="copy-id">${esc(x.shelfmark)}</span></div>
         <h3>${esc(x.title)}</h3><p class="copy-title-en" lang="en">${esc(x.title_en)}</p>
         <p class="copy-institution">${esc(x.institution)} <span lang="en">/ ${esc(x.institution_en)}</span></p>
-        <p class="copy-meta">${esc(relation[x.relation] || "")}</p>
+        <p class="copy-meta">${x.format === "fragment" && x.access !== "fragment" ? "散頁記錄 / Detached leaves · " : x.format === "scroll" ? "卷軸 / Scroll · " : ""}${esc(relation[x.relation] || "")}</p>
         <button type="button" class="copy-open" data-copy="${esc(x.id)}">查看馆藏详情 / View copy <span aria-hidden="true">↗</span></button>
       </article>`).join("");
     root.querySelectorAll("[data-copy]").forEach(button => button.addEventListener("click", () => show(button.dataset.copy)));
@@ -53,7 +54,8 @@
       x.id==="rylands-crawford398" ?
       '<a href="index.html#manchester-c398-p002">逐頁瀏覽曼徹斯特本 / Browse all leaves ↗</a>' : "";
     const more = x.catalog_url ? `<a href="${esc(validURL(x.catalog_url))}" target="_blank" rel="noopener noreferrer">馆藏书目 / Catalogue ↗</a>` : "";
-    return `<div class="source-links"><a href="${esc(validURL(x.url))}" target="_blank" rel="noopener noreferrer">打开馆方或影像来源 / Open source ↗</a>${more}${extra}${pageIndexLinks}</div>`;
+    const sourceLabel = x.access === "review" ? "查看學術著錄 / Scholarly source" : x.access === "fragment" ? "查看散頁影像或藏品 / View detached leaf" : "打開館方或影像來源 / Open source";
+    return `<div class="source-links"><a href="${esc(validURL(x.url))}" target="_blank" rel="noopener noreferrer">${sourceLabel} ↗</a>${more}${extra}${pageIndexLinks}</div>`;
   }
   function show(id) {
     const x = db.copies.find(c => c.id === id); if (!x) return;
@@ -68,7 +70,7 @@
       <div><small>作品或傳本系統 / Work or family</small><strong>${esc(w.title)}</strong><span>${esc(w.title_en)}</span></div></div>
       <p class="detail-note">${esc(x.note)}</p><p class="detail-translation" lang="en">${esc(x.note_en)}</p>
       ${links(x)}
-      <div class="source-citation"><strong>來源與版本標識 / Citation & provenance</strong><p>${esc(x.source)} · ${esc(x.shelfmark)} · Copy ID: <code>${esc(x.id)}</code></p><p>本站新收錄的是<strong>館藏版本目錄</strong>，不是已完成的逐頁 OCR；本條尚未匯入任何新的 OCR 文字或高清頁面。<span lang="en">Catalogue metadata only; no page-level transcription or locally hosted scan has been imported for this copy.</span></p></div>
+      <div class="source-citation"><strong>來源與版本標識 / Citation & provenance</strong><p>${esc(x.source)} · ${esc(x.shelfmark)} · Copy ID: <code>${esc(x.id)}</code></p><p>這是<strong>館藏書目記錄</strong>，不代表有經核對的新增 OCR。${x.imported_pages > 0 ? `本站先前已索引 ${esc(x.imported_pages)} 頁掃描，但不表示這些頁已校讀。` : "本條沒有因本次編目而新增逐頁影像或 OCR。"}<span lang="en">Bibliographic record only; ${x.imported_pages > 0 ? "some scans were previously indexed, but no new verified OCR is implied." : "no new page-level images or verified OCR were imported in this update."}</span></p></div>
       ${x.manifest ? `<div class="iiif-area"><button id="load-iiif" type="button" class="iiif-button">展開館方 IIIF 逐頁影像 / Browse IIIF leaves</button><p class="iiif-terms">遠端影像來自原館，可能受使用條款限制。圖像僅供瀏覽，請勿直接當作校訂文字。<span lang="en">Remotely served imagery; check institutional terms before reuse.</span></p><div id="iiif-results" aria-live="polite"></div></div>` : ""}
       `;
     details.querySelector("#close-copy").addEventListener("click", () => { details.hidden = true; history.replaceState(null,"",location.pathname+location.search); document.querySelectorAll(".copy-card").forEach(e=>e.classList.remove("active")); });
