@@ -1,5 +1,4 @@
-// Distinct manuscript-copy AI visual-reading/English translation drafts, NOT human approved.
-// Some records are partial excerpts: absence of text is an uncompleted reading, not absence of source text.
+// Provisional source-specific bilingual visual readings (partial excerpts), NOT human-reviewed complete OCR.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -2121,6 +2120,306 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "notes": "已核原頁地名與生計開頭；『細耳草鞋』等字句需與高清再比，未作全文校定。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
     "tags": [
       "里民子"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p045": {
+    "title": "林犵",
+    "title_en": "林犵 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "林犵有王、黎、金、文等姓，散布各州。",
+    "transcription": "林犵有王、黎、金、文等姓，散布各州。",
+    "translation": "The manuscript lists Wang, Li, Jin and Wen among the surnames of people it calls Lin Ge, saying they are dispersed across various administrative jurisdictions. The remaining discussion of household, rituals and celebrations is not included in this provisional excerpt.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 45; paired illustration canvas 44",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。已核對前兩列姓氏及散居描述；其餘對火葬和祭祀的文字仍待校對。",
+    "tags": [
+      "林犵"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p047": {
+    "title": "花撞",
+    "title_en": "花撞 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "花撞在荔波，男善耕作，女工紡織，衣短裙僅可遮膝。",
+    "transcription": "花撞在荔波，男善耕作，女工紡織，衣短裙僅可遮膝。",
+    "translation": "The group labeled Huazhuang is placed in Libo. The source says men are skilled at farming and women at spinning and weaving, and describes short garments and skirts barely covering the knees. The final columns remain pending verification.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 47; paired illustration canvas 46",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。前三列可辨。關於婚姻與習俗的餘列未轉錄，不能作為全文引用。",
+    "tags": [
+      "花撞"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p049": {
+    "title": "水犵狫",
+    "title_en": "水犵狫 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "水犵狫在施秉、餘慶等處，善捕魚，潛入深淵，故名水犵狫。男子衣服與漢人無異。",
+    "transcription": "水犵狫在施秉、餘慶等處，善捕魚，潛入深淵，故名水犵狫。男子衣服與漢人無異。",
+    "translation": "The Water Gelao are placed around Shibing and Yuqing. The compiler describes them as skilled at catching fish, even diving into deep pools, and derives the historical label from this practice. Men's clothing is said to resemble Han attire. Further lines about women's dress and ritual conduct remain untranscribed.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 49; paired illustration canvas 48",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。已按右至左初讀地名及捕魚段；族稱乃編纂者使用，末段衣裙婚姻待核。",
+    "tags": [
+      "水犵狫"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p051": {
+    "title": "青苗",
+    "title_en": "青苗 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "青苗在黔西、鎮寧二州及貴筑、修文兩縣境內，衣尚青。婦以青布籠髮，上裝九華巾。",
+    "transcription": "青苗在黔西、鎮寧二州及貴筑、修文兩縣境內，衣尚青。婦以青布籠髮，上裝九華巾。",
+    "translation": "The Qing Miao are placed in Qianxi, Zhenning, Guizhu and Xiuwen. According to the author they favor blue clothing, with women covering the hair in blue cloth and wearing a headpiece provisionally read as a jiuhua kerchief. The remainder of the caption remains unread.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 51; paired illustration canvas 50",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。『九華巾』字形待核；餘列男服、作息與性格評述不以他本補入。",
+    "tags": [
+      "青苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p053": {
+    "title": "獠苗（題字待核）",
+    "title_en": "獠苗（題字待核） (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "獠苗在貞豐州、羅斛、冊亨等處，原隸粵西，雍正五年改隸黔省。勤耕力作。",
+    "transcription": "獠苗在貞豐州、羅斛、冊亨等處，原隸粵西，雍正五年改隸黔省。勤耕力作。",
+    "translation": "The historical Liao Miao category is located in Zhenfeng, Luohu, Ceheng and nearby places. The manuscript claims that these places were formerly administered from Guangxi and were reassigned to Guizhou in the fifth year of the Yongzheng reign. It portrays the people as diligent agricultural workers. The dress descriptions remain untranscribed.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 53; paired illustration canvas 52",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。右首『獠』字形有異體可能，行政變遷僅按手稿所述，不等同已核實史實。",
+    "tags": [
+      "獠苗（題字待核）"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p055": {
+    "title": "花苗",
+    "title_en": "花苗 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "花苗在大定、遵義、安順、貴陽等府所屬。無姓氏，性愚而畏法，俗陋而力勤。衣用敗布，紡條織成青白相間。",
+    "transcription": "花苗在大定、遵義、安順、貴陽等府所屬。無姓氏，性愚而畏法，俗陋而力勤。衣用敗布，紡條織成青白相間。",
+    "translation": "The compiler places the Flower Miao in Dading, Zunyi, Anshun, Guiyang and their jurisdictions. It disparages the people as lacking surnames and being unrefined yet industrious and fearful of the law. The source describes clothing woven from strips of reused fabric in alternating blue and white. These are historically situated claims, not verified descriptions of a modern community.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 55; paired illustration canvas 54",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。只試讀前數列及衣料句；族群偏見明確歸於清代作者；婚嫁與節慶後段未讀。",
+    "tags": [
+      "花苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p057": {
+    "title": "紅犵狫",
+    "title_en": "紅犵狫 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "紅犵狫在廣順、平遠州、清平等處。",
+    "transcription": "紅犵狫在廣順、平遠州、清平等處。",
+    "translation": "The author places people called Red Gelao in the Guangshun, Pingyuan and Qingping jurisdictions. The remainder of the short account contains hostile judgments about conduct and remains to be checked against the original brushwork.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 57; paired illustration canvas 56",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。當前只採信地名與族稱；其後帶貶義的性格敘述字形仍不確定，不直接錄入。",
+    "tags": [
+      "紅犵狫"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p059": {
+    "title": "花犵狫",
+    "title_en": "花犵狫 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "花犵狫又名花兜，在鎮遠府之施秉及黃平州等處。男子慣耕而好獵。",
+    "transcription": "花犵狫又名花兜，在鎮遠府之施秉及黃平州等處。男子慣耕而好獵。",
+    "translation": "The historical label Flower Gelao is also given as Huadou in this copy. The account places the group in the Shibing and Huangping areas, describing men as agricultural workers and hunters. The remaining passages on clothing, fibre cultivation and women's work are not yet transcribed.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 59; paired illustration canvas 58",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。『花兜』與施秉黃平地名可辨，後列工藝作物不作推測性補全。",
+    "tags": [
+      "花犵狫"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p061": {
+    "title": "鍋圈犵狫（題字待核）",
+    "title_en": "鍋圈犵狫（題字待核） (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "鍋圈犵狫在平越州。男以斜紋布為衣，婦以青帕籠髮，如鍋圈狀。青衣短裙，男子□不服藥。",
+    "transcription": "鍋圈犵狫在平越州。男以斜紋布為衣，婦以青帕籠髮，如鍋圈狀。青衣短裙，男子□不服藥。",
+    "translation": "The people called Guoquan Gelao, a name whose exact first graph requires checking, are placed in Pingyue. The source says men wear diagonally woven cloth, while women cover their hair in blue kerchiefs arranged in a circular shape likened to a pot ring. Blue upper garments and short skirts are also described. A subsequent statement about men's medical practices is uncertain.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 61; paired illustration canvas 60",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。『鍋圈／銅圈』可能涉及本藏本異字，保留待核；末句『男子□不服藥』不轉譯為確定事實。",
+    "tags": [
+      "鍋圈犵狫（題字待核）"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p063": {
+    "title": "土人",
+    "title_en": "土人 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "土人名夷官，在貴陽府之廣順州者與軍民通婚姻。男女多貿易，女勤耕作，種植時田歌相和。",
+    "transcription": "土人名夷官，在貴陽府之廣順州者與軍民通婚姻。男女多貿易，女勤耕作，種植時田歌相和。",
+    "translation": "The people categorized as Turen ('local people') are also called Yiguan in the source. Those in Guangshun under Guiyang Prefecture are said to intermarry with military and civilian households. The account describes trade and women's agricultural work, with field songs sung during planting. The remaining lines are not fully verified.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 63; paired illustration canvas 62",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。已讀前中數列，『夷官』及性別與貿易字句仍應與原大圖核對。",
+    "tags": [
+      "土人"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p065": {
+    "title": "洞人",
+    "title_en": "洞人 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "洞人皆在下游，而洪州尤眾。性多猜忌，夫婦出入必偕。",
+    "transcription": "洞人皆在下游，而洪州尤眾。性多猜忌，夫婦出入必偕。",
+    "translation": "The manuscript locates the Dong Ren along downstream waterways and says they are especially numerous in Hongzhou. The compiler imputes a suspicious temperament to them and claims that married couples travel together. Other passages concerning food and materials gathered for warmth are not yet transcribed.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 65; paired illustration canvas 64",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。只錄前列地理及編者性格評語，後半不作已完成全文；貶抑性敘述要註明史料偏見。",
+    "tags": [
+      "洞人"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p067": {
+    "title": "夷人",
+    "title_en": "夷人 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "夷人在普安各營司，男女皆披氈衣，不浴，性醇謹而信佛。",
+    "transcription": "夷人在普安各營司，男女皆披氈衣，不浴，性醇謹而信佛。",
+    "translation": "The source places Yi Ren in administrative posts around Pu'an. It claims that both women and men wear felt cloaks, seldom bathe, and are sincere and devoted to Buddhism. These are the Qing compiler's representations and should be treated critically. The closing passage remains untranscribed.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 67; paired illustration canvas 66",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。只試讀右側三列；『不浴』是編纂者的表述，語言通事段待校。",
+    "tags": [
+      "夷人"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p069": {
+    "title": "楊洞羅漢苗（題字待核）",
+    "title_en": "楊洞羅漢苗（題字待核） (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "楊洞羅漢苗在黎平府。男耕作貿易，婦髮髻鬢散，插木梳於額前，富者以金銀作連環耳墜。",
+    "transcription": "楊洞羅漢苗在黎平府。男耕作貿易，婦髮髻鬢散，插木梳於額前，富者以金銀作連環耳墜。",
+    "translation": "The historical group designated Yangdong Luohan Miao is placed in Liping Prefecture. Men are described as farming and trading, while women arrange their hair and place wooden combs at the forehead; wealthier people are said to wear linked gold and silver earrings. Additional dress and textile passages remain to be read.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 69; paired illustration canvas 68",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。首字『楊／陽』形近待核，不強併俄藏『陽洞羅漢苗』異文；末尾長裙等描述未錄。",
+    "tags": [
+      "楊洞羅漢苗（題字待核）"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p071": {
+    "title": "白苗",
+    "title_en": "白苗 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "白苗在龍里、貴定及黔西地方。服色尚白，男子科頭，婦鬢髮長簪。",
+    "transcription": "白苗在龍里、貴定及黔西地方。服色尚白，男子科頭，婦鬢髮長簪。",
+    "translation": "The White Miao are placed in Longli, Guiding and Qianxi. The compiler says white is favored in dress, describes men's uncovered hair and women's long hairpins, and goes on to discuss ceremonies that have not yet been fully transcribed.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 71; paired illustration canvas 70",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。僅取前列地理及衣髮段；牛祭、婚俗及後段仍不確定，避免補寫。",
+    "tags": [
+      "白苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p073": {
+    "title": "馬鐙龍家",
+    "title_en": "馬鐙龍家 (historical manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "ocr_raw": "馬鐙龍家，鎮寧州、普定及谷西堡、頂營司之間，多劉、趙、張等姓。衣尚白。",
+    "transcription": "馬鐙龍家，鎮寧州、普定及谷西堡、頂營司之間，多劉、趙、張等姓。衣尚白。",
+    "translation": "The group called Madeng Longjia is situated by the compiler around Zhenning, Puding, Guxibao and Dingying Si. The text lists surnames including Liu, Zhao and Zhang and says the people favor white clothing. The remainder, including women's headdresses and agricultural occupations, still needs comparison with the source scan.",
+    "translation_status": "ai_draft",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading of manuscript image, pending scholarly manual collation",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 73; paired illustration canvas 72",
+    "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。本藏本題名暫讀『馬鐙』，俄藏作『馬蹬』，兩版本詞形須分開保存；其他列未完整校讀。",
+    "tags": [
+      "馬鐙龍家"
     ],
     "visual_tags": []
   }
