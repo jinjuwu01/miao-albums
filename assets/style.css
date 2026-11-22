@@ -86,3 +86,9 @@
 .developer-credit{margin:21px 0 0;font-size:12px;line-height:1.85;color:#6d706a}
 .developer-credit a{font-family:var(--font-en);color:var(--accent);text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
 .developer-credit a:hover{color:var(--ink)}
+
+/* 2026-11-22: distinct copy-catalogue entry points; preserve original archive reader. */
+.hero-copy .hero-copies-link{margin-left:24px;color:#5d766b;border-color:#acbeb2;font-weight:500}
+.hero-copies-link .hero-link-en{color:#879487}
+@media(max-width:1250px){.site-header{flex-wrap:wrap;row-gap:9px}.site-header nav{order:3;width:100%;justify-content:center;border-top:1px solid var(--border);padding:9px 0 0}.header-version{order:2}}
+@media(max-width:760px){.site-header nav{justify-content:flex-start;overflow-x:auto;gap:16px;scrollbar-width:thin;padding-bottom:6px}.site-header nav a{flex-shrink:0}.hero-copy .hero-copies-link{margin-left:0;display:block;width:max-content}}
