@@ -2056,5 +2056,133 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-e7b41523743e-p0101": {
     "translation": "The Liu'ezi of Dading and Weining include black and white branches. Men wear pointed topknots and women long garments without skirts. After a year families reopen coffins to wash ancestral bones, wrap them, and rebury them. Illness is attributed to unclean ancestral remains. The author says the practice has declined under official prohibition.",
     "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0103": {
+    "translation": "The Bai'ezi live near Zhenfeng and Luohu. Men wear pointed topknots like snail shells, short white garments, and women long clothes without skirts. Their customs resemble those of the Liu'ezi, but illness is treated by prayers to spirits rather than medicine.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0105": {
+    "translation": "The Ranjia Man live in Yanhe under Sinan. They fish and hunt and prize fish and shrimp as food. Their customs are compared with those of other groups called Manren.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0107": {
+    "translation": "The Jiuming Jiuxing Miao live in Dushan. The author disparagingly portrays them as quarrelsome and prone to changing names. Weddings and funerals involve slaughtering cattle and communal drinking; cattle may settle an injury after a fight. Women grow upland grain.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0109": {
+    "translation": "The Yetou Miao live around Guzhou. They cultivate with human labor rather than cattle and celebrate the first day of the eleventh lunar month. Women wear coiled hair and embroidered short garments. The source describes betrothal payments extending even to a couple's descendants if they cannot afford them.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0111": {
+    "translation": "The Dongzai Miao live in Guzhou. Large villages are called Yetou and small ones Dongzai; the smaller settlements obey the larger. The account praises boatmanship.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0113": {
+    "translation": "The Eight-Stockade Miao live in Duyun. Men and women wear multicolored embroidered sleeves and chest panels called dudou. Young people exchange money or gifts for betrothal, including a fee called 'ghost money.' [The brief caption is incomplete and differs from fuller versions.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0115": {
+    "translation": "The Qingjiang Hei Miao wear red headcloths for men and blue for women, with flowers, silver neck rings, large earrings, and wide skirts. Both sexes go barefoot. They plant trees and trade with Han neighbors. Unmarried men and women meet on hillsides to sing and drink from ox horns; formal marriage may follow childbirth.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0117": {
+    "translation": "The Louju Hei Miao live in the Eight Stockades and Danjiang. Men farm and women coil hair into horn-shaped styles. People dwell upstairs with livestock below. Bodies remain in coffins for an extended period, described in this version as two years, before communal burial in a shared ancestral site called a spirit hall.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0119": {
+    "translation": "The Heishan Miao live around Taigong, Qingjiang, and Guzhou in remote mountain valleys. They bind hair with blue cloth. The author accuses them of neglecting farming and praises their divination with grass stalks; he says they have become peaceful.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0121": {
+    "translation": "The Hei Xiajia live around Qingjiang. The source alleges that some once formed raiding parties carrying torches, spears, and blades against wealthy houses. The author says official campaigns in 1735 brought the group under the law.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0123": {
+    "translation": "The Gaopo Miao, also called Dingpi Miao [heading uncertain], live around Pingyuan and Qianxi. Men cultivate hillsides and women bind their hair with wooden boards, weave, and may choose partners through informal courtship.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0125": {
+    "translation": "The Pingfa Miao live near Xintian in Guiding. Men wear grass garments and short skirts; women wear short tops and tube skirts with long hairpins. Dogs are slaughtered for wedding and sacrificial rites.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0127": {
+    "translation": "The group here labeled Hei Sheng Miao makes a living trading timber, often becoming wealthy through business with Han neighbors. The source describes a practice of disturbing a wealthy guarantor's ancestral tomb and taking bones in debt disputes, called 'taking the white and releasing the black.' The title and source may be conflated with the Hei Zhongjia and require verification.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0129": {
+    "translation": "The Qingjiang Xiajia live around Taigong. Women farm and weave; men wear red headcloths and carry swords. The source alleges that groups once stopped travelers, confined them in wooden cangues, and demanded ransom, but have gradually become law-abiding after military campaigns.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0131": {
+    "translation": "The Liminzi live around Dading, Qianxi, Guiyang, Guizhu, Anshun, and Qingzhen. Men trade, while women farm and weave wool in spare hours, wearing straw sandals. Marriage and funeral practices are compared with those of Han neighbors.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0133": {
+    "translation": "The Bai'erzi live in Weining and eastern Yunnan. Men trade and follow Han styles; women retain Miao customs and venerate spirits. The source explains the group through marriages in which Han men join Miao households.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0135": {
+    "translation": "The Bai Longjia live around Dading and Pingyuan. They wear white garments, gather herbs and lacquer in mountains to trade, and carry goods on their backs. Marriage practices are compared with Han rites.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0137": {
+    "translation": "The Bai Xiajia live in Libo. Men wear fox-tail ornaments and white garments and farm; women wear finely pleated decorated skirts and red embroidered shoes. In spring, couples meet around a hollow wooden instrument called bazao, striking it rhythmically and engaging in games. Parents tolerate such courtship, and Chinese-speaking outsiders called wailang may join. Cloth gifts mark marriage transitions.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0139": {
+    "translation": "The Tu Gelao live near Weining. Men weave clothing from grasses and work as hired laborers for Guoluo households. The source claims they apply heated oil to their feet for swift movement across mountains.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0141": {
+    "translation": "The Yaque Miao live under Guiyang. Women wear patterned garments edged in white cloth. They grow upland grains on high mountains and choose hilltops for graves. The author likens their speech to birds and says village elders arbitrate official matters.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0143": {
+    "translation": "The Hulu Miao live near Dingfan and Luohu. The author accuses them of armed theft and avoiding agriculture, while claiming their practices have become more law-abiding.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0145": {
+    "translation": "The Hongzhou Miao live near Liping. Men farm, and women spin cotton and ramie to make exceptionally fine cloth called Hongzhou ramie cloth.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0147": {
+    "translation": "The Xixi Miao live in Tianzhu. Women wear patterned blue skirts and wrap blue cloth around their legs. Unmarried men play lusheng and women bring food to outdoor gatherings. Couples sing, dance, and may form unions before the exchange of cattle as betrothal gifts after childbirth.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0149": {
+    "translation": "The Chezai Miao live under Guzhou. Men pursue crafts and women are skilled in needlework. Unmarried people meet in open moon-dancing grounds, with men making music and women singing. Couples choose partners without parental obstruction.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0151": {
+    "translation": "The group called Sheng Miao lives around Taigong, Kaili, and Huangping. The account praises their farming and weaving yet also calls them 'wild' and describes hunting with spears and poisoned crossbows. This version claims descent from six hundred soldiers of Ma Sanbao who married local Miao women, a story attributed to Chezai Miao in other albums.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0153": {
+    "translation": "The Heijiao Miao live near Qingjiang and Taigong. Men wear short jackets, wide trousers, and feathers in their hair. The source alleges robbery and weapons carrying and describes divination with snails in a basin. It also reports restrictions on widows' remarriage and says recent reforms have improved conduct.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0155": {
+    "translation": "The Heilou Miao live among the Eight Stockades in Qingjiang. Villages build a multistory assembly hall with a hollow wooden drum. When a dispute occurs, the drum summons armed villagers to hear the stockade chief. Those involved furnish cattle and wine, while wrongful sounding of the drum incurs a cattle fine.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0157": {
+    "translation": "The Duanqun Miao live in the Eight Stockades of Duyun. Men wear short garments and loose trousers; the source describes women's extremely short pleated skirts in disapproving language. Families gather grass or firewood for livelihood. The author says they favor wine, sometimes sleep in mountain hollows after drinking, and bathe in streams during winter.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0159": {
+    "translation": "The Jianding Miao live under Guiyang. Men wear pointed topknots, and the first day of the eleventh lunar month is a major festival. Husbands and wives cultivate fields together and are said to observe customary rites.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0161": {
+    "translation": "The Langci Miao live around Weining. After childbirth, the father remains indoors holding the infant for a month while the mother farms and prepares food, apart from breastfeeding. The account also records a deathbed practice of turning a parent's head backward so the dying person may 'look at descendants.'",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0163": {
+    "translation": "The Luohan Miao live around the Eight Stockades and Danjiang. Men wear fox-tail ornaments and loose hair. The community reveres Maitreya Buddha and makes food offerings on the third day of the third lunar month, singing and dancing for three days without lighting cooking fires, like the Cold Food Festival.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0165": {
+    "translation": "The Liudong people live near Liping. Women wear colorful clothing and pointed embroidered shoes. Unmarried people exchange garments and belts as courtship tokens; female neighbors escort the bride with umbrellas. Wedding festivities include three days of drinking and singing, and the couple's formal union may follow childbirth. Women weave and men are said to study; funerals follow Han customs.",
+    "translation_status": "ai_draft"
   }
 };
