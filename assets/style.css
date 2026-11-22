@@ -56,26 +56,15 @@
 .reader-notice .note-en{font:11px/1.7 Georgia,serif;color:#896e5c;margin:7px 0 0}
 @media(max-width:760px){.hero-copy>.hero-en{font-size:13px}.local-edits-info .method-en{line-height:1.8}}
 
-/* Seamless bilingual introduction: no cards, backgrounds, or borders. */
-.hero{row-gap:38px}
-.hero-about{grid-column:1/-1;width:100%;margin:0;padding:0;scroll-margin-top:16px}
-.hero-about-grid{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);column-gap:clamp(32px,4vw,64px);align-items:start;width:100%;margin:0}
-.hero-about-panel{min-width:0;max-width:525px;margin:0;padding:0;background:transparent;border:0;box-shadow:none}
-.hero-about-panel h2{font:500 20px/1.5 var(--serif);letter-spacing:.01em;margin:0 0 14px;color:var(--ink)}
-.hero-about-panel-en h2.hero-about-en-title{font:normal 20px/1.5 Georgia,"Times New Roman",serif;letter-spacing:0;margin:0 0 14px}
-.hero-about-panel p{font:normal 15px/2 var(--sans);color:#58625e;margin:0;overflow-wrap:break-word}
-.hero-about-panel-en p.hero-about-en-description{font:normal 14px/1.85 Georgia,"Times New Roman",serif;color:#777e79;margin:0}
+/* Miao albums introduction within archive methodology; match the four method notes. */
+.method-intro{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:36px;max-width:940px;margin:0 0 52px;scroll-margin-top:22px}
+.method-intro-zh,.method-intro-en{min-width:0}
+.method-intro h3{font:600 17px var(--serif);margin:10px 0}
+.method-intro p{font-size:12px;line-height:2;color:#666c64;margin:0}
+.method-intro p.method-en{font:12px/1.85 Georgia,serif;color:#7e8078;margin:9px 0 0}
 .site-header nav{column-gap:clamp(16px,2vw,34px)}
-@media(max-width:1100px){.hero-about-grid{grid-template-columns:minmax(0,1fr) minmax(0,.9fr);column-gap:32px}}
 @media(max-width:760px){
-  .hero{row-gap:25px}
-  .hero-about{scroll-margin-top:10px}
-  .hero-about-grid{grid-template-columns:1fr;row-gap:23px}
-  .hero-about-panel{max-width:none}
-  .hero-about-panel h2{font-size:19px;margin-bottom:10px}
-  .hero-about-panel-en h2.hero-about-en-title{font-size:19px;margin-bottom:10px}
-  .hero-about-panel p{font-size:14px;line-height:1.95}
-  .hero-about-panel-en p.hero-about-en-description{font-size:13px;line-height:1.85}
+  .method-intro{grid-template-columns:1fr;row-gap:24px;margin-bottom:42px;scroll-margin-top:10px}
   .site-header nav{column-gap:clamp(12px,3vw,23px)}
 }
 @media(max-width:425px){.site-header nav{column-gap:9px}}
