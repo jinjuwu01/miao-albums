@@ -33,12 +33,12 @@ for(let p=1;p<=43;p++){
    else assert.fail('Incorrect draft status on page '+p);
  }
 }
-assert.equal(checked,30);
-assert.equal(ordered,11);
+assert.equal(checked,41);
+assert.equal(ordered,0);
 const index=fs.readFileSync('index.html','utf8');
 const app=fs.readFileSync('assets/app.js','utf8');
 assert(index.includes('<script src="data/miaoman_41_drafts.js"></script>'),'Draft missing from HTML');
 assert(app.includes('...(MIAOMAN_41_DRAFTS[r.id] || {})'),'Drafts not merged into records');
 assert(app.includes("r.status==='preface_pending'"),'Preface not labeled');
 assert(app.includes("'preface'].includes(r.page_kind)"),'Preface raw OCR must not be indexed as verified text');
-console.log('Miao Man album 41 validation passed: all 43 original scans, 41 correct plate links, 30 image drafts, 11 unverified OCR reordered drafts.');
+console.log('Miao Man album 41 validation passed: all 43 original scans, 41 correct plate links, 41 image drafts, 0 unverified OCR-only drafts.');
