@@ -1,4 +1,4 @@
-// Original-source provisional readings and second-pass preface collation; □ indicates uncertainty, not a certified edition.
+// Original-copy-specific source OCR drafts. Manchester second-pass per-column visual readings; uncertified.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -1300,23 +1300,33 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "title_en": "白猓羅 (Qing-era compiler's label)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n……居普定者名阿和，與此類。",
-    "transcription": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n……居普定者名阿和，與此類。",
-    "translation": "The manuscript places the White Luoluo in Dading and Anshun, classifies them alongside the Black Luoluo but as a lower-status lineage, and uses heavily disparaging language to describe food and funeral customs. It ends by identifying people in Puding as Ahe. The intervening details remain untranscribed because several graphs require checking.",
+    "ocr_raw": "白猓羅□在大定及安順府屬之與黑猓羅同而為下姓如毛飲血無倫序雀□蛾蟲動之物攫而噉之飲食無鹽□以三足釜□食如□居普穴者名阿和□同此類",
+    "transcription": "白猓羅□在大定及安順府屬之與黑猓羅同而為下姓如毛飲血無倫序雀□蛾蟲動之物攫而噉之飲食無鹽□以三足釜□食如□居普穴者名阿和□同此類",
+    "translation": "The White Luoluo are said to live in areas under Dading and Anshun and to be related to the Black Luoluo, but the compiler calls them a subordinate group. The text then makes derogatory assertions about consuming blood, insects and other creatures, eating without salt, and using a three-legged cooking vessel. It ends with another group name, provisionally read as Ahe, said to belong to the same category. Several characters concerning food and settlement are unclear.",
     "translation_status": "ai_draft",
-    "transcription_scope": "partial_visual_excerpt",
-    "translation_scope": "excerpt_only",
-    "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
-    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 15; paired painting 14",
-    "notes": "Canvas 15，彩繪 Canvas 14；此處是曼徹斯特藏本，不能複製俄藏白猓羅文字替代其中異文。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。 【未錄文字／校讀狀態】其餘有關飲食、喪葬的具體敘述待核。此類括號說明不再混入原文轉錄。",
+    "transcription_scope": "full_page_column_pass_provisional",
+    "translation_scope": "Provisional English translation grounded in Manchester source columns; some glyphs and interpretations remain unclear",
+    "ocr_engine": "AI visual reading of uploaded original manuscript, right-to-left columns, uncertain glyphs represented by □",
+    "source_review": "Original Manchester Chinese Crawford 398 scan canvas 15; all 6 columns revisited 2026-11-22",
+    "notes": "Canvas 15，彩繪 Canvas 14；此處是曼徹斯特藏本，不能複製俄藏白猓羅文字替代其中異文。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。 【未錄文字／校讀狀態】其餘有關飲食、喪葬的具體敘述待核。此類括號說明不再混入原文轉錄。【第二輪整頁原圖復讀】完成可見欄次的轉錄初稿，不可靠的字保留□；存疑較多的篇章仍需要人工逐字校定。",
     "tags": [
       "白猓羅"
     ],
     "visual_tags": [],
     "editorial_reading_note": "其餘有關飲食、喪葬的具體敘述待核",
-    "text_completeness": "excerpt_only",
-    "english_completeness": "excerpt_only",
-    "editorial_ellipsis": true
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional",
+    "editorial_ellipsis": true,
+    "prior_transcription_20261122": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n……居普定者名阿和，與此類。",
+    "transcription_columns": [
+      "白猓羅□在大定及安順府屬之",
+      "與黑猓羅同而為下姓如毛飲",
+      "血無倫序雀□蛾蟲動之物",
+      "攫而噉之飲食無鹽□以三足",
+      "釜□食如□居普穴者名阿和□",
+      "同此類"
+    ],
+    "english_kind": "provisional_source_translation"
   },
   "manchester-c398-p017": {
     "title": "宋家苗",
