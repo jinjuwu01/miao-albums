@@ -1,0 +1,86 @@
+{
+  "source": "rsl-v1",
+  "method": "unverified machine OCR only",
+  "pages": [
+    {
+      "record_id": "rsl-f274-v1-p002",
+      "page": 2,
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RSL01013071618_百苗圖_清繪本_上冊.pdf/page2-1280px-RSL01013071618_百苗圖_清繪本_上冊.pdf.jpg",
+      "source": "RSL Ф.274 №54.1",
+      "status": "machine_unverified",
+      "ocr_raw": "UE 和 3 主 闌 | TT Et 中\nBlue Cyan Green Yellow Red Magenta White ,o, 襄 ,\n| |",
+      "image_path": "images/external_pilot/rsl_v1_p002.jpg",
+      "han_chars": 5
+    },
+    {
+      "record_id": "rsl-f274-v1-p003",
+      "page": 3,
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RSL01013071618_百苗圖_清繪本_上冊.pdf/page3-1280px-RSL01013071618_百苗圖_清繪本_上冊.pdf.jpg",
+      "source": "RSL Ф.274 №54.1",
+      "status": "machine_unverified",
+      "ocr_raw": "wa 8\nS\n;\n3 人 ~ 4",
+      "image_path": "images/external_pilot/rsl_v1_p003.jpg",
+      "han_chars": 1
+    },
+    {
+      "record_id": "rsl-f274-v1-p004",
+      "page": 4,
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RSL01013071618_百苗圖_清繪本_上冊.pdf/page4-1280px-RSL01013071618_百苗圖_清繪本_上冊.pdf.jpg",
+      "source": "RSL Ф.274 №54.1",
+      "status": "machine_unverified",
+      "ocr_raw": "生",
+      "image_path": "images/external_pilot/rsl_v1_p004.jpg",
+      "han_chars": 1
+    },
+    {
+      "record_id": "rsl-f274-v1-p005",
+      "page": 5,
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RSL01013071618_百苗圖_清繪本_上冊.pdf/page5-1280px-RSL01013071618_百苗圖_清繪本_上冊.pdf.jpg",
+      "source": "RSL Ф.274 №54.1",
+      "status": "machine_unverified",
+      "ocr_raw": "2 閻 ( 网 櫥 嘛 5\nSS RSE si:\nns Ss OS LS kL\n逆 凡 線 她 啟 M 凡 , 軌 崔 信條 恰如 放 K\n人 紅 欠 全 點 說 媽 信 如 織 骨 咱 戰 妨 家 家\n好 并 果 容 沐 全 恕 說 父 姓 爸 時 怒 恰\n3K 人 規 肉 名 橫 放 盡 幸 哎 人 秘 蒙 恰 尋\n炮 餅 咆 作 六 天 同 仁宗 似 信 散人 滬 和 生 以\n2 RK 2\nES A",
+      "image_path": "images/external_pilot/rsl_v1_p005.jpg",
+      "han_chars": 78
+    },
+    {
+      "record_id": "rsl-f274-v1-p006",
+      "page": 6,
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RSL01013071618_百苗圖_清繪本_上冊.pdf/page6-1280px-RSL01013071618_百苗圖_清繪本_上冊.pdf.jpg",
+      "source": "RSL Ф.274 №54.1",
+      "status": "machine_unverified",
+      "ocr_raw": "|\nRt 弦 昭 姓 如\nSS SR\nSW 信 當 人 并 塘 漲 林 們 次 從\n和\nSn Ne\nCS SS OR 2",
+      "image_path": "images/external_pilot/rsl_v1_p006.jpg",
+      "han_chars": 15
+    },
+    {
+      "record_id": "rsl-f274-v1-p007",
+      "page": 7,
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RSL01013071618_百苗圖_清繪本_上冊.pdf/page7-1280px-RSL01013071618_百苗圖_清繪本_上冊.pdf.jpg",
+      "source": "RSL Ф.274 №54.1",
+      "status": "machine_unverified",
+      "ocr_raw": "3 多 人 林 六 |\noS a\n\n。 誤 匕 葉 癸 閃 條 替 媽 改 滬 人 。\n\n| 人 意 衝 帛 當 朮 食事 生 由 宮\n歸于 義 嗣 ※ 以 銜 狠 全 芒 安\n\n。 民生 畫 只 區 多 仙人 全 了 芍\n\nSS\n\nWE",
+      "image_path": "images/external_pilot/rsl_v1_p007.jpg",
+      "han_chars": 47
+    },
+    {
+      "record_id": "rsl-f274-v1-p008",
+      "page": 8,
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RSL01013071618_百苗圖_清繪本_上冊.pdf/page8-1280px-RSL01013071618_百苗圖_清繪本_上冊.pdf.jpg",
+      "source": "RSL Ф.274 №54.1",
+      "status": "machine_unverified",
+      "ocr_raw": "KS AAS 閃 |\nry SI SS\nI SIR Ld\nESI SI NAS\n合作 全 公 坎 人 往 好 綱 當 害 找\nSE\nRe 人 人 多\n\nDe\na i",
+      "image_path": "images/external_pilot/rsl_v1_p008.jpg",
+      "han_chars": 16
+    },
+    {
+      "record_id": "rsl-f274-v1-p009",
+      "page": 9,
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/RSL01013071618_百苗圖_清繪本_上冊.pdf/page9-1280px-RSL01013071618_百苗圖_清繪本_上冊.pdf.jpg",
+      "source": "RSL Ф.274 №54.1",
+      "status": "machine_unverified",
+      "ocr_raw": "佐 - 必 8 始 論\n\n狂 嫩 谷 蝶 妃 念 W 候 二 宏 准 氛 必 家\n\n几 嗆 站 忌 忌 多 室 歌 軌 六 部 陣 答 全\nSa EE\nVEG wl 7 們 急 容 寢 伴 六 奧 倫 絕\n焰 箇 吉 轎 儘 信 妃 容 商 朮 了 尻 改名 對 家\n2 罕 愉 中 玉生 說 吉 鋪 吉 圳 喚 果 限 作\n\nx 訕 交替 輸 斷 保 K 壹 羽 候 全 秋 可 二 好\n\n人",
+      "image_path": "images/external_pilot/rsl_v1_p009.jpg",
+      "han_chars": 85
+    }
+  ]
+}
