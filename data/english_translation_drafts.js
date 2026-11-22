@@ -2184,5 +2184,85 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-e7b41523743e-p0165": {
     "translation": "The Liudong people live near Liping. Women wear colorful clothing and pointed embroidered shoes. Unmarried people exchange garments and belts as courtship tokens; female neighbors escort the bride with umbrellas. Wedding festivities include three days of drinking and singing, and the couple's formal union may follow childbirth. Women weave and men are said to study; funerals follow Han customs.",
     "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0003": {
+    "translation": "The Hei Guoluo under Dading are described in the source as the senior branch of the Guoluo. Men wrap their hair in blue cloth, wear loose sleeves, and raise fine horses. Their leaders' funerals include armed riders, wrapping the corpse in brocade and felt for cremation, and summoning the spirit. The text praises their loyalty and skill with armor, swords, spears, crossbows, and mounted hunting, while using derogatory physical descriptions.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0004": {
+    "translation": "The principal Guoluo chief's wife is called Naide and may serve as a 'female official.' She wears braided hair under a blue headscarf, silver forehead ornaments, large earrings, and a long full skirt. Only her children may succeed to the chiefship. She governs when an heir is too young.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0005": {
+    "translation": "The Bai Guoluo live around Dading and Anshun and are described as a lower-status branch compared with the Hei Guoluo. In disparaging language, the author describes eating small animals roasted over fire, meals shared from a three-legged cooking pot, and cremation of bodies wrapped in animal hides. A related group in Puding is called Ahe.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0006": {
+    "translation": "The Songjia Miao live around Guiyang and Anshun. They are said to descend from people exiled from the Chinese heartland during the Spring and Autumn period. Their language and script resemble Chinese. Men wear hats and long upper garments, women hairpins and shorter tops. Wedding parties enact a forceful 'taking of the bride,' followed by rituals involving the mother-in-law. Mourning includes three seven-day periods of simple food and drink. Men farm, women weave, and many study for examinations.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0007": {
+    "translation": "The Caijia Miao live around Guizhu, Xiuwen, Qingzhen, Weining, and Pingyuan. Men wear felt and women fashion tall, horn-shaped headdresses wrapped in blue cloth. Fathers-in-law and daughters-in-law avoid speaking. During a three-month mourning period, relatives eat millet gruel rather than rice or meat. The source also reports widow sacrifice upon a husband's death, sometimes prevented by her natal relatives.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0008": {
+    "translation": "The Kayou Xiajia live around Guiyang, Anshun, Nanlong, Pingyue, and Duyun. Men and women wear patterned scarves and garments, and women have cloud-patterned pleated skirts. On the sixth day of the sixth lunar month and at early-spring gatherings, unmarried couples toss decorated balls and meet through moon dances. Marriage gifts include one or several cattle according to the family's resources. Weddings and funerals involve offerings, wine, cattle, and communal feasts.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0009": {
+    "translation": "The Bulong Xiajia live around Guiyang, Dingfan, Guangshun, Nanlong, and Anshun. The first day of the twelfth lunar month is an important festival marked by bronze drums, some believed to have been left by Zhuge Liang. Rich households pay high prices for them. At funerals cattle are slaughtered; mourners drink from ox horns, though the chief mourner eats fish and shrimp rather than meat. An umbrella covers the grave for a year before being burned. The text notes a former reputation for feuding that has declined.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0010": {
+    "translation": "The Qing Zhongjia live around Guzhou, Qingjiang, and Danjiang. Women wear blue headcloths, embroider, and play games such as tossing balls. Lovers are called malang, and parents may tolerate nighttime courtship while siblings are avoided. Cattle and wine form betrothal gifts. The source says wooden notches stand in for written contracts.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0011": {
+    "translation": "The Zengzhu Longjia live under Anshun. Women wear white garments, tube skirts, square fine-cloth headscarves, and an oiled tail of hair. At family celebrations guests bring wine, sheep, and several new outfits. The dead are cremated and the collected bones are buried. Ancestral graves are visited on the seventh day of the seventh lunar month.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0012": {
+    "translation": "The Gou'er Longjia live around Anshun, Dading, and Guangshun. Men wrap their hair in cloth without hats; women coil their hair into shapes resembling dog's ears and decorate garments with blue cloth. In spring a spirit pole is erected outdoors, where unmarried people hold moon dances and choose partners. After elopement, cattle or other payments are negotiated through relatives and matchmakers.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0013": {
+    "translation": "The Madeng Longjia live around Guxibao and Dingying in Zhenning, with surnames including Liu, Zhao, and Zhang. They favor white clothing, changing to blue for mourning. Women's dark-cloth headpieces resemble horse stirrups. Farming is their livelihood.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0014": {
+    "translation": "The Datou Longjia live around Zhenning and Puding. Men wear bamboo hats, while women wear earthy blue garments, short skirts, and large hair coils interwoven with horsehair. Their name is derived from the large hairstyle. Both sexes work at cultivation.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0015": {
+    "translation": "The Hua Miao live around Guiyang, Dading, Anshun, and Zunyi. They fashion blue-and-white vests from strips of cloth without conventional sleeves or collars. On spring moon-dancing grounds, young men play lusheng and women shake bells while singing and choosing partners. Marriage payments may be negotiated with matchmakers, and ceremonies can take place at the bride's home. The text describes spirit offerings at illness that may exhaust household resources; its criticisms reflect the author's perspective.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0016": {
+    "translation": "The Hong Miao live near Tongren, with surnames Long, Wu, Ma, and Bai. Women weave patterned silk and families wear colored garments. Women are said to end disputes. On specified tiger-related days in the fifth lunar month, spouses sleep apart and avoid speaking or leaving the house. At funerals the dead's clothing is made into an effigy, and mourners beat drums. The source also describes meat prepared with minimal cooking.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0017": {
+    "translation": "The Bai Miao live around Longli, Guiding, and Qianxi. Men wear loose hair and go barefoot, while women fasten coiled hair with long pins. At ancestral rituals, villages raise large cattle and let them compete; the victor is considered auspicious and then sacrificed. People wear white-and-blue ceremonial garments and celebrate with relatives.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0018": {
+    "translation": "The Qing Miao live around Qianxi, Zhenning, Xiuwen, and Guizhu. They wear blue garments; women coil their hair in blue cloth and men wear bamboo hats and straw sandals. The historical author contrasts an alleged earlier ferocity with current obedience to law.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0019": {
+    "translation": "The Hei Miao live across Duyun, the Eight Stockades, Danjiang, Zhenyuan, Liping, Qingjiang, and Guzhou. The source describes black clothing, barefoot agility, arms including spears and crossbows, and a history of military pacification in 1735. Villages hold spring lusheng dancing grounds. At funerals former partners may tie patterned brocade to bamboo poles placed near graves, while men and women offer rites.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0020": {
+    "translation": "The Dong Miao live around Guizhu, Xiuwen, Longli, Qingping, Qingzhen, and Guangshun. Women wear sleeveless patterned garments and finely pleated short skirts, while men wear short jackets and distinctive hair. At Mid-Autumn, communities invite ritual specialists to honor ancestors with cattle sacrifices and offerings called by the spirits' names. Relatives feast at night; birds caught in spring may also be offered.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0021": {
+    "translation": "The Xi Miao live around Guiyang and Pingyue, with Ma, Xie, He, Luo, and Lei surnames. Newly married couples may sleep apart until a child is born. After the autumn harvest, communities gather cattle for a White Tiger rite in which a ritual singer in felt clothes leads children and adults in lusheng songs and dances for three days before the cattle are sacrificed for a good harvest. The author portrays the people as honest and law-abiding.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0022": {
+    "translation": "The Yao Miao live around Pingyue and bear many Ji surnames. The source praises their gentle nature and women's weaving and dyeing. The first day of the eleventh lunar month is a major festival. In some communities, young women occupy bamboo houses during courtship, attracting men with lusheng music; burial may involve binding bodies in vines among trees rather than burying them.",
+    "translation_status": "ai_draft"
   }
 };
