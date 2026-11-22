@@ -1,0 +1,84 @@
+{
+  "collection": "manchester",
+  "method": "machine_only_not_verified",
+  "pages": [
+    {
+      "record_id": "manchester-c398-p002",
+      "source_url": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398-000-00002.jp2/full/1600,/0/default.jpg",
+      "source": "John Rylands Library Chinese Crawford 398",
+      "page": 2,
+      "status": "machine_unverified",
+      "ocr_engine": "tesseract 5 HanT_vert",
+      "ocr_raw": "",
+      "confidence_mean": null,
+      "error": "Error opening data file /usr/share/tesseract-ocr/5/tessdata/HanT_vert.traineddata\nPlease make sure the TESSDATA_PREFIX environment variable is set to your \"tessdata\" directory.\nFailed loading language 'HanT_vert'\nTesseract couldn't load any languages!\nCould not initialize tesseract.\n",
+      "han_chars": 0,
+      "scan_image_path": "images/external_pilot/manchester_p002.jpg"
+    },
+    {
+      "record_id": "manchester-c398-p003",
+      "source_url": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398-000-00003.jp2/full/1600,/0/default.jpg",
+      "source": "John Rylands Library Chinese Crawford 398",
+      "page": 3,
+      "status": "machine_unverified",
+      "ocr_engine": "tesseract 5 HanT_vert",
+      "ocr_raw": "",
+      "confidence_mean": null,
+      "error": "Error opening data file /usr/share/tesseract-ocr/5/tessdata/HanT_vert.traineddata\nPlease make sure the TESSDATA_PREFIX environment variable is set to your \"tessdata\" directory.\nFailed loading language 'HanT_vert'\nTesseract couldn't load any languages!\nCould not initialize tesseract.\n",
+      "han_chars": 0,
+      "scan_image_path": "images/external_pilot/manchester_p003.jpg"
+    },
+    {
+      "record_id": "manchester-c398-p004",
+      "source_url": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398-000-00004.jp2/full/1600,/0/default.jpg",
+      "source": "John Rylands Library Chinese Crawford 398",
+      "page": 4,
+      "status": "machine_unverified",
+      "ocr_engine": "tesseract 5 HanT_vert",
+      "ocr_raw": "",
+      "confidence_mean": null,
+      "error": "Error opening data file /usr/share/tesseract-ocr/5/tessdata/HanT_vert.traineddata\nPlease make sure the TESSDATA_PREFIX environment variable is set to your \"tessdata\" directory.\nFailed loading language 'HanT_vert'\nTesseract couldn't load any languages!\nCould not initialize tesseract.\n",
+      "han_chars": 0,
+      "scan_image_path": "images/external_pilot/manchester_p004.jpg"
+    },
+    {
+      "record_id": "manchester-c398-p005",
+      "source_url": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398-000-00005.jp2/full/1600,/0/default.jpg",
+      "source": "John Rylands Library Chinese Crawford 398",
+      "page": 5,
+      "status": "machine_unverified",
+      "ocr_engine": "tesseract 5 HanT_vert",
+      "ocr_raw": "",
+      "confidence_mean": null,
+      "error": "Error opening data file /usr/share/tesseract-ocr/5/tessdata/HanT_vert.traineddata\nPlease make sure the TESSDATA_PREFIX environment variable is set to your \"tessdata\" directory.\nFailed loading language 'HanT_vert'\nTesseract couldn't load any languages!\nCould not initialize tesseract.\n",
+      "han_chars": 0,
+      "scan_image_path": "images/external_pilot/manchester_p005.jpg"
+    },
+    {
+      "record_id": "manchester-c398-p006",
+      "source_url": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398-000-00006.jp2/full/1600,/0/default.jpg",
+      "source": "John Rylands Library Chinese Crawford 398",
+      "page": 6,
+      "status": "machine_unverified",
+      "ocr_engine": "tesseract 5 HanT_vert",
+      "ocr_raw": "",
+      "confidence_mean": null,
+      "error": "Error opening data file /usr/share/tesseract-ocr/5/tessdata/HanT_vert.traineddata\nPlease make sure the TESSDATA_PREFIX environment variable is set to your \"tessdata\" directory.\nFailed loading language 'HanT_vert'\nTesseract couldn't load any languages!\nCould not initialize tesseract.\n",
+      "han_chars": 0,
+      "scan_image_path": "images/external_pilot/manchester_p006.jpg"
+    },
+    {
+      "record_id": "manchester-c398-p007",
+      "source_url": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398-000-00007.jp2/full/1600,/0/default.jpg",
+      "source": "John Rylands Library Chinese Crawford 398",
+      "page": 7,
+      "status": "machine_unverified",
+      "ocr_engine": "tesseract 5 HanT_vert",
+      "ocr_raw": "",
+      "confidence_mean": null,
+      "error": "Error opening data file /usr/share/tesseract-ocr/5/tessdata/HanT_vert.traineddata\nPlease make sure the TESSDATA_PREFIX environment variable is set to your \"tessdata\" directory.\nFailed loading language 'HanT_vert'\nTesseract couldn't load any languages!\nCould not initialize tesseract.\n",
+      "han_chars": 0,
+      "scan_image_path": "images/external_pilot/manchester_p007.jpg"
+    }
+  ]
+}
