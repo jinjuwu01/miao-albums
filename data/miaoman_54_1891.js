@@ -26,7 +26,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第1幅；PDF第3頁右幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第1幅；PDF第3頁右幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "喇麻"
     ],
@@ -56,7 +56,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第2幅；PDF第3頁左幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第2幅；PDF第3頁左幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "怒人"
     ],
@@ -86,7 +86,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第3幅；PDF第4頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第3幅；PDF第4頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "刺毛"
     ],
@@ -116,7 +116,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第4幅；PDF第4頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第4幅；PDF第4頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "緬人"
     ],
@@ -132,23 +132,23 @@ window.MIAOMAN_54_PLATES = [
     "source_title": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年",
     "source_file": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年.pdf",
     "collection_id": "9e2b3d98dc2e",
-    "title": "古宗",
+    "title": "磨些",
     "title_en": "Plate 05 · right half",
     "image": "images/collections/9e2b3d98dc2e/page_0005.webp",
     "thumb": "images/collections/9e2b3d98dc2e/thumb_0005.webp",
     "text_image": "images/collections/9e2b3d98dc2e/page_0005.webp",
     "plate_half": "R",
-    "transcription": "古宗即土番經年不沐披鼯婦人以磁珠飾首種麥稞嗜酥油蔓菁麗江府及鎮沅州有之",
+    "transcription": "磨些即唐磨些蠻男子堆髻婦人緇布冠習耕牧鄉有鬪者婦排解之輒止儒者之家服與中華同麗江府屬有之",
     "translation": "",
     "ocr_raw": "江府属有之\n儒者之家服與中華同麗\n鄉有鬪者婦排解之輒止\n堆髻婦人緇布冠習耕牧\n磨些即唐磨些蠻男子\n菁麗江府及鎮沅州有\n飾首種麥稞嗜酥油蔓\n沐披鼯婦人以磁珠\n古宗即土番經年不櫛\nAA",
     "ocr_raw_scope": "both_halves_merged",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "provisional_ocr_separation_draft",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第5幅；PDF第5頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第5幅；PDF第5頁右幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
-      "古宗"
+      "磨些"
     ],
     "visual_tags": []
   },
@@ -162,13 +162,13 @@ window.MIAOMAN_54_PLATES = [
     "source_title": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年",
     "source_file": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年.pdf",
     "collection_id": "9e2b3d98dc2e",
-    "title": "磨些",
+    "title": "古宗",
     "title_en": "Plate 06 · left half",
     "image": "images/collections/9e2b3d98dc2e/page_0005.webp",
     "thumb": "images/collections/9e2b3d98dc2e/thumb_0005.webp",
     "text_image": "images/collections/9e2b3d98dc2e/page_0005.webp",
     "plate_half": "L",
-    "transcription": "磨些即唐磨些蠻男子堆髻婦人緇布冠習耕牧鄉有鬪者婦排解之輒止儒者之家服與中華同麗江府屬有之",
+    "transcription": "古宗即土番經年不沐披鼯婦人以磁珠飾首種麥稞嗜酥油蔓菁麗江府及鎮沅州有之",
     "translation": "",
     "ocr_raw": "江府属有之\n儒者之家服與中華同麗\n鄉有鬪者婦排解之輒止\n堆髻婦人緇布冠習耕牧\n磨些即唐磨些蠻男子\n菁麗江府及鎮沅州有\n飾首種麥稞嗜酥油蔓\n沐披鼯婦人以磁珠\n古宗即土番經年不櫛\nAA",
     "ocr_raw_scope": "both_halves_merged",
@@ -176,9 +176,9 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第6幅；PDF第5頁左幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第6幅；PDF第5頁左幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
-      "磨些"
+      "古宗"
     ],
     "visual_tags": []
   },
@@ -206,7 +206,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第7幅；PDF第6頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第7幅；PDF第6頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "標標"
     ],
@@ -236,7 +236,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第8幅；PDF第6頁左幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第8幅；PDF第6頁左幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "獄人（字待核）"
     ],
@@ -266,7 +266,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第9幅；PDF第7頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第9幅；PDF第7頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "摩些"
     ],
@@ -296,7 +296,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第10幅；PDF第7頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第10幅；PDF第7頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "蒲人"
     ],
@@ -326,7 +326,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第11幅；PDF第8頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第11幅；PDF第8頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "憂喇"
     ],
@@ -356,7 +356,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第12幅；PDF第8頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第12幅；PDF第8頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "羯些子"
     ],
@@ -386,7 +386,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第13幅；PDF第9頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第13幅；PDF第9頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "野人"
     ],
@@ -416,7 +416,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第14幅；PDF第9頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第14幅；PDF第9頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "喇嚕"
     ],
@@ -446,7 +446,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第15幅；PDF第10頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第15幅；PDF第10頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "峩昌"
     ],
@@ -476,7 +476,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第16幅；PDF第10頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第16幅；PDF第10頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "卡瓦"
     ],
@@ -506,7 +506,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第17幅；PDF第11頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第17幅；PDF第11頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "大猓黑"
     ],
@@ -536,7 +536,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第18幅；PDF第11頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第18幅；PDF第11頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "蒙化彝"
     ],
@@ -562,11 +562,11 @@ window.MIAOMAN_54_PLATES = [
     "translation": "",
     "ocr_raw": "府及楚雄府有之\n男獵居深林順寧\n也俗似白人女畊\n稞黑蒲僰人別派\n居深山鮮植物射雀療飢不火食\n利米面黧男子好衣皂女披綵衣\n也順寧府屬有之\n禁",
     "ocr_raw_scope": "both_halves_merged",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "provisional_ocr_separation_draft",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第19幅；PDF第12頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第19幅；PDF第12頁右幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "猓黑"
     ],
@@ -596,7 +596,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第20幅；PDF第12頁左幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第20幅；PDF第12頁左幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "利米"
     ],
@@ -626,7 +626,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第21幅；PDF第13頁右幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第21幅；PDF第13頁右幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "小列密"
     ],
@@ -656,7 +656,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第22幅；PDF第13頁左幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第22幅；PDF第13頁左幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "嫚且"
     ],
@@ -672,13 +672,13 @@ window.MIAOMAN_54_PLATES = [
     "source_title": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年",
     "source_file": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年.pdf",
     "collection_id": "9e2b3d98dc2e",
-    "title": "蒲蠻",
+    "title": "洒摩",
     "title_en": "Plate 23 · right half",
     "image": "images/collections/9e2b3d98dc2e/page_0014.webp",
     "thumb": "images/collections/9e2b3d98dc2e/thumb_0014.webp",
     "text_image": "images/collections/9e2b3d98dc2e/page_0014.webp",
     "plate_half": "R",
-    "transcription": "蒲蠻性多疑貌黑而寖其音類鳥通漢語知禮讓畊山善泅食蕉心如蔬楚雄府及他郡州皆有之",
+    "transcription": "洒摩性馴謹善種麻漚且績之負以入市有農而士者尤彬彬矣楚雄府屬有之",
     "translation": "",
     "ocr_raw": "蕉心如蔬楚雄府及\n知禮讓畊山善泅食\n寖其音類鳥通漢語\n蒲蠻性多疑貌黑而\n他郡州皆有之\n雄府屬有之\n以入市有農而士者尤彬彬矣楚\n洒摩性馴謹善種麻漚且績之負",
     "ocr_raw_scope": "both_halves_merged",
@@ -686,9 +686,9 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第23幅；PDF第14頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第23幅；PDF第14頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
-      "蒲蠻"
+      "洒摩"
     ],
     "visual_tags": []
   },
@@ -702,13 +702,13 @@ window.MIAOMAN_54_PLATES = [
     "source_title": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年",
     "source_file": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年.pdf",
     "collection_id": "9e2b3d98dc2e",
-    "title": "洒摩",
+    "title": "蒲蠻",
     "title_en": "Plate 24 · left half",
     "image": "images/collections/9e2b3d98dc2e/page_0014.webp",
     "thumb": "images/collections/9e2b3d98dc2e/thumb_0014.webp",
     "text_image": "images/collections/9e2b3d98dc2e/page_0014.webp",
     "plate_half": "L",
-    "transcription": "洒摩性馴謹善種麻漚且績之負以入市有農而士者尤彬彬矣楚雄府屬有之",
+    "transcription": "蒲蠻性多疑貌黑而寖其音類鳥通漢語知禮讓畊山善泅食蕉心如蔬楚雄府及他郡州皆有之",
     "translation": "",
     "ocr_raw": "蕉心如蔬楚雄府及\n知禮讓畊山善泅食\n寖其音類鳥通漢語\n蒲蠻性多疑貌黑而\n他郡州皆有之\n雄府屬有之\n以入市有農而士者尤彬彬矣楚\n洒摩性馴謹善種麻漚且績之負",
     "ocr_raw_scope": "both_halves_merged",
@@ -716,9 +716,9 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第24幅；PDF第14頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第24幅；PDF第14頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
-      "洒摩"
+      "蒲蠻"
     ],
     "visual_tags": []
   },
@@ -746,7 +746,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第25幅；PDF第15頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第25幅；PDF第15頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "扯蘇"
     ],
@@ -776,7 +776,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第26幅；PDF第15頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第26幅；PDF第15頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "西番"
     ],
@@ -806,7 +806,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第27幅；PDF第16頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第27幅；PDF第16頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "野西番"
     ],
@@ -836,7 +836,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第28幅；PDF第16頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第28幅；PDF第16頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "妙猓玀"
     ],
@@ -852,13 +852,13 @@ window.MIAOMAN_54_PLATES = [
     "source_title": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年",
     "source_file": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年.pdf",
     "collection_id": "9e2b3d98dc2e",
-    "title": "阿卡",
+    "title": "苦葱",
     "title_en": "Plate 29 · right half",
     "image": "images/collections/9e2b3d98dc2e/page_0017.webp",
     "thumb": "images/collections/9e2b3d98dc2e/thumb_0017.webp",
     "text_image": "images/collections/9e2b3d98dc2e/page_0017.webp",
     "plate_half": "R",
-    "transcription": "阿卡性愚貌醜男繫腰耕餘獵較罕女服青藍以紅藤繫腰入城市普洱府屬有之",
+    "transcription": "苦葱性良儉岩居種蔬衣青藍畧禮節俗與糯比同景東廳及普洱元江有之",
     "translation": "",
     "ocr_raw": "比同景東廳及普洱元\n衣青藍畧禮節俗與糯\n苦葱性良儉岩居種蔽\n繫腰耕餘獵較罕\n女服青藍以紅藤\n阿卡性愚貌醜男\n江有之\n有之\n入城市普洱府属\n老R\n20\n\nJ",
     "ocr_raw_scope": "both_halves_merged",
@@ -866,9 +866,9 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第29幅；PDF第17頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第29幅；PDF第17頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
-      "阿卡"
+      "苦葱"
     ],
     "visual_tags": []
   },
@@ -882,13 +882,13 @@ window.MIAOMAN_54_PLATES = [
     "source_title": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年",
     "source_file": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年.pdf",
     "collection_id": "9e2b3d98dc2e",
-    "title": "苦葱",
+    "title": "阿卡",
     "title_en": "Plate 30 · left half",
     "image": "images/collections/9e2b3d98dc2e/page_0017.webp",
     "thumb": "images/collections/9e2b3d98dc2e/thumb_0017.webp",
     "text_image": "images/collections/9e2b3d98dc2e/page_0017.webp",
     "plate_half": "L",
-    "transcription": "苦葱性良儉岩居種蔬衣青藍畧禮節俗與糯比同景東廳及普洱元江有之",
+    "transcription": "阿卡性愚貌醜男繫腰耕餘獵較罕女服青藍以紅藤繫腰入城市普洱府屬有之",
     "translation": "",
     "ocr_raw": "比同景東廳及普洱元\n衣青藍畧禮節俗與糯\n苦葱性良儉岩居種蔽\n繫腰耕餘獵較罕\n女服青藍以紅藤\n阿卡性愚貌醜男\n江有之\n有之\n入城市普洱府属\n老R\n20\n\nJ",
     "ocr_raw_scope": "both_halves_merged",
@@ -896,9 +896,9 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第30幅；PDF第17頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第30幅；PDF第17頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
-      "苦葱"
+      "阿卡"
     ],
     "visual_tags": []
   },
@@ -926,7 +926,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第31幅；PDF第18頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第31幅；PDF第18頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "緬甸艮子"
     ],
@@ -956,7 +956,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第32幅；PDF第18頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第32幅；PDF第18頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "緬甸莽子"
     ],
@@ -982,11 +982,11 @@ window.MIAOMAN_54_PLATES = [
     "translation": "",
     "ocr_raw": "茅有之\n也普洱府属思\n朝左右懷父母\n賓中以戴天\n如尾剃髮作三\n獵衣後綴長布\n三作毛種茶好\n製竹器尤精普洱府屬威遠有之\n黑濮貌多黑言語似西番勤耕績",
     "ocr_raw_scope": "both_halves_merged",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "provisional_ocr_separation_draft",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第33幅；PDF第19頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第33幅；PDF第19頁右幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "三作毛"
     ],
@@ -1012,11 +1012,11 @@ window.MIAOMAN_54_PLATES = [
     "translation": "",
     "ocr_raw": "茅有之\n也普洱府属思\n朝左右懷父母\n賓中以戴天\n如尾剃髮作三\n獵衣後綴長布\n三作毛種茶好\n製竹器尤精普洱府屬威遠有之\n黑濮貌多黑言語似西番勤耕績",
     "ocr_raw_scope": "both_halves_merged",
-    "status": "image_checked_draft",
-    "transcription_kind": "provisional_visual_draft",
+    "status": "ocr_reordered_draft",
+    "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第34幅；PDF第19頁左幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第34幅；PDF第19頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "黑濮"
     ],
@@ -1046,7 +1046,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第35幅；PDF第20頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第35幅；PDF第20頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "龍人"
     ],
@@ -1076,7 +1076,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第36幅；PDF第20頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第36幅；PDF第20頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "黑窩泥"
     ],
@@ -1106,7 +1106,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第37幅；PDF第21頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第37幅；PDF第21頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "緬和尚"
     ],
@@ -1136,7 +1136,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第38幅；PDF第21頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第38幅；PDF第21頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "花擺夷"
     ],
@@ -1162,11 +1162,11 @@ window.MIAOMAN_54_PLATES = [
     "translation": "",
     "ocr_raw": "時入城市懋遷有無普洱府\n有力普洱府属思茅邊外有之\n少許又名一撮毛紋身不衣強\n邊界有之\n老撾性馴布衣漆笠善治生\n退羅國憂于腊一名弋羅蓄髮",
     "ocr_raw_scope": "both_halves_merged",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "provisional_ocr_separation_draft",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第39幅；PDF第22頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第39幅；PDF第22頁右幅。本次參照高清原圖初核題記，但尚非研究者校定本。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "憂于腊"
     ],
@@ -1192,11 +1192,11 @@ window.MIAOMAN_54_PLATES = [
     "translation": "",
     "ocr_raw": "時入城市懋遷有無普洱府\n有力普洱府属思茅邊外有之\n少許又名一撮毛紋身不衣強\n邊界有之\n老撾性馴布衣漆笠善治生\n退羅國憂于腊一名弋羅蓄髮",
     "ocr_raw_scope": "both_halves_merged",
-    "status": "image_checked_draft",
-    "transcription_kind": "provisional_visual_draft",
+    "status": "ocr_reordered_draft",
+    "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第40幅；PDF第22頁左幅。本次已用高清局部圖像抽查文字，但仍非研究者校定本。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第40幅；PDF第22頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "老撾"
     ],
@@ -1226,7 +1226,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第41幅；PDF第23頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第41幅；PDF第23頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "長頭髮"
     ],
@@ -1256,7 +1256,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第42幅；PDF第23頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第42幅；PDF第23頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "緬甸綳子"
     ],
@@ -1286,7 +1286,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第43幅；PDF第24頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第43幅；PDF第24頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "魯黑倮羅"
     ],
@@ -1316,7 +1316,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第44幅；PDF第24頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第44幅；PDF第24頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "撒桓猓羅"
     ],
@@ -1346,7 +1346,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第45幅；PDF第25頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第45幅；PDF第25頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "窩泥"
     ],
@@ -1376,7 +1376,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第46幅；PDF第25頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第46幅；PDF第25頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "麥岔"
     ],
@@ -1392,13 +1392,13 @@ window.MIAOMAN_54_PLATES = [
     "source_title": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年",
     "source_file": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年.pdf",
     "collection_id": "9e2b3d98dc2e",
-    "title": "土獠",
+    "title": "樸喇",
     "title_en": "Plate 47 · right half",
     "image": "images/collections/9e2b3d98dc2e/page_0026.webp",
     "thumb": "images/collections/9e2b3d98dc2e/thumb_0026.webp",
     "text_image": "images/collections/9e2b3d98dc2e/page_0026.webp",
     "plate_half": "R",
-    "transcription": "土獠性直率男子衣布女服綵或樵或佃與白猓羅略同臨安府及他郡州皆有之",
+    "transcription": "樸喇一名樸腊性野言語不通務耕植行住皆負羊皮臨安府及他郎有之",
     "translation": "",
     "ocr_raw": "及他郎有之\n住皆負羊皮臨安府\n言語不通務耕植行\n樸喇一名樸腊性野\n及他郡州皆有之\n白稞羅畧同臨安府\n布女服綵或樵或佃與\n土獠性直率男子衣",
     "ocr_raw_scope": "both_halves_merged",
@@ -1406,9 +1406,9 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第47幅；PDF第26頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第47幅；PDF第26頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
-      "土獠"
+      "樸喇"
     ],
     "visual_tags": []
   },
@@ -1422,13 +1422,13 @@ window.MIAOMAN_54_PLATES = [
     "source_title": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年",
     "source_file": "苗蛮图说.54幅.锡少鹤题识.清光緖17年绘本.1891年.pdf",
     "collection_id": "9e2b3d98dc2e",
-    "title": "樸喇",
+    "title": "土獠",
     "title_en": "Plate 48 · left half",
     "image": "images/collections/9e2b3d98dc2e/page_0026.webp",
     "thumb": "images/collections/9e2b3d98dc2e/thumb_0026.webp",
     "text_image": "images/collections/9e2b3d98dc2e/page_0026.webp",
     "plate_half": "L",
-    "transcription": "樸喇一名樸腊性野言語不通務耕植行住皆負羊皮臨安府及他郎有之",
+    "transcription": "土獠性直率男子衣布女服綵或樵或佃與白猓羅略同臨安府及他郡州皆有之",
     "translation": "",
     "ocr_raw": "及他郎有之\n住皆負羊皮臨安府\n言語不通務耕植行\n樸喇一名樸腊性野\n及他郡州皆有之\n白稞羅畧同臨安府\n布女服綵或樵或佃與\n土獠性直率男子衣",
     "ocr_raw_scope": "both_halves_merged",
@@ -1436,9 +1436,9 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第48幅；PDF第26頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第48幅；PDF第26頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
-      "樸喇"
+      "土獠"
     ],
     "visual_tags": []
   },
@@ -1466,7 +1466,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第49幅；PDF第27頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第49幅；PDF第27頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "白窩泥"
     ],
@@ -1496,7 +1496,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第50幅；PDF第27頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第50幅；PDF第27頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "野古宗"
     ],
@@ -1526,7 +1526,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第51幅；PDF第28頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第51幅；PDF第28頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "糯比"
     ],
@@ -1556,7 +1556,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第52幅；PDF第28頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第52幅；PDF第28頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "山蘇"
     ],
@@ -1586,7 +1586,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第53幅；PDF第29頁右幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第53幅；PDF第29頁右幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "卡隋"
     ],
@@ -1616,7 +1616,7 @@ window.MIAOMAN_54_PLATES = [
     "transcription_kind": "provisional_ocr_separation_draft",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "page_kind": "caption_and_illustration",
-    "notes": "1891年錫少鶴題識本第54幅；PDF第29頁左幅。本次根據原始PaddleOCR左右拆分並重排；仍需逐字核對高清原圖。這一頁的原始PaddleOCR混合左右兩幅，所以展開的OCR為「整頁合併原文」，不可當作單幅轉錄。歷史族稱與貶抑用語保留來源立場，請勿當作客觀描述。",
+    "notes": "1891年錫少鶴題識本第54幅；PDF第29頁左幅。按原始PaddleOCR分拆左右幅並重排，尚待完整逐字核圖。此處保留的原始PaddleOCR是左右兩幅合併文本，不能作為單幅原文。原文中族稱與價值判斷屬編繪者視角。",
     "tags": [
       "黑撲"
     ],
