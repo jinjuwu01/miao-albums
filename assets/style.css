@@ -86,3 +86,12 @@
 .developer-credit{margin:21px 0 0;font-size:12px;line-height:1.85;color:#6d706a}
 .developer-credit a{font-family:var(--font-en);color:var(--accent);text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
 .developer-credit a:hover{color:var(--ink)}
+
+/* Source-aware split spread reader 2026-11-21: preserve original full image and crop with CSS only on demand. */
+.plate-frame{display:flex;align-items:center;justify-content:center;max-width:100%;max-height:100%;overflow:hidden;position:relative}
+.plate-frame.plate-half,.plate-frame.plate-half.chenhao-half{display:block;position:relative;height:100%;width:auto;aspect-ratio:0.5;max-width:100%;overflow:hidden;flex:none}
+.plate-frame.plate-half img{position:absolute;top:0;width:200%;height:100%;max-width:none;max-height:none;object-fit:fill}
+.plate-frame.plate-half.side-L img{left:0;right:auto}
+.plate-frame.plate-half.side-R img{right:0;left:auto}
+.result-thumb.spread-left img{transform:scale(1.8);transform-origin:left center}
+.pending-scan-link{font-size:11px;color:#817669;padding:6px 8px}
