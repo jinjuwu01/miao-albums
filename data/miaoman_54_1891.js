@@ -1637,7 +1637,7 @@ window.MIAOMAN_54_FRONT = {
     "page_kind": "preface",
     "title": "錫少鶴題識 / Author’s inscription",
     "title_en": "Inscription by Xi Shaohe",
-    "status": "image_checked_draft",
+    "status": "preface_pending",
     "transcription": "光緒辛卯春王正月\n錫少鶴製并題",
     "review_batch": "miaoman-54-1891-first-pass-v1",
     "notes": "第2頁為題識而非圖說；落款已核讀，長篇正文留待單獨校勘。"
