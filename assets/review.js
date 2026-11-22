@@ -10,7 +10,7 @@
   const BASE = [
     ...(Array.isArray(window.MIAO_RECORDS) ? window.MIAO_RECORDS : []),
     ...IMPORTED.flatMap(r=>(r.collection_id==='9e2b3d98dc2e'&&r.pdf_page>=3&&r.pdf_page<=29&&PLATES54.length===54)?PLATES54.filter(p=>p.pdf_page===r.pdf_page):[r])
-  ].map(r=>({...r,...(DRAFTS42[r.id]||{}),...(SINGLE82[r.id]||{}),...(CHENHAO80[r.id]||{}),...(GUIZHOU20[r.id]||{}),source_title:r.source_file==='进贡苗蛮图.清.陈枚画.清绘本.pdf'?'進貢苗蠻圖（陳枚畫）':r.source_title}));
+  ].map(r=>({...r,...(DRAFTS42[r.id]||{}),...(SINGLE82[r.id]||{}),...(CHENHAO80[r.id]||{}),...(GUIZHOU20[r.id]||{}),source_title:r.source_file==='进贡苗蛮图.清.陈枚画.清绘本.pdf'?'進貢苗蠻圖（陳枚畫）':r.source_file==='黔省诸苗全图.上下册.清绘本.pdf'?'黔省諸苗全圖（上下冊）':r.source_title}));
   const DRAFTS = window.MIAO_VISUAL_DRAFTS || {};
   const KEY = "miao_column_reviews_v1";
   const SCHEMA = "miao-column-review-v1";
