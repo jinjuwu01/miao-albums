@@ -1,0 +1,35 @@
+{
+  "batch_id": "miao-uploaded-pdfs-visual-review-2026-11-21",
+  "sources": [
+    {
+      "name": "夷人图说目录.2册.伯麟图说.含108幅彩绘并有跋文.清嘉庆时期.pdf",
+      "pages": 112
+    },
+    {
+      "name": "滇苗图说.2册.明顾见龙原画.含彩绘35幅.清代摹本.pdf",
+      "pages": 90
+    },
+    {
+      "name": "苗族生活图.40幅.清代彩绘(1).pdf",
+      "pages": 47
+    }
+  ],
+  "pages_in_scope": 249,
+  "added_ai_drafts": 7,
+  "independently_scholar_verified": 0,
+  "source": "User supplied high-resolution PDF scans",
+  "raw_ocr_preserved": true,
+  "web_display_priority": "provisional image-checked draft if present; otherwise previous unverified OCR",
+  "notes": "AI-assisted visual transcriptions are not research-authoritative. Historical terminology and uncertain readings require independent scholar verification. Changes recorded in reviewed_drafts.js.",
+  "reviewed_record_ids": [
+    "ocr-7345436f5451-p0003",
+    "ocr-7345436f5451-p0004",
+    "ocr-7345436f5451-p0006",
+    "ocr-7345436f5451-p0010",
+    "ocr-7345436f5451-p0014",
+    "ocr-ddaac6c2e519-p0013",
+    "ocr-ddaac6c2e519-p0015"
+  ],
+  "pages_not_modified": "242 pages; original OCR remains as before",
+  "machine_ocr_accuracy_measured": false
+}
