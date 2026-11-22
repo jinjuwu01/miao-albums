@@ -1,7 +1,7 @@
-// Source-PDF leaves omitted from the original 40-plate catalogue.
+// Retain source-PDF pages 45–47 following the original 40 plates; omit pages 1–4 from the catalogue.
 // The scans already exist in images/collections/0aa54e2d1b74/.
-// These entries restore page visibility only. No OCR or text is invented.
-window.MIAO_SHENGHUO_EXTRA_SCANS = [1, 2, 3, 4, 45, 46, 47].map(pdfPage => {
+// These extra scans contain no invented OCR or text.
+window.MIAO_SHENGHUO_EXTRA_SCANS = [45, 46, 47].map(pdfPage => {
   const number = String(pdfPage).padStart(4, '0');
   const image = 'images/collections/0aa54e2d1b74/page_' + number + '.webp';
   return {
