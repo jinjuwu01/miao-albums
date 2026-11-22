@@ -17,7 +17,7 @@
     <span class="brand-symbol">苗</span>
     <span class="brand-copy"><strong>苗图数字档案</strong><small>MIAO ALBUMS · DIGITAL ARCHIVE</small></span>
   </a>
-  <nav aria-label="主导航 / Main navigation"><a href="#miao-albums">关于苗图 <span>Miao Albums</span></a><a href="#explore" class="nav-active">图像检索 <span>Explore</span></a><a href="#methodology">关于数据库 <span>About</span></a><a href="https://ealc.illinois.edu/directory/profile/jinjuwu2" target="_blank" rel="noopener noreferrer" aria-label="开发者资料 / Developer profile at UIUC EALC">开发者 <span>Developer</span></a></nav>
+  <nav aria-label="主导航 / Main navigation"><a href="#miao-albums">关于苗图 <span>Miao Albums</span></a><a href="#explore" class="nav-active">图像检索 <span>Explore</span></a><a href="collections.html">馆藏版本 <span>Copies</span></a><a href="#methodology">关于数据库 <span>About</span></a><a href="https://ealc.illinois.edu/directory/profile/jinjuwu2" target="_blank" rel="noopener noreferrer" aria-label="开发者资料 / Developer profile at UIUC EALC">开发者 <span>Developer</span></a></nav>
   <span class="header-version">研究测试版 / RESEARCH BETA</span>
 </header>
 <main>
@@ -29,6 +29,7 @@
       <p>汇集苗图原始影像的网页预览、机器识别文字与人工校订稿，让不同图册的题记可以检索、比较和对照。引用前请依据原始扫描件核对。</p>
       <p class="hero-en" lang="en">Explore historical illustrations alongside machine-generated text and editorial corrections. Search across albums, compare readings, and verify passages against original scans before citing.</p>
       <a class="hero-link" href="#explore">浏览图册 <span class="hero-link-en" lang="en">Explore the collection</span><span aria-hidden="true">↗</span></a>
+      <a class="hero-link hero-copies-link" href="collections.html">查看全球馆藏版本 <span class="hero-link-en" lang="en">Explore manuscript copies</span><span aria-hidden="true">↗</span></a>
     </div>
     <figure class="hero-image hero-single">
       <img src="images/001.webp" alt="《苗族生活图》第一幅彩绘中的织布场景 / Weaving scene from the first illustration of Miao zu shenghuo tu" fetchpriority="high">
@@ -71,7 +72,7 @@
       <article><div class="method-number">01</div><h3>图像优先 <span lang="en">Image first</span></h3><p>每条记录关联扫描页与相应文字。网页图像是方便浏览的预览图；研究引用请核查原始扫描件。</p><p class="method-en" lang="en">Each record links a page image with its text. Web images are previews; consult the original scan when citing a source.</p></article>
       <article><div class="method-number">02</div><h3>识别与校勘分离 <span lang="en">OCR is not transcription</span></h3><p>机器 OCR 可能误字、漏字或错置竖排列序。少数记录提供 AI 图像校读草稿或人工试校稿，均须进一步核对。</p><p class="method-en" lang="en">Automated recognition may misread characters, omit text, or scramble vertical columns. AI image-reviewed drafts and editorial transcriptions are labeled separately and remain provisional.</p></article>
       <article><div class="method-number">03</div><h3>翻译有边界 <span lang="en">Translation with caution</span></h3><p>英文译文仅在已有试译时显示，不能从未经校订的 OCR 推定史料原意。历史族称及贬抑性用语反映编绘者立场。</p><p class="method-en" lang="en">English translations appear only where drafts exist. Unverified OCR is not translated automatically. Historical group labels and derogatory descriptions reflect their authors’ perspectives.</p></article>
-      <article><div class="method-number">04</div><h3>出处与使用 <span lang="en">Sources &amp; rights</span></h3><p>不同图册可能属于不同版本或馆藏，具体著录和复制传播许可须分别核实。</p><p class="method-en" lang="en">Albums may differ in edition and holding institution. Catalogue details and rights to reproduce scans require source-by-source verification.</p></article>
+      <article><div class="method-number">04</div><h3>出处与使用 <span lang="en">Sources &amp; rights</span></h3><p>不同图册可能属于不同版本或馆藏，具体著录和复制传播许可须分别核实。另见<a href="collections.html">馆藏版本目录</a>：将作品与实际藏本分开，标明待校关系，不与已校 OCR 混算。</p><p class="method-en" lang="en">Albums may differ in edition and holding institution. Catalogue details and rights to reproduce scans require source-by-source verification. The <a href="collections.html">manuscript-copy catalogue</a> keeps works and physical copies separate from existing OCR records.</p></article>
     </div>
     <div class="local-edits-info"><strong>个人校订工具 <span lang="en">Local editing</span></strong><div class="local-edits-description"><p>可在详情页修改转录、译文与校勘说明。修改只保存在当前浏览器，不会自动同步到 GitHub；请定期导出备份。</p><p class="method-en" lang="en">Edit transcriptions, translations, and notes in the reader. Changes stay in this browser, not on GitHub. Export a backup regularly.</p></div><button id="download-edits" class="quiet-button" type="button">导出校订 JSON / Export edits ↓</button></div>
     <p class="developer-credit">开发者 / Developer: <a href="https://ealc.illinois.edu/directory/profile/jinjuwu2" target="_blank" rel="noopener noreferrer">Jinju Wu</a></p>
