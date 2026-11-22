@@ -1052,5 +1052,81 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-fed119d6b353-p0041": {
     "translation": "The Dong Miao live around Xiuwen and Guizhu. Women wear patterned sleeveless tops and finely pleated skirts. In midwinter, a village ritual specialist is invited for ancestral offerings and cattle sacrifice, followed by communal drinking. The source says the group respects official obligations and hunts in spring.\n\nVerse (OCR order uncertain): The poem refers to sleeveless flowered garments and ancestral offerings, though its reference to the festival month conflicts with the prose.",
     "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0043": {
+    "translation": "The Xi Miao live around Pingyue and include people with the surnames Ma, Xie, He, and Lei. Men wear blue clothes and play the lusheng, while women in blue garments and colored sashes join the dances. Cattle are sacrificed to celebrate good harvests. The source calls the people straightforward and generally law-abiding.\n\nVerse (OCR order uncertain): Boys and girls in colored sashes dance to the lusheng as ritual singers are invited for a harvest celebration with cattle.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0045": {
+    "translation": "The Yao Miao [group name uncertain] live in Pingyue. Women are skilled at weaving and dyeing, and the first day of the eleventh lunar month is a major festival. The text describes clothing made from leaves, young women living in bamboo houses outdoors while unmarried men play the lusheng below, and the dead being bound with vines in trees rather than buried.\n\nVerse (OCR order uncertain): Falling leaves gather around bamboo houses, while the sound of the lusheng interrupts the apparent solitude. [The poet's moralizing language is partly unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0047": {
+    "translation": "The Nong Miao [name uncertain] live around Zhenfeng, Luohu, and Ceheng, territories said to have come under Guizhou during the Yongzheng reign. They farm diligently. Men's hair and clothing are compared with Han styles; women retain patterned headscarves, short tops, and long skirts.\n\nVerse (OCR order uncertain): The poem notes that men now resemble Han people, while women's hairstyles and clothing preserve local customs.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0049": {
+    "translation": "The Daya Gelao [heading badly recognized] live around Qianxi and Pingyuan. According to the source, women before marriage have two front teeth removed to avert harm to their husbands' families. The group is divided into five branches that do not intermarry. Both men and women wear unpleated tube skirts made from woolen cloth.\n\nVerse (OCR order uncertain): The poet comments disparagingly on the practice of removing teeth and describes a plain, unpleated wool skirt.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0051": {
+    "translation": "The Jianfa Gelao [heading uncertain] live around Shibing and Pingyuan. Men and women retain a short tuft of hair, wear blue clothing, farm diligently, and cremate the dead on piles of firewood.\n\nVerse (OCR order uncertain): Hair is cropped short except for the crown. Men farm and women wear embroidered garments. [Some words are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0053": {
+    "translation": "The Zhushi Gelao [heading badly recognized] live around Shiqian, Liping, and Guzhou. The author uses hostile stereotypes about bathing, food, animals, and feuding; men are described as carrying knives and crossbows. Those in Qingping understand Chinese and are said to comply with government orders.\n\nVerse (OCR order uncertain): The poem contrasts an earlier reputation for harsh customs with the claim that people in Qingping speak Chinese, obey rules, and carry weapons.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0055": {
+    "translation": "The Hong Gelao [group name uncertain] live around Guangshun, Pingyuan, and Qingping. The text describes placing coffins in caves or by large rivers instead of conventional burial. [The account is partly garbled.]\n\nVerse (OCR order uncertain): A raised, fir-covered structure and the use of differently colored cloth are mentioned, apparently distinguishing several branches; the connection with the prose is uncertain.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0057": {
+    "translation": "The Hua Gelao [heading uncertain] live around Longquan and Huangping. The source describes hunting deer and birds rather than farming and women's bright five-colored clothing and beadlike ornaments called haiba.\n\nVerse (OCR order uncertain): The poem mentions lively hunting, short embroidered garments, and distinctive women's hairstyles. Several words are unreadable.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0059": {
+    "translation": "The Shui Gelao [heading uncertain] live around Shibing and Yuqing. They are skilled at fishing and can dive into deep pools even in winter. Men's clothing resembles Han dress, while women wear finely pleated long skirts. Marriage and funeral rites are compared with Han conventions, and the author calls them obedient to law.\n\nVerse (OCR order uncertain): Fishing in deep water and pleated skirts dominate the verse; the poet remarks on women's distinctive attire.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0061": {
+    "translation": "The Guoluan Gelao [heading badly recognized] live in Pingyuan. Men weave twilled cloth. Women wrap their hair in blue cloth and wear short garments. When ill, the people reportedly make a ritual object resembling a spirit's head from flour, invite a ritual specialist, and pray. The source describes them as fond of wine and neglectful of farming.\n\nVerse (OCR order uncertain): A ritual head decorated with colored threads is placed in a basket for prayers; the poem also mentions the twilled cloth they weave.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0063": {
+    "translation": "The Pipao Gelao [heading uncertain] live around Huangping and Pingyuan. Men and women wear outer capes over garments, with skirts woven from colored wool. They work diligently at cultivation.\n\nVerse (OCR order uncertain): Colored wool is woven into skirts, and iron plow-making or work at a forge appears in the verse. [The connection with the prose and several words are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0065": {
+    "translation": "The group provisionally labeled Linzhu includes the surnames Wang, Li, Jin, and Wen and is found across several districts. The surviving prose describes digging a hearth in the ground during winter.\n\nVerse (provisional): Families go into the fields for offerings to spirits; colored banners, flowered clothes, and an unusual hairstyle appear in the poem. [The verse is clearer than the prose, which is incomplete.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0067": {
+    "translation": "The group provisionally labeled Huo Zhuang lives in Libo County. Men cultivate and women spin and weave, wearing short garments. At funerals, bodies are placed between wooden boards rather than in coffins, and children remain at the grave for three days before returning home.\n\nVerse (OCR order uncertain): The poem speaks of burial between boards, funeral songs, women's weaving, men's farming, and filial grief.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0069": {
+    "translation": "The group here labeled Jiren lives in Pu'an. Men and women wear felt garments. The source describes limited bathing, Buddhist devotion, the use of prayer beads, and worship of the Buddha; it also claims they act as interpreters among other groups.\n\nVerse (OCR order uncertain): The people are compared with Buddhist devotees, their felt garments likened to monastic robes. The final line emphasizes faith in Buddhism.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0075": {
+    "translation": "The Manren live in Xintianying and Danjiang. Men wear grass rain capes and women patterned garments. The source describes cattle slaughter, singing, and dancing at funerals, fishing and hunting, and a major festival at the end of the tenth lunar month.\n\nVerse (OCR order uncertain): In spare moments they fish and hunt by mountain and water; the poem describes flowered skirts, green capes, and the catch.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0077": {
+    "translation": "The Turen are found in Pu'an and other localities. At the start of spring, men and women beat gongs and drums and sing to spirits in village celebrations, receiving food and drink from households they visit. The author describes a former reputation for fighting near Qiongshui but says customs have grown more peaceful.\n\nVerse (OCR order uncertain): Villages greet the year with drums and exorcistic nuo rites; the poet reflects on the spread of Han-style practices.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0079": {
+    "translation": "The Gangren [heading uncertain] are numerous around Hongzhou downstream. The text describes their suspicious disposition and women wearing blue tops and patterned skirts. In winter they gather reed flowers for warmth.\n\nVerse (OCR order uncertain): The poem refers to warm reed stuffing, the practice of couples traveling together, and arms such as spears and crossbows. [Some words are unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0081": {
+    "translation": "The Yao are said to have migrated from western Guangxi into Guiding during the Yongzheng reign. They live without fixed settlements and channel water from streams through connected lengths of bark or wood. After farming, they gather medicines and treat illnesses in villages. The author praises their honesty, claiming lost objects are left untouched.\n\nVerse (OCR order uncertain): The Yao came from western Guangxi, settled near water, gathered medicinal plants in spring, and would not take lost gold.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fed119d6b353-p0083": {
+    "translation": "The Yangbao Miao live in Zunyi and Longquan. They use matchmakers for marriage and observe mourning and funerary ceremonies. The author describes them as resistant to official summons but obedient to village elders, and mentions poisoned crossbows.\n\nVerse (OCR order uncertain): They lament the dead deeply, avoid official courts, and turn to local elders for judgment. The cuckoo flower evokes sorrow.",
+    "translation_status": "ai_draft"
   }
 };
