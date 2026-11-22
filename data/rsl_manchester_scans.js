@@ -24,25 +24,30 @@
       vol.hash + "/" + file + "/page" + page + "-" + width + "px-" + file + ".jpg";
     for (let page=1;page<=vol.total;page++) {
       const id="rsl-f274-v"+vol.volume+"-p"+String(page).padStart(3,"0");
-      const verifiedRslPlates = {5:"黑猓羅",6:"羅鬼女官",7:"白猓羅",8:"宋家苗",9:"蔡家苗"};
-    const plateName = vol.volume===1 ? verifiedRslPlates[page] : null;
-    const cropBase = "images/external_pilot/rsl_v1_p"+String(page).padStart(3,"0");
-    const isCover=page===1;
-    const isNonText = vol.volume===1 && page>=2 && page<=4;
+      // Historical headings are edition-specific, transcribed from scan images.
+      // Do not copy the wording of a different Miao album recension.
+      const verifiedV1 = {5:"黑猓羅",6:"羅鬼女官",7:"白猓羅",8:"宋家苗",9:"蔡家苗",10:"卡尤仲家",11:"補籠仲家",12:"青仲家",13:"曾竹籠家",14:"狗耳龍家",15:"馬蹬龍家",16:"大頭龍家",17:"花苗",18:"紅苗"};
+      const verifiedV2 = {4:"谷蒲苗",5:"陽洞羅漢苗",6:"克孟牯羊苗",7:"洞苗",8:"箐苗",9:"第卌七種（族稱待核）",10:"狪家苗"};
+      const plateName = vol.volume===1 ? verifiedV1[page] : verifiedV2[page];
+      const cropBase = "images/external_pilot/rsl_v"+vol.volume+"_p"+String(page).padStart(3,"0");
+      const isCover=page===1;
+      const isNonText = (vol.volume===1 && page>=2 && page<=4)||(vol.volume===2 && (page===2||page===3));
+      const plateIndex=vol.volume===1?page-4:page+38;
       records.push({
         id, collection_id:"rsl-f274-54", copy_id:"rsl-f274-54",
         work_id:"work-guizhou-82", source_kind:"pdf",
         source_title:"百苗圖（擬題，俄羅斯國立圖書館藏，"+(vol.volume===1?"上":"下")+"冊）",
         source_file:vol.file, source_url:pdf, source_rights:"Public Domain Mark · Wikimedia Commons",
         volume:vol.volume===1?"上冊 / Volume I":"下冊 / Volume II", shelfmark:vol.shelf,
-        folio:page, pdf_page:page, page_total:vol.total, plate_total:null,
+        folio:plateName?plateIndex:page, pdf_page:page, page_total:vol.total, plate_total:null,
         source_pdf_page:page, page_kind:(isCover||isNonText)?"non_text":plateName?"caption":"scan_only",
         image:preview(page,960), thumb:plateName?cropBase+"_artwork.jpg":preview(page,500), high_res_image:preview(page,1280),
         text_image:plateName?cropBase+"_text.jpg":preview(page,1280), paired_image:plateName?cropBase+"_artwork.jpg":null,
         artwork_image:plateName?cropBase+"_artwork.jpg":null, caption_image:plateName?cropBase+"_text.jpg":null,
         spread_layout:plateName?"artwork_left_caption_right":null,
+        spread_image_layout:plateName?"artwork_left_caption_right":null,
         title:plateName?plateName:(isCover?"封面（原冊書衣）":isNonText?"封面、裝幀或空白襯頁":"第"+page+"頁掃描（待逐葉核讀）"),
-        title_en:plateName?"Plate "+(page-4)+" · "+plateName+" (historical label)":(isCover?"Original cover":isNonText?"Blank/cover/endpaper":"PDF page "+page+" · leaf content awaiting verification"),
+        title_en:plateName?"Plate "+plateIndex+" · "+plateName+" (historical label)":(isCover?"Original cover":isNonText?"Blank/cover/endpaper":"PDF page "+page+" · leaf content awaiting verification"),
         ocr_raw:"", transcription:"", translation:"",
         translation_status:(isCover||isNonText)?"not_applicable":"not_started",
         status:(isCover||isNonText)?"non_text":plateName?"caption_pending":"scan_only",
@@ -69,6 +74,10 @@
     // Image-verified from the institution's actual canvas scans (2026-11-22).
     const confirmedBlank = n>=2&&n<=5;
     const confirmedPreface = n===6||n===7;
+    const checkedPainting = [8,10,12].includes(n);
+    const checkedText = [9,11].includes(n);
+    const relatedCanvas = n===8?9:n===9?8:n===10?11:n===11?10:null;
+    const verifiedTitle = n===9?"觀音寺圖說":n===11?"猓羅圖說":null;
     const leaf = vol===1?n-1:n-103;
     const cover = n===1||n===103;
     const back = n===96||n===196;
@@ -86,15 +95,20 @@
       shelfmark:"Chinese Crawford 398",volume:vol===1?"上冊 / Volume I":"下冊 / Volume II",
       folio:n, pdf_page:n, page_total:202, plate_total:null,
       source_canvas:"https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398/canvas/"+n,
-      scan_index:n, page_kind:confirmedBlank?"non_text":confirmedPreface?"preface":isLeaf?"scan_only":"non_text",
+      scan_index:n, page_kind:confirmedBlank?"non_text":confirmedPreface?"preface":checkedPainting?"illustration":checkedText?"caption":isLeaf?"scan_only":"non_text",
       image:manImage(n,1000), thumb:manImage(n,320), high_res_image:manImage(n,2000),
-      text_image:manImage(n,2000), paired_image:null,
-      title:confirmedPreface?"《蠻獠圖說》總序（續頁，待逐字校讀）":confirmedBlank?"空白襯頁（無需 OCR）":isLeaf?(vol===1?"上冊":"下冊")+"原葉第"+leaf+"號（待校讀）":name,
-      title_en:confirmedPreface?"General preface to Manliao tushuo (image-checked; transcription pending)":confirmedBlank?"Blank endpaper; no OCR needed":isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
+      text_image:manImage(n,2000), paired_image:relatedCanvas?manImage(relatedCanvas,1600):null,
+      paired_pdf_page:relatedCanvas||null,
+      title:verifiedTitle|| (confirmedPreface?"《蠻獠圖說》總序（續頁，待逐字校讀）":confirmedBlank?"空白襯頁（無需 OCR）":checkedPainting?"圖說配圖（無正文 OCR）":isLeaf?(vol===1?"上冊":"下冊")+"原葉第"+leaf+"號（待校讀）":name),
+      title_en:checkedText?(n===9?"Guanyin Temple description":"Luoluo description"):confirmedPreface?"General preface to Manliao tushuo (image-checked; transcription pending)":confirmedBlank?"Blank endpaper; no OCR needed":checkedPainting?"Painting (no OCR required)":isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
       ocr_raw:"", transcription:"", translation:"",
       translation_status:isLeaf?"not_started":"not_applicable",
-      status:confirmedBlank?"non_text":confirmedPreface?"preface_pending":isLeaf?"scan_only":"non_text",
-      notes:confirmedBlank?
+      status:confirmedBlank?"non_text":confirmedPreface?"preface_pending":checkedPainting?"image_only":checkedText?"caption_pending":isLeaf?"scan_only":"non_text",
+      notes:checkedPainting?
+       "已核查館方畫幅：本掃描為純彩繪，不執行 OCR。相鄰有圖說文字的頁面以配對連結另行保留。":
+       checkedText?
+       "已核查館方原圖：本頁為竪排書寫的正文，對應相鄰的彩繪。轉錄僅使用此館藏，不替換其他版本。":
+       confirmedBlank?
        "已逐張核查館方影像：本張為空白襯頁，沒有可辨認的中文題記。不進行 OCR。":
        confirmedPreface?
        "已逐張核查館方影像：本張為《蠻獠圖說》總序正文，屬手寫竪排文字；需按右至左列序逐字校讀，並獨立製作英譯。":
