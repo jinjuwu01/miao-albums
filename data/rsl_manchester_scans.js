@@ -78,9 +78,14 @@
     const confirmedPreface = n===6||n===7;
     const checkedPainting = n>=8&&n<=74&&n%2===0;
     const checkedText = n>=9&&n<=73&&n%2===1;
-    // The physical object alternates a painting leaf with its description:
-    // painting n (even) => inscription n+1; inscription n (odd) => painting n-1.
-    const relatedCanvas = checkedPainting?n+1:checkedText?n-1:null;
+    // Additional *adjacency candidates* for indexing only: not image-confirmed!
+    // Do not label these as captions, illustrations, or OCR-complete until checked.
+    const candidatePainting = (n>=76&&n<=94&&n%2===0)||(n>=104&&n<=194&&n%2===0);
+    const candidateText = (n===75)||(n>=77&&n<=95&&n%2===1)||(n>=105&&n<=195&&n%2===1);
+    const pairStatus=(checkedPainting||checkedText)?'source_checked':
+      (candidatePainting||candidateText)?'adjacency_candidate':null;
+    const relatedCanvas=(checkedPainting||candidatePainting)?n+1:
+      (checkedText||candidateText)?n-1:null;
     const verifiedTitles = {9:"觀音寺圖說",11:"猓羅圖說",13:"蔡家苗",15:"白猓羅",17:"宋家苗",19:"曾竹龍家",21:"青仲家",23:"補籠仲家",25:"大頭龍家",27:"打牙犵狫",29:"剪髮犵狫",31:"黑樓苗",33:"洪州苗",35:"生苗",37:"狗耳龍家",39:"土犵狫",41:"紅苗",43:"里民子",45:"林犵",47:"花撞",49:"水犵狫",51:"青苗",53:"獠苗",55:"花苗",57:"紅犵狫",59:"花犵狫",61:"鍋圈犵狫",63:"土人",65:"洞人",67:"夷人",69:"楊洞羅漢苗",71:"白苗",73:"馬鐙龍家"};
     const verifiedTitle = verifiedTitles[n]||null;
     const leaf = vol===1?n-1:n-103;
@@ -103,7 +108,8 @@
       scan_index:n, page_kind:confirmedBlank?"non_text":confirmedPreface?"preface":checkedPainting?"illustration":checkedText?"caption":isLeaf?"scan_only":"non_text",
       image:manImage(n,1000), thumb:manImage(n,320), high_res_image:manImage(n,2000),
       text_image:manImage(n,2000), paired_image:relatedCanvas?manImage(relatedCanvas,1600):null,
-      paired_pdf_page:relatedCanvas||null,
+      paired_pdf_page:relatedCanvas||null, pair_status:pairStatus,
+      review_hint:candidateText?'possible_caption_not_image_checked':candidatePainting?'possible_illustration_not_image_checked':null,
       title:verifiedTitle|| (confirmedPreface?"《蠻獠圖說》總序（續頁，待逐字校讀）":confirmedBlank?"空白襯頁（無需 OCR）":checkedPainting?"圖說配圖（無正文 OCR）":isLeaf?(vol===1?"上冊":"下冊")+"原葉第"+leaf+"號（待校讀）":name),
       title_en:checkedText?(verifiedTitle+" (historical caption)"):confirmedPreface?"General preface to Manliao tushuo (image-checked; transcription pending)":confirmedBlank?"Blank endpaper; no OCR needed":checkedPainting?"Painting (no OCR required)":isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
       ocr_raw:"", transcription:"", translation:"",
@@ -117,6 +123,8 @@
        "已逐張核查館方影像：本張為空白襯頁，沒有可辨認的中文題記。不進行 OCR。":
        confirmedPreface?
        "已逐張核查館方影像：本張為《蠻獠圖說》總序正文，屬手寫竪排文字；需按右至左列序逐字校讀，並獨立製作英譯。":
+       (candidatePainting||candidateText)?
+       "曼徹斯特大學約翰·萊蘭茲圖書館，Chinese Crawford 398，官方 IIIF Canvas "+n+"。僅依相鄰頁奇偶順序提供可能的圖文對照（候選配對第"+relatedCanvas+"頁）；本頁是否為題記／彩繪尚未從圖像驗證，不能視為已 OCR 或圖說。原圖由館方提供。":
        isLeaf?
        "曼徹斯特大學約翰·萊蘭茲圖書館，Chinese Crawford 398，官方 IIIF Canvas "+n+"，"+(vol===1?"上":"下")+"冊第"+leaf+"葉。圖文性質、題記文字與彩繪分割尚未逐張人工核對。此影像為館方遠端提供；放大影像及下載圖像適用不同的使用條款。":
        "曼徹斯特大學約翰·萊蘭茲圖書館，Chinese Crawford 398，官方 IIIF Canvas "+n+"，"+name+"。非正文頁照原序保留，不進行圖說 OCR。",
