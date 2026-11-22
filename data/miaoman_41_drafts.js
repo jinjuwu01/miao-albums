@@ -214,11 +214,11 @@ window.MIAOMAN_41_DRAFTS = {
     "source_pdf_page": 19,
     "page_kind": "caption_and_illustration",
     "title": "白狎家",
-    "transcription": "白狎家在荔波縣男子頭帶狐尾以耕種為業女子身小而多慧色白而多美衣尚淡藍色穿勾雲細摺裙紅繡鞋脛綣以顏色袴每歲孟春以大木空其中名曰把槽置之於地男女各執竹片以打把槽其聲似鼓名曰打樂又曰銅要或男女抱腰共相戲謔父母在旁觀之不禁即漢人之能通苗語者亦可與焉未嫁之女多與漢人來徃呼之曰外郎出嫁後夫家轉送苗布數疋名曰斷郎禮外郎不得再徃",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "transcription": "白狎家在荔波縣男子頭帶狐尾以耕種為業女子身小而多慧色白而多美衣尚淡藍色穿勾雲細摺裙紅繡鞋脛綣以顏色袴每歲孟春以大木空其中名曰把槽置之於地男女各執竹片以打把槽其聲似鼓名曰打樂又曰銅要或男女抱腰共相戲謔父母在旁觀之不禁即漢人之能通苗語者亦可與焉未嫁之女多與漢人來往呼之曰外郎出嫁後夫家轉送苗布數疋名曰斷郎禮外郎不得再往",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。 「銅要」等器物名稱字形待覆核。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0020": {
@@ -323,10 +323,10 @@ window.MIAOMAN_41_DRAFTS = {
     "page_kind": "caption_and_illustration",
     "title": "洪州苗",
     "transcription": "洪州苗在黎平境內男子與漢人無異耕作為業婦女善紡織棉葛二布其葛布頗精細故有洪州葛布之名",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0029": {
@@ -359,10 +359,10 @@ window.MIAOMAN_41_DRAFTS = {
     "page_kind": "caption_and_illustration",
     "title": "生苗",
     "transcription": "生苗在台拱凱里黃平施秉等處多野性所食皆生物即魚肉亦以微熟食為鮮",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0032": {
@@ -370,11 +370,11 @@ window.MIAOMAN_41_DRAFTS = {
     "source_pdf_page": 32,
     "page_kind": "caption_and_illustration",
     "title": "黑脚苗",
-    "transcription": "黑脚苗在清江台拱地方男子短衣大褲頭插白翎出入持長鏢帶利刃性獷悍三五成羣以搶刼為能有事則用螺螄二枚放於盆內觀其相鬬以卜吉凶每多應驗因呼之曰軍師女子夫死不能再嫁若不善搶刼者不肯以女嫁之近亦稍知禮法",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "transcription": "黑脚苗在清江台拱地方男子短衣大褲頭插白翎出入持長鏢帶利刃性獷悍三五成羣以搶劫為能有事則用螺螄二枚放於盆內觀其相鬪以卜吉凶每多應驗因呼之曰軍師女子夫死不能再嫁若不善搶劫者不肯以女嫁之近亦稍知禮法",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0033": {
@@ -394,11 +394,11 @@ window.MIAOMAN_41_DRAFTS = {
     "source_pdf_page": 34,
     "page_kind": "caption_and_illustration",
     "title": "短裙苗",
-    "transcription": "短裙苗在都勻之八寨男子短衣寬褲婦人衣無衿袖前不護肚後不遮腰其裙長五寸打細摺而厚聊以蔽羞而巳採紫草以營生性嗜酒醉則卧於山凹隆寒則入溪澗中洗浴云可助暖",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "transcription": "短裙苗在都勻之八寨男子短衣寬褲婦人衣無衿袖前不護肚後不遮腰其裙長五寸打細摺而厚聊以蔽羞而已採紫草以營生性嗜酒醉則卧於山凹隆寒則入溪澗中洗浴云可助暖",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0035": {
@@ -406,11 +406,11 @@ window.MIAOMAN_41_DRAFTS = {
     "source_pdf_page": 35,
     "page_kind": "caption_and_illustration",
     "title": "尖頂苗",
-    "transcription": "尖頂苗在貴陽府屬男女皆梳尖頂髻以仲冬朔為節夫婦耦耕並",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "transcription": "尖頂苗在貴陽府屬男女皆梳尖頂髻以仲冬朔為節夫婦耦耕並作",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0036": {
@@ -418,11 +418,11 @@ window.MIAOMAN_41_DRAFTS = {
     "source_pdf_page": 36,
     "page_kind": "caption_and_illustration",
     "title": "郎慈苗",
-    "transcription": "郎慈苗在威寧其俗更異婦産子而夫在房抱守不出門戶彌月乃出産婦出外力作措飲食以供夫只喂兒乳若親死氣初絕即將親首扭反向後曰好看後人",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "transcription": "郎慈苗在威寧其俗更異婦產子而夫在房抱守不出門戶彌月乃出產婦出外力作措飲食以供夫只喂兒乳若親死氣初絕即將親首扭反向後曰好看後人",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0037": {
@@ -431,10 +431,10 @@ window.MIAOMAN_41_DRAFTS = {
     "page_kind": "caption_and_illustration",
     "title": "六額子",
     "transcription": "六額子大定之威寧有黑白二種男子結尖頂髻婦人衣長而無裙葬亦用棺暮年卜吉延親族至墓前以牲酒致祭發塚開棺取枯首洗刷以白為度布裹復埋一二年仍取洗刷至七次止遇家人有病乃謂祖先骨不潔即取而洗之所謂洗苗是也近經嚴禁惡習漸息",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。 取骨清洗一段部分字形待覆核。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0038": {
@@ -443,10 +443,10 @@ window.MIAOMAN_41_DRAFTS = {
     "page_kind": "caption_and_illustration",
     "title": "白額子",
     "transcription": "白額子在永豐羅斛之間男子髻尖似螺螄狀服色皆尚白男衣短而婦衣長不穿裙其俗與六額子同惟病祝鬼不洗骨",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0039": {
@@ -455,10 +455,10 @@ window.MIAOMAN_41_DRAFTS = {
     "page_kind": "caption_and_illustration",
     "title": "冉家蠻",
     "transcription": "冉家蠻在思南之沿河司喜漁獵得魚蝦為美食宿與蠻人同",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0040": {
@@ -466,11 +466,11 @@ window.MIAOMAN_41_DRAFTS = {
     "source_pdf_page": 40,
     "page_kind": "caption_and_illustration",
     "title": "九名九姓苗",
-    "transcription": "九名九姓苗在獨山州性狡而悍每多假擅姓名婚喪屠牛聚飲醉則必至爭鬪用干戈受傷者納牛以講和婦女以種山為務俗與紫薑苗同",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "machine_reordered_unverified",
+    "transcription": "九名九姓苗在獨山州性狡而悍每多假捏姓名婚喪屠牛聚飲醉則必至爭鬪輒用干戈受傷者納牛以講和婦女以種山為務俗與紫薑苗同",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-41-first-pass-v1",
-    "notes": "由既有 PaddleOCR 依傳統竖排列序整理，尚未逐字核對原圖。 圖與題記同頁，不替換原始掃描，原始 OCR 保留。",
+    "notes": "AI 已直接對照使用者提供的高清原圖，完成該頁的第一輪逐列校讀草稿；仍需研究者獨立核字，原始 OCR 完整保留。",
     "page_total": 41
   },
   "ocr-e4a7e4a3b955-p0041": {
