@@ -76,12 +76,12 @@
     // Image-verified from the institution's actual canvas scans (2026-11-22).
     const confirmedBlank = n>=2&&n<=5;
     const confirmedPreface = n===6||n===7;
-    const checkedPainting = n>=8&&n<=24&&n%2===0;
-    const checkedText = n>=9&&n<=23&&n%2===1;
+    const checkedPainting = n>=8&&n<=44&&n%2===0;
+    const checkedText = n>=9&&n<=43&&n%2===1;
     // The physical object alternates a painting leaf with its description:
     // painting n (even) => inscription n+1; inscription n (odd) => painting n-1.
     const relatedCanvas = checkedPainting?n+1:checkedText?n-1:null;
-    const verifiedTitles = {9:"觀音寺圖說",11:"猓羅圖說",13:"蔡家苗",15:"白猓羅",17:"宋家苗",19:"曾竹龍家",21:"青仲家",23:"補籠仲家"};
+    const verifiedTitles = {9:"觀音寺圖說",11:"猓羅圖說",13:"蔡家苗",15:"白猓羅",17:"宋家苗",19:"曾竹龍家",21:"青仲家",23:"補籠仲家",25:"大頭龍家",27:"打牙犵狫",29:"剪髮犵狫",31:"黑樓苗",33:"洪州苗",35:"生苗",37:"狗耳龍家",39:"土犵狫",41:"紅苗",43:"里民子"};
     const verifiedTitle = verifiedTitles[n]||null;
     const leaf = vol===1?n-1:n-103;
     const cover = n===1||n===103;
