@@ -528,22 +528,24 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "translation": "The Jiumeng Guyang Miao live in Jinzhusi of Guangshun. They carve cavities into cliff faces and live there, using bamboo ladders instead of beds or ordinary stairways; some dwellings are said to rise to great heights. They cultivate with iron hoes rather than plows. Men and women pair off while dancing to reed-pipes. After childbirth a woman returns home (the exact wording is uncertain). When parents die they do not cry but laugh, dance, and sing loudly, calling it \"making a commotion.\" In the following year, when the cuckoo calls, the family weeps, saying: \"Even the bird returns each year, but our loved one does not.\""
   },
   "miao-030": {
-    "title": "狎家",
-    "transcription": "狎家在貴陽安順南龍，衣尚青。男子青布纏頭，女子衣短裙長。每歲孟春以五色布編為小毬，男女跳舞，以所歡者携之奔而不禁。",
+    "title": "仲家",
+    "transcription": "仲家在貴陽安順南龍，衣尚青。男子青布纏頭，女子衣短裙長。每歲孟春以五色布編為小毬，男女跳舞，以所歡者携之奔而不禁。",
     "status": "image_checked_draft",
-    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「南龍」「狎家」按所見字形暫錄。",
+    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「南龍」仍按圖像校讀暫錄。讀者更正 PDF 第 34 頁族稱應作「仲家」，先前誤錄為「狎家」，今已訂正。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
     "source_pdf_page": 34,
-    "translation": "The Xiajia live in Guiyang, Anshun, and Nanlong. They favor blue-green clothing. Men wrap their heads in blue cloth, while women wear short jackets and long skirts. In early spring every year, they braid small balls from five-colored cloth. Men and women dance, and those who favor one another elope without prohibition."
+    "translation": "The Zhongjia live in Guiyang, Anshun, and Nanlong. They favor blue-green clothing. Men wrap their heads in blue cloth, while women wear short jackets and long skirts. In early spring every year, they braid small balls from five-colored cloth. Men and women dance, and those who favor one another elope without prohibition.",
+    "title_en": "Zhongjia (historical ethnonym)"
   },
   "ocr-0aa54e2d1b74-p0034": {
-    "title": "狎家",
-    "transcription": "狎家在貴陽安順南龍，衣尚青。男子青布纏頭，女子衣短裙長。每歲孟春以五色布編為小毬，男女跳舞，以所歡者携之奔而不禁。",
+    "title": "仲家",
+    "transcription": "仲家在貴陽安順南龍，衣尚青。男子青布纏頭，女子衣短裙長。每歲孟春以五色布編為小毬，男女跳舞，以所歡者携之奔而不禁。",
     "status": "image_checked_draft",
-    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「南龍」「狎家」按所見字形暫錄。",
+    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「南龍」仍按圖像校讀暫錄。讀者更正 PDF 第 34 頁族稱應作「仲家」，先前誤錄為「狎家」，今已訂正。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
     "source_pdf_page": 34,
-    "translation": "The Xiajia live in Guiyang, Anshun, and Nanlong. They favor blue-green clothing. Men wrap their heads in blue cloth, while women wear short jackets and long skirts. In early spring every year, they braid small balls from five-colored cloth. Men and women dance, and those who favor one another elope without prohibition."
+    "translation": "The Zhongjia live in Guiyang, Anshun, and Nanlong. They favor blue-green clothing. Men wrap their heads in blue cloth, while women wear short jackets and long skirts. In early spring every year, they braid small balls from five-colored cloth. Men and women dance, and those who favor one another elope without prohibition.",
+    "title_en": "Zhongjia (historical ethnonym)"
   },
   "miao-031": {
     "title": "土人",
