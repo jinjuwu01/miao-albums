@@ -200,22 +200,24 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "translation": "The Guoquan Gelao live in Pingyuan Subprefecture. Men weave kudzu fiber into diagonal-patterned clothing. Women bind their disheveled hair with blue cloth into shapes resembling pot rings. They wear short jackets and long, unpleated skirts. When ill, they invite a ritual specialist, place a tiger's head decorated with five-colored yarn in a winnowing basket, and pray over it. For burial they lay the corpse on its side, saying this prevents the dead from knowing."
   },
   "miao-012": {
-    "title": "木狍",
-    "transcription": "木狍在貴定黔西，性狡悍，善陶冶製兩決鐵。女子歪髻短裙覆膝，男以小青布纏於首。每歲孟冬祀鬼，以草為龍形，插五色紙旗於上，男女偕至郊外祭之。",
+    "title": "木狫",
+    "transcription": "木狫在貴定黔西，性狡悍，善陶冶製兩決鐵。女子歪髻短裙覆膝，男以小青布纏於首。每歲孟冬祀鬼，以草為龍形，插五色紙旗於上，男女偕至郊外祭之。",
     "status": "image_checked_draft",
-    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「兩決鐵」字形與含義未確定，保持圖像校讀候選。",
+    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「兩決鐵」字形與含義未確定，保持圖像校讀候選。 讀者據原圖指出族稱應作「木狫」，已更正先前誤錄為「木狍」之處。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
     "source_pdf_page": 16,
-    "translation": "The Mupao live in Guiding and Qianxi. The account describes them as cunning and fierce, skilled at pottery and metalworking, including making \"liangjue iron\" (reading uncertain). Women wear lopsided coiffures and short skirts covering the knees; men wrap small pieces of blue cloth around their heads. Each year in early winter they sacrifice to spirits, making a dragon shape of grass, inserting five-colored paper flags into it, and gathering outside the settlement, men and women together, to worship."
+    "translation": "The Mu Liao live in Guiding and Qianxi. The account describes them as cunning and fierce, skilled at pottery and metalworking, including making \"liangjue iron\" (reading uncertain). Women wear lopsided coiffures and short skirts covering the knees; men wrap small pieces of blue cloth around their heads. Each year in early winter they sacrifice to spirits, making a dragon shape of grass, inserting five-colored paper flags into it, and gathering outside the settlement, men and women together, to worship.",
+    "title_en": "Mu Liao (historical source label)"
   },
   "ocr-0aa54e2d1b74-p0016": {
-    "title": "木狍",
-    "transcription": "木狍在貴定黔西，性狡悍，善陶冶製兩決鐵。女子歪髻短裙覆膝，男以小青布纏於首。每歲孟冬祀鬼，以草為龍形，插五色紙旗於上，男女偕至郊外祭之。",
+    "title": "木狫",
+    "transcription": "木狫在貴定黔西，性狡悍，善陶冶製兩決鐵。女子歪髻短裙覆膝，男以小青布纏於首。每歲孟冬祀鬼，以草為龍形，插五色紙旗於上，男女偕至郊外祭之。",
     "status": "image_checked_draft",
-    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「兩決鐵」字形與含義未確定，保持圖像校讀候選。",
+    "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「兩決鐵」字形與含義未確定，保持圖像校讀候選。 讀者據原圖指出族稱應作「木狫」，已更正先前誤錄為「木狍」之處。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
     "source_pdf_page": 16,
-    "translation": "The Mupao live in Guiding and Qianxi. The account describes them as cunning and fierce, skilled at pottery and metalworking, including making \"liangjue iron\" (reading uncertain). Women wear lopsided coiffures and short skirts covering the knees; men wrap small pieces of blue cloth around their heads. Each year in early winter they sacrifice to spirits, making a dragon shape of grass, inserting five-colored paper flags into it, and gathering outside the settlement, men and women together, to worship."
+    "translation": "The Mu Liao live in Guiding and Qianxi. The account describes them as cunning and fierce, skilled at pottery and metalworking, including making \"liangjue iron\" (reading uncertain). Women wear lopsided coiffures and short skirts covering the knees; men wrap small pieces of blue cloth around their heads. Each year in early winter they sacrifice to spirits, making a dragon shape of grass, inserting five-colored paper flags into it, and gathering outside the settlement, men and women together, to worship.",
+    "title_en": "Mu Liao (historical source label)"
   },
   "miao-013": {
     "title": "蠻人",
