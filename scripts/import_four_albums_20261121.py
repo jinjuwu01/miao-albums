@@ -47,28 +47,20 @@ def main():
                     "ocr_raw_secondary":p["ocr_chitra_vert"],
                     "transcription":p["transcription"],"translation":"","status":p["status"],
                     "notes":p["notes"]+" Painting PDF p.%d, caption PDF p.%d. OCR is from Tesseract, not PaddleOCR."%(art,caption),
-                    "page_kind":"caption","spread_layout":p["spread_layout"],
+                    "page_kind":"caption","spread_layout":("caption_left_artwork_right" if key=="jingong" else "artwork_left_caption_right" if key=="qiansheng" else "alternating_artwork_caption"),
                     "tags":[],"visual_tags":[]
                 })
     if len(records)!=230:raise RuntimeError("Expected 230 plates, got "+str(len(records)))
     data=root/"data"
     (data/"four_albums_20261121.json").write_text(json.dumps(records,ensure_ascii=False,indent=2),encoding="utf-8")
     (data/"four_albums_20261121.js").write_text("window.MIAO_FOUR_ALBUMS = "+json.dumps(records,ensure_ascii=False,separators=(",",":"))+";\n",encoding="utf-8")
-    script='<script src="data/four_albums_20261121.js"></script>\n'
-    for name,next_script in (("index.html","<script src=\"assets/app.js"),("review.html","<script src=\"assets/review.js")):
-        p=root/name;s=p.read_text(encoding="utf-8")
-        if script.strip() not in s:replace_once(p,next_script,script+next_script)
-    app=root/"assets/app.js"
-    s=app.read_text(encoding="utf-8")
-    suffix="...(Array.isArray(window.MIAO_FOUR_ALBUMS) ? window.MIAO_FOUR_ALBUMS : [])"
-    if suffix not in s:
-        s=s.replace("const IMPORTED_DISPLAY = IMPORTED.flatMap(","const IMPORTED_DISPLAY = [...IMPORTED.flatMap(",1)
-        s=s.replace(":[r]);",":[r]), "+suffix+"];",1)
-        app.write_text(s,encoding="utf-8")
-    review=root/"assets/review.js"
-    replace_once(review,
-        "const IMPORTED = Array.isArray(window.MIAO_IMPORTED_RECORDS) ? window.MIAO_IMPORTED_RECORDS : [];",
-        "const IMPORTED = [...(Array.isArray(window.MIAO_IMPORTED_RECORDS) ? window.MIAO_IMPORTED_RECORDS : []), ...(Array.isArray(window.MIAO_FOUR_ALBUMS) ? window.MIAO_FOUR_ALBUMS : [])];")
-    print("Created 230 entries. Check git diff and test images before publishing.")
+    # The website and reviewer already load window.MIAO_FOUR_ALBUMS.
+    # Do not patch app.js again: that would add all 230 records twice.
+    # Image files now exist; the freshly written JS replaces the placeholder index.
+    for rec in records:
+        for key_name in ("image", "text_image", "paired_image"):
+            if not (root / rec[key_name]).exists():
+                raise RuntimeError("Broken image reference: " + rec[key_name])
+    print("Prepared 230 full records with verified local asset paths. Review files, then commit and push.")
 
 if __name__=="__main__": main()
