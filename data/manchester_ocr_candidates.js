@@ -1,4 +1,4 @@
-// Manchester source-specific provisional image transcription drafts and English trial translations.
+// Provisional Manchester-specific visual transcriptions and English interpretive summaries; not certified full-text OCR.
 window.MIAO_MANCHESTER_OCR_CANDIDATES = {
   "manchester-c398-p075": {
     "title": "□家苗（首字待核）",
@@ -12,10 +12,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "provisional",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 75; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p077": {
     "title": "八番苗",
@@ -29,10 +30,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "provisional",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 77; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p079": {
     "title": "克孟牯羊苗",
@@ -46,10 +48,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "provisional",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 79; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p081": {
     "title": "白額子",
@@ -63,10 +66,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "provisional",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 81; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p083": {
     "title": "六額子",
@@ -80,10 +84,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "provisional",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 83; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p085": {
     "title": "狪家苗",
@@ -97,10 +102,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "provisional",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 85; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p087": {
     "title": "楊保苗",
@@ -114,10 +120,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "provisional",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 87; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p089": {
     "title": "樣獵苗（題字待核）",
@@ -131,10 +138,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "provisional",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 89; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p091": {
     "title": "九股苗",
@@ -148,10 +156,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "english_completeness": "excerpt_only",
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
-    "translation_scope": "provisional translation based only on Manchester canvas image draft",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted source-image visual transcription, not automated OCR",
     "source_review": "User-supplied full-size Manchester Chinese Crawford 398 canvas 91; source reviewed 2026-11-22",
-    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。"
+    "notes": "原圖逐列圖像識讀初稿，存疑字作□；保留本藏本用字，非人工定稿。英文為本頁對應試譯。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p109": {
     "title": "雪崖洞",
@@ -165,10 +174,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 109 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p111": {
     "title": "羅鬼女官",
@@ -182,10 +192,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 111 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p113": {
     "title": "豬屎犵狫",
@@ -199,10 +210,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 113 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p115": {
     "title": "蠻人",
@@ -216,10 +228,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 115 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p119": {
     "title": "黑山苗",
@@ -233,10 +246,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 119 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p121": {
     "title": "郎慈苗",
@@ -250,10 +264,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 121 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p123": {
     "title": "九名九姓苗",
@@ -267,10 +282,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 123 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p129": {
     "title": "箐苗",
@@ -284,10 +300,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 129 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p131": {
     "title": "披袍犵狫",
@@ -301,10 +318,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 131 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p133": {
     "title": "水家苗（題字待核）",
@@ -318,10 +336,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 133 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p135": {
     "title": "舟家蠻",
@@ -335,10 +354,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Only translated source-visible transcription; draft requires checking",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual manuscript reading, not automated OCR",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 IIIF canvas 135 (source checked 2026-11-22)",
-    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。"
+    "notes": "依上傳曼徹斯特本原圖按竪排自右向左試錄；存疑字保留□；非人工定稿，歷史族稱反映原編繪者立場。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p141": {
     "title": "白龍家",
@@ -352,10 +372,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 141; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p145": {
     "title": "白兒子",
@@ -369,10 +390,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 145; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p147": {
     "title": "雞雀苗",
@@ -386,10 +408,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 147; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p149": {
     "title": "黑生苗",
@@ -403,10 +426,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 149; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p151": {
     "title": "高坡苗",
@@ -420,10 +444,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 151; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p153": {
     "title": "葫蘆苗",
@@ -437,10 +462,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 153; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p163": {
     "title": "羅漢苗",
@@ -454,10 +480,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 163; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p169": {
     "title": "尖頂苗",
@@ -471,10 +498,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 169; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p173": {
     "title": "平伐苗",
@@ -488,10 +516,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 173; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p179": {
     "title": "樓居黑苗",
@@ -505,10 +534,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "draft translation of user-uploaded manuscript image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 179; checked 2026-11-22",
-    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。"
+    "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p117": {
     "title": "白仲家",
@@ -522,10 +552,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "English draft covers only the transcribed excerpt.",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 117; image inspected 2026-11-22",
-    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。"
+    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p125": {
     "title": "東苗",
@@ -539,10 +570,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "English draft covers only the transcribed excerpt.",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 125; image inspected 2026-11-22",
-    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。"
+    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p127": {
     "title": "黑苗",
@@ -556,10 +588,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "English draft covers only the transcribed excerpt.",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 127; image inspected 2026-11-22",
-    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。"
+    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p137": {
     "title": "俞□苗（題名待核）",
@@ -573,10 +606,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "English draft covers only the transcribed excerpt.",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 137; image inspected 2026-11-22",
-    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。"
+    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p139": {
     "title": "夯苗（題字待核）",
@@ -590,10 +624,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft of the transcribed original leaf",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 139; image inspected 2026-11-22",
-    "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。"
+    "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p143": {
     "title": "紫姜苗",
@@ -607,10 +642,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft of the transcribed original leaf",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 143; image inspected 2026-11-22",
-    "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。"
+    "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p155": {
     "title": "黑腳苗",
@@ -624,10 +660,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "English draft covers only the transcribed excerpt.",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 155; image inspected 2026-11-22",
-    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。"
+    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p157": {
     "title": "西苗",
@@ -641,10 +678,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "English draft covers only the transcribed excerpt.",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 157; image inspected 2026-11-22",
-    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。"
+    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p159": {
     "title": "短裙苗",
@@ -658,10 +696,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft of the transcribed original leaf",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 159; image inspected 2026-11-22",
-    "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。"
+    "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p161": {
     "title": "洛蘭苗（題名待核）",
@@ -675,10 +714,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft of the transcribed original leaf",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 161; image inspected 2026-11-22",
-    "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。"
+    "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p165": {
     "title": "清江黑苗",
@@ -692,10 +732,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "English draft covers only the transcribed excerpt.",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 165; image inspected 2026-11-22",
-    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。"
+    "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p167": {
     "title": "六洞夷人（題名待核）",
@@ -709,10 +750,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "Draft translation for the excerpt only",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 167 from user ZIP; 2026-11-22",
-    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。"
+    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p171": {
     "title": "洞苗",
@@ -726,10 +768,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Draft translation from this source image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 171 from user ZIP; 2026-11-22",
-    "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。"
+    "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p175": {
     "title": "八寨黑苗",
@@ -743,10 +786,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "Draft translation for the excerpt only",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 175 from user ZIP; 2026-11-22",
-    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。"
+    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p177": {
     "title": "黑仲家",
@@ -760,10 +804,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "Draft translation for the excerpt only",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 177 from user ZIP; 2026-11-22",
-    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。"
+    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p181": {
     "title": "車寨苗",
@@ -777,10 +822,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "Draft translation for the excerpt only",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 181 from user ZIP; 2026-11-22",
-    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。"
+    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p183": {
     "title": "猺人黑者（題名待核）",
@@ -794,10 +840,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "Draft translation for the excerpt only",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 183 from user ZIP; 2026-11-22",
-    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。"
+    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p185": {
     "title": "卡尤仲家",
@@ -811,10 +858,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "partial_visual_excerpt",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only",
-    "translation_scope": "Draft translation for the excerpt only",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 185 from user ZIP; 2026-11-22",
-    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。"
+    "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p187": {
     "title": "洞夷苗",
@@ -828,10 +876,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Draft translation from this source image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 187 from user ZIP; 2026-11-22",
-    "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。"
+    "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p189": {
     "title": "西溪苗",
@@ -845,10 +894,11 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Draft translation from this source image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 189 from user ZIP; 2026-11-22",
-    "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。"
+    "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   },
   "manchester-c398-p191": {
     "title": "清江仲家",
@@ -862,9 +912,10 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
     "english_completeness": "provisional",
-    "translation_scope": "Draft translation from this source image",
+    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 191 from user ZIP; 2026-11-22",
-    "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。"
+    "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。 英文為試譯性概述，並非逐字對譯。",
+    "english_kind": "interpretive_summary"
   }
 };
