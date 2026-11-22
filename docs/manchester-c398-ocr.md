@@ -2,7 +2,7 @@
 
 ## Current status (2026-11-22)
 
-The site indexes 202 official IIIF canvases. On 2026-11-22 the user provided 92 high-resolution candidate text-page images. Of these, 86 contain Chinese text (2 prefaces, 2 scenic descriptions and 82 ethnographic captions), 5 are blank and 1 is a seal leaf. There are 86 provisional searchable Chinese readings: 35 original draft records and 51 new source-specific records. As of this second pass, 41 leaves have undergone right-to-left column review against the uploaded scan, with updated provisional English translations and the previous text preserved in `prior_transcription_20261122`. A further 41 leaves retain first-pass full/near-full drafts and four remain excerpt-only (canvases 15, 127, 137 and 177). None is a certified scholarly transcription. Many older English texts are interpretive summaries rather than line-by-line translations.
+The site indexes 202 official IIIF canvases. On 2026-11-22 the user provided 92 high-resolution candidate text-page images. Of these, 86 contain Chinese text (2 prefaces, 2 scenic descriptions and 82 ethnographic captions), 5 are blank and 1 is a seal leaf. There are 86 provisional searchable Chinese readings: 35 original draft records and 51 new source-specific records. As of this second pass, 45 leaves have undergone right-to-left column review against the uploaded scan, with updated provisional English translations and the previous text preserved in `prior_transcription_20261122`. Another 41 leaves retain their earlier first-pass full/near-full drafts. No page is currently tagged excerpt-only, **but the 86 full/near-full entries remain unverified**. Dense canvases 15, 127, 137 and 177 have source-wide readings with substantial unresolved paleographic details. None is a certified scholarly transcription. Many older English texts are interpretive summaries rather than line-by-line translations.
 
 The manuscript belongs to the University of Manchester Library. Original scans: https://www.digitalcollections.manchester.ac.uk/view/PR-CHCR-00398
 
@@ -30,4 +30,4 @@ For a small batch (and to inspect quality):
 
 Before citing any passage, compare the output to the **same Manchester scan**, verify the vertical reading order, resolve uncertain characters, and check the translation. Do not call the output a complete human-reviewed edition.
 
-For leaf-level second-pass progress, including the four outstanding excerpt-only pages, see `docs/manchester-c398-review-progress.md`.
+For leaf-level second-pass progress, including the many uncertain readings still awaiting paleographic verification, see `docs/manchester-c398-review-progress.md`.
