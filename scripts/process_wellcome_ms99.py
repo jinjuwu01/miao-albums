@@ -20,7 +20,7 @@ import requests
 
 STEM = "b14870435_chinese_99"
 ROOT = Path(__file__).resolve().parent.parent
-DRAFT_FILE = ROOT / "data/wellcome_ms99_ocr_drafts.js"
+DRAFT_FILE = ROOT / "data/wellcome_ms99_api_ocr_candidates.js"
 OUT_DEFAULT = Path.home() / "Downloads" / "wellcome_ms99"
 OCR_PROMPT = """Examine this Qing Chinese manuscript scan. Return a JSON object only:
 {"kind":"illustration|non_text|text|mixed|uncertain","chinese":"","uncertainty":""}.
@@ -98,7 +98,7 @@ def main():
     parser.add_argument("--width", type=int, default=2200)
     parser.add_argument("--model", default="gpt-4.1")
     parser.add_argument("--out", type=Path, default=OUT_DEFAULT)
-    parser.add_argument("--publish", action="store_true", help="Write the draft overlay JS to the site, but do not commit")
+    parser.add_argument("--publish", action="store_true", help="Write API candidate JS only; never overwrite curated Wellcome transcriptions")
     args = parser.parse_args()
     if args.publish and args.mode != "ocr":
         parser.error("--publish only works with --mode ocr")
@@ -141,7 +141,7 @@ def main():
                 patches["wellcome-ms99-p%04d" % page] = json.loads(path.read_text(encoding="utf-8"))
         DRAFT_FILE.write_text(
             "// Provisional machine image-reading drafts. NOT human-verified.\n"
-            "window.MIAO_WELLCOME_MS99_OCR_DRAFTS = " + json.dumps(patches, ensure_ascii=False, indent=2) + ";\n",
+            "window.MIAO_WELLCOME_MS99_API_OCR_CANDIDATES = " + json.dumps(patches, ensure_ascii=False, indent=2) + ";\n",
             encoding="utf-8")
         print("Wrote draft overlay:", DRAFT_FILE, "pages:", len(patches))
 
