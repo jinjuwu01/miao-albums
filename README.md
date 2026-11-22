@@ -1,5 +1,42 @@
 # 苗图数字档案 · Miao Albums Digital Archive
 
+
+## 俄藏《百苗圖》與曼徹斯特《貴州全省捌拾貳種苗圖》頁面索引（2026-11-22）
+
+**目前已完成的部分**：原網站首頁及 [逐列 OCR 復核](review.html) 直接接入兩套館藏的原始掃描索引：
+
+- [俄藏上冊，Ф.274 №54.1](https://jinjuwu01.github.io/miao-albums/index.html#rsl-f274-v1-p002)：Wikimedia Commons 原始 PDF 共 47 掃描頁，本站按其原始頁序列出。
+- [俄藏下冊，Ф.274 №54.2](https://jinjuwu01.github.io/miao-albums/index.html#rsl-f274-v2-p002)：原始 PDF 共 46 掃描頁；不與上冊或其他同名傳本合併。
+- [曼徹斯特 Chinese Crawford 398](https://jinjuwu01.github.io/miao-albums/index.html#manchester-c398-p002)：官方 IIIF **202 canvases**（卷一 1–102、卷二 103–202）。**其中 186 張標注為館方序列的葉片索引（1–95 號與 1–92 號，分卷計）；16 張為封面、封底、書口或其他裝幀照片**。此數字是影像序列，**不是** 186 幅已校正畫作的主張。
+- 合計新增 **295 條可逐頁瀏覽的原始掃描記錄**。每條有穩定 ID、`copy_id`、`work_id`、原館藏號、原頁碼、遠端影像與來源連結。俄藏 PDF 的 Commons 頁面縮圖有可能受遠端轉碼／載入限制；若無法顯示，可在詳細頁使用原件 PDF 來源連結，切勿用其他版本畫作替代。
+- 對俄藏，只有 PDF 第一頁書衣可確定為非正文；其他頁的文字／彩繪結構，**尚未逐張分類**。曼徹斯特的非正文分類來自 IIIF canvas label，不得將每個序號直接視為畫幅或題記。
+- **文字狀態：新增 0 條已完成 OCR，新增 0 條已完成英文譯文。** 本次更新沒有改動既有人工校讀文件。所有未處理頁均標注 `scan_only`，而非虛構的識讀文字。資料檔：[data/rsl_manchester_scans.js](data/rsl_manchester_scans.js)。
+
+### 中文 OCR／英譯的下一個可執行工作流
+
+為避免先前出現的「彩繪頁被硬 OCR」和「文字被錯誤合併」的情況，新增了 [scripts/process_external_albums.py](scripts/process_external_albums.py)。腳本需要在**有網路、能下載原館掃描**的電腦上執行。Python 程式可先只下載指定掃描頁，再使用使用者自己的 OpenAI API 金鑰產生明確標記為 **AI 未校稿** 的 OCR／英譯候選。模型不會把它們自動宣告為人工校訂完成。
+
+```bash
+python3 -m pip install requests pymupdf pillow openai
+
+# 先只下載兩套原件各 3 頁作圖文結構測試
+python3 scripts/process_external_albums.py --source rsl-v1 --mode download --pages 2-4
+python3 scripts/process_external_albums.py --source manchester --mode download --pages 2-4
+
+# 有 API_KEY 後再小範圍視讀、試譯（會產生 API 費用）
+export OPENAI_API_KEY="在本機環境安全設置，不要提交至 GitHub"
+python3 scripts/process_external_albums.py --source rsl-v1 --mode ocr --pages 2-4 --translate
+python3 scripts/process_external_albums.py --source manchester --mode ocr --pages 2-4 --translate
+
+# 確認草稿後彙集所有來源；先 dry-run 再寫入，不能覆寫人工作品
+python3 scripts/process_external_albums.py --source all --mode publish --dry-run
+python3 scripts/process_external_albums.py --source all --mode publish
+```
+
+草稿輸出在被 `.gitignore` 排除的 `work/external_albums/`，尚未經人工目視核對之前請勿以正式轉錄引用。正式發表層是獨立的 `data/rsl_manchester_ocr_drafts.js`（目前空物件）。**此批腳本已加入代碼倉庫，但未在此工作環境實際執行下載或 OpenAI OCR。** 下一步必須驗證逐頁影像可用性，確認圖文是否對開、記錄題記的實際版面，然後逐幅校讀轉錄、譯文、疑字與不同傳本差異。
+
+---
+
 ## 新增：館藏版本與作品層級目錄（2026-11-22）
 
 - 公開頁面：[館藏版本 / Manuscript Copies](https://jinjuwu01.github.io/miao-albums/collections.html)，與原本 [OCR 檢索](https://jinjuwu01.github.io/miao-albums/index.html#explore) 分開。
