@@ -1,4 +1,5 @@
-// Provisional bilingual AI image-readings; do NOT present as complete or human-reviewed where excerpted.
+// Manuscript-only bilingual AI readings. Bracketed editorial omissions are stored in notes, NOT in transcribed source text.
+// Many entries are excerpts; both Chinese and English remain provisional until human comparison with high-resolution scans.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -17,7 +18,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     ],
     "visual_tags": [],
     "source_review": "RSL Ф.274 №54.1; Commons PDF; 2026-11-22; 1280px cropped image",
-    "translation_scope": "draft; uncertain terms paraphrased or omitted"
+    "translation_scope": "draft; uncertain terms paraphrased or omitted",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p006": {
     "title": "羅鬼女官",
@@ -36,7 +39,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     ],
     "visual_tags": [],
     "source_review": "RSL Ф.274 №54.1; Commons PDF; 2026-11-22; 1280px cropped image",
-    "translation_scope": "draft; uncertain terms paraphrased or omitted"
+    "translation_scope": "draft; uncertain terms paraphrased or omitted",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p007": {
     "title": "白猓羅",
@@ -55,7 +60,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     ],
     "visual_tags": [],
     "source_review": "RSL Ф.274 №54.1; Commons PDF; 2026-11-22; 1280px cropped image",
-    "translation_scope": "draft; uncertain terms paraphrased or omitted"
+    "translation_scope": "draft; uncertain terms paraphrased or omitted",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p008": {
     "title": "宋家苗",
@@ -74,7 +81,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     ],
     "visual_tags": [],
     "source_review": "RSL Ф.274 №54.1; Commons PDF; 2026-11-22; 1280px cropped image",
-    "translation_scope": "draft; uncertain terms paraphrased or omitted"
+    "translation_scope": "draft; uncertain terms paraphrased or omitted",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p009": {
     "title": "蔡家苗",
@@ -93,7 +102,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     ],
     "visual_tags": [],
     "source_review": "RSL Ф.274 №54.1; Commons PDF; 2026-11-22; 1280px cropped image",
-    "translation_scope": "draft; uncertain terms paraphrased or omitted"
+    "translation_scope": "draft; uncertain terms paraphrased or omitted",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "manchester-c398-p006": {
     "title": "《蠻獠圖說》總序（首段部分試讀）",
@@ -101,13 +112,16 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "status": "image_checked_draft",
     "page_kind": "preface",
     "transcription_scope": "partial_preamble_only",
-    "ocr_raw": "蠻獠圖說總序\n黔為西南荒裔，錯處諸蠻中。郡縣之設，始於故明。今雖漸加□廓，而族類猶未□變也。\n〔以下各列尚待核讀，非原文〕",
-    "transcription": "蠻獠圖說總序\n黔為西南荒裔，錯處諸蠻中。郡縣之設，始於故明。今雖漸加□廓，而族類猶未□變也。\n〔以下各列尚待核讀，非原文〕",
+    "ocr_raw": "蠻獠圖說總序\n黔為西南荒裔，錯處諸蠻中。郡縣之設，始於故明。今雖漸加□廓，而族類猶未□變也。",
+    "transcription": "蠻獠圖說總序\n黔為西南荒裔，錯處諸蠻中。郡縣之設，始於故明。今雖漸加□廓，而族類猶未□變也。",
     "translation": "General Preface to the Illustrations and Descriptions of the Manliao. The text locates Guizhou on the southwestern frontier, among diverse populations classified by its author as 'Man.' It states that the establishment of prefectures and counties began under the Ming, and that the region's communities had not yet been fully transformed despite subsequent changes. Only the opening sentences have been tentatively read; the rest of this page remains untranslated.",
     "translation_status": "ai_draft",
-    "notes": "館方 IIIF Canvas 6；已看原始影像，確認整張為《蠻獠圖說》總序的竪排文字。此處只保存開頭幾列，兩個疑字以 □ 標記；〔〕是校讀註而非原文。餘列未讀，不可宣稱本頁已完成轉錄與英譯。此處為清代編者視角。",
+    "notes": "館方 IIIF Canvas 6；已看原始影像，確認整張為《蠻獠圖說》總序的竪排文字。此處只保存開頭幾列，兩個疑字以 □ 標記；〔〕是校讀註而非原文。餘列未讀，不可宣稱本頁已完成轉錄與英譯。此處為清代編者視角。 【未錄文字／校讀狀態】以下各列尚待核讀，非原文。此類括號說明不再混入原文轉錄。",
     "ocr_engine": "visual AI reading (partial); Tesseract pilot rejected",
-    "translation_scope": "opening excerpt only"
+    "translation_scope": "opening excerpt only",
+    "editorial_reading_note": "以下各列尚待核讀，非原文",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "manchester-c398-p007": {
     "title": "《蠻獠圖說》總序（續頁部分試讀）",
@@ -115,13 +129,17 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "status": "image_checked_draft",
     "page_kind": "preface",
     "transcription_scope": "partial_preamble_only",
-    "ocr_raw": "苗蠻，苗之名有東苗、西苗、花苗、青苗、白苗、黑苗、紅苗、箐苗……\n〔以下各列尚待核讀，非原文〕",
-    "transcription": "苗蠻，苗之名有東苗、西苗、花苗、青苗、白苗、黑苗、紅苗、箐苗……\n〔以下各列尚待核讀，非原文〕",
+    "ocr_raw": "苗蠻，苗之名有東苗、西苗、花苗、青苗、白苗、黑苗、紅苗、箐苗……",
+    "transcription": "苗蠻，苗之名有東苗、西苗、花苗、青苗、白苗、黑苗、紅苗、箐苗……",
     "translation": "The preface lists numerous historical labels for peoples grouped under 'Miao,' including Eastern Miao, Western Miao, Flower Miao, Green Miao, White Miao, Black Miao, Red Miao, and Qing (bamboo-grove) Miao. This is a partial translation of the opening enumeration, not a translation of the full page; these are Qing-era categories rather than necessarily modern ethnic self-identifications.",
     "translation_status": "ai_draft",
-    "notes": "館方 IIIF Canvas 7，總序續頁。只核讀開首的族稱列，省略號表示尚未轉錄；其餘文字仍須逐字核圖。不要將此局部閱讀標為完整 OCR。",
+    "notes": "館方 IIIF Canvas 7，總序續頁。只核讀開首的族稱列，省略號表示尚未轉錄；其餘文字仍須逐字核圖。不要將此局部閱讀標為完整 OCR。 【未錄文字／校讀狀態】以下各列尚待核讀，非原文。此類括號說明不再混入原文轉錄。",
     "ocr_engine": "visual AI reading (partial); Tesseract pilot rejected",
-    "translation_scope": "opening ethnic-label list only"
+    "translation_scope": "opening ethnic-label list only",
+    "editorial_reading_note": "以下各列尚待核讀，非原文",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "editorial_ellipsis": true
   },
   "rsl-f274-v1-p010": {
     "title": "卡尤仲家",
@@ -140,7 +158,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "卡尤仲家"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only"
+    "translation_scope": "corresponds_to_excerpt_only",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p011": {
     "title": "補籠仲家",
@@ -159,7 +179,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "補籠仲家"
     ],
     "visual_tags": [],
-    "translation_scope": "draft_from_visible_transcription"
+    "translation_scope": "draft_from_visible_transcription",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p012": {
     "title": "青仲家",
@@ -178,7 +200,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "青仲家"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only"
+    "translation_scope": "corresponds_to_excerpt_only",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p013": {
     "title": "曾竹籠家",
@@ -197,7 +221,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "曾竹籠家"
     ],
     "visual_tags": [],
-    "translation_scope": "draft_from_visible_transcription"
+    "translation_scope": "draft_from_visible_transcription",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p014": {
     "title": "狗耳龍家",
@@ -216,7 +242,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "狗耳龍家"
     ],
     "visual_tags": [],
-    "translation_scope": "draft_from_visible_transcription"
+    "translation_scope": "draft_from_visible_transcription",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p015": {
     "title": "馬蹬龍家",
@@ -235,7 +263,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "馬蹬龍家"
     ],
     "visual_tags": [],
-    "translation_scope": "draft_from_visible_transcription"
+    "translation_scope": "draft_from_visible_transcription",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p016": {
     "title": "大頭龍家",
@@ -254,7 +284,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "大頭龍家"
     ],
     "visual_tags": [],
-    "translation_scope": "draft_from_visible_transcription"
+    "translation_scope": "draft_from_visible_transcription",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p017": {
     "title": "花苗",
@@ -273,7 +305,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "花苗"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only"
+    "translation_scope": "corresponds_to_excerpt_only",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p004": {
     "title": "谷蒲苗",
@@ -292,7 +326,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "谷蒲苗"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only"
+    "translation_scope": "corresponds_to_excerpt_only",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p005": {
     "title": "陽洞羅漢苗",
@@ -311,7 +347,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "陽洞羅漢苗"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only"
+    "translation_scope": "corresponds_to_excerpt_only",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p006": {
     "title": "克孟牯羊苗",
@@ -330,7 +368,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "克孟牯羊苗"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only"
+    "translation_scope": "corresponds_to_excerpt_only",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p008": {
     "title": "箐苗",
@@ -349,7 +389,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "箐苗"
     ],
     "visual_tags": [],
-    "translation_scope": "draft_from_visible_transcription"
+    "translation_scope": "draft_from_visible_transcription",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v2-p010": {
     "title": "狪家苗",
@@ -368,7 +410,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "狪家苗"
     ],
     "visual_tags": [],
-    "translation_scope": "draft_from_visible_transcription"
+    "translation_scope": "draft_from_visible_transcription",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "manchester-c398-p009": {
     "title": "觀音寺圖說",
@@ -387,7 +431,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "觀音寺圖說"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only"
+    "translation_scope": "corresponds_to_excerpt_only",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "manchester-c398-p011": {
     "title": "猓羅圖說",
@@ -406,7 +452,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "猓羅圖說"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only"
+    "translation_scope": "corresponds_to_excerpt_only",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p018": {
     "title": "紅苗",
@@ -414,14 +462,17 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "page_kind": "caption",
     "status": "image_checked_draft",
     "transcription_scope": "partial_visual_excerpt",
-    "ocr_raw": "第十四 紅苗\n紅苗在銅仁府屬。\n〔其餘各列仍待逐字校讀；本行為編者說明，非原文〕",
-    "transcription": "第十四 紅苗\n紅苗在銅仁府屬。\n〔其餘各列仍待逐字校讀；本行為編者說明，非原文〕",
+    "ocr_raw": "第十四 紅苗\n紅苗在銅仁府屬。",
+    "transcription": "第十四 紅苗\n紅苗在銅仁府屬。",
     "translation": "Fourteenth: Red Miao. The opening locates the people categorized by this historical label within Tongren Prefecture. The rest of the handwritten description, including its statements about dress and ritual practices, has not yet been transcribed or translated.",
     "translation_status": "ai_draft",
     "ocr_engine": "Image-led AI reading, provisional; not conventional OCR",
-    "notes": "俄羅斯國立圖書館 Ф.274 №54.1，Commons PDF第18頁。已核對左彩繪右題記。僅錄清晰開頭，不用概述代替失讀字；原文對該群體習俗的判斷均為歷史作者視角。",
+    "notes": "俄羅斯國立圖書館 Ф.274 №54.1，Commons PDF第18頁。已核對左彩繪右題記。僅錄清晰開頭，不用概述代替失讀字；原文對該群體習俗的判斷均為歷史作者視角。 【未錄文字／校讀狀態】其餘各列仍待逐字校讀；本行為編者說明，非原文。此類括號說明不再混入原文轉錄。",
     "source_review": "Original cropped image images/external_pilot/rsl_v1_p018_right.jpg",
-    "translation_scope": "opening_only; no conjectural completion"
+    "translation_scope": "opening_only; no conjectural completion",
+    "editorial_reading_note": "其餘各列仍待逐字校讀；本行為編者說明，非原文",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p007": {
     "title": "洞苗",
@@ -429,33 +480,40 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "page_kind": "caption",
     "status": "image_checked_draft",
     "transcription_scope": "partial_visual_excerpt",
-    "ocr_raw": "第四十五 洞苗\n洞苗去天柱、錦屏……\n……擇平坦近水而居。\n……男女衣服與漢人同。\n〔省略號標明未校字句，並非原文標點〕",
-    "transcription": "第四十五 洞苗\n洞苗去天柱、錦屏……\n……擇平坦近水而居。\n……男女衣服與漢人同。\n〔省略號標明未校字句，並非原文標點〕",
+    "ocr_raw": "第四十五 洞苗\n洞苗去天柱、錦屏……\n……擇平坦近水而居。\n……男女衣服與漢人同。",
+    "transcription": "第四十五 洞苗\n洞苗去天柱、錦屏……\n……擇平坦近水而居。\n……男女衣服與漢人同。",
     "translation": "Forty-fifth: Dong Miao. The inscription refers to Tianzhu and Jinping, says that the people choose level ground near water for their homes, and describes women's and men's clothing as similar to that worn by Han people. Omitted text between these observations remains unread; this is a partial excerpt, not the entire inscription.",
     "translation_status": "ai_draft",
     "ocr_engine": "Image-led AI reading, provisional; not conventional OCR",
-    "notes": "俄羅斯國立圖書館 Ф.274 №54.2，Commons PDF第7頁。已核對右頁多列竪排文字，因具體地名距離及中間字句未能確認，刻意用省略號隔開可辨片段；禁止把分隔片段當連續逐字原文。",
+    "notes": "俄羅斯國立圖書館 Ф.274 №54.2，Commons PDF第7頁。已核對右頁多列竪排文字，因具體地名距離及中間字句未能確認，刻意用省略號隔開可辨片段；禁止把分隔片段當連續逐字原文。 【未錄文字／校讀狀態】省略號標明未校字句，並非原文標點。此類括號說明不再混入原文轉錄。",
     "source_review": "Original cropped image images/external_pilot/rsl_v2_p007_right.jpg",
-    "translation_scope": "selected_noncontiguous_verified_phrases"
+    "translation_scope": "selected_noncontiguous_verified_phrases",
+    "editorial_reading_note": "省略號標明未校字句，並非原文標點",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "editorial_ellipsis": true
   },
   "rsl-f274-v1-p019": {
     "title": "白苗",
     "title_en": "白苗 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第十五 白苗\n白苗在龍里、貴定、黔西等屬，穿白衣。男子蓬頭赤足。\n〔中間及後續文字待逐列校讀〕",
-    "transcription": "第十五 白苗\n白苗在龍里、貴定、黔西等屬，穿白衣。男子蓬頭赤足。\n〔中間及後續文字待逐列校讀〕",
+    "ocr_raw": "第十五 白苗\n白苗在龍里、貴定、黔西等屬，穿白衣。男子蓬頭赤足。",
+    "transcription": "第十五 白苗\n白苗在龍里、貴定、黔西等屬，穿白衣。男子蓬頭赤足。",
     "translation": "Fifteenth: White Miao. The author locates the people labeled White Miao around Longli, Guiding, and Qianxi and says that they wear white clothing. Men are described as wearing their hair unbound and going barefoot. The remaining columns, including descriptions of women's ornaments and sacrifices, await transcription.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 19, image crop images/external_pilot/rsl_v1_p019_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。首句及男子服飾開頭可辨；後續牲畜祭祀段未校。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。首句及男子服飾開頭可辨；後續牲畜祭祀段未校。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】中間及後續文字待逐列校讀。此類括號說明不再混入原文轉錄。",
     "tags": [
       "白苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "中間及後續文字待逐列校讀",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p020": {
     "title": "青苗",
@@ -474,26 +532,31 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "青苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p021": {
     "title": "黑苗",
     "title_en": "黑苗 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第十七 黑苗\n黑苗在都匀、八寨、丹江、鎮遠、黎平、清江、古州等州府屬。族類甚眾，習俗多異，衣服皆尚黑。\n〔男子髮式、武備、婚姻與喪葬各列尚待逐字核校〕",
-    "transcription": "第十七 黑苗\n黑苗在都匀、八寨、丹江、鎮遠、黎平、清江、古州等州府屬。族類甚眾，習俗多異，衣服皆尚黑。\n〔男子髮式、武備、婚姻與喪葬各列尚待逐字核校〕",
+    "ocr_raw": "第十七 黑苗\n黑苗在都匀、八寨、丹江、鎮遠、黎平、清江、古州等州府屬。族類甚眾，習俗多異，衣服皆尚黑。",
+    "transcription": "第十七 黑苗\n黑苗在都匀、八寨、丹江、鎮遠、黎平、清江、古州等州府屬。族類甚眾，習俗多異，衣服皆尚黑。",
     "translation": "Seventeenth: Black Miao. The account places the groups classified under this label in Duyun, Bazhai, Danjiang, Zhenyuan, Liping, Qingjiang, Guzhou and neighboring areas. It remarks that the category encompasses many groups with different customs and says their clothing is predominantly black. The ensuing descriptions of men's hairstyles, weapons, marriage and funerary practices have not yet been transcribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 21, image crop images/external_pilot/rsl_v1_p021_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。僅錄兩列可確定的地名及概要，不將其他族名的相似文字移植入本冊。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。僅錄兩列可確定的地名及概要，不將其他族名的相似文字移植入本冊。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】男子髮式、武備、婚姻與喪葬各列尚待逐字核校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "黑苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "男子髮式、武備、婚姻與喪葬各列尚待逐字核校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p022": {
     "title": "東苗",
@@ -512,83 +575,97 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "東苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p023": {
     "title": "西苗",
     "title_en": "西苗 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第十九 西苗\n西苗有馬、謝、何、羅、雷等姓，在貴陽、平越二府屬。娶親必另寢，私通孕產乃同室。\n〔秋收集會、衣著及歌舞等後文待校〕",
-    "transcription": "第十九 西苗\n西苗有馬、謝、何、羅、雷等姓，在貴陽、平越二府屬。娶親必另寢，私通孕產乃同室。\n〔秋收集會、衣著及歌舞等後文待校〕",
+    "ocr_raw": "第十九 西苗\n西苗有馬、謝、何、羅、雷等姓，在貴陽、平越二府屬。娶親必另寢，私通孕產乃同室。",
+    "transcription": "第十九 西苗\n西苗有馬、謝、何、羅、雷等姓，在貴陽、平越二府屬。娶親必另寢，私通孕產乃同室。",
     "translation": "Nineteenth: Western Miao. The source lists the surnames Ma, Xie, He, Luo and Lei and situates the people it calls Western Miao in Guiyang and Pingyue prefectures. It makes claims about marriage and sleeping arrangements, suggesting that the couple only shares a room following pregnancy. Further passages on harvest gatherings, clothing and song have not yet been translated.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 23, image crop images/external_pilot/rsl_v1_p023_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。開首兩列可讀；原文婚俗敘述不應視作未經證實的現代民族誌。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。開首兩列可讀；原文婚俗敘述不應視作未經證實的現代民族誌。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】秋收集會、衣著及歌舞等後文待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "西苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "秋收集會、衣著及歌舞等後文待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p024": {
     "title": "夯苗",
     "title_en": "夯苗 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第二十 夯苗\n夯苗在平越屬。\n〔性情、婚姻與服飾段落待核〕",
-    "transcription": "第二十 夯苗\n夯苗在平越屬。\n〔性情、婚姻與服飾段落待核〕",
+    "ocr_raw": "第二十 夯苗\n夯苗在平越屬。",
+    "transcription": "第二十 夯苗\n夯苗在平越屬。",
     "translation": "Twentieth: Hang Miao. The opening locates the historically designated group in the Pingyue jurisdiction. The remaining handwritten columns describe temperament, marriage and dress but are not yet reliably transcribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 24, image crop images/external_pilot/rsl_v1_p024_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。題頭原字形疑作『夯』，待高清及平行抄本核對，不自行更正族稱。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。題頭原字形疑作『夯』，待高清及平行抄本核對，不自行更正族稱。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】性情、婚姻與服飾段落待核。此類括號說明不再混入原文轉錄。",
     "tags": [
       "夯苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "性情、婚姻與服飾段落待核",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p025": {
     "title": "獠苗",
     "title_en": "獠苗 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第二十一 獠苗\n獠苗在貞豐、羅斛、冊亨三處，原隸廣西，雍正五年改隸黔省。勤耕力作，雜髮穿衣俱如漢人，惟婦人蒙髮、短衣、長裙。\n〔末句二至三字待辨〕",
-    "transcription": "第二十一 獠苗\n獠苗在貞豐、羅斛、冊亨三處，原隸廣西，雍正五年改隸黔省。勤耕力作，雜髮穿衣俱如漢人，惟婦人蒙髮、短衣、長裙。\n〔末句二至三字待辨〕",
+    "ocr_raw": "第二十一 獠苗\n獠苗在貞豐、羅斛、冊亨三處，原隸廣西，雍正五年改隸黔省。勤耕力作，雜髮穿衣俱如漢人，惟婦人蒙髮、短衣、長裙。",
+    "transcription": "第二十一 獠苗\n獠苗在貞豐、羅斛、冊亨三處，原隸廣西，雍正五年改隸黔省。勤耕力作，雜髮穿衣俱如漢人，惟婦人蒙髮、短衣、長裙。",
     "translation": "Twenty-first: Liao Miao. The manuscript locates the people so labeled in Zhenfeng, Luohu, and Ceheng, stating that these localities formerly belonged to Guangxi and came under Guizhou in the fifth year of the Yongzheng reign. The author describes diligent cultivation and dress resembling that of Han people, except that women cover their hair and wear short upper garments with long skirts. Several final characters remain unresolved.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 25, image crop images/external_pilot/rsl_v1_p025_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。雍正五年行政沿革按本頁照錄，引用時須另行核查。『雜髮』及末句待校。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。雍正五年行政沿革按本頁照錄，引用時須另行核查。『雜髮』及末句待校。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】末句二至三字待辨。此類括號說明不再混入原文轉錄。",
     "tags": [
       "獠苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "末句二至三字待辨",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p026": {
     "title": "打牙苗",
     "title_en": "打牙苗 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第二十二 打牙苗\n打牙苗在黔西、平越、清鎮等屬。\n〔以下關於髮式、婦女服裝、生計的文字尚待核讀〕",
-    "transcription": "第二十二 打牙苗\n打牙苗在黔西、平越、清鎮等屬。\n〔以下關於髮式、婦女服裝、生計的文字尚待核讀〕",
+    "ocr_raw": "第二十二 打牙苗\n打牙苗在黔西、平越、清鎮等屬。",
+    "transcription": "第二十二 打牙苗\n打牙苗在黔西、平越、清鎮等屬。",
     "translation": "Twenty-second: Daya Miao, an ethnonym used in the source. The opening situates the group around Qianxi, Pingyue and Qingzhen. Later descriptions of hairstyles, women's clothing, and livelihood practices are not yet transcribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 26, image crop images/external_pilot/rsl_v1_p026_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。本頁字跡行草較多，目前只採信卷題及開頭可辨地名；不以機器亂碼填入後文。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。本頁字跡行草較多，目前只採信卷題及開頭可辨地名；不以機器亂碼填入後文。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】以下關於髮式、婦女服裝、生計的文字尚待核讀。此類括號說明不再混入原文轉錄。",
     "tags": [
       "打牙苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "以下關於髮式、婦女服裝、生計的文字尚待核讀",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p027": {
     "title": "剪髮犵狫",
@@ -607,26 +684,31 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "剪髮犵狫"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p028": {
     "title": "豬屎犵狫",
     "title_en": "豬屎犵狫 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第二十四 豬屎犵狫\n豬屎犵狫在石阡、黎平、古州、平遠各屬。身面不洗，其臭穢不堪。\n〔後文待校〕",
-    "transcription": "第二十四 豬屎犵狫\n豬屎犵狫在石阡、黎平、古州、平遠各屬。身面不洗，其臭穢不堪。\n〔後文待校〕",
+    "ocr_raw": "第二十四 豬屎犵狫\n豬屎犵狫在石阡、黎平、古州、平遠各屬。身面不洗，其臭穢不堪。",
+    "transcription": "第二十四 豬屎犵狫\n豬屎犵狫在石阡、黎平、古州、平遠各屬。身面不洗，其臭穢不堪。",
     "translation": "Twenty-fourth: Zhu-shi Gelao, a derogatory historical designation. The compiler places the group in Shiqian, Liping, Guzhou and Pingyuan, and makes highly disparaging claims about washing and bodily cleanliness. These are prejudicial descriptions in a Qing manuscript, not reliable modern ethnography. The remainder is untranscribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 28, image crop images/external_pilot/rsl_v1_p028_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。此族稱帶貶義，資料庫只依原件引用並明確註明歷史作者的偏見；未完成後續武器、喪禮等列。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。此族稱帶貶義，資料庫只依原件引用並明確註明歷史作者的偏見；未完成後續武器、喪禮等列。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】後文待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "豬屎犵狫"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "後文待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p029": {
     "title": "紅犵狫",
@@ -645,26 +727,31 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "紅犵狫"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p030": {
     "title": "花犵狫",
     "title_en": "花犵狫 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第二十六 花犵狫\n花犵狫又名花兜苗，在施秉、龍泉及黃平等處。男子慣耕作而好獵，以逐鹿羅雀為事。婦女兩袖口繡五采，周身銀飾，以養蠶為業。\n〔尾列待核〕",
-    "transcription": "第二十六 花犵狫\n花犵狫又名花兜苗，在施秉、龍泉及黃平等處。男子慣耕作而好獵，以逐鹿羅雀為事。婦女兩袖口繡五采，周身銀飾，以養蠶為業。\n〔尾列待核〕",
+    "ocr_raw": "第二十六 花犵狫\n花犵狫又名花兜苗，在施秉、龍泉及黃平等處。男子慣耕作而好獵，以逐鹿羅雀為事。婦女兩袖口繡五采，周身銀飾，以養蠶為業。",
+    "transcription": "第二十六 花犵狫\n花犵狫又名花兜苗，在施秉、龍泉及黃平等處。男子慣耕作而好獵，以逐鹿羅雀為事。婦女兩袖口繡五采，周身銀飾，以養蠶為業。",
     "translation": "Twenty-sixth: Flower Gelao, also called Flower-Dou Miao in this historical classification. The manuscript places them in Shibing, Longquan and Huangping. Men are described as farming and hunting deer and birds, while women embroider the cuffs of their sleeves in multiple colors, wear silver adornments, and raise silkworms. The final column remains to be read.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 30, image crop images/external_pilot/rsl_v1_p030_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。已核服飾、生計主段；首地名『龍泉』及尾句應再與館藏高分辨圖對校。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。已核服飾、生計主段；首地名『龍泉』及尾句應再與館藏高分辨圖對校。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】尾列待核。此類括號說明不再混入原文轉錄。",
     "tags": [
       "花犵狫"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "尾列待核",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p031": {
     "title": "水犵狫",
@@ -683,26 +770,31 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "水犵狫"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p032": {
     "title": "銅圈犵狫",
     "title_en": "銅圈犵狫 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第二十八 銅圈犵狫\n銅圈犵狫在平遠州。男子自後分以斜文布為衣，婦人以青帕繞髻如銅圈狀。\n〔其餘服飾、祈禱與日常段落待核〕",
-    "transcription": "第二十八 銅圈犵狫\n銅圈犵狫在平遠州。男子自後分以斜文布為衣，婦人以青帕繞髻如銅圈狀。\n〔其餘服飾、祈禱與日常段落待核〕",
+    "ocr_raw": "第二十八 銅圈犵狫\n銅圈犵狫在平遠州。男子自後分以斜文布為衣，婦人以青帕繞髻如銅圈狀。",
+    "transcription": "第二十八 銅圈犵狫\n銅圈犵狫在平遠州。男子自後分以斜文布為衣，婦人以青帕繞髻如銅圈狀。",
     "translation": "Twenty-eighth: Copper-Ring Gelao. The manuscript places this group in Pingyuan and describes women wrapping blue cloth around their hair in a ring-like shape, hence the assigned name. The rest of the caption, discussing clothing and ritual practices, remains untranscribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 32, image crop images/external_pilot/rsl_v1_p032_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。只有開首地名及頭飾描述足以較可靠地辨認，全文尚未完成。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。只有開首地名及頭飾描述足以較可靠地辨認，全文尚未完成。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】其餘服飾、祈禱與日常段落待核。此類括號說明不再混入原文轉錄。",
     "tags": [
       "銅圈犵狫"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘服飾、祈禱與日常段落待核",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v1-p033": {
     "title": "披袍犵狫",
@@ -721,64 +813,75 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "披袍犵狫"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v1-p034": {
     "title": "林犵苗",
     "title_en": "林犵苗 (historical manuscript term)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第三十 林犵苗\n林犵有土、黎、全、父等姓，散居各府。\n〔後續衣飾、服役及家庭敘述待逐字核校〕",
-    "transcription": "第三十 林犵苗\n林犵有土、黎、全、父等姓，散居各府。\n〔後續衣飾、服役及家庭敘述待逐字核校〕",
+    "ocr_raw": "第三十 林犵苗\n林犵有土、黎、全、父等姓，散居各府。",
+    "transcription": "第三十 林犵苗\n林犵有土、黎、全、父等姓，散居各府。",
     "translation": "Thirtieth: Lin Ge Miao, as designated by this manuscript. The opening lists several surnames and describes the people as living across different prefectures. Much of the unusually long account of clothing, service, and family relations remains to be read.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "opening_or_selected_columns_only",
     "ocr_engine": "Model-assisted visual transcription of original column scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.1, PDF page 34, image crop images/external_pilot/rsl_v1_p034_right.jpg",
-    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。本篇長且草書難辨。族稱中的『犵』及姓氏『父』待與大圖核實，不應推斷自稱或現代族屬。 中文、英譯均為 AI 初稿，須逐字人工複核。",
+    "notes": "本藏本原頁右側題記，彩繪保留左側並獨立配對。本篇長且草書難辨。族稱中的『犵』及姓氏『父』待與大圖核實，不應推斷自稱或現代族屬。 中文、英譯均為 AI 初稿，須逐字人工複核。 【未錄文字／校讀狀態】後續衣飾、服役及家庭敘述待逐字核校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "林犵苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "後續衣飾、服役及家庭敘述待逐字核校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p011": {
     "title": "種林家苗（題字待核）",
     "title_en": "種林家苗（題字待核） (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第四十九 種林家苗\n林家苗在荔波縣，自雍正十年由廣東□轄於黔之都匀府。\n〔其餘農業、婦女服飾及節慶文字待校〕",
-    "transcription": "第四十九 種林家苗\n林家苗在荔波縣，自雍正十年由廣東□轄於黔之都匀府。\n〔其餘農業、婦女服飾及節慶文字待校〕",
+    "ocr_raw": "第四十九 種林家苗\n林家苗在荔波縣，自雍正十年由廣東□轄於黔之都匀府。",
+    "transcription": "第四十九 種林家苗\n林家苗在荔波縣，自雍正十年由廣東□轄於黔之都匀府。",
     "translation": "Forty-ninth: Zhonglinjia Miao (the first character of the manuscript heading is uncertain). The author places the group in Libo County and refers to an administrative transfer from Guangdong to Duyun Prefecture in Guizhou in the tenth year of the Yongzheng reign. Several characters of this administrative description and the remaining columns require verification.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 11, images/external_pilot/rsl_v2_p011_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。題首第一字及『由廣東□轄』字未定；行政沿革不可當作已核實的史實。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。題首第一字及『由廣東□轄』字未定；行政沿革不可當作已核實的史實。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】其餘農業、婦女服飾及節慶文字待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "種林家苗（題字待核）"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘農業、婦女服飾及節慶文字待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p012": {
     "title": "額子（題字待核）",
     "title_en": "額子（題字待核） (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第五十 額子\n□額子在大定、威寧二屬，有黑白二種。\n〔其餘髮式、居葬及婚俗待校〕",
-    "transcription": "第五十 額子\n□額子在大定、威寧二屬，有黑白二種。\n〔其餘髮式、居葬及婚俗待校〕",
+    "ocr_raw": "第五十 額子\n□額子在大定、威寧二屬，有黑白二種。",
+    "transcription": "第五十 額子\n□額子在大定、威寧二屬，有黑白二種。",
     "translation": "Fiftieth: Ezi, an uncertain historical heading. The text places people under this category in Dading and Weining and distinguishes two groups described as Black and White. The remainder of the manuscript passage concerning hair, burial and marriage has not yet been confidently read.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 12, images/external_pilot/rsl_v2_p012_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。題首及正文第一字疑似與下頁『白額子』同系，暫以□標明，勿以他本同詞替補。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。題首及正文第一字疑似與下頁『白額子』同系，暫以□標明，勿以他本同詞替補。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】其餘髮式、居葬及婚俗待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "額子（題字待核）"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘髮式、居葬及婚俗待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p013": {
     "title": "白額子",
@@ -797,7 +900,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "白額子"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v2-p014": {
     "title": "舟家蠻",
@@ -816,178 +921,207 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "舟家蠻"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v2-p015": {
     "title": "九名九姓苗",
     "title_en": "九名九姓苗 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第五十三 九名九姓苗\n九名九姓苗在獨山州，性悍而多悍。\n〔其餘牲畜、婚配、飲食與服飾描述待校〕",
-    "transcription": "第五十三 九名九姓苗\n九名九姓苗在獨山州，性悍而多悍。\n〔其餘牲畜、婚配、飲食與服飾描述待校〕",
+    "ocr_raw": "第五十三 九名九姓苗\n九名九姓苗在獨山州，性悍而多悍。",
+    "transcription": "第五十三 九名九姓苗\n九名九姓苗在獨山州，性悍而多悍。",
     "translation": "Fifty-third: Nine-Names, Nine-Surnames Miao. The opening locates the group in Dushan Subprefecture and applies disparaging characterizations. The remainder of the long inscription, including its discussion of livestock, marriage, food, and attire, has not been transcribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 15, images/external_pilot/rsl_v2_p015_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。右側手稿題字明顯，正文行草多、歧義大，只留可辨的開頭；族稱可能有異體，待核。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。右側手稿題字明顯，正文行草多、歧義大，只留可辨的開頭；族稱可能有異體，待核。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】其餘牲畜、婚配、飲食與服飾描述待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "九名九姓苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘牲畜、婚配、飲食與服飾描述待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p016": {
     "title": "齊頭苗（題字待核）",
     "title_en": "齊頭苗（題字待核） (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第五十四 □頭苗\n□頭苗在下江、古州有之，與洞苗類相同。\n〔以下耕作、布料與飾品段落尚待校讀〕",
-    "transcription": "第五十四 □頭苗\n□頭苗在下江、古州有之，與洞苗類相同。\n〔以下耕作、布料與飾品段落尚待校讀〕",
+    "ocr_raw": "第五十四 □頭苗\n□頭苗在下江、古州有之，與洞苗類相同。",
+    "transcription": "第五十四 □頭苗\n□頭苗在下江、古州有之，與洞苗類相同。",
     "translation": "Fifty-fourth: The Tou Miao group (first character uncertain). The opening places it in the Xiajiang and Guzhou area and compares it with the Dong Miao category of the source. Subsequent descriptions of farming, textiles and ornaments remain unread.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 16, images/external_pilot/rsl_v2_p016_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。本條題首可能作『齊頭』亦可能為形近異字；正文雖涉及紡織與耕作，未完成逐列，不應臆補。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。本條題首可能作『齊頭』亦可能為形近異字；正文雖涉及紡織與耕作，未完成逐列，不應臆補。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】以下耕作、布料與飾品段落尚待校讀。此類括號說明不再混入原文轉錄。",
     "tags": [
       "齊頭苗（題字待核）"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "以下耕作、布料與飾品段落尚待校讀",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p017": {
     "title": "洞夷苗（題字待核）",
     "title_en": "洞夷苗（題字待核） (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第五十五 洞□苗\n洞□苗在古州，以同□同類分為三寨。\n〔居住區域及生計相關後文待校〕",
-    "transcription": "第五十五 洞□苗\n洞□苗在古州，以同□同類分為三寨。\n〔居住區域及生計相關後文待校〕",
+    "ocr_raw": "第五十五 洞□苗\n洞□苗在古州，以同□同類分為三寨。",
+    "transcription": "第五十五 洞□苗\n洞□苗在古州，以同□同類分為三寨。",
     "translation": "Fifty-fifth: Dong-[uncertain] Miao. The account locates the group in Guzhou and refers to a division into three settlements. Its remaining descriptions are not yet reliably transcribed. The characters of the historical ethnic label must be checked against the manuscript.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 17, images/external_pilot/rsl_v2_p017_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。右側標題第二字草寫不清，刻意保留□。全文亦包含未識別的地名與社會分類，不與其他洞苗圖說直接合併。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。右側標題第二字草寫不清，刻意保留□。全文亦包含未識別的地名與社會分類，不與其他洞苗圖說直接合併。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】居住區域及生計相關後文待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "洞夷苗（題字待核）"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "居住區域及生計相關後文待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p018": {
     "title": "八寨黑苗",
     "title_en": "八寨黑苗 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第五十六 八寨黑苗\n八寨黑苗在都匀府屬。性悍，婦女以色布纏衣袖，前錦繡一方。\n〔以下婚俗及祭祀諸列待校〕",
-    "transcription": "第五十六 八寨黑苗\n八寨黑苗在都匀府屬。性悍，婦女以色布纏衣袖，前錦繡一方。\n〔以下婚俗及祭祀諸列待校〕",
+    "ocr_raw": "第五十六 八寨黑苗\n八寨黑苗在都匀府屬。性悍，婦女以色布纏衣袖，前錦繡一方。",
+    "transcription": "第五十六 八寨黑苗\n八寨黑苗在都匀府屬。性悍，婦女以色布纏衣袖，前錦繡一方。",
     "translation": "Fifty-sixth: Black Miao of Bazhai. The author places them in Duyun Prefecture and attributes a fierce temperament to them. The opening description mentions women's sleeves decorated with colored cloth and embroidery. The remaining discussion of marriage and ritual practices has not yet been translated.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 18, images/external_pilot/rsl_v2_p018_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。原本『八寨黑苗』為圖題；服飾描寫僅讀開首，外貌及性格評述須標為清代編者的主張。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。原本『八寨黑苗』為圖題；服飾描寫僅讀開首，外貌及性格評述須標為清代編者的主張。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】以下婚俗及祭祀諸列待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "八寨黑苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "以下婚俗及祭祀諸列待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p019": {
     "title": "清江黑苗",
     "title_en": "清江黑苗 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第五十七 清江黑苗\n清江黑苗男子以布束髮，項代銀圈，方耳環。\n〔其餘耕作、交易、婚姻、祭祀記載待逐列校讀〕",
-    "transcription": "第五十七 清江黑苗\n清江黑苗男子以布束髮，項代銀圈，方耳環。\n〔其餘耕作、交易、婚姻、祭祀記載待逐列校讀〕",
+    "ocr_raw": "第五十七 清江黑苗\n清江黑苗男子以布束髮，項代銀圈，方耳環。",
+    "transcription": "第五十七 清江黑苗\n清江黑苗男子以布束髮，項代銀圈，方耳環。",
     "translation": "Fifty-seventh: Qingjiang Black Miao. The inscription opens by describing men binding their hair with cloth and wearing silver neck rings and angular earrings. The longer discussion of cultivation, exchange, marriage and rites remains untranscribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 19, images/external_pilot/rsl_v2_p019_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。前兩列可辨，其餘條款易誤讀，不把 OCR 亂碼作為正文。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。前兩列可辨，其餘條款易誤讀，不把 OCR 亂碼作為正文。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】其餘耕作、交易、婚姻、祭祀記載待逐列校讀。此類括號說明不再混入原文轉錄。",
     "tags": [
       "清江黑苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘耕作、交易、婚姻、祭祀記載待逐列校讀",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p020": {
     "title": "樓居黑苗",
     "title_en": "樓居黑苗 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第五十八 樓居黑苗\n樓居黑苗在八寨、丹江有之。男子耕種，性剛而愚。\n〔關於婦女髮式、樓居及喪葬的其餘文字待核〕",
-    "transcription": "第五十八 樓居黑苗\n樓居黑苗在八寨、丹江有之。男子耕種，性剛而愚。\n〔關於婦女髮式、樓居及喪葬的其餘文字待核〕",
+    "ocr_raw": "第五十八 樓居黑苗\n樓居黑苗在八寨、丹江有之。男子耕種，性剛而愚。",
+    "transcription": "第五十八 樓居黑苗\n樓居黑苗在八寨、丹江有之。男子耕種，性剛而愚。",
     "translation": "Fifty-eighth: Black Miao Living in Raised Houses, as labeled by the historical author. The source places the group in Bazhai and Danjiang. It says men engage in farming and judges their temperament in disparaging terms. Remaining details about women's coiffures, buildings and funerals are yet to be transcribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 20, images/external_pilot/rsl_v2_p020_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。留存原題歷史分類；『性剛而愚』為編纂者貶抑語，非可採信的現代民族誌判斷。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。留存原題歷史分類；『性剛而愚』為編纂者貶抑語，非可採信的現代民族誌判斷。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】關於婦女髮式、樓居及喪葬的其餘文字待核。此類括號說明不再混入原文轉錄。",
     "tags": [
       "樓居黑苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "關於婦女髮式、樓居及喪葬的其餘文字待核",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p021": {
     "title": "黑山苗",
     "title_en": "黑山苗 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第五十九 黑山苗\n黑山苗在古州、清江三屬，以藍布束額，居深山窮谷，不耕事作。\n〔後文記載待校〕",
-    "transcription": "第五十九 黑山苗\n黑山苗在古州、清江三屬，以藍布束額，居深山窮谷，不耕事作。\n〔後文記載待校〕",
+    "ocr_raw": "第五十九 黑山苗\n黑山苗在古州、清江三屬，以藍布束額，居深山窮谷，不耕事作。",
+    "transcription": "第五十九 黑山苗\n黑山苗在古州、清江三屬，以藍布束額，居深山窮谷，不耕事作。",
     "translation": "Fifty-ninth: Black Mountain Miao. The source places the group in Guzhou and Qingjiang, says that they wrap blue cloth around their foreheads, and describes them as living in remote mountain valleys. The claim that they do not cultivate the land is the compiler's characterization. The remainder has not been transcribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 21, images/external_pilot/rsl_v2_p021_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。原文地名『三屬』及否定耕作之語待更高清校核；不能單憑此種描述作民族誌事實。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。原文地名『三屬』及否定耕作之語待更高清校核；不能單憑此種描述作民族誌事實。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】後文記載待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "黑山苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "後文記載待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p022": {
     "title": "黑生苗",
     "title_en": "黑生苗 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第六十 黑生苗\n黑生苗在清江一帶屬，性情凶惡。\n〔後續遷居、武器、爭鬥敘述待核〕",
-    "transcription": "第六十 黑生苗\n黑生苗在清江一帶屬，性情凶惡。\n〔後續遷居、武器、爭鬥敘述待核〕",
+    "ocr_raw": "第六十 黑生苗\n黑生苗在清江一帶屬，性情凶惡。",
+    "transcription": "第六十 黑生苗\n黑生苗在清江一帶屬，性情凶惡。",
     "translation": "Sixtieth: Black-Sheng Miao. The manuscript locates the group around Qingjiang and applies a pejorative description of its supposed temperament. Other allegations about residence, weapons and conflict remain untranscribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 22, images/external_pilot/rsl_v2_p022_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。題名『黑生苗』與開頭可讀。涉及族群性格之語應作批判性史料，不當成可靠觀察。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。題名『黑生苗』與開頭可讀。涉及族群性格之語應作批判性史料，不當成可靠觀察。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】後續遷居、武器、爭鬥敘述待核。此類括號說明不再混入原文轉錄。",
     "tags": [
       "黑生苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "後續遷居、武器、爭鬥敘述待核",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p023": {
     "title": "高坡苗",
     "title_en": "高坡苗 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第六十一 高坡苗\n高坡苗又名頂坡苗，在平遠、黔西等屬。\n〔衣飾、勞作與生活習慣各列待校〕",
-    "transcription": "第六十一 高坡苗\n高坡苗又名頂坡苗，在平遠、黔西等屬。\n〔衣飾、勞作與生活習慣各列待校〕",
+    "ocr_raw": "第六十一 高坡苗\n高坡苗又名頂坡苗，在平遠、黔西等屬。",
+    "transcription": "第六十一 高坡苗\n高坡苗又名頂坡苗，在平遠、黔西等屬。",
     "translation": "Sixty-first: Gaopo Miao, also called Dingpo Miao in the historical text. The opening places the group in Pingyuan, Qianxi, and adjacent districts. The description of dress, work, and everyday practices has not yet been translated.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 23, images/external_pilot/rsl_v2_p023_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。題首高坡苗／頂坡苗可辨，其他列仍需高清複核。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。題首高坡苗／頂坡苗可辨，其他列仍需高清複核。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】衣飾、勞作與生活習慣各列待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "高坡苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "衣飾、勞作與生活習慣各列待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p024": {
     "title": "平伐苗",
@@ -1006,177 +1140,208 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "tags": [
       "平伐苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional"
   },
   "rsl-f274-v2-p025": {
     "title": "黑仲家",
     "title_en": "黑仲家 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第六十三 黑仲家\n黑仲家在清江一帶屬，居處多倚山林。\n〔其餘衣服、婚配與喪葬記錄較長，尚待校讀〕",
-    "transcription": "第六十三 黑仲家\n黑仲家在清江一帶屬，居處多倚山林。\n〔其餘衣服、婚配與喪葬記錄較長，尚待校讀〕",
+    "ocr_raw": "第六十三 黑仲家\n黑仲家在清江一帶屬，居處多倚山林。",
+    "transcription": "第六十三 黑仲家\n黑仲家在清江一帶屬，居處多倚山林。",
     "translation": "Sixty-third: Black Zhongjia. The source describes a group dwelling around Qingjiang, with residences near forests and mountain slopes. The remaining extensive discussion of clothing, marriage and mortuary practices has not been translated.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 25, images/external_pilot/rsl_v2_p025_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。PDF第25頁一整頁長文，開頭可辨；不以其他仲家圖題記補入本頁。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。PDF第25頁一整頁長文，開頭可辨；不以其他仲家圖題記補入本頁。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】其餘衣服、婚配與喪葬記錄較長，尚待校讀。此類括號說明不再混入原文轉錄。",
     "tags": [
       "黑仲家"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘衣服、婚配與喪葬記錄較長，尚待校讀",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p026": {
     "title": "清江仲家",
     "title_en": "清江仲家 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第六十四 清江仲家\n清江仲家招□，有之。婦人勤耕，男子頭纏紅布，腰佩大刀。\n〔其餘交易、生計及祭儀段落待校〕",
-    "transcription": "第六十四 清江仲家\n清江仲家招□，有之。婦人勤耕，男子頭纏紅布，腰佩大刀。\n〔其餘交易、生計及祭儀段落待校〕",
+    "ocr_raw": "第六十四 清江仲家\n清江仲家招□，有之。婦人勤耕，男子頭纏紅布，腰佩大刀。",
+    "transcription": "第六十四 清江仲家\n清江仲家招□，有之。婦人勤耕，男子頭纏紅布，腰佩大刀。",
     "translation": "Sixty-fourth: Qingjiang Zhongjia. The inscription concerns a group associated with Qingjiang. Its opening describes women cultivating fields and men wrapping their heads in red cloth and carrying large knives. A place-name character and several later columns remain uncertain.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 26, images/external_pilot/rsl_v2_p026_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。第一列地名手寫字有疑，記為□。後續武備和民俗描述仍須校讀；禁止臆補。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。第一列地名手寫字有疑，記為□。後續武備和民俗描述仍須校讀；禁止臆補。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】其餘交易、生計及祭儀段落待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "清江仲家"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘交易、生計及祭儀段落待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "rsl-f274-v2-p027": {
     "title": "里民子",
     "title_en": "里民子 (historical designation)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "第六十五 里民子\n里民子在貴陽、黔西、大定、清鎮等處。男子貿易為生，婦人穿細耳草鞋，勤儉耕力。\n〔其餘毛織、畜養與歲節文字待核〕",
-    "transcription": "第六十五 里民子\n里民子在貴陽、黔西、大定、清鎮等處。男子貿易為生，婦人穿細耳草鞋，勤儉耕力。\n〔其餘毛織、畜養與歲節文字待核〕",
+    "ocr_raw": "第六十五 里民子\n里民子在貴陽、黔西、大定、清鎮等處。男子貿易為生，婦人穿細耳草鞋，勤儉耕力。",
+    "transcription": "第六十五 里民子\n里民子在貴陽、黔西、大定、清鎮等處。男子貿易為生，婦人穿細耳草鞋，勤儉耕力。",
     "translation": "Sixty-fifth: Liminzi. The manuscript places the group in Guiyang, Qianxi, Dading, Qingzhen and neighboring areas, describing men as traders and women as engaging in labor and cultivation. Further passages concerning wool cloth, livestock and seasonal observances are still pending verification.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "translated_excerpt_only",
     "ocr_engine": "AI visual reading of source-specific handwritten scan; not unreviewed Tesseract OCR",
     "source_review": "RSL Russian State Library Ф.274 №54.2, PDF page 27, images/external_pilot/rsl_v2_p027_right.jpg",
-    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。『里民子』清代題首，並非當代族稱。第三列『細耳草鞋』字形待核，只作未校試讀。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
+    "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。『里民子』清代題首，並非當代族稱。第三列『細耳草鞋』字形待核，只作未校試讀。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。 【未錄文字／校讀狀態】其餘毛織、畜養與歲節文字待核。此類括號說明不再混入原文轉錄。",
     "tags": [
       "里民子"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘毛織、畜養與歲節文字待核",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "manchester-c398-p013": {
     "title": "蔡家苗",
     "title_en": "蔡家苗 (Qing-era compiler's label)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "蔡家苗在貴筑、修文、清鎮等州，威寧、平遠等州。\n〔男子衣冠及婦女製衣文字尚有疑字〕\n……青布高一尺許，若牛角狀，以長簪綰之，翁媳不通言，猶存古禮。",
-    "transcription": "蔡家苗在貴筑、修文、清鎮等州，威寧、平遠等州。\n〔男子衣冠及婦女製衣文字尚有疑字〕\n……青布高一尺許，若牛角狀，以長簪綰之，翁媳不通言，猶存古禮。",
+    "ocr_raw": "蔡家苗在貴筑、修文、清鎮等州，威寧、平遠等州。\n……青布高一尺許，若牛角狀，以長簪綰之，翁媳不通言，猶存古禮。",
+    "transcription": "蔡家苗在貴筑、修文、清鎮等州，威寧、平遠等州。\n……青布高一尺許，若牛角狀，以長簪綰之，翁媳不通言，猶存古禮。",
     "translation": "The Caijia Miao are placed in Guizhu, Xiuwen, Qingzhen, Weining, Pingyuan and adjacent localities. The manuscript describes a tall blue-cloth headdress, about one foot high, shaped like a horn and secured with a long hairpin. It also claims that fathers-in-law and daughters-in-law do not speak to one another, presenting this as an ancient custom. An intermediate passage on garments has not yet been reliably transcribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "excerpt_only",
     "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
     "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 13; paired painting 12",
-    "notes": "Canvas 13，配彩繪 Canvas 12；只翻譯兩個可辨片段，省略號為校讀標記。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "notes": "Canvas 13，配彩繪 Canvas 12；只翻譯兩個可辨片段，省略號為校讀標記。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。 【未錄文字／校讀狀態】男子衣冠及婦女製衣文字尚有疑字。此類括號說明不再混入原文轉錄。",
     "tags": [
       "蔡家苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "男子衣冠及婦女製衣文字尚有疑字",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "editorial_ellipsis": true
   },
   "manchester-c398-p015": {
     "title": "白猓羅",
     "title_en": "白猓羅 (Qing-era compiler's label)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n〔其餘有關飲食、喪葬的具體敘述待核〕\n……居普定者名阿和，與此類。",
-    "transcription": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n〔其餘有關飲食、喪葬的具體敘述待核〕\n……居普定者名阿和，與此類。",
+    "ocr_raw": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n……居普定者名阿和，與此類。",
+    "transcription": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n……居普定者名阿和，與此類。",
     "translation": "The manuscript places the White Luoluo in Dading and Anshun, classifies them alongside the Black Luoluo but as a lower-status lineage, and uses heavily disparaging language to describe food and funeral customs. It ends by identifying people in Puding as Ahe. The intervening details remain untranscribed because several graphs require checking.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "excerpt_only",
     "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
     "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 15; paired painting 14",
-    "notes": "Canvas 15，彩繪 Canvas 14；此處是曼徹斯特藏本，不能複製俄藏白猓羅文字替代其中異文。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "notes": "Canvas 15，彩繪 Canvas 14；此處是曼徹斯特藏本，不能複製俄藏白猓羅文字替代其中異文。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。 【未錄文字／校讀狀態】其餘有關飲食、喪葬的具體敘述待核。此類括號說明不再混入原文轉錄。",
     "tags": [
       "白猓羅"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘有關飲食、喪葬的具體敘述待核",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "editorial_ellipsis": true
   },
   "manchester-c398-p017": {
     "title": "宋家苗",
     "title_en": "宋家苗 (Qing-era compiler's label)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "宋家苗在貴陽、安順二府，本中國之裔，春秋時放流而入於夷者也。其語言文字悉與漢同。\n〔婚姻與家務敘述等其餘列待校〕",
-    "transcription": "宋家苗在貴陽、安順二府，本中國之裔，春秋時放流而入於夷者也。其語言文字悉與漢同。\n〔婚姻與家務敘述等其餘列待校〕",
+    "ocr_raw": "宋家苗在貴陽、安順二府，本中國之裔，春秋時放流而入於夷者也。其語言文字悉與漢同。",
+    "transcription": "宋家苗在貴陽、安順二府，本中國之裔，春秋時放流而入於夷者也。其語言文字悉與漢同。",
     "translation": "The compiler places the Songjia Miao in Guiyang and Anshun prefectures. It asserts that they originally came from the central regions of China and were exiled to what it terms 'barbarian' territory in antiquity, and that their language and writing resemble those of the Han. This is the historical author's origin narrative, not independently verified genealogy. The remainder of the inscription, concerning marriage and household practices, has not yet been translated.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "excerpt_only",
     "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
     "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 17; paired painting 16",
-    "notes": "Canvas 17，彩繪 Canvas 16。原件開首列清晰；未校列不以俄藏《宋家苗》補全。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "notes": "Canvas 17，彩繪 Canvas 16。原件開首列清晰；未校列不以俄藏《宋家苗》補全。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。 【未錄文字／校讀狀態】婚姻與家務敘述等其餘列待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "宋家苗"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "婚姻與家務敘述等其餘列待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "manchester-c398-p019": {
     "title": "曾竹龍家",
     "title_en": "曾竹龍家 (Qing-era compiler's label)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "曾竹龍家在安順府境內。婦女衣尚白，而穿桶裙，取戴細布方巾，口髮一尾，於後長尺餘，用豬油抹髮。\n〔後續迎接親友與節慶等段落待校〕",
-    "transcription": "曾竹龍家在安順府境內。婦女衣尚白，而穿桶裙，取戴細布方巾，口髮一尾，於後長尺餘，用豬油抹髮。\n〔後續迎接親友與節慶等段落待校〕",
+    "ocr_raw": "曾竹龍家在安順府境內。婦女衣尚白，而穿桶裙，取戴細布方巾，口髮一尾，於後長尺餘，用豬油抹髮。",
+    "transcription": "曾竹龍家在安順府境內。婦女衣尚白，而穿桶裙，取戴細布方巾，口髮一尾，於後長尺餘，用豬油抹髮。",
     "translation": "The source situates the Zengzhu Longjia in Anshun Prefecture. It describes women wearing white garments and tubular skirts, a fine-cloth headdress, and hair gathered into a long tail behind the head, with pig fat used as a dressing. Later columns on entertaining visitors and celebrations have not been transcribed. The designation and customs are presented from the compiler's viewpoint.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "excerpt_only",
     "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
     "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 19; paired painting 18",
-    "notes": "Canvas 19，彩繪 Canvas 18；原題用字似『曾竹龍家』，與俄藏上冊『曾竹籠家』可能為異文，需保留兩本各自的文字，不合併。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "notes": "Canvas 19，彩繪 Canvas 18；原題用字似『曾竹龍家』，與俄藏上冊『曾竹籠家』可能為異文，需保留兩本各自的文字，不合併。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。 【未錄文字／校讀狀態】後續迎接親友與節慶等段落待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "曾竹龍家"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "後續迎接親友與節慶等段落待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "manchester-c398-p021": {
     "title": "青仲家",
     "title_en": "青仲家 (Qing-era compiler's label)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "青仲家在古州、清江、丹江等處。男子以青布蒙首，服色尚青，女子色白而多敏工刺繡。\n〔其餘宴飲、婚姻、祭祀與刻符記事的文字待校〕",
-    "transcription": "青仲家在古州、清江、丹江等處。男子以青布蒙首，服色尚青，女子色白而多敏工刺繡。\n〔其餘宴飲、婚姻、祭祀與刻符記事的文字待校〕",
+    "ocr_raw": "青仲家在古州、清江、丹江等處。男子以青布蒙首，服色尚青，女子色白而多敏工刺繡。",
+    "transcription": "青仲家在古州、清江、丹江等處。男子以青布蒙首，服色尚青，女子色白而多敏工刺繡。",
     "translation": "The manuscript places the Qing Zhongjia around Guzhou, Qingjiang, and Danjiang. It says that men cover their heads with blue cloth and prefer blue garments, while women are described as fair-complexioned and skilled at embroidery. The author's remaining claims concerning social gatherings, marriage, ritual and communication have not yet been transcribed.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "excerpt_only",
     "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
     "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 21; paired painting 20",
-    "notes": "Canvas 21，彩繪 Canvas 20；文字雖可辨仍需逐列校核異文，不用俄藏青仲家自動覆蓋。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "notes": "Canvas 21，彩繪 Canvas 20；文字雖可辨仍需逐列校核異文，不用俄藏青仲家自動覆蓋。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。 【未錄文字／校讀狀態】其餘宴飲、婚姻、祭祀與刻符記事的文字待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "青仲家"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "其餘宴飲、婚姻、祭祀與刻符記事的文字待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   },
   "manchester-c398-p023": {
     "title": "補籠仲家",
     "title_en": "補籠仲家 (Qing-era compiler's label)",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "補籠仲家，貴陽府之定番州、廣順州、興義、安順兩府皆有之。以十二月朔為大節，歲時擊銅鼓為樂。若掠得銅鼓，即云武侯南征時所遺。\n〔後續禮俗與喪祭等段落待校〕",
-    "transcription": "補籠仲家，貴陽府之定番州、廣順州、興義、安順兩府皆有之。以十二月朔為大節，歲時擊銅鼓為樂。若掠得銅鼓，即云武侯南征時所遺。\n〔後續禮俗與喪祭等段落待校〕",
+    "ocr_raw": "補籠仲家，貴陽府之定番州、廣順州、興義、安順兩府皆有之。以十二月朔為大節，歲時擊銅鼓為樂。若掠得銅鼓，即云武侯南征時所遺。",
+    "transcription": "補籠仲家，貴陽府之定番州、廣順州、興義、安順兩府皆有之。以十二月朔為大節，歲時擊銅鼓為樂。若掠得銅鼓，即云武侯南征時所遺。",
     "translation": "The account places the Bulong Zhongjia in jurisdictions associated with Guiyang, Dingfan, Guangshun, Xingyi, and Anshun. It says the first day of the twelfth lunar month is an important festival and that bronze drums are beaten at seasonal celebrations. The compiler reports a local claim that certain acquired drums originated in the Marquis Wu's southern campaign. Later descriptions of ritual practices and mourning have not yet been translated.",
     "translation_status": "ai_draft",
     "transcription_scope": "partial_visual_excerpt",
     "translation_scope": "excerpt_only",
     "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
     "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 23; paired painting 22",
-    "notes": "Canvas 23，彩繪 Canvas 22；漢字及異文按此館藏另存，與俄藏《補籠仲家》分別處理。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "notes": "Canvas 23，彩繪 Canvas 22；漢字及異文按此館藏另存，與俄藏《補籠仲家》分別處理。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。 【未錄文字／校讀狀態】後續禮俗與喪祭等段落待校。此類括號說明不再混入原文轉錄。",
     "tags": [
       "補籠仲家"
     ],
-    "visual_tags": []
+    "visual_tags": [],
+    "editorial_reading_note": "後續禮俗與喪祭等段落待校",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only"
   }
 };
