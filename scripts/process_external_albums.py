@@ -183,8 +183,10 @@ def main():
         overlays=collect_candidates(sources)
         print("AI provisional overlays:",len(overlays))
         if args.dry_run:return
-        if OVERLAY.exists() and OVERLAY.stat().st_size>100 and not args.replace:
-            raise FileExistsError("Back up and use --replace to overwrite existing AI candidates")
+        if OVERLAY.exists() and not args.replace:
+            existing=OVERLAY.read_text(encoding="utf-8").strip()
+            if not existing.endswith("= {};"):
+                raise FileExistsError("Back up and use --replace to overwrite existing AI candidates")
         content=("// AI-generated unverified drafts; do NOT overwrite manually reviewed OCR.\n"
                  "window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = "+
                  json.dumps(overlays,ensure_ascii=False,indent=2)+";\n")
