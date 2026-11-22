@@ -11,7 +11,7 @@ window.MIAOMAN_41_DRAFTS = {
   },
   "ocr-e4a7e4a3b955-p0002": {
     "title": "序文 / Preface",
-    "status": "colophon_pending",
+    "status": "preface_pending",
     "page_kind": "preface",
     "transcription": "",
     "notes": "本頁為長篇序文，需另做高清逐列校勘；不將原始 PaddleOCR 直接標為校讀本。",
