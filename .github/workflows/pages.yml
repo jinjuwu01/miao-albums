@@ -20,6 +20,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Validate source pages and JavaScript
+        run: |
+          node --check assets/app.js
+          node --check data/dian_page_fixes.js
+          node scripts/check_dian_pages.mjs
       - name: Prepare static site
         run: |
           mkdir -p _site
