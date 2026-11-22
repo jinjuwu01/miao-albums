@@ -548,7 +548,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：首句「子間」與「醲化」待核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 58,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Zijian have long been influenced by the court's civilizing teachings and dress and eat like people of the Central Plains. At weddings they must ride horses; otherwise they walk carrying firewood. They live in Yunnan Prefecture."
   },
   "ocr-7345436f5451-p0059": {
     "title": "普特",
@@ -557,7 +558,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 59,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Pute are skilled fishers. Although their boats are less than one zhang long, they contain all the equipment needed for their livelihood. Enduring cold, they move through waves and reportedly catch fish with their mouths or hands. They live in Kunming."
   },
   "ocr-7345436f5451-p0060": {
     "title": "白人",
@@ -566,7 +568,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 60,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Bai people are said to descend from the ancient Bai kingdom. The text notes that an old confusion between the Bo and Bai names wrongly grouped them together; in fact they are unrelated. They farm diligently, observe etiquette, and are also called Minjiazi. They live in Yunnan Prefecture and Dali."
   },
   "ocr-7345436f5451-p0061": {
     "title": "撒彌猓獵",
@@ -575,7 +578,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「艾義」兩字疑難。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 61,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Sami Guolie are described as careful and honest. They farm poor mountain soils and gather and sell firewood; those near water fish. They work to support themselves. They live in Yunnan Prefecture."
   },
   "ocr-7345436f5451-p0062": {
     "title": "黑甘彞",
@@ -584,7 +588,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「髡飾首」句讀待校。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 62,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Hei Ganyi wear hemp garments; women have shaved hairstyles decorated with beads and shells. Living in the mountains, they make instruments by cutting bamboo and bending iron, called shengqin, which they blow and pluck alternately in musical exchanges. They live in Xuanwei."
   },
   "ocr-7345436f5451-p0063": {
     "title": "僮人",
@@ -593,7 +598,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 63,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Zhuang people are described as frugal and unpretentious. Men and women alike plow and hoe; they favor raised houses and eat dogs and mice. The author compares their disposition to that of the Nong people. They live in Pingyi."
   },
   "ocr-7345436f5451-p0064": {
     "title": "白倮羅",
@@ -602,7 +608,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 64,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Bai Luoluo are described as plain and straightforward. They wrap their heads, go barefoot, and wear sheepskins and straw capes, carrying firewood to market. Recently some have taken up farming and study. They live in Chengjiang and elsewhere."
   },
   "ocr-7345436f5451-p0065": {
     "title": "黑倮羅",
@@ -611,7 +618,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「營長」等字形待核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 65,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Hei Luoluo wear felt and carry knives; they are diligent farmers and herders. Their implements are made of bamboo and wood. For loans they use no written contracts, instead splitting notched wooden tallies and keeping one half. The author calls them an esteemed group among the local peoples, many serving as native officials and commanders. They live in Chengjiang and elsewhere."
   },
   "ocr-7345436f5451-p0066": {
     "title": "阿西",
@@ -620,7 +628,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 66,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Axi dwell in mountain hollows and work diligently. They choose sons-in-law whose homes are far from water, so that daughters can spin thread while fetching water and accumulate private savings. They live in Guangxi Subprefecture."
   },
   "ocr-7345436f5451-p0067": {
     "title": "沙人",
@@ -629,7 +638,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「沙釜」地方器具稱謂待核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 67,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Sha people have many skills, felling old fir trees on cliffs of great height and fashioning the timber into utensils. They also make clay pots and bamboo spoons, exchanging them for grain. They live in Guangxi Subprefecture and elsewhere."
   },
   "ocr-7345436f5451-p0068": {
     "title": "普拉倮羅",
@@ -638,7 +648,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 68,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Pula Luoluo are strong and courageous, live on mountaintops, wear short clothing and no shoes, and carry crossbows whenever they go out. They make a living by tenant farming or fishing in Guangxi Subprefecture."
   },
   "ocr-7345436f5451-p0069": {
     "title": "拇雞",
@@ -647,7 +658,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 69,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Muji are portrayed as wild. Men have disheveled hair; women's embroidered garments are so short that they do not cover the belly. They cultivate mountains, enjoy hunting, and plant kapok on unused ground; the phrase likening its clusters to peaches is uncertain. They live in Guangxi Subprefecture."
   },
   "ocr-7345436f5451-p0070": {
     "title": "阿者倮羅",
@@ -656,7 +668,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「耕牧□阜」一字未辨。 「□」代表目前無法可靠辨認的字。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 70,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Azhe Luoluo live beyond the Pan River. Their dress and food resemble those of the Hei Luoluo. They migrate frequently, farm and herd on hills (one character is illegible), and are described as easygoing and not inclined to quarrel. They live in Guangxi Subprefecture."
   },
   "ocr-7345436f5451-p0071": {
     "title": "阿蝎倮羅",
@@ -665,7 +678,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「藝蔽麻」一段待核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 71,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Axie Luoluo put together tree bark to build dwellings, wear sheepskin coats, and cultivate hemp or a similarly named plant. The author describes their ritual etiquette as rather sparse. They live in Guangxi Subprefecture."
   },
   "ocr-7345436f5451-p0072": {
     "title": "葛倮羅",
@@ -674,7 +688,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 72,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Ge Luoluo live against the mountains and are described as resolute and fond of hunting. Over time, having been influenced by outside customs, they have increasingly practiced agriculture and changed their earlier ways. They live in Guangxi Subprefecture."
   },
   "ocr-7345436f5451-p0073": {
     "title": "魯兀",
@@ -683,7 +698,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 73,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Luwu endure hard work, live in the mountains, grow beans, and raise many cattle and horses. In spare time they dig mountain yams and gather bracken and bamboo shoots to supplement their meals. They live in Guangxi Subprefecture."
   },
   "ocr-7345436f5451-p0074": {
     "title": "聶素",
@@ -692,7 +708,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「賈穎者」「菁義雅化」待核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 74,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Niesu farm diligently and engage in trade; the talented seek teachers and study books without ceasing. The author praises the long diffusion of classical learning into distant regions. They live in Kaihua Prefecture."
   },
   "ocr-7345436f5451-p0075": {
     "title": "含武",
@@ -701,7 +718,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 75,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Hanwu, also called Hanwu with a variant character, are described as timid and frugal. They farm and herd and, in spare time, set nets and snares for hunting and fishing. They wear hemp in winter and summer and avoid strangers out of fear. They live in Kaihua."
   },
   "ocr-7345436f5451-p0076": {
     "title": "阿繫",
@@ -710,7 +728,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 76,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Axi are people who came from elsewhere and settled in local communities long ago. They speak the local language and farm diligently. For betrothal gifts the wealthy give gold and silver, the poor cattle. They live in Kaihua."
   },
   "ocr-7345436f5451-p0077": {
     "title": "阿成",
@@ -719,7 +738,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 77,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Acheng are hardworking, frugal, and respectful of the law. Marriages require sheep and wine. At the wedding, water is scooped from a ladle and poured before the bride's feet, a rite called \"subduing the disposition.\" They live in Kaihua."
   },
   "ocr-7345436f5451-p0078": {
     "title": "山車",
@@ -728,7 +748,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「形如鳩」字形待複核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 78,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Shanche are described as thrifty. Husbands farm and wives spin, enduring cold and hardship. The author disparages their appearance and says their clothing and etiquette are simple. They live in Kaihua."
   },
   "ocr-7345436f5451-p0079": {
     "title": "白喇攤",
@@ -737,7 +758,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 79,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Bai Latan are disparaged in the account as dull and dark-complexioned. They wear red and green clothing; men and women farm and herd diligently, reportedly eating mountain insects and water snakes raw. They live on the Kaihua frontier."
   },
   "ocr-7345436f5451-p0080": {
     "title": "普列",
@@ -746,7 +768,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 80,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Pulie are described as straightforward and diligent farmers. They arrange marriage through matchmakers and practice divination with chicken bones: when doubtful they slaughter a chicken, inspect its bones, and obtain an answer. They live in Kaihua."
   },
   "ocr-7345436f5451-p0081": {
     "title": "阿毫",
@@ -755,7 +778,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「花草相□答」保留未辨字。 「□」代表目前無法可靠辨認的字。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 81,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Ahao are described as gentle. While their wives farm, men point to flowers and plants and exchange responses (one character is unreadable), clapping and singing in hopes of vigorous crops. They live in Kaihua."
   },
   "ocr-7345436f5451-p0082": {
     "title": "阿保",
@@ -764,7 +788,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「含糊啴諧」字形待複核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 82,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Abao are portrayed as rough. Men and women alike wear hemp. During spring outings they shave bamboo very thin, hold the pieces together, and make indistinct rhythmic sounds for amusement. They live in Kaihua."
   },
   "ocr-7345436f5451-p0083": {
     "title": "花土僚",
@@ -773,7 +798,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 83,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Hua Tuliao have men dressed in silk and cloth and women in embroidered brown garments. In marriage, the groom does not personally fetch the bride; the bride's father brings wine to drink at the groom's home. From the first to the second lunar month, young and old tie on drums and dance for entertainment. They live in Kaihua."
   },
   "ocr-7345436f5451-p0084": {
     "title": "水擺夷",
@@ -782,7 +808,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「柝柳」疑難。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 84,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Shui Baiyi are described as physically weak and timid. They build earthen houses by the water, are accustomed to aquatic life, plant willows or a similarly named tree, and farm and weave diligently. They live in Kaihua."
   },
   "ocr-7345436f5451-p0085": {
     "title": "黑獠",
@@ -791,7 +818,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 85,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Hei Liao are described as diligent, careful, and knowledgeable about ritual. They often live by paddy fields. After fieldwork they take food and drink outdoors to thank the earth deity. The elders sit on the ground while the young kneel and serve food and wine, as though entertaining honored guests. They live in Kaihua."
   },
   "ocr-7345436f5451-p0086": {
     "title": "旱擺夷",
@@ -800,7 +828,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 86,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Han Baiyi live in the mountains and work diligently. Men's garments reach the knee; women wear high coiffures and headscarves adorned with five-colored silk, as are their skirts. They live in Kaihua and Pu'er."
   },
   "ocr-7345436f5451-p0087": {
     "title": "普剽",
@@ -809,7 +838,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 87,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Pupiao are described as kind. At celebrations they entertain guests with horn music, loud singing, gongs, and drums. Men's clothing does not reach the knee, while women's long garments trail on the ground. They live in Kaihua."
   },
   "ocr-7345436f5451-p0088": {
     "title": "陵人",
@@ -818,7 +848,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 88,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Ling people wear loose hair, short jackets, bamboo hats, and banana-leaf fans. Women wrap their hair in red cloth. They study books and observe etiquette. The account traces their origins to Annam and locates them along the Kaihua frontier."
   },
   "ocr-7345436f5451-p0089": {
     "title": "玉樸喇",
@@ -827,7 +858,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：末尾「特貧□」有未辨字，另「一緯衣街」讀法存疑。 「□」代表目前無法可靠辨認的字。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 89,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Yu Pula endure hard work. In spare time they split bamboo to weave baskets for sale or barter for food. They wear a single light garment year-round. The final phrase calls them exceptionally poor, but one character is unreadable (□). They live in Kaihua."
   },
   "ocr-7345436f5451-p0090": {
     "title": "阿度",
@@ -836,7 +868,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 90,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Adu are diligent woodcutters. They do not emphasize gold or silk in marriage gifts: the groom carries firewood to welcome the bride, and she pounds rice upon entering the home. The author explains that each thus demonstrates an ability to support themselves at the start of a lifelong union. They live in Kaihua."
   },
   "ocr-7345436f5451-p0091": {
     "title": "臘歌",
@@ -845,7 +878,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 91,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Lage are described as rigid in disposition. They farm, wear crowns made of leaves, and favor blue and indigo clothes. Even poor families must offer gold to secure a bride. They live in Kaihua."
   },
   "ocr-7345436f5451-p0092": {
     "title": "保擺",
@@ -854,7 +888,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：舊 OCR 把日期作「八月」，高清原圖應讀「六月廿四日」。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 92,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Baobai farm diligently. Men and women can carry loads over long distances and wear sheepskin coats in winter and summer. On the twenty-fourth day of the sixth month they light torches in their fields to pray for a good harvest. They live in Yunnan Prefecture and elsewhere."
   },
   "ocr-7345436f5451-p0093": {
     "title": "僕卜",
@@ -863,7 +898,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「螟蠟白羊」疑難，待逐列核對。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 93,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Bubu are skilled farmers. To sacrifice to a field ancestor or deity, they place grain pests in a paper bag on a white sheep and have a child dressed in white escort it beyond the border of their territory. They live in Yunnan Prefecture."
   },
   "ocr-7345436f5451-p0094": {
     "title": "僰夷",
@@ -872,7 +908,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：長題記，關於炊具和待客食物一段存在疑字。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 94,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Boyi, also called Baiyi or Baiyi written with variant graphs, are described as gentle and attentive to ritual sacrifice. Enduring heat, they build raised wooden houses in low, damp places, keeping cattle and sheep below. They cook in clay steamers and reportedly serve caught mice or frogs to guests. They live in Yunnan and other prefectures."
   },
   "ocr-7345436f5451-p0095": {
     "title": "羅婺",
@@ -881,7 +918,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 95,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Luowu, also called Luowu with another graph, wear bamboo hats and felt and weave cloth from fireweed fibers. They herd animals among woods and hills. Their houses have no beds; they spread pine needles on the floor to sleep. They live in Wuding, Chuxiong, and Jingdong."
   },
   "ocr-7345436f5451-p0096": {
     "title": "羅緬",
@@ -890,7 +928,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「粗布」「塩米」仍應與原圖複核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 96,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Luomian are described as good-natured. They wear coarse cloth, cultivate mountain fields, carry loads diligently, and sometimes collect grasses to exchange for salt and rice. They live in Luquan under Wuding."
   },
   "ocr-7345436f5451-p0097": {
     "title": "土人",
@@ -899,7 +938,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「□服髮畔」一字未辨，且句讀不確。 「□」代表目前無法可靠辨認的字。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 97,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Turen wear padded clothing with leather belts, tightening the belts when hungry. The next phrase about clothing or hair is unclear (□). They cultivate the edges of fields and hunt in the hills, entering towns on yin, wu, and xu days. They live in Wuding."
   },
   "ocr-7345436f5451-p0098": {
     "title": "海倮羅",
@@ -908,7 +948,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 98,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Hai Luoluo, also called Ba Luoluo, are described as gentle, frugal in food and clothing, hardworking in the fields, and literate. They live in Xundian under Qujing."
   },
   "ocr-7345436f5451-p0099": {
     "title": "甘倮羅",
@@ -917,7 +958,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 99,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Gan Luoluo have clothing and food resembling those of the black and white Luoluo groups but favor elegance. Before eating they stick chopsticks upright into rice and raise them in homage to their origins. They live in Xuanwei."
   },
   "ocr-7345436f5451-p0100": {
     "title": "苗子",
@@ -926,7 +968,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 100,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Miaozi live by water, bind their hair with cloth, wear colorful clothing, and go barefoot. At major festivals they beat bronze drums and play clay flutes to sing of peace. They live in Xuanwei."
   },
   "ocr-7345436f5451-p0101": {
     "title": "囊蠻",
@@ -935,7 +978,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「羊孳」待核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 101,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Nangman are said to have an ancient name and are also called Luluman. Men remove their facial hair and prize courage; women wear dark garments with embroidery. Sheep and other items apparently distinguish social standing (reading uncertain). They live in Qujing."
   },
   "ocr-7345436f5451-p0102": {
     "title": "孟烏",
@@ -944,7 +988,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 102,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Mengwu are described as slow-moving and subsist by fishing. Men wear blue and indigo garments without belts; women's headwear resembles a square crown with rings. They live in Kaihua."
   },
   "ocr-7345436f5451-p0103": {
     "title": "普岔",
@@ -953,7 +998,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「滌場」「歌竹技」待核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 103,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Pucha are described as honest and live on the frontier, farming and fishing. When clearing the threshing ground they sing with bamboo implements in the mountain streams to celebrate a good harvest. They live in Kaihua."
   },
   "ocr-7345436f5451-p0104": {
     "title": "臘欲",
@@ -962,7 +1008,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 104,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Layu are described as straightforward and poor, eating wild greens. Yet weddings require sheep and wine, and bride and groom return riding side by side on horseback. The author praises their observance of ceremonial forms. They live in Kaihua."
   },
   "ocr-7345436f5451-p0105": {
     "title": "臘免",
@@ -971,7 +1018,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 105,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Lamian resemble the Pula and are described as diligent, frugal, and law-abiding. They maintain their fields and homes and rarely interact with outsiders. They live in Kaihua."
   },
   "ocr-7345436f5451-p0106": {
     "title": "儂人",
@@ -980,7 +1028,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 106,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Nong people live in raised houses deep in the mountains without tables or chairs. They remove their shoes before going upstairs and sit on the floor to eat. They are said to favor eating dog meat and to value courage. They live in Guangnan."
   },
   "ocr-7345436f5451-p0107": {
     "title": "乾人",
@@ -989,7 +1038,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 107,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Qian people are described as a branch of the ancient Mimo, diligent and careful. They cultivate hillsides and irrigated land, observe official teachings and authority, and have increasingly taken up Confucian studies. They live in Dongchuan."
   },
   "ocr-7345436f5451-p0108": {
     "title": "披沙倮羅",
@@ -998,7 +1048,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 108,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Pisha Luoluo are portrayed as obstinate. Men and women wear felt and carry bags, herd livestock together, build thatched dwellings as they move, and grow oats for food. They live in Qiaojia under Dongchuan."
   },
   "ocr-7345436f5451-p0109": {
     "title": "花苗",
@@ -1007,7 +1058,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 109,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Hua Miao are described as upright and as migrants from Guizhou, like the Hong, Qing, and Hei Miao. The account distinguishes the groups by clothing and calls them diligent and law-abiding. They live in Ludian and Yongshan under Zhaotong."
   },
   "ocr-7345436f5451-p0110": {
     "title": "羿子",
@@ -1016,7 +1068,8 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。 存疑：「布粟」等作物名待核。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 110,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Yizi, also called Shamian, speak a language the author finds difficult to understand. They weave skillfully and cultivate fertile land, producing abundant grain. Because they intermarry with other local groups, they are also called Zhongjia Miao. They live in Zhaotong."
   },
   "ocr-7345436f5451-p0111": {
     "title": "摩察",
@@ -1025,6 +1078,7 @@ window.MIAO_BOLIN_108_DRAFTS = {
     "notes": "AI 依用戶上傳的《夷人圖說》原始高清 PDF 題記圖，對照 PaddleOCR 重排文字完成首輪逐列校讀；尚未經研究者獨立逐字確認。此為不加標點的圖像校讀工作草稿，保留清代原有用字及族稱；原始 OCR 不變，不宜直接作為學術校定本引用。",
     "review_batch": "bolin-108-ai-image-review-v1",
     "review_pdf_page": 111,
-    "transcription_kind": "unpunctuated_diplomatic_draft"
+    "transcription_kind": "unpunctuated_diplomatic_draft",
+    "translation": "The Mocha are described as a branch of the Hei Luoluo, strong and accustomed to hunting, seldom returning without game. The author says some have recently begun to change their earlier customs. They live in Dali and Chuxiong."
   }
 };
