@@ -756,5 +756,65 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-06b056128ca2-p0034": {
     "translation": "The Madeng Longjia live between Ninggu, Xibao, and Dingying in the Anshun area. The source lists Zhao, Li, Xie, and other surnames. People favor white clothing, changing to blue for mourning. Women's cloth headdresses resemble horse stirrups. Some men study and gain admission to local schools.",
     "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0035": {
+    "translation": "The Yao Miao live around Pingyue and Huangping and are also called Tianjia. The account claims a descent from the Zhou royal line and lists the Ji surname. They favor blue clothing with left-closing garments, and women spin, weave, and dye cloth. Their New Year falls in the eleventh lunar month; sacrifices to ancestors are conducted by a household elder. The author praises their frugality, peacefulness, and honesty and notes that some study for examinations. In certain mountain districts, the text also describes clothing made from leaves, young women living in bamboo houses, and bodies bound in vines and hung among trees rather than buried. [The relevant place names and final description require checking.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0036": {
+    "translation": "The Hua Miao live in the jurisdictions of Guiyang, Anping, Dading, and Zunyi. Garments are made by piecing together cloth strips; women wear elaborate hairstyles and use wax-resist decoration to produce patterned fabrics. At spring 'moon dancing' grounds, unmarried men play the lusheng and women shake bells while singing, dancing, and choosing partners. Betrothal gifts may vary, the author says, according to perceptions of a bride's appearance. At funerals, cattle are slaughtered and kin bring wine; burial practices and divination with eggs are described. Illness is said to be treated through spirit offerings rather than medicine. The passage ends with hostile accusations against certain communities around Zhenyuan and Liping, claiming that military pacification brought them under Qing authority.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0037": {
+    "translation": "A group called Turen ('local people') is described in Guangshun, Guizhu, Guiding, and Puding. They intermarry with military families and civilians and observe festivals compared with Han customs. Men and women trade and farm, singing across the fields when planting. At New Year they perform nuo exorcistic rites with drums and songs to spirits, receiving food from households they visit. Near Shibing a ninth-month offering to the Wuxian spirits is mentioned, along with lusheng playing and dancing. The passage also describes distinctive clothing with decorative beadwork, sleeveless tunics, multicolored woolen skirts, and the manufacture of iron plowshares. [Some descriptions of costume and the ritual figure remain uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0038": {
+    "translation": "The Hua Miao live in Changping under Fenghuang. Men and women wear patterned garments. Weddings are celebrated by drum dancing and singing. People attend markets and trade with Han neighbors.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0039": {
+    "translation": "The Hong Miao of Tongren include people with the surnames Wu, Long, Shi, Ma, and Bai. The source describes silk and brightly colored clothing, meat prepared with little cooking, and funerals in which garments of the dead are displayed while relatives drum, sing, and dance. On a specified day of the fifth lunar month, spouses reportedly sleep separately and avoid speech or leaving home to avert spirit or tiger dangers. Women may intervene to stop fighting. The passage also alleges collective armed raids in earlier times, asserting that government campaigns ended the practice.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0040": {
+    "translation": "The Hei Miao live around Yayou, Lilin, and Xinzai villages. The source says they carry spears and swords, wear short jackets and decorated skirts, and train with weapons from childhood. It also accuses them of robbing merchants on major roads and showing little fear of soldiers. These are hostile claims made by the historical author.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0041": {
+    "translation": "The Daya Gelao [heading uncertain] live around Pingyuan and Qianxi. Women wear long tube skirts woven from blue wool. Before marriage, two front teeth are removed, reportedly to avert harm to a husband's family. The passage mentions a hairstyle cut in front and worn long behind and ascribes a combative disposition to the group.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0042": {
+    "translation": "The You Longjia live in Anshun, Anping, and Qingzhen. Men wear plain clothing. Women wear blue head coverings decorated with ornaments called haiba, and sleeveless or loosely shaped garments that are shorter in front than behind; skirts are woven from five-colored wool. The text praises diligence and reports that many make a living by casting iron plowshares.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0043": {
+    "translation": "The Bai Miao live around Guiding, Longli, and Qianxi. They wear white clothing; men go bareheaded and barefoot, while women wear coiled hairstyles fastened with long pins. Spring moon dancing resembles the custom of the Hua Miao. At ancestral rites a strong ox is selected, fattened, and sometimes entered in a contest against other cattle. Victory is interpreted as auspicious before animals are slaughtered for sacrifice. Kin then gather to sing and drink. The author also disparagingly describes instability of settlement and the conduct of some tenant farmers.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0044": {
+    "translation": "Six groups [names partly uncertain] are described as living together in Libo County, which came under Duyun Prefecture in Guizhou from western Guangxi in 1732. Their clothing differs but languages and tastes are said to be relatively similar. At New Year they sacrifice to Panhu with fish, meat, wine, and rice. Men and women dance hand in hand; couples choose one another and may marry. They are registered for taxes and labor obligations.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0045": {
+    "translation": "The Duanqun Miao live in the Gegang area of Sizhou and the Eight Stockades of Duyun. The source says men's appearance resembles that of the Hei Miao, while women wear patterned cloth wrapped into short skirts. It also mentions an interest in fishing. [The caption is unusually short.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0046": {
+    "translation": "The Gou'er Longjia live in Kangzuosi of Guangshun, often near deep woods and streams. Men bind their hair without hats; women arrange coiled hair and cloth into two points resembling a dog's ears, and decorate their garments with colored beads. In summer a pole called a 'spirit post' is raised outdoors, where young men and women dance and choose partners. The source describes cattle or horses given after elopement, then negotiations with matchmakers. At death, a wooden implement is struck while people sing and weep; burial may take place secretly in a rocky ravine. [Several terms about fishing and funeral rites are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0047": {
+    "translation": "The Nong Miao live around Luojie and Ceheng under Yongning and are said to have passed from western Guangxi to Guizhou in 1727. Men are described as resembling Han people in clothing and hairstyles, while women retain short jackets, long skirts, and blue patterned headscarves. The text claims that the area became more settled and law-abiding after replacement of native rule by regular administration, and describes cultivation and weaving amid an unhealthy climate. These are the author's retrospective judgments.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0048": {
+    "translation": "The Gulin Miao live in Dingfan. Men wear short garments; women cover their coiled hair with blue cloth. They produce particularly fine woven cloth called Gulin cloth, highly sought after at markets. The source portrays the men as strong fighters armed with spears and crossbows and feared by other groups.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0049": {
+    "translation": "The Zijiang Miao live around Duyun, Danjiang, and Qingping and are compared with the Jiuming Jiuxing of Dushan. In exceptionally hostile language, the author accuses them of violence, feuding, and cannibalism. The tenth-month New Year involves keeping doors closed for seven days as a taboo. The text also describes a widow remarrying before her husband's burial. In Pingyue and Huangping, some speak Chinese, serve in the army, or study for official examinations, prompting the author's remark that they may no longer be recognizable as Miao.",
+    "translation_status": "ai_draft"
   }
 };
