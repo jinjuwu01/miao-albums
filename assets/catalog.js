@@ -48,8 +48,12 @@
   }
   function links(x) {
     const extra = (x.additional_links || []).map(item => `<a href="${esc(validURL(item.url))}" target="_blank" rel="noopener noreferrer">${esc(item.label)} ↗</a>`).join("");
+    const pageIndexLinks = x.id==="rsl-f274-54" ?
+      '<a href="index.html#rsl-f274-v1-p001">逐頁瀏覽俄藏上冊 / Volume I scans ↗</a><a href="index.html#rsl-f274-v2-p001">逐頁瀏覽俄藏下冊 / Volume II scans ↗</a>' :
+      x.id==="rylands-crawford398" ?
+      '<a href="index.html#manchester-c398-p001">逐頁瀏覽曼徹斯特本 / Browse all leaves ↗</a>' : "";
     const more = x.catalog_url ? `<a href="${esc(validURL(x.catalog_url))}" target="_blank" rel="noopener noreferrer">馆藏书目 / Catalogue ↗</a>` : "";
-    return `<div class="source-links"><a href="${esc(validURL(x.url))}" target="_blank" rel="noopener noreferrer">打开馆方或影像来源 / Open source ↗</a>${more}${extra}</div>`;
+    return `<div class="source-links"><a href="${esc(validURL(x.url))}" target="_blank" rel="noopener noreferrer">打开馆方或影像来源 / Open source ↗</a>${more}${extra}${pageIndexLinks}</div>`;
   }
   function show(id) {
     const x = db.copies.find(c => c.id === id); if (!x) return;
