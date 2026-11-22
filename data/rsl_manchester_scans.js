@@ -75,13 +75,16 @@
     const isLeaf = (n>=2&&n<=95)||(n>=104&&n<=195);
     // Image-verified from the institution's actual canvas scans (2026-11-22).
     const confirmedBlank = n>=2&&n<=5;
+    const uploadedNonText = [93,95,105,107,193,195].includes(n);
+    const uploadedSeal = n===95;
+    const uploadedCaptionText = ((n>=75&&n<=91)||(n>=109&&n<=191))&&n%2===1;
     const confirmedPreface = n===6||n===7;
     const checkedPainting = n>=8&&n<=74&&n%2===0;
     const checkedText = n>=9&&n<=73&&n%2===1;
     // Additional *adjacency candidates* for indexing only: not image-confirmed!
     // Do not label these as captions, illustrations, or OCR-complete until checked.
-    const candidatePainting = (n>=76&&n<=94&&n%2===0)||(n>=104&&n<=194&&n%2===0);
-    const candidateText = (n===75)||(n>=77&&n<=95&&n%2===1)||(n>=105&&n<=195&&n%2===1);
+    const candidatePainting = (n>=76&&n<=90&&n%2===0)||(n>=108&&n<=190&&n%2===0);
+    const candidateText = uploadedCaptionText;
     const pairStatus=(checkedPainting||checkedText)?'source_checked':
       (candidatePainting||candidateText)?'adjacency_candidate':null;
     const relatedCanvas=(checkedPainting||candidatePainting)?n+1:
@@ -105,17 +108,21 @@
       shelfmark:"Chinese Crawford 398",volume:vol===1?"上冊 / Volume I":"下冊 / Volume II",
       folio:n, pdf_page:n, page_total:202, plate_total:null,
       source_canvas:"https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398/canvas/"+n,
-      scan_index:n, page_kind:confirmedBlank?"non_text":confirmedPreface?"preface":checkedPainting?"illustration":checkedText?"caption":isLeaf?"scan_only":"non_text",
+      scan_index:n, page_kind:(confirmedBlank||uploadedNonText)?"non_text":confirmedPreface?"preface":checkedPainting?"illustration":(checkedText||uploadedCaptionText)?"caption":isLeaf?"scan_only":"non_text",
       image:manImage(n,1000), thumb:manImage(n,320), high_res_image:manImage(n,2000),
       text_image:manImage(n,2000), paired_image:relatedCanvas?manImage(relatedCanvas,1600):null,
       paired_pdf_page:relatedCanvas||null, pair_status:pairStatus,
       review_hint:candidateText?'possible_caption_not_image_checked':candidatePainting?'possible_illustration_not_image_checked':null,
-      title:verifiedTitle|| (confirmedPreface?"《蠻獠圖說》總序（續頁，待逐字校讀）":confirmedBlank?"空白襯頁（無需 OCR）":checkedPainting?"圖說配圖（無正文 OCR）":isLeaf?(vol===1?"上冊":"下冊")+"原葉第"+leaf+"號（待校讀）":name),
-      title_en:checkedText?(verifiedTitle+" (historical caption)"):confirmedPreface?"General preface to Manliao tushuo (image-checked; transcription pending)":confirmedBlank?"Blank endpaper; no OCR needed":checkedPainting?"Painting (no OCR required)":isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
+      title:verifiedTitle|| (confirmedPreface?"《蠻獠圖說》總序（續頁，待逐字校讀）":uploadedSeal?"印記頁（無正文 OCR）":(confirmedBlank||uploadedNonText)?"空白襯頁（無需 OCR）":checkedPainting?"圖說配圖（無正文 OCR）":uploadedCaptionText?"第"+n+"張題記（待逐字校讀）":isLeaf?(vol===1?"上冊":"下冊")+"原葉第"+leaf+"號（待校讀）":name),
+      title_en:checkedText?(verifiedTitle+" (historical caption)"):confirmedPreface?"General preface to Manliao tushuo (image-checked; transcription pending)":uploadedSeal?"Seal imprint; no body text":(confirmedBlank||uploadedNonText)?"Blank/endpaper; no OCR needed":checkedPainting?"Painting (no OCR required)":uploadedCaptionText?"Chinese caption on canvas "+n+"; OCR pending":isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
       ocr_raw:"", transcription:"", translation:"",
       translation_status:isLeaf?"not_started":"not_applicable",
-      status:confirmedBlank?"non_text":confirmedPreface?"preface_pending":checkedPainting?"image_only":checkedText?"caption_pending":isLeaf?"scan_only":"non_text",
-      notes:checkedPainting?
+      status:(confirmedBlank||uploadedNonText)?"non_text":confirmedPreface?"preface_pending":checkedPainting?"image_only":(checkedText||uploadedCaptionText)?"caption_pending":isLeaf?"scan_only":"non_text",
+      notes:uploadedNonText?
+       (uploadedSeal?"已核對上傳的 Manchester Chinese Crawford 398 掃描：Canvas 95 只有印記，無連續題記正文；保留原影像，不做強制 OCR。":"已核對上傳的 Manchester Chinese Crawford 398 掃描：本頁為空白頁或襯頁，無需中文正文 OCR。"):
+       uploadedCaptionText?
+       "已逐張核對 2026-11-22 上傳的原藏本高清 JPEG：Canvas "+n+" 有手寫竪排中文題記，應由右至左逐列校讀。題記與相鄰彩繪的實際配對仍待檢查原彩繪頁；未核讀者標作待 OCR，不沿用俄藏抄本文字。":
+       checkedPainting?
        "已核查館方畫幅：此頁為純彩繪，沒有可識讀的題記，因此不執行 OCR。相鄰的下一幅文字頁（IIIF Canvas "+relatedCanvas+"）是其配對圖說。":
        checkedText?
        "已核查館方原圖：此頁為竪排文字，對應前一幅彩繪（IIIF Canvas "+relatedCanvas+"）。只記錄曼徹斯特藏本原文，不用俄藏或其他抄本覆蓋。":
