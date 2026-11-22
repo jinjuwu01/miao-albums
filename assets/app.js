@@ -113,7 +113,7 @@
   for (const title of albums) { const option=document.createElement('option'); option.value=title; option.textContent=title; dom.album.appendChild(option); }
   if(byId('total-records')) byId('total-records').textContent=String(BASE.length);
   if(byId('total-ocr')) byId('total-ocr').textContent=String(BASE.filter(r=>Boolean(r.ocr_raw)).length);
-  if(byId('edited-records')) byId('edited-records').textContent=String(new Set(BASE.filter(r=>['editorial_draft','image_checked_draft','human_reviewed'].includes(r.status)).map(r=>r.source_title+'#'+r.pdf_page)).size).padStart(2,'0');
+  if(byId('edited-records')) byId('edited-records').textContent=String(new Set(BASE.filter(r=>['editorial_draft','image_checked_draft','human_reviewed'].includes(r.status)).map(r=>(r.source_title==='苗族生活图.40幅.清代彩绘'?'苗族生活图':r.source_title)+'#'+r.pdf_page)).size).padStart(2,'0');
   byId('search-button').addEventListener('click',showResults);
   dom.search.addEventListener('input',showResults);
   dom.filter.addEventListener('change',showResults);
