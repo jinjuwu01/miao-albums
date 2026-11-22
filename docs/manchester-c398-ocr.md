@@ -12,13 +12,13 @@ The viewer shows visually checked pairs where documented; its additional sequent
 
 From the repository root:
 
-    python3 scripts/process_manchester_c398.py --mode download --pages candidate
+    python3 scripts/process_manchester_c398.py --mode download --pages text
     python3 -m pip install openai
     export OPENAI_API_KEY="YOUR_API_KEY"
     python3 scripts/process_manchester_c398.py --mode ocr --pages candidate
     python3 scripts/process_manchester_c398.py --mode publish
 
-This is a resumable research workflow. The "candidate" queue comprises 57 remaining possible odd-numbered caption canvases (vol. I 75–95 and vol. II 105–195); the existing 35 drafts are skipped. Each image is **classified before transcription**, and paintings/blank leaves produce no body text.
+This is a resumable research workflow. The "text" download queue comprises 92 possible preface/caption canvases: 2 preface pages, 44 odd-page candidates in vol. I, and 46 in vol. II. Some may be blank or otherwise not textual; inspect the images. The "candidate" OCR queue contains only 57 remaining possible odd-numbered caption canvases; the 35 existing drafts remain unchanged. Each image is **classified before transcription**, and paintings/blank leaves produce no body text.
 
 Work files appear in manchester_c398_work/scans/ and manchester_c398_work/ocr/. Publication writes ONLY data/manchester_ocr_candidates.js. Existing 35 draft entries take priority, so no pre-existing transcription is overwritten. The site marks new OCR as provisional AI readings; doubtful glyphs appear as □.
 
