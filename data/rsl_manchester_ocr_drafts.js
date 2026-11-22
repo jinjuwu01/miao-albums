@@ -1,5 +1,4 @@
-// Manuscript-only bilingual AI readings. Bracketed editorial omissions are stored in notes, NOT in transcribed source text.
-// Many entries are excerpts; both Chinese and English remain provisional until human comparison with high-resolution scans.
+// Bilingual AI visual readings: excerpt-only flags and gaps are separate from human verification.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -1343,5 +1342,225 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "editorial_reading_note": "後續禮俗與喪祭等段落待校",
     "text_completeness": "excerpt_only",
     "english_completeness": "excerpt_only"
+  },
+  "rsl-f274-v1-p035": {
+    "title": "花撞苗",
+    "title_en": "花撞苗 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十一 花撞苗\n花撞苗在荔波縣。男子善耕作，婦人工紡織。衣短，短裙僅以遮膝。親死不置棺，反以歌唱，用木板殮而停之。",
+    "transcription": "第三十一 花撞苗\n花撞苗在荔波縣。男子善耕作，婦人工紡織。衣短，短裙僅以遮膝。親死不置棺，反以歌唱，用木板殮而停之。",
+    "translation": "Thirty-first: Huazhuang Miao. The manuscript locates the people it calls Huazhuang Miao in Libo County. Men are described as cultivators and women as weavers. Clothing is portrayed as short, with skirts barely covering the knees. The author also makes claims about funerary practices, including singing and laying out the dead on wooden boards. The remaining lines need to be checked.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 35, crop images/external_pilot/rsl_v1_p035_right.jpg",
+    "notes": "喪禮後段尚未核完，不能以中間句直接代表整篇。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "花撞苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p036": {
+    "title": "夷人",
+    "title_en": "夷人 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十二 夷人\n夷人在普安廳多營司。男女皆披毯衣，不沐浴。\n……家苗言語不相諳者，率令夷人通之。",
+    "transcription": "第三十二 夷人\n夷人在普安廳多營司。男女皆披毯衣，不沐浴。\n……家苗言語不相諳者，率令夷人通之。",
+    "translation": "Thirty-second: Yi Ren, the term used in this manuscript. The source places them in an administrative district associated with Pu'an. It describes men and women as wearing blanket-like garments and makes a disparaging claim about bathing. A later sentence says that speakers unable to understand one another are said to rely on these people as interpreters. An intervening passage remains uncertain.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 36, crop images/external_pilot/rsl_v1_p036_right.jpg",
+    "notes": "語言通事句為後列節錄；省略號標示非連續原文，並非原件用字。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "夷人"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p037": {
+    "title": "蠻人",
+    "title_en": "蠻人 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十三 蠻人\n蠻人在新添、丹江二處。男子披草簑，婦人穿青衣、花布短裙。\n……十月晦日為大節而祭鬼。",
+    "transcription": "第三十三 蠻人\n蠻人在新添、丹江二處。男子披草簑，婦人穿青衣、花布短裙。\n……十月晦日為大節而祭鬼。",
+    "translation": "Thirty-third: Man Ren, a Qing-period categorical label. The description places them around Xintian and Danjiang and mentions men wearing grass rain-capes and women in blue upper garments and short skirts of patterned cloth. A later passage describes a major celebration at the end of the tenth lunar month, accompanied by spirit rituals. The intervening text is not fully transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 37, crop images/external_pilot/rsl_v1_p037_right.jpg",
+    "notes": "『蠻人』為編者所用概念，不作現代自稱；男子服飾及節慶兩段非連續。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "蠻人"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p038": {
+    "title": "土人",
+    "title_en": "土人 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十四 土人\n土人多富有之，在貴陽、廣順二處。與軍民通婚姻，種植時田歌相和。",
+    "transcription": "第三十四 土人\n土人多富有之，在貴陽、廣順二處。與軍民通婚姻，種植時田歌相和。",
+    "translation": "Thirty-fourth: Local People (Turen). The compiler says that people labeled Turen live around Guiyang and Guangshun, are often wealthy, and marry into the wider military and civilian population. Field songs are described as accompanying work during cultivation. The rest of the longer account remains to be checked.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 38, crop images/external_pilot/rsl_v1_p038_right.jpg",
+    "notes": "題名『土人』原樣保存；後續迎神、居住飲食與禮俗未全讀。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "土人"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p039": {
+    "title": "洞人",
+    "title_en": "洞人 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十五 洞人\n洞人皆在下游，而□州尤眾。性多猜忌，夫婦出入必偶。\n……冬則採蘆花以禦寒。",
+    "transcription": "第三十五 洞人\n洞人皆在下游，而□州尤眾。性多猜忌，夫婦出入必偶。\n……冬則採蘆花以禦寒。",
+    "translation": "Thirty-fifth: Dong Ren, as categorized in the source. The opening describes these people as living downstream, especially in a locality whose name has not yet been fully deciphered. The compiler characterizes them as suspicious and says spouses travel together. A later phrase describes gathering reed flowers for warmth in winter. An intervening passage is untranscribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 39, crop images/external_pilot/rsl_v1_p039_right.jpg",
+    "notes": "河流地名首字難辨，標□；末段冬季採蘆花為與開首非連續的可辨文字。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "洞人"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p040": {
+    "title": "瑤人",
+    "title_en": "瑤人 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十六 瑤人\n瑤人雍正年間自廣西遷來，貴定、清平、獨山等處有之。\n……家懶性出風眸，作之閒則入山採藥。",
+    "transcription": "第三十六 瑤人\n瑤人雍正年間自廣西遷來，貴定、清平、獨山等處有之。\n……家懶性出風眸，作之閒則入山採藥。",
+    "translation": "Thirty-sixth: Yao People. The manuscript claims that these communities migrated from Guangxi during the Yongzheng reign and lived in such places as Guiding, Qingping and Dushan. Other columns describe work and medicinal-plant gathering, but much of the wording and the author's judgments remain uncertain.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 40, crop images/external_pilot/rsl_v1_p040_right.jpg",
+    "notes": "首兩列可讀；中後段行草多，僅用英語概述題材，不把未核字逐字造入中文。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "瑤人"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p041": {
+    "title": "楊保苗",
+    "title_en": "楊保苗 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十七 楊保苗\n楊保苗在遵義、龍里二屬。婚姻用媒妁，祭用哀悼之禮。\n……聽鄉老之約束也。",
+    "transcription": "第三十七 楊保苗\n楊保苗在遵義、龍里二屬。婚姻用媒妁，祭用哀悼之禮。\n……聽鄉老之約束也。",
+    "translation": "Thirty-seventh: Yangbao Miao. The source locates this group in the Zunyi and Longli jurisdictions. It says that marriages use matchmakers and that mourning rites are observed. A later remark describes obedience to agreements supervised by village elders. Intermediate lines require closer reading.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 41, crop images/external_pilot/rsl_v1_p041_right.jpg",
+    "notes": "圖說末句非連續節錄；『龍里』及『鄉老』按本頁暫錄，需來源校核。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "楊保苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p042": {
+    "title": "樣獵苗（題字待核）",
+    "title_en": "樣獵苗（題字待核） (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十八 樣獵苗\n樣獵苗在都匀、黎平、石阡及施秉、龍里、龍泉府縣有之。\n……男子計口為耕，女子度身而織服。",
+    "transcription": "第三十八 樣獵苗\n樣獵苗在都匀、黎平、石阡及施秉、龍里、龍泉府縣有之。\n……男子計口為耕，女子度身而織服。",
+    "translation": "Thirty-eighth: Yanglie Miao (the historical heading remains uncertain). The text places the group in and around Duyun, Liping, Shiqian, Shibing, Longli and Longquan. A later passage associates men's work with cultivation and women's work with weaving according to household needs. The remaining lines have not yet been fully read.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 42, crop images/external_pilot/rsl_v1_p042_right.jpg",
+    "notes": "標題字形可能有異，暫標待核。後句為非連續轉錄，需高分辨再查。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "樣獵苗（題字待核）"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p043": {
+    "title": "九股苗",
+    "title_en": "九股苗 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第三十九 九股苗\n九股苗在興隆、凱里等里，苗同類。此種因武侯征剿之故，僅存九人，遂稱九股。",
+    "transcription": "第三十九 九股苗\n九股苗在興隆、凱里等里，苗同類。此種因武侯征剿之故，僅存九人，遂稱九股。",
+    "translation": "Thirty-ninth: Jiugu Miao, the Nine-Branch Miao of this historical account. The compiler places the people near Xinglong and Kaili and presents an etymological legend: after a military suppression attributed to the Marquis Wu, only nine people survived, supposedly giving rise to the name. This explanation is a claim within the historical text, not a verified account of the group's origins.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 43, crop images/external_pilot/rsl_v1_p043_right.jpg",
+    "notes": "地名『興隆』『凱里』及九人傳說可辨；後段體質、武備文字待校。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "九股苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p044": {
+    "title": "八番苗",
+    "title_en": "八番苗 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第四十 八番苗\n八番苗在定番州。男子衣服與漢人同。",
+    "transcription": "第四十 八番苗\n八番苗在定番州。男子衣服與漢人同。",
+    "translation": "Fortieth: Bafan Miao. The opening places this group in Dingfan Subprefecture and says that men's dress resembles that of Han people. The remaining passage on cultivation, ritual and social conduct has not yet been transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 44, crop images/external_pilot/rsl_v1_p044_right.jpg",
+    "notes": "首句可辨；後文手寫草書待逐列核校。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "八番苗"
+    ],
+    "visual_tags": []
+  },
+  "rsl-f274-v1-p045": {
+    "title": "紫姜苗",
+    "title_en": "紫姜苗 (historical label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "第四十一 紫姜苗\n紫姜苗在黃平、清平、丹江等處，與□苗同類。",
+    "transcription": "第四十一 紫姜苗\n紫姜苗在黃平、清平、丹江等處，與□苗同類。",
+    "translation": "Forty-first: Zijiang Miao. The manuscript locates this historically named group in Huangping, Qingping, Danjiang and neighboring places and links it to another group whose name is still illegible. The extensive remainder of the inscription has not yet been transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI manuscript-specific visual reading, NOT human-reviewed OCR",
+    "source_review": "Russian State Library Ф.274 №54.1, PDF page 45, crop images/external_pilot/rsl_v1_p045_right.jpg",
+    "notes": "此冊上冊最後一幅題記；族稱疑字保留□，不根據其他版本補族名。 新增本館藏原文與英文試譯，非人工校定，省略部分未翻譯。",
+    "tags": [
+      "紫姜苗"
+    ],
+    "visual_tags": []
   }
 };
