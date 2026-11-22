@@ -624,5 +624,77 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-4e93ed1ef413-p0021": {
     "translation": "The Pingzhai or Chezai Miao [first character uncertain] live around Guzhou. Men practice various crafts and women excel at needlework. Young people sing and meet in open-air moon-dancing grounds, even in the presence of their parents. The text traces the community to soldiers of Ma Sanbao who supposedly settled there and formed more than six hundred Miao households. [One word about men's musical performance and part of the historical narrative are uncertain.]",
     "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0002": {
+    "translation": "The Kemeng Guyang Miao live under Jinzhusi in Guangshun. They carve dwellings into steep cliffs, some reached by bamboo ladders as high as a hundred ren. They do not use ox-drawn plows, instead breaking earth with iron hoes. Young men and women choose partners at lusheng dances, with marriage gifts reportedly exchanged after childbirth. The source describes songs and dances rather than weeping immediately after a parent's death, in a rite called naoshi. Yet at the sound of the cuckoo, families cry that the bird comes back each year while their deceased parent cannot.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0003": {
+    "translation": "The Guoluo are described as having female officials who govern affairs in native administrative districts. The passage quotes a long poem by Tian Wen about a female official in Dongchuan. The poet compares the sight to Yan Liben's paintings of foreign tribute bearers, then to a strange dream and a ruined temple populated by spirits and grotesque figures. He describes felt head wraps, curly hair, earrings, a cane, patterned clothing, and a long embroidered skirt, repeatedly contrasting the woman's political bearing with his expectations of gender. The passage concludes that female officials in Shuixi have a similar appearance. [This is a condensed English rendering of an explicitly exoticizing poem, not a line-by-line literary translation.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0004": {
+    "translation": "The Hei Miao are described as fighting with swords. Some powerful men wear heavy water-buffalo-hide armor and tall iron helmets that, according to the account, resist spears and blades. The armor is said to weigh seventy or eighty jin and the helmet more than twenty jin. The final sentence appears to list payments or fines in silver for killing, but the amounts and circumstances need rechecking.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0005": {
+    "translation": "The Hua Guoluo live around Shuixi in Dading and Yongning in Anshun. Also called Hua Man, they are described as a subordinate branch of the Guoluo. In derogatory language, the account says they cook in three-legged pots and roast small animals without elaborate preparation. The dead are said to be wrapped in cattle or horse hides and cremated. A related group near Pu'an, called Azhi, shares these customs and commonly trades tea.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0006": {
+    "translation": "The Xiajia Miao are said to descend from people moved from the south during the Five Dynasties by a Chu ruler [personal name uncertain]. Three branches are named Bulong, Kayou, and Qingxia, found around Guiyang, Pingyue, Duyun, and Anshun. They observe funeral mourning, but the author characterizes them as evasive toward officials and sometimes resistant to summons.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0007": {
+    "translation": "The Heijiao Miao live around Goubu and Liangshuijing under Fenghuang Subprefecture. The source accuses them of armed robbery along roads, restraining wealthy merchants in wooden cangues and demanding ransom. It records a military campaign against them in the fifty-second year of the Qianlong reign (1787). These are claims made by the historical author.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0008": {
+    "translation": "The group provisionally labeled Linzhu, with the surnames Wang, Li, Jin, and Wen, lives near Guiding and Qianxi. Couples may sleep apart until after childbirth. Rituals use five-colored banners, festivals involve song and dance, and seniority is observed. Clothing in some districts resembles Han dress, and marriage within the same surname is forbidden. The eldest son may mourn indoors for forty-nine days without washing, emerging only after a spirit-release ritual performed by specialists. If he cannot do so, another descendant may substitute. The account says some children enter local schools.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0009": {
+    "translation": "The group called Manren live in Xintian Guard and Danxing [name uncertain]. The first day of the tenth lunar month is a festival when offerings are made to spirits; the text also mentions rites on specific calendrical days. The Ranjia Man of the Yanhe area are said to have similar customs. The author uses pejorative terms to characterize the group.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0010": {
+    "translation": "The Liu'ezi in Dading have black and white branches. Men wear pointed topknots and women long garments and short skirts. At funerals bodies are placed in coffins. After a year or two, relatives return to the grave, open the coffin, wash the remains until clean, wrap the bones in cloth, and rebury them; this may be repeated as many as seven times. Illness in the family is attributed to unclean ancestral bones. The source says official bans have reduced this practice.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0011": {
+    "translation": "The Jiugu Miao live around Xinglong Guard and Kaili and are compared with the Hei Miao of Pianqiao. The account repeats a legend that only nine people survived Zhuge Liang's southern campaign and subsequently multiplied into nine branches. It describes elaborate iron helmets, armor, shields, spears, firearms, lead shot, long bows drawn by several people, and effective fighting on difficult terrain. It links the group to Yang Yinglong's Ming-era Bozhou uprising and recounts Qing campaigns against them in 1732, followed by the establishment of walled settlements and garrisons. The figures and historical claims require independent verification.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0012": {
+    "translation": "The Hua Miao come to town markets to sell grain, pigs, and chickens. Women buy small pieces of colored cloth from merchants and sew finely patterned garments, which the author praises as skillful.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0013": {
+    "translation": "The Hua Miao in Changping under Fenghuang carry spears and swords. Women spin and weave. The caption describes a sacrificial rite with a white water buffalo fastened to a decorated pole, then killed with long spears; relatives bring wine and gifts. [The final words about the direction of the animal's fall and the ritual's significance are garbled.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0014": {
+    "translation": "The Hei Miao live around Yabao Stockade under Fenghuang. They wear short jackets and blue trousers and carry knives or spears. In disputes, they reportedly swear an oath by drinking cat's blood, a practice the author describes as binding among neighboring Miao.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0015": {
+    "translation": "The Yao are said to have moved from western Guangxi to Pingfa in Guiding in 1724. They do not maintain fixed residences and prefer places close to streams. They channel water to their homes through joined sections of tree bark. Men and women wear blue garments extending past the knees. They revere Panhu, cultivate fields, gather medicinal plants, and practice medicine in villages. They preserve an obscure seal-script text as a secret treasure. The author praises their honesty, claiming lost property is not taken.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0016": {
+    "translation": "The Jiantou Gelao [heading uncertain] live near Guiding. Men and women keep their hair about an inch long, and bodies are cremated after death. The passage also disparagingly describes related groups as unwashed, sharing quarters with animals, and eating prey voraciously. Some are said to resist official summons; others in Qingping understand Chinese and follow village rules. The account names related communities around Shiqian, Liping, and Guzhou. [Several group labels and the final passage are unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0017": {
+    "translation": "The group provisionally labeled Zangke are described as descendants of an earlier population associated with Yang and Bozhou. Surnames include Yang, Long, Zhang, Shi, and Ou. They live across Duyun, Shiqian, Shibing, Longquan, Huangping, Yuqing, Liping, and Longli. Their dwellings may have unplastered walls and unlatched doors sealed with mud. Clothing, diet, marriage, and funerals are compared with Han customs. Men farm and women weave; dogs may be given at marriage and funerals. The author says Chinese-style dress and education are becoming more common.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0018": {
+    "translation": "The Hua Miao in Majingtan, under Fenghuang, live among other local inhabitants. The text says they study, discuss moral principles, may take public examinations, and engage in market trade with neighboring Han communities.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0019": {
+    "translation": "The Yangdong Luohan Miao live around Liping. Women wear their hair loosely with wooden combs above the forehead. Wealthy women wear linked gold or silver earrings. They raise silkworms and weave brocade; short jackets are tied with bands and embroidered panels decorated with silver coins. Some wear short skirts, others long skirts without trousers, with an embroidered hanging panel called a 'garment tail.' The account emphasizes hair washing and describes marriage patterns and relations with another group called Sheng Miao. [The last several sentences are uncertain.]",
+    "translation_status": "ai_draft"
   }
 };
