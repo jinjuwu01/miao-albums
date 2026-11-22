@@ -1,5 +1,4 @@
 // Wellcome MS Chinese 99 · provisional AI image readings, NOT human-verified.
-// All source readings must be checked by the researcher against high-resolution image.
 window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
   "wellcome-ms99-p0005": {
     "title": "倮猓",
@@ -163,6 +162,30 @@ window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
     "transcription": "查猺人在貴定之平伐司，黔省原無此種，係雍正二年自粵西遷至。居無常處，並無賦稅，亦無物產。男女衣尚青，長不過膝。所祀之神曰盤瓠。勤耕種，暇則入山採藥行醫。",
     "translation": "The source places the people it calls “Yao” in Pingfa, under Guiding, claiming that they had migrated there from western Guangdong in the second year of Yongzheng and had not previously been found in Guizhou. It says their settlements were impermanent, that they paid no tax, and that no local products were recorded. Men and women are described as wearing blue garments no longer than the knee. Their deity is identified as Panhu. The text says they worked diligently in agriculture and, when free from farming, entered the mountains to gather medicinal plants and practice healing.",
     "notes": "2026-11-22 AI 依高清原图做的初步视读（未独立人工核校）。『猺』按原字保留；药材采集和行医叙述与地方技术知识相关。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0013": {
+    "title": "宋家苗",
+    "title_en": "Songjia Miao (historical group label)",
+    "transcription": "查宋家苗即宋人，亦為楚子所俘，流為南夷。並無土司部落，明始歸流，在貴陽府屬，民苗雜居，稅糧一體，並無苗額，亦無苗地物產。男子帽而長襟，婦人笄而短襟。將嫁，男家遣人往迎，女家率眾而笞楚之，謂之奪親；旦則進盤於姑，湯沐三日而罷。頗通漢語，克勤耕織，知禮畏法，竟有讀書而入泮者。",
+    "translation": "The account calls the “Songjia Miao” descendants of people from the state of Song, claiming that they had been captured by Chu and displaced to the southern frontier. It says they had no native chieftain divisions and entered regular administration under the Ming. Around Guiyang, they lived among other inhabitants and were taxed without a distinct Miao levy. The text describes men's hats and longer-fronted garments and women's hairpins and shorter-fronted garments. In a marriage ceremony it calls “snatching the bride,” the groom's family sent people to fetch the bride, and members of her family ritually struck the visitors. The author also describes rituals following marriage, and praises their farming, weaving, familiarity with Chinese speech, and participation in formal schooling. The origin narrative is an assertion by the historical writer, not an established genealogy.",
+    "notes": "AI 依据高清手写竖排原图视读。『笞楚之』『進盤於姑』『湯沐三日』等婚俗字词有疑，须人工复核。族源说保留为作者主张，非现代事实。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0014": {
+    "title": "白苗",
+    "title_en": "White Miao (historical group label)",
+    "transcription": "查白苗係西南夷，並無土司部落。明始歸流，在貴定、龍里、黔西等處，民苗雜居，稅糧共納，並無苗地物產。男子科頭赤足，婦人盤髻長簪，衣服尚白，短僅及膝。跳月之習與花苗同。祀祖擇大牯牛飼壯，即會各寨有牛者合鬥於野，勝即為吉。鬥後卜日砍牛以祀，主祭者服白衣青套，著細摺裙。祭後合親族高歌暢飲而散。",
+    "translation": "The source places the group it calls the “White Miao” in Guiding, Longli, Qianxi, and surrounding districts, living among other residents. It says there were no native chieftain divisions or designated Miao lands, and taxes were paid collectively. Men are described as bareheaded and barefoot, women as wearing coiled hairstyles secured by long hairpins, and both as favoring white clothing. The account compares their “jumping the moon” custom with that of the Hua Miao. It describes an ancestral ritual in which strong bulls from different villages were made to fight, victory being interpreted as auspicious. The chosen animal was then slaughtered on a selected day for sacrifice, followed by communal singing and drinking among relatives.",
+    "notes": "2026-11-22 AI 图像视读初稿，尚未研究者逐字校核。『青套』等祭服词汇与『合鬥於野』仪式语句需回查。",
     "status": "image_checked_draft",
     "page_kind": "caption",
     "translation_status": "ai_draft",
