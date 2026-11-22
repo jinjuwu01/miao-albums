@@ -1,5 +1,26 @@
 # 苗图数字档案 · Miao Albums Digital Archive
 
+## 新增：館藏版本與作品層級目錄（2026-11-22）
+
+- 公開頁面：[館藏版本 / Manuscript Copies](https://jinjuwu01.github.io/miao-albums/collections.html)，與原本 [OCR 檢索](https://jinjuwu01.github.io/miao-albums/index.html#explore) 分開。
+- `data/manuscript_catalog.js` 以兩層結構著錄：`works[]` 是作品或暫定傳本系統；`copies[]` 是具體館藏版本（藏所、書號、來源 URL、狀態、是否疑似同本）。相同圖冊標題**不等於**同一本手稿，也不在未經逐幅校勘之前強制合併。
+- 目前 11 條新增館藏線索，其中 5 條有可直接開啟的數位掃描來源（Library of Congress、Manchester、Wellcome 103、Russian State Library 兩冊、Waseda）。部分館藏雖有數位物件 URL，但尚未能核實完整圖片與權利，標記為 `review`；尚無完整影像者標記為 `catalog`。
+- Manchester Chinese Crawford 398：已核實官方 [IIIF v2 Manifest](https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398)。在館藏詳細頁按「展開 IIIF 逐頁影像」，瀏覽器會在使用者點擊後載入遠端清單，按每 24 頁展示縮圖；若館方限制跨來源請直接在原站查看。遠端縮圖的授權依曼徹斯特館方規定（IIIF 註明圖片與可下載材料的權利不同）。
+- 「Wellcome MS Chinese 103」館方目前標為 `Wellcome Chinese Collection 103`，沒有確認「雲南營制苗蠻圖冊」的正式館藏題名；後者是第三方識別，暫不能以此代替館藏書目。
+- 俄罗斯国家图书馆《百苗圖》是**拟题**，以書號 Ф.274 №54.1–54.2 作為版本鍵；掃描分別在 Commons 上下冊。早稻田《苗族習俗圖説》與已有陳浩相關圖冊疑似相關，須先對勘去重。
+- **此批只提交作品、館藏版本與來源入口，沒有新增任何未經核實的 `transcription`、`translation`、`ocr_raw` 或圖像檔。** 原有 970 等頁面 OCR 統計（實際數量由現有記錄動態產生）與人工編輯資料完全不變。
+
+### 下一步匯入規則 / Rules for importing scanned leaves
+
+1. 為實際取得的每幅掃描建立 `copy_id` + `scan_index`，保存原館 IIIF canvas/原始 PDF 頁號和圖文位置；同一物理頁不得多次匯入。
+2. 題記、彩繪、封面、空白與文書附錄分別標明 `page_kind`；無字畫幅不進 OCR。僅有書目或猜測頁數，不得發表為完整圖冊已處理。
+3. 保存作品家族關聯（`work_id`），但未核定同本之前禁止刪除或合併不同館藏的頁面。比對至少核對圖序、族稱、題記異文和頁幅。
+4. 下載、轉碼和轉載影像前逐一確認圖像來源的授權條款；有的館藏只允許引用或在原站瀏覽。
+5. 對 OCR 草稿、AI 圖像視讀、逐列人工複核、英文翻譯各記獨立狀態；不得以新書目條目增加首頁 OCR 記錄數。
+
+---
+
+
 ## Wellcome Collection 99 · 無題《百苗圖》系列本（2026-11-22）
 
 - 原件：[Wellcome Collection, MS Chinese 99](https://wellcomecollection.org/works/f8b2bkkd)，公版標記 Public Domain Mark。「百苗圖」是本站的系列工作名稱，不代表原件書名。
