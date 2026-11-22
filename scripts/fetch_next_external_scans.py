@@ -11,8 +11,8 @@ root=Path(__file__).resolve().parents[1]
 out=root/"images"/"external_pilot";out.mkdir(exist_ok=True,parents=True)
 session=requests.Session();session.headers["User-Agent"]="MiaoAlbumsResearch/0.3 (https://github.com/jinjuwu01/miao-albums)"
 specs=[
- ("rsl_v1",list(range(35,46)),"RSL01013071618_百苗圖_清繪本_上冊.pdf","e/ed"),
- ("rsl_v2",list(range(28,45)),"RSL01013071654_百苗圖_清繪本_下冊.pdf","1/1c")
+ ("rsl_v1",[],"RSL01013071618_百苗圖_清繪本_上冊.pdf","e/ed"),
+ ("rsl_v2",[],"RSL01013071654_百苗圖_清繪本_下冊.pdf","1/1c")
 ]
 inventory=[]
 for prefix,pages,filename,hashdir in specs:
@@ -36,7 +36,7 @@ for prefix,pages,filename,hashdir in specs:
   print("SCAN",prefix,page,flush=True)
   time.sleep(.35)
 # Manchester preview images are for on-screen manuscript inspection, not public re-use approval.
-for page in range(25,45):
+for page in range(45,75):
  dest=out/f"manchester_p{page:03d}.jpg"
  if not dest.exists():
   url=f"https://image.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398-000-{page:05d}.jp2/full/1280,/0/default.jpg"
@@ -46,4 +46,4 @@ for page in range(25,45):
   image.save(dest,"JPEG",quality=78,optimize=True)
  inventory.append({"prefix":"manchester","page":page,"preview":str(dest.relative_to(root)),"downloaded":True})
  print("MANCHESTER",page,flush=True);time.sleep(.3)
-(root/"data"/"external_source_inventory_batch3.json").write_text(json.dumps({"schema":"unreviewed-source-images-v1","records":inventory},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
+(root/"data"/"external_source_inventory_manchester_45_74.json").write_text(json.dumps({"schema":"unreviewed-source-images-v1","records":inventory},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
