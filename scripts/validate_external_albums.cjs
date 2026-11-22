@@ -15,8 +15,8 @@ ok(a.filter(x=>x.collection_id==="manchester-c398").length===202,"Manchester can
 ok(new Set(a.map(x=>x.id)).size===a.length,"duplicate stable record IDs");
 ok(a.every(x=>x.image&&x.thumb&&x.source_url&&x.copy_id&&x.shelfmark),"missing provenance/images");
 ok(a.every(x=>!x.ocr_raw&&!x.transcription&&!x.translation),"scan index must not pretend to have OCR");
-ok(a.filter(x=>x.page_kind==="non_text").length===16,
-   "expected 14 Manchester cover/binding scans and 2 RSL front covers");
+ok(a.filter(x=>x.page_kind==="non_text").length===18,
+   "expected 16 Manchester cover/binding scans and 2 RSL front covers");
 const rsl=a.filter(x=>x.collection_id==="rsl-f274-54");
 ok(rsl.filter(x=>x.id.includes("-v1-")).length===47,"Russian volume 1 count");
 ok(rsl.filter(x=>x.id.includes("-v2-")).length===46,"Russian volume 2 count");
