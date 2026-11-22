@@ -26,8 +26,8 @@
       const id="rsl-f274-v"+vol.volume+"-p"+String(page).padStart(3,"0");
       // Historical headings are edition-specific, transcribed from scan images.
       // Do not copy the wording of a different Miao album recension.
-      const verifiedV1 = {5:"黑猓羅",6:"羅鬼女官",7:"白猓羅",8:"宋家苗",9:"蔡家苗",10:"卡尤仲家",11:"補籠仲家",12:"青仲家",13:"曾竹籠家",14:"狗耳龍家",15:"馬蹬龍家",16:"大頭龍家",17:"花苗",18:"紅苗"};
-      const verifiedV2 = {4:"谷蒲苗",5:"陽洞羅漢苗",6:"克孟牯羊苗",7:"洞苗",8:"箐苗",9:"第卌七種（族稱待核）",10:"狪家苗"};
+      const verifiedV1 = {5:"黑猓羅",6:"羅鬼女官",7:"白猓羅",8:"宋家苗",9:"蔡家苗",10:"卡尤仲家",11:"補籠仲家",12:"青仲家",13:"曾竹籠家",14:"狗耳龍家",15:"馬蹬龍家",16:"大頭龍家",17:"花苗",18:"紅苗",19:"白苗",20:"青苗",21:"黑苗",22:"東苗",23:"西苗",24:"夯苗",25:"獠苗",26:"打牙苗",27:"剪髮犵狫",28:"豬屎犵狫",29:"紅犵狫",30:"花犵狫",31:"水犵狫",32:"銅圈犵狫",33:"披袍犵狫",34:"林犵苗"};
+      const verifiedV2 = {4:"谷蒲苗",5:"陽洞羅漢苗",6:"克孟牯羊苗",7:"洞苗",8:"箐苗",9:"伶家苗（題字待核）",10:"狪家苗",11:"種林家苗（題字待核）",12:"額子（題字待核）",13:"白額子",14:"舟家蠻",15:"九名九姓苗",16:"齊頭苗（題字待核）",17:"洞夷苗（題字待核）",18:"八寨黑苗",19:"清江黑苗",20:"樓居黑苗",21:"黑山苗",22:"黑生苗",23:"高坡苗",24:"平伐苗",25:"黑仲家",26:"清江仲家",27:"里民子"};
       const plateName = vol.volume===1 ? verifiedV1[page] : verifiedV2[page];
       const cropBase = "images/external_pilot/rsl_v"+vol.volume+"_p"+String(page).padStart(3,"0");
       const artCrop = cropBase + (vol.volume===1 && page<=9 ? "_artwork.jpg" : "_left.jpg");
@@ -76,10 +76,13 @@
     // Image-verified from the institution's actual canvas scans (2026-11-22).
     const confirmedBlank = n>=2&&n<=5;
     const confirmedPreface = n===6||n===7;
-    const checkedPainting = [8,10,12].includes(n);
-    const checkedText = [9,11].includes(n);
-    const relatedCanvas = n===8?9:n===9?8:n===10?11:n===11?10:null;
-    const verifiedTitle = n===9?"觀音寺圖說":n===11?"猓羅圖說":null;
+    const checkedPainting = n>=8&&n<=24&&n%2===0;
+    const checkedText = n>=9&&n<=23&&n%2===1;
+    // The physical object alternates a painting leaf with its description:
+    // painting n (even) => inscription n+1; inscription n (odd) => painting n-1.
+    const relatedCanvas = checkedPainting?n+1:checkedText?n-1:null;
+    const verifiedTitles = {9:"觀音寺圖說",11:"猓羅圖說",13:"蔡家苗",15:"白猓羅",17:"宋家苗",19:"曾竹龍家",21:"青仲家",23:"補籠仲家"};
+    const verifiedTitle = verifiedTitles[n]||null;
     const leaf = vol===1?n-1:n-103;
     const cover = n===1||n===103;
     const back = n===96||n===196;
@@ -102,14 +105,14 @@
       text_image:manImage(n,2000), paired_image:relatedCanvas?manImage(relatedCanvas,1600):null,
       paired_pdf_page:relatedCanvas||null,
       title:verifiedTitle|| (confirmedPreface?"《蠻獠圖說》總序（續頁，待逐字校讀）":confirmedBlank?"空白襯頁（無需 OCR）":checkedPainting?"圖說配圖（無正文 OCR）":isLeaf?(vol===1?"上冊":"下冊")+"原葉第"+leaf+"號（待校讀）":name),
-      title_en:checkedText?(n===9?"Guanyin Temple description":"Luoluo description"):confirmedPreface?"General preface to Manliao tushuo (image-checked; transcription pending)":confirmedBlank?"Blank endpaper; no OCR needed":checkedPainting?"Painting (no OCR required)":isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
+      title_en:checkedText?(verifiedTitle+" (historical caption)"):confirmedPreface?"General preface to Manliao tushuo (image-checked; transcription pending)":confirmedBlank?"Blank endpaper; no OCR needed":checkedPainting?"Painting (no OCR required)":isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
       ocr_raw:"", transcription:"", translation:"",
       translation_status:isLeaf?"not_started":"not_applicable",
       status:confirmedBlank?"non_text":confirmedPreface?"preface_pending":checkedPainting?"image_only":checkedText?"caption_pending":isLeaf?"scan_only":"non_text",
       notes:checkedPainting?
-       "已核查館方畫幅：本掃描為純彩繪，不執行 OCR。相鄰有圖說文字的頁面以配對連結另行保留。":
+       "已核查館方畫幅：此頁為純彩繪，沒有可識讀的題記，因此不執行 OCR。相鄰的下一幅文字頁（IIIF Canvas "+relatedCanvas+"）是其配對圖說。":
        checkedText?
-       "已核查館方原圖：本頁為竪排書寫的正文，對應相鄰的彩繪。轉錄僅使用此館藏，不替換其他版本。":
+       "已核查館方原圖：此頁為竪排文字，對應前一幅彩繪（IIIF Canvas "+relatedCanvas+"）。只記錄曼徹斯特藏本原文，不用俄藏或其他抄本覆蓋。":
        confirmedBlank?
        "已逐張核查館方影像：本張為空白襯頁，沒有可辨認的中文題記。不進行 OCR。":
        confirmedPreface?
