@@ -1,0 +1,647 @@
+{
+  "source": "滇苗图说.2册.明顾见龙原画.含彩绘35幅.清代摹本.pdf",
+  "pdf_pages": 90,
+  "caption_pages": 36,
+  "illustration_pages": 36,
+  "colophon_pages": [
+    43
+  ],
+  "other_pages": 17,
+  "primary_problem": "Old captions overwrote text-page image and thumbnail with paired illustration images; OCR was shown for image-only leaves.",
+  "fix": "Restore every PDF page's own image as primary and preserve 36 visual draft transcriptions; add cross-link to paired pages; suppress spurious raw OCR from non-text page display and search.",
+  "raw_ocr_preserved": true,
+  "no_human_verification_claimed": true,
+  "classification": [
+    {
+      "pdf_page": 7,
+      "kind": "caption",
+      "pair_page": 6,
+      "title": "白人",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 6,
+      "kind": "illustration",
+      "pair_page": 7,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 9,
+      "kind": "caption",
+      "pair_page": 8,
+      "title": "西番",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 8,
+      "kind": "illustration",
+      "pair_page": 9,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 11,
+      "kind": "caption",
+      "pair_page": 10,
+      "title": "拇雞",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 10,
+      "kind": "illustration",
+      "pair_page": 11,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 13,
+      "kind": "caption",
+      "pair_page": 12,
+      "title": "摩察",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 12,
+      "kind": "illustration",
+      "pair_page": 13,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 15,
+      "kind": "caption",
+      "pair_page": 14,
+      "title": "撒完",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 14,
+      "kind": "illustration",
+      "pair_page": 15,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 17,
+      "kind": "caption",
+      "pair_page": 16,
+      "title": "妙羅羅",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 16,
+      "kind": "illustration",
+      "pair_page": 17,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 19,
+      "kind": "caption",
+      "pair_page": 18,
+      "title": "羯夷",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 18,
+      "kind": "illustration",
+      "pair_page": 19,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 21,
+      "kind": "caption",
+      "pair_page": 20,
+      "title": "緬人",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 20,
+      "kind": "illustration",
+      "pair_page": 21,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 23,
+      "kind": "caption",
+      "pair_page": 22,
+      "title": "力夷",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 22,
+      "kind": "illustration",
+      "pair_page": 23,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 25,
+      "kind": "caption",
+      "pair_page": 24,
+      "title": "沙人",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 24,
+      "kind": "illustration",
+      "pair_page": 25,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 27,
+      "kind": "caption",
+      "pair_page": 26,
+      "title": "喇記",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 26,
+      "kind": "illustration",
+      "pair_page": 27,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 29,
+      "kind": "caption",
+      "pair_page": 28,
+      "title": "怒人",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 28,
+      "kind": "illustration",
+      "pair_page": 29,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 31,
+      "kind": "caption",
+      "pair_page": 30,
+      "title": "摩些",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 30,
+      "kind": "illustration",
+      "pair_page": 31,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 33,
+      "kind": "caption",
+      "pair_page": 32,
+      "title": "地羊鬼",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 32,
+      "kind": "illustration",
+      "pair_page": 33,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 35,
+      "kind": "caption",
+      "pair_page": 34,
+      "title": "乾羅羅",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 34,
+      "kind": "illustration",
+      "pair_page": 35,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 37,
+      "kind": "caption",
+      "pair_page": 36,
+      "title": "土人",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 36,
+      "kind": "illustration",
+      "pair_page": 37,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 39,
+      "kind": "caption",
+      "pair_page": 38,
+      "title": "窩泥",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 38,
+      "kind": "illustration",
+      "pair_page": 39,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 41,
+      "kind": "caption",
+      "pair_page": 40,
+      "title": "野人",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 40,
+      "kind": "illustration",
+      "pair_page": 41,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 51,
+      "kind": "caption",
+      "pair_page": 50,
+      "title": "儂人",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 50,
+      "kind": "illustration",
+      "pair_page": 51,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 53,
+      "kind": "caption",
+      "pair_page": 52,
+      "title": "黑羅羅",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 52,
+      "kind": "illustration",
+      "pair_page": 53,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 55,
+      "kind": "caption",
+      "pair_page": 54,
+      "title": "僕喇",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 54,
+      "kind": "illustration",
+      "pair_page": 55,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 57,
+      "kind": "caption",
+      "pair_page": 56,
+      "title": "喇魯",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 56,
+      "kind": "illustration",
+      "pair_page": 57,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 59,
+      "kind": "caption",
+      "pair_page": 58,
+      "title": "孔答",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 58,
+      "kind": "illustration",
+      "pair_page": 59,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 61,
+      "kind": "caption",
+      "pair_page": 60,
+      "title": "土獠",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 60,
+      "kind": "illustration",
+      "pair_page": 61,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 63,
+      "kind": "caption",
+      "pair_page": 62,
+      "title": "阿成",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 62,
+      "kind": "illustration",
+      "pair_page": 63,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 65,
+      "kind": "caption",
+      "pair_page": 64,
+      "title": "阿者羅",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 64,
+      "kind": "illustration",
+      "pair_page": 65,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 67,
+      "kind": "caption",
+      "pair_page": 66,
+      "title": "魯屋",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 66,
+      "kind": "illustration",
+      "pair_page": 67,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 69,
+      "kind": "caption",
+      "pair_page": 68,
+      "title": "喇吾",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 68,
+      "kind": "illustration",
+      "pair_page": 69,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 71,
+      "kind": "caption",
+      "pair_page": 70,
+      "title": "義昌",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 70,
+      "kind": "illustration",
+      "pair_page": 71,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 73,
+      "kind": "caption",
+      "pair_page": 72,
+      "title": "古宗",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 72,
+      "kind": "illustration",
+      "pair_page": 73,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 75,
+      "kind": "caption",
+      "pair_page": 74,
+      "title": "撒彌",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 74,
+      "kind": "illustration",
+      "pair_page": 75,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 77,
+      "kind": "caption",
+      "pair_page": 76,
+      "title": "普特",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 76,
+      "kind": "illustration",
+      "pair_page": 77,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 79,
+      "kind": "caption",
+      "pair_page": 78,
+      "title": "羅娑",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 78,
+      "kind": "illustration",
+      "pair_page": 79,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 81,
+      "kind": "caption",
+      "pair_page": 80,
+      "title": "比苴",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 80,
+      "kind": "illustration",
+      "pair_page": 81,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 83,
+      "kind": "caption",
+      "pair_page": 82,
+      "title": "蒲人",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 82,
+      "kind": "illustration",
+      "pair_page": 83,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 85,
+      "kind": "caption",
+      "pair_page": 84,
+      "title": "扯穫",
+      "source_image_retained": true,
+      "ai_draft_preserved": true
+    },
+    {
+      "pdf_page": 84,
+      "kind": "illustration",
+      "pair_page": 85,
+      "text_present_as_separate_leaf": true,
+      "raw_ocr_archived": true
+    },
+    {
+      "pdf_page": 1,
+      "kind": "cover",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 2,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 3,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 4,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 5,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 42,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 43,
+      "kind": "colophon",
+      "text_present": true,
+      "review_status": "pending_full_transcription"
+    },
+    {
+      "pdf_page": 44,
+      "kind": "cover",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 45,
+      "kind": "cover",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 46,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 47,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 48,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 49,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 86,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 87,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 88,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 89,
+      "kind": "blank_or_flyleaf",
+      "transcription_status": "not_applicable"
+    },
+    {
+      "pdf_page": 90,
+      "kind": "cover",
+      "transcription_status": "not_applicable"
+    }
+  ]
+}
