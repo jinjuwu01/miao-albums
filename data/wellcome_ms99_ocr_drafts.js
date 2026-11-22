@@ -1,5 +1,6 @@
-// Wellcome MS Chinese 99: AI image readings with provisional English translations.
-// NOT independent scholarly transcriptions. See notes for uncertain glyphs.
+// Wellcome MS Chinese 99, provisional AI reading + draft English translation.
+// Based on user-supplied high-resolution page images. Not independently human-reviewed.
+// □ means illegible character. Page 0033 has an explicit omission in administrative history.
 window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
   "wellcome-ms99-p0005": {
     "title": "倮猓",
@@ -294,5 +295,71 @@ window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
     "ocr_raw": "",
     "transcription_kind": "ai_image_reading_provisional",
     "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0012": {
+    "title": "補籠苗",
+    "title_en": "Bulong Miao (historical label)",
+    "transcription": "查補籠苗在貴陽、安順、南籠、平越、都勻等處。五代時楚王馬殷率邕管柳州兵討兩江溪口，至黔留軍戍之，遂為南夷。在貴陽者，元時置貴州長官司，明隆慶改設貴陽府，領中曹正副、白納正副、養龍虎隆、青山、劉佐各長官司，後革青山劉佐二司改土歸流。國朝雍正七年革中曹□司改土歸流，仍領中曹正並白納正副、養龍虎隆五土司。在安順者，宋時係普里部，元初置普定路，明洪武改路為府，後改為安順府。在南籠者，宋時係于矢部，元時改屬普安路，明洪武設安籠守禦所，國朝康熙二十五年改所為南籠廳，雍正元年改廳為府。在平越者，唐時係金筑安撫司，宋元改金筑土府，明洪武二十一年改楊義長官司。在都勻者，明洪武置都勻安撫司，後改為都勻衛；弘治六年增置都勻府，以衛屬丹平、丹行、平州、天壩、平浪、邦水、都勻正副各長官司隸之。國朝康熙二十三年革丹平司，五十二年革丹行司，五十五年革平州司，五十九年革天壩司，雍正五年革平浪司，俱改土歸流，仍領邦水、都勻正副三土司。苗人衣尚青，以帕束首，腰繫彩布一幅，以十二月為歲首。男女歡聚，擊銅鼓，吹蘆笙，歌唱以為樂。惟安順府屬額征化海認納苗賦銀二錢，餘俱民苗一體，並無苗額。貴陽土產雞□菌、降真香、天蘇、□竹、桃竹、葛蒲、木薑子、羊棗藤；安順產沙參；南籠產粉葛；平越產香禾米。",
+    "translation": "The Bulong Miao are placed in Guiyang, Anshun, Nanlong, Pingyue, and Duyun. The account advances an origin story involving military settlers left in Guizhou during a campaign by Ma Yin of Chu in the Five Dynasties. Most of the text then traces native-official jurisdictions and their conversion into regular government administration across these districts, with particular attention to offices abolished during the Qing. It says the people favor blue clothing, wrap their heads in cloth, tie a colored strip at the waist, and begin the year in the twelfth lunar month. Men and women reportedly gather to sing, play bronze drums and the lusheng, and celebrate together. The text records a small special Miao tax payment in Anshun but says others paid alongside ordinary residents. It lists local products including fragrant woods, herbs, bamboo, kudzu, and rice. A few administrative and botanical characters remain unreadable.",
+    "notes": "根据用户原始高清题记逐列作 AI 视觉初稿，未经学者独立人工校核。『于矢部』及土司设置年代、支司名称和若干植物名仍有疑问，使用 □ 标出未读字；不将无法识别字补作确定文字。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0015": {
+    "title": "紅苗",
+    "title_en": "Red Miao (historical label)",
+    "transcription": "查紅苗在銅仁府屬。元時置銅人大、小江等處長官司，明洪武初改銅仁長官司，永樂十一年置銅仁府，領省溪、提溪、銅仁、大萬山四長官司。正統四年又置烏羅、平頭二長官司，萬曆二十六年革銅仁司改土歸流，置銅仁縣，後又革大萬山司改土歸流。國朝康熙四十三年平紅苗，設正大營，以同知駐其地；雍正八年平松桃紅苗，移同知駐焉。仍領省溪、提溪、烏羅、平頭正副共八土司。額征化海認納苗糧八十八石五斗一升。苗人有石、麻、田、龍等姓，衣用斑絲，牲畜不宰，皆搭殺以火去毛，微煮帶血而食。每歲五月寅日，夫婦各宿，不敢言，不出戶，以避鬼，恐致虎傷。同類爭鬥，婦勤方鮮。其在坡東坡西者，接連黔楚蜀三省，謂之三不管地方。昔係生苗，從前刮掠無忌，自勦撫後俱知□。土產硃砂、黑芝麻、水銀、白臘、桶木、杉木、黃楊、箭竹。",
+    "translation": "The ‘Red Miao’ are placed under Tongren Prefecture. The source traces its Yuan and Ming native-official establishments, their abolition, and campaigns and garrisoning under the Kangxi and Yongzheng emperors. It records an assessed Miao grain levy of 88 shi, five dou, and one sheng. Surnames listed include Shi, Ma, Tian, and Long. It describes patterned clothing, the preparation of livestock by singeing and lightly boiling, and a yearly fifth-month taboo during which married partners stay apart and avoid speaking or going outside out of fear of spirits and tiger attacks. The author refers to conflicts, to the border area adjoining Guizhou, Hunan, and Sichuan as a region beyond the effective control of any one authority, and to military pacification in prejudicial official terms. Listed products include cinnabar, black sesame, mercury, white wax, several woods, and arrow bamboo.",
+    "notes": "依据高清扫描页 15 的 AI 视觉识读草稿，未经学者独立核校。『搭殺』『婦勤方鮮』『自勦撫後俱知□』末字及相关描述尚存疑。特别保留『土產硃砂、黑芝麻、水銀』的原页位置，供水银史比较。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0016": {
+    "title": "狆家苗",
+    "title_en": "Zhongjia Miao (historical label)",
+    "transcription": "查狆家苗亦係五代時留戍為夷，在貴陽、安順、南籠、平越、都勻等處。在貴陽者，元時置貴州長官司，明隆慶改設貴陽府，領中曹正副、白納正副、養龍虎隆、青山、劉佐各長官司，後革青山劉佐二司改土歸流，仍領中曹正並白納正副、養龍虎隆五土司。在安順者，宋時係普里部，元初置普定路，明洪武改路為府，後改為安順府。在南籠者，宋時係□部，元時改屬普安路，明洪武置安撫司，後改為都勻衛，弘治六年增置都勻府，以衛屬丹平、丹行、平州、天壩、平浪、邦水、都勻正副各長官司隸之。國朝康熙二十三年革丹平司，五十二年革丹行司，五十五年革平州司，俱改土歸流，仍領邦水、都勻正副三土司。苗人好樓居，衣尚青而短，男子以青布纏頭，婦人以花帕蒙髻，長裙細摺多至二十餘幅，拖腰以綠布一幅，若綬，仍以青布襲之。性勤於織，以十二月為歲首，飲牛馬雞犬骨，以米糝和之作醋，至酸臭者為佳。每歲孟首跳月，以五色布編成小毬，男女跳舞，視所歡者擲之。聘用牛隻，視姿色定聘資。歲時擊銅鼓以為歡，多有讀書識字者。惟安順府屬額征化海認納苗賦銀二錢，餘俱民苗一體，並無苗額。貴陽土產雞□菌、降真香、天蘇、□竹、桃竹、葛蒲、木薑子、羊棗藤；安順產沙參；南籠產粉葛；平越產香禾米、黃蘗、木香、紫竹、水竹；都勻產苗酒、黑鉛、白鉛、棉花、銀杏、百合、鯽魚、方竹。",
+    "translation": "The group designated ‘Zhongjia Miao’ is said to descend from soldiers left on the southwestern frontier during the Five Dynasties. The text sets out the administrative history of Guiyang, Anshun, Nanlong, Pingyue, and Duyun, particularly the abolition of hereditary native offices and their replacement with regular jurisdictions. It describes the people as living in raised houses, wearing short blue garments, and women wearing patterned headcloths and long pleated skirts with an additional hanging fabric strip. The author comments on spinning and weaving and states that the twelfth month marked the beginning of the year. It describes a fermented sour food or condiment made from animal bones and rice, courtship dances involving small balls braided from multicolored cloth, bridewealth in cattle, bronze-drumming, and literacy. The final part addresses tax arrangements and lists local products from the various districts. Several manuscript characters, particularly in the administrative passages and botanical names, remain uncertain.",
+    "notes": "2026-11-22 AI 对照高清手写竖排原件初读，尚未经独立人工逐字校核。长段行政沿革存在与《補籠苗》页的近似段落，但不合并记录或默认为相同底本；『樓居』『醋』等风俗记载按本页抄录。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0024": {
+    "title": "黑苗",
+    "title_en": "Black Miao (historical label)",
+    "transcription": "查黑苗在黎平府及分駐之古州、都勻府分駐之八寨、丹江、鎮遠府分駐之清江等處。山居者曰山苗，曰高坡苗；近河者曰洞苗。其在黎平及外古州有土司者為熟苗，在裏古州及八寨、丹江、清江無官者向為化外生苗。宋時設古州八萬軍民總管府，尋改為長官司。明洪武三年湖耳、潭溪諸洞來朝，置蠻夷十四長官司。永樂十一年以古州、曹滴、潭溪、八丹、洪州、西山、福祿、永從七長官司置黎平府。宣德十年以湖耳、亮寨、歐陽、新化、龍里、中林、赤溪七長官司隸黎平府。弘治八年革福祿、永從二司改土歸流，置永從縣。國朝順治十七年革曹滴司，康熙二十三年革赤溪司，二十五年革西山司，俱改土歸流。雍正七年開闢裏古州苗疆，設古州同知駐焉，仍留古州、八丹、亮寨、新化、龍里、中林、潭溪正副、洪州正副、湖耳正副、歐陽正副十四土司。額征化海認納苗賦及苗糧折色布雞禾花折價，共銀一百六十八兩八錢六分一釐三毫。八年開闢八寨設同知，開闢丹江、清江各設通判分駐其地，與開闢之裏古州均係新疆，認納糧賦於雍正十三年間永行豁免。其苗人衣短尚黑，婦人給長髻，耳垂大環，銀項圈，以色錦緣袖。男女跣足，躋嶢巖捷如猿猴；食惟糯稻，炊熟成團，以手掬食。所得死犧，羊豕雞犬鴨鵝等類，連毛置之甕中，必俟蛆□臭腐，始以佐食，名曰□菜，珍為異味。寒無重衣，夜無臥具。古州土產生鐵、皮布；八寨土產棉花；清江土產香禾米、蔓竹；丹江並無物產。",
+    "translation": "The ‘Black Miao’ are situated in Liping and the frontier posts of Guzhou, Bazhai, Danjiang, and Qingjiang. The author distinguishes mountain communities from those living near rivers and uses the official categories ‘cooked/tamed Miao’ (shu Miao) and ‘raw/unsubdued Miao’ (sheng Miao), terminology that reflects Qing state classifications rather than neutral identities. The passage gives a long history of native chieftain offices and the establishment of Liping Prefecture, then describes frontier expansion, new posts, tax assessments, and exemptions in the Yongzheng reign. It describes dark clothing, women's hairstyles and silver ornaments, barefoot travel through rugged terrain, glutinous-rice meals, and practices of storing carcasses that the author portrays with distaste. The text states that some frontier areas were newly incorporated into administrative control. Local products listed include iron, cloth, cotton, fragrant rice, and bamboo. Several rare terms in the account of food practices are still illegible.",
+    "notes": "AI 依据高清图像逐列整理的中文试读与英文试译，尚未独立人工核校。原文『熟苗／生苗』为清代政治分类；『蛆□臭腐』『□菜』缺字留白，不应强行补成食物名。行政沿革较长，仍需据地方志及异本核对年月和土司名。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0033": {
+    "title": "□□苗（原題待核）",
+    "title_en": "Historical Miao heading illegible (scan 33)",
+    "transcription": "查□□苗在都勻、黎平、黃平、龍泉、龍里、石阡、施秉、餘慶等處。在都勻者，明時置府，領丹平、丹行、平州、天壩、平浪、邦水、都勻正副各長官司。國朝康熙二十三年革丹平司，五十二年革丹行司，五十五年革平州司，五十九年革天壩司，雍正五年革平浪司，俱改土歸流，仍領邦水、都勻正副三土司。在黎平者，明時置府，領古州、曹滴、潭溪、八丹、洪州、西山、福祿、永從等長官司。〔以下各州縣、長官司沿革數列待完整逐字校核〕。國朝因之。苗種最夥，剽悍不逾門戶，不局出入以泥封之。其服食風俗與漢人同，男子計口而耕，婦人度身而織；暇則操弓以漁獵為事。應輸稅糧，惟黎平府屬額征化海認納苗賦銀一百六十八兩八錢六分一釐三毫，餘俱民苗一體，並無苗額。都勻產苗酒、黑鉛、白鉛、棉花、銀杏、百合、鯽魚、方竹；黎平產苗錦、皮布、木耳、排香草、青皮香；黃平產黃精、南星、竹雞；龍泉產湘妃竹；石阡產硃砂、水銀、鐵膽、木瓜、知母、湘妃竹、白兔；施秉產香禾米、蔓竹；餘慶產石膏、朴竹、萬壽菊、香禾米。",
+    "translation": "The historical ethnonym at the head of this long entry has not yet been securely identified. It places the group across Duyun, Liping, Huangping, Longquan, Longli, Shiqian, Shibing, and Yuqing. The opening section traces the native chieftain offices and successive administrative reorganizations of these places; part of that lengthy section still awaits exact transcription. The account then describes agriculture, household textile work, and fishing and hunting, as well as separate or shared tax assessments, including a levy assigned to Liping. The final product lists are particularly important: the Shiqian entry names cinnabar (zhusha, 硃砂) and mercury (shuiyin, 水銀), together with several medicinal products. Elsewhere the source names wine, lead, cotton, brocade, mushrooms, plants, and bamboo. This is a provisional reading and partly an English summary, not a complete verified translation.",
+    "notes": "2026-11-22 AI 依据用户高清扫描视读；尚未经过研究者校核。此页文字极密，原族称字形和中段行政沿革尚未完整转录，因此明确标为部分试稿，不冒称已完成全文 OCR。重点确认左侧物产栏可见『石阡產硃砂、水銀』；其余物产地名仍应复查。",
+    "transcription_scope": "partial_administrative_middle_omitted",
+    "translation_scope": "partial_summary",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
   }
 };
