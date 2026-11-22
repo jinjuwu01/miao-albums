@@ -1,0 +1,143 @@
+{
+  "schema": "unreviewed-source-images-v1",
+  "records": [
+    {
+      "prefix": "rsl_v1",
+      "page": 10,
+      "preview": "images/external_pilot/rsl_v1_p010.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v1",
+      "page": 11,
+      "preview": "images/external_pilot/rsl_v1_p011.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v1",
+      "page": 12,
+      "preview": "images/external_pilot/rsl_v1_p012.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v1",
+      "page": 13,
+      "preview": "images/external_pilot/rsl_v1_p013.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v1",
+      "page": 14,
+      "preview": "images/external_pilot/rsl_v1_p014.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v1",
+      "page": 15,
+      "preview": "images/external_pilot/rsl_v1_p015.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v1",
+      "page": 16,
+      "preview": "images/external_pilot/rsl_v1_p016.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v1",
+      "page": 17,
+      "preview": "images/external_pilot/rsl_v1_p017.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v1",
+      "page": 18,
+      "preview": "images/external_pilot/rsl_v1_p018.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 2,
+      "preview": "images/external_pilot/rsl_v2_p002.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 3,
+      "preview": "images/external_pilot/rsl_v2_p003.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 4,
+      "preview": "images/external_pilot/rsl_v2_p004.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 5,
+      "preview": "images/external_pilot/rsl_v2_p005.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 6,
+      "preview": "images/external_pilot/rsl_v2_p006.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 7,
+      "preview": "images/external_pilot/rsl_v2_p007.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 8,
+      "preview": "images/external_pilot/rsl_v2_p008.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 9,
+      "preview": "images/external_pilot/rsl_v2_p009.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "rsl_v2",
+      "page": 10,
+      "preview": "images/external_pilot/rsl_v2_p010.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "manchester",
+      "page": 8,
+      "preview": "images/external_pilot/manchester_p008.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "manchester",
+      "page": 9,
+      "preview": "images/external_pilot/manchester_p009.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "manchester",
+      "page": 10,
+      "preview": "images/external_pilot/manchester_p010.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "manchester",
+      "page": 11,
+      "preview": "images/external_pilot/manchester_p011.jpg",
+      "downloaded": true
+    },
+    {
+      "prefix": "manchester",
+      "page": 12,
+      "preview": "images/external_pilot/manchester_p012.jpg",
+      "downloaded": true
+    }
+  ]
+}
