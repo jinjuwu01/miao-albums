@@ -1856,5 +1856,105 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-713cff9cb482-p0045": {
     "translation": "The Gulan Miao live in Dingfan. The author describes them as formidable, yet increasingly concerned with farming. Women weave fine cloth highly sought after in markets, commonly called Gulan cloth. Marriage usually involves matchmakers.",
     "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0003": {
+    "translation": "The Guoluo live under Dading, with black and white branches, the former held to be senior. They are also called Wuman or Luogui and have a writing system compared by the author to ancient 'insect script.' They breed horses and enjoy archery and hunting. A proverb about Shuixi's Luogui emphasizes how quickly the group responds to a summons.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0005": {
+    "translation": "The female official is the principal wife of a Guoluo chieftain, called Naide. She wears braided hair, blue headcloth, silver forehead ornaments, large earrings, and a long skirt of many panels. Only her children can inherit the chieftainship; when an heir is young, she governs in his stead.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0007": {
+    "translation": "The Bai Guoluo of Dading are compared with the Hei Guoluo. The source gives disparaging descriptions of their food and cooking vessels and says the dead are wrapped in cattle or horse hides and cremated. A related group in Puding is called Ahe.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0009": {
+    "translation": "The Songjia live under Guiyang and Anshun and are said to descend from people of the Chinese central states. Their writing resembles Chinese. Men wear hats and long-fronted clothes, women hairpins and shorter upper garments. Men farm, women weave, and some study and enter local schools.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0011": {
+    "translation": "The Caijia live around Guizhu, Xiuwen, and Qingzhen. A legend traces them to people captured by the state of Chu. Men wear short felt garments; women's tall horn-shaped headdresses are also made of felt. Fathers-in-law and daughters-in-law do not speak. The text describes mourning restrictions and the disturbing practice of attempted widow sacrifice, sometimes prevented by the woman's natal family. [Some words are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0013": {
+    "translation": "The Kayou Xiajia [historical label uncertain] live near Guiyang, Anshun, Xingyi, Pingyue, and Duyun. Men dress similarly to Han people, while women wear blue patterned headscarves and short jackets. The sixth day of the sixth lunar month is a major festival. Young people meet to sing, dance, throw colored balls, and exchange garments as signs of affection. Marriage ceremonies may follow childbirth.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0015": {
+    "translation": "The Bulong Xiajia live around Guiyang, Dingfan, and Guangshun. Their principal festival is recorded here as the first day of the tenth lunar month and features bronze drums. At funerals cattle are slaughtered and wine served in ox horns, but chief mourners refrain from meat and eat fish and shrimp. An umbrella covering a grave is burned after one year.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0017": {
+    "translation": "The Qing Xiajia live near Guzhou, Qingjiang, and Danjiang. They favor blue clothing. Women are praised for games and the text mentions lovers called malang; parents do not intervene, but the couple avoids a woman's brothers. The group uses wooden marks as tokens rather than writing. [The final term may be misrecognized.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0019": {
+    "translation": "The Zengzhu Longjia live under Anshun. They wear white clothes and fine square cloth headscarves, with a long hair tail down the back. The dead are cremated and their bones buried. Graves are honored on the seventh day of the seventh lunar month.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0021": {
+    "translation": "The Gou'er Longjia live near Anshun and Dading. Men and women dress in white and form their hair into shapes likened to dog's ears. After spring begins, a white-cloth spirit pole is erected outside for young people to dance and choose partners; cattle and horses are later involved in betrothal gifts.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0023": {
+    "translation": "The Madeng Longjia live in Zhenning and include Liu, Zhao, and Zhang families. They favor white clothing, changing to blue for mourning. Women arrange dark-cloth headdresses into horse-stirrup shapes. They make their living from farming.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0025": {
+    "translation": "The Datou Longjia live around Zhenning and Puding. Men wear bamboo hats and women blue garments, short skirts, and large hair coils incorporating horsehair. The name 'large-headed' is connected with these coiffures. Both sexes farm diligently.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0027": {
+    "translation": "The Hua Miao live around Dading, Anshun, Zunyi, and Guiyang. The source describes patchwork vests without collars or sleeves, patterned skirts, and a ritual preference for divination and spirit offerings in illness or burial. It characterizes the group as law-abiding and industrious, while its language about customs is disparaging. [Some burial terms are garbled.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0029": {
+    "translation": "The Hong Miao of Tongren have surnames including Long, Shi, Wu, Ma, and Bai. Women weave patterned silk. The source says women intervene in disputes. A specified day in the fifth lunar month is observed by spouses sleeping apart, keeping silent, and remaining indoors to avoid the White Tiger spirit. At funerals people beat drums around effigies made from the deceased's clothing.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0031": {
+    "translation": "The Bai Miao live near Longli, Guiding, and Qianxi. They favor white garments, while women wear pinned hairstyles and patterned skirts. During ancestral rites participants wear ceremonial clothing, and after sacrifices families sing and drink together. [Several sacrificial details are indistinct.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0033": {
+    "translation": "The Qing Miao live near Qianxi, Zhenning, Xiuwen, Guizhu, and Pingyuan. They wear blue clothing; women cover their hair with blue cloth, while men wear bamboo hats and straw sandals. The author portrays their former manner as fierce but claims it has now grown gentler.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0035": {
+    "translation": "The Hei Miao live across Duyun, the Eight Stockades, Danjiang, Zhenyuan, Qingjiang, Liping, and Guzhou. The author describes a former reputation for fighting and carrying blades and spears, with white feathers in their hair. In early spring they hold lusheng dances with long and short bamboo instruments and trained musicians.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0037": {
+    "translation": "The Dong Miao live around Guizhu, Xiuwen, Longli, Qingzhen, and Qingping. Women wear patterned sleeveless clothes and finely pleated skirts. Communities sacrifice cattle to ancestors, offer game caught in spring, and are said to observe ritual obligations and official law.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0039": {
+    "translation": "The Xi Miao live near Guiyang and Pingyue, with households named Ma, Xie, Luo, He, and Lei. Every tenth lunar month communities gather outdoors for lusheng music, singing, and dancing in colored sashes. The author calls them law-abiding and seldom involved in litigation.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0041": {
+    "translation": "The Yao Miao, also called Tianjia, live near Pingyue and include many families surnamed Ji. The text calls them gentle, frugal, and interested in education. It also describes leaf clothing, bamboo structures used in courtship, and leaving the dead bound in trees rather than buried.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0043": {
+    "translation": "The group whose name is illegible lives around Zhenfeng, Luohu, and Ceheng. Its territory was reportedly transferred from western Guangxi to Guizhou in the fifth year of Yongzheng. The people farm diligently and are described as sharing some hair and clothing customs with Han neighbors. [The source's group name and some details are unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0045": {
+    "translation": "The Daya Gelao live around Dading, Qianxi, Qingping, Huangping, and Pingyuan. Brides are said to have two front teeth removed to avert harm to their husband's families. Both sexes wear simple woolen tube skirts, and hairstyles are arranged differently before and behind.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0047": {
+    "translation": "The Jiantou Gelao live around Guiding, Shibing, and Pingyue. Men and women wear short hair of about an inch, work at agriculture, and cremate the dead on piled firewood.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0049": {
+    "translation": "The Zhushi Gelao live around Shiqian, Liping, Guzhou, Pingyuan, and Qingping. The historical author uses strongly prejudicial claims about hygiene, animals, weapons, and recklessness. The text also says these communities have become more peaceful. [The final phrase is corrupted.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-e7b41523743e-p0051": {
+    "translation": "The Hong Gelao live around Guangshun, Pingyuan, and Qingping. They farm diligently and place coffins containing deceased relatives in caves or by rivers or large trees rather than burying them, sometimes marking the place with a memorial called a 'family hall.' The author says these customs are changing.",
+    "translation_status": "ai_draft"
   }
 };
