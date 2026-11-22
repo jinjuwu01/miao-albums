@@ -15,7 +15,7 @@ s=requests.Session();s.headers['User-Agent']='MiaoAlbumsDigitalArchiveResearch/1
 rows=[]
 for p in SAMPLES:
   url=base.format(p=p)
-  row={'record_id':f'manchester-c398-p{p:03d}','source_url':url,'source':'John Rylands Library Chinese Crawford 398','page':p,'status':'machine_unverified','ocr_engine':'tesseract 5 HanT_vert','ocr_raw':'','confidence_mean':None}
+  row={'record_id':f'manchester-c398-p{p:03d}','source_url':url,'source':'John Rylands Library Chinese Crawford 398','page':p,'status':'machine_unverified','ocr_engine':'tesseract 5 HanT vertical-column PSM5','ocr_raw':'','confidence_mean':None}
   try:
     r=s.get(url,timeout=70);r.raise_for_status()
     if not r.headers.get('content-type','').startswith('image/'):raise RuntimeError('Not an image: '+r.headers.get('content-type',''))
@@ -26,7 +26,8 @@ for p in SAMPLES:
     input_img=IMAGES/(f'manchester_p{p:03d}_ocr.png')
     gray.save(input_img)
     # PSM 5: vertical columns; all results are candidates, never reviewed readings.
-    o=subprocess.run(['tesseract',str(input_img),'stdout','-l','HanT_vert','--psm','5'],capture_output=True,text=True,timeout=100)
+    o=subprocess.run(['tesseract',str(input_img),'stdout','-l','HanT','--psm','5'],capture_output=True,text=True,timeout=100)
+    if o.returncode != 0: raise RuntimeError('Tesseract exited %s: %s' % (o.returncode,o.stderr[:600]))
     row['ocr_raw']=o.stdout.strip()
     row['error']=o.stderr[:400] if o.returncode else None
     # OCR gibberish can resemble text: never promote machine-only results automatically.
