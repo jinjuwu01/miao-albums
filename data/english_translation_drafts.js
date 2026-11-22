@@ -216,5 +216,61 @@ window.MIAO_ENGLISH_DRAFTS = {
   "new-qiansheng-plate054": {
     "translation": "The Bai'ezi live around Yongfeng and Luohu. Men arrange their hair in pointed topknots and wear long white garments. Women are described as wearing shorter clothing without skirts. The text compares their customs with those of another group, records prayers to spirits when people fall ill, and says the sick do not wash their hair. [The accompanying verse appears to reverse some clothing details and is uncertain.]\n\nVerse (provisional): The poem refers to pointed coiled hairstyles and petitions to spirits, identifying Yongfeng and Luohu as the group's home.",
     "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate055": {
+    "translation": "The Ranjia Man live around Yanhe, under Sinan Prefecture. The text says they enjoy fishing and hunting and regard fish and shrimp as delicacies; it compares their customs with those of another group labeled Manren.\n\nVerse (provisional): The Ranjia live in Sinan and spend the year fishing and hunting. The surviving line also refers to cattle and wine, but the poem's wording is incomplete.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate056": {
+    "translation": "The Futou Miao live in Guzhou and are described as related to the Dong Miao and classified as Hei Miao. They cultivate without cattle, using iron implements. Their major festival falls on the first day of the eleventh lunar month. The passage elaborately describes women's braided hair, silver head ornaments, hairpins, earrings, neck rings, and multicolored trim. It also describes demanding marriage payments and a fee termed 'nephew money' when a woman seeks to remarry or form a new union under certain circumstances. [Parts of the kinship terms and marriage procedure are uncertain.]\n\nVerse (provisional): The poem refers to marriage gifts and obligations imposed across generations, and to cultivating without cattle. Its last words are unclear.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate057": {
+    "translation": "The Eight-Stockade Hei Miao live in Duyun. Women embroider their sleeves and wear decorated breast panels called dianpa. Villages build communal 'malang houses' where unmarried men and women meet in the evening. Betrothal gifts include cattle and wine. The text says a bride may return to her natal home after three days, and that her family can demand further payments from the husband; refusal may lead to another marriage. It also mentions a payment called 'ghost-head money,' though its precise circumstances are uncertain.\n\nVerse (provisional): A malang house is built in the village, and the groom cannot neglect a payment called 'head money.' A bride returns to her mother's home three days after marriage; cattle and wine convey betrothal gifts.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate058": {
+    "translation": "The Louju Hei Miao live in the Eight Stockades and Danjiang. Men cultivate the land; the author describes their character as strong and straightforward. Families occupy upper floors of houses while livestock stay below. On death, bodies are placed in coffins and left for a prolonged period, described here as thirty years, before the whole community selects an auspicious date for collective burial. An ancestral shrine called a 'spirit hall' is also mentioned. The account stresses belief in spirits and taboos concerning household objects.\n\nVerse (provisional): They like living upstairs and raise much livestock. The deceased rest in coffins, and the poem warns that improper conduct could bring misfortune.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate059": {
+    "translation": "The Heishan Miao live around Guyang and Qingjiang. They bind their hair with blue cloth and dwell deep in mountain valleys. In hostile language, the source alleges that some grow wealthy through capture or plunder rather than agriculture. It credits them with divination using grass stalks to predict fortune and misfortune.\n\nVerse (provisional): The poem repeats accusations of violent raiding, describes dwellings deep in mountain ravines, and mentions the use of grasses for divination. [Several phrases are unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate060": {
+    "translation": "The Hei Sheng Miao live in the Qingjiang jurisdiction. The source, using disparaging language, accuses them of forming groups to raid wealthy households with torches and blades. It claims that after Qing military subjugation in 1735 they submitted to government authority and adopted more settled occupations. [Several phrases in the Chinese passage are incomplete.]\n\nVerse (provisional): The verse depicts bands identifying isolated wealthy households, gathering with long spears and sharp weapons, and then turning to farming after pacification.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate061": {
+    "translation": "The Gaopo Miao, also called Dingban Miao, live around Huangping and Qianxi. They favor black clothing and cultivation on upland slopes. Women use a wooden piece about a chi long to fasten their hair; this head ornament explains the name Dingban. The passage describes weaving and partner choice outside formal matchmaking.\n\nVerse (provisional): They favor steep mountain fields, and women spin and weave diligently. Couples choose each other, the author says, according to local customs. [The first line is partly unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate062": {
+    "translation": "The Pingfa Miao live around Xintianying in Guiding. Men wear straw capes and short trousers; women wear short tops and tube skirts, fastening coiled hair with long pins. The account refers to the use of dogs in marriage, funeral, or sacrificial rites, though the precise wording is uncertain.\n\nVerse (provisional): Men wear straw garments and short trousers; women coil their hair in buns. Dogs are slaughtered for marriage and sacrificial ceremonies, according to the poem.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate063": {
+    "translation": "The Hei Zhongjia live in Qingjiang. They plant many trees and the account notes prosperous households. Han neighbors reportedly borrow money or form business partnerships with them. The text describes a practice in which creditors or aggrieved parties might remove ancestors' remains from a guarantor's grave and keep the bones until the guarantor made restitution. Called 'taking the white and releasing the black,' this practice was said to have declined with the introduction of the baojia system. [Some debt and guarantor terminology is uncertain.]\n\nVerse (provisional): Their trading accounts show wealth, and Han neighbors commonly seek loans. When debts cannot be repaid after a fraud, the poem speaks of disturbing burial remains to compel a guarantor to act.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate064": {
+    "translation": "The Qingjiang Zhongjia also live around Baigong. In an explicitly hostile description, the source alleges that armed parties once seized lone travelers, placed them in wooden cangues, and demanded money for their release. It adds that recent severe punishment had ended or reduced the practice.\n\nVerse (provisional): The poem condemns forcible ransom, wooden restraints, and armed men with swords. It contrasts those acts with the author's claim that military pacification has restored order.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate065": {
+    "translation": "The Liminzi live around Guiyang, Qianxi, Dading, and Qingzhen. Men make a living by trading, while women farm diligently and spin wool into cloth in their spare time. The people are said to value livestock, which they take into the mountains, and to observe festivals similar to those of Han communities.\n\nVerse (provisional): After fieldwork they spin and weave, walking across streams in straw sandals. Men engage in trade around Guiyang, Qingzhen, and Qianxi.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate066": {
+    "translation": "The Bafan Miao live in Dingfan. The text says men's and women's dress resembles Han clothing. Women labor in the fields and at weaving, while men are portrayed as more at leisure. Rice is threshed or pounded with equipment worked by flowing water. Relatives gather annually to play long waist drums. Their major festival is the first day of the tenth lunar month. At funerals, burial may take place without selecting an auspicious date, quietly removing the body so, as the passage puts it, the deceased parent is not disturbed. [The agricultural equipment passage is partially garbled.]\n\nVerse (provisional): Women farm at sunrise and weave when the day is done; a water-driven wooden mortar pounds grain. Funerals are conducted quietly so the parent will not hear.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate067": {
+    "translation": "The Zijiang Miao live around Qingping and Danjiang and are said to resemble a group in Dushan. The source ascribes to them a former reputation for fighting and fierce retaliation. The first day of the tenth lunar month is a major festival, with taboos about doors. In Pingyue, the text says, some enter military service, fight effectively, or study the Confucian classics and gain admission to local schools.\n\nVerse (provisional): The poem contrasts older ethnic divisions with people now serving in the army or sitting examinations, saying one could hardly recognize them as Miao. [Several historical labels and characters remain uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate068": {
+    "translation": "The Guge Miao live in Dingfan Prefecture. The source portrays them as formidable fighters who carry knives, spears, and crossbows and are feared by neighboring communities. It also says men now farm and women weave, producing a fine cloth especially sought after for shirts and trousers. Marriages are arranged through intermediaries.\n\nVerse (provisional): Women's spinning and weaving produce admired cloth that sells well in the markets. The poem evokes the men's long spears and powerful crossbows as objects of fear.",
+    "translation_status": "ai_draft"
   }
 };
