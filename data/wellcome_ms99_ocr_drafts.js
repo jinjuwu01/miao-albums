@@ -1,4 +1,4 @@
-// Wellcome MS Chinese 99 · provisional AI image readings, NOT human-verified.
+// Wellcome MS Chinese 99 · provisional AI image readings (NOT human-reviewed).
 window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
   "wellcome-ms99-p0005": {
     "title": "倮猓",
@@ -186,6 +186,30 @@ window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
     "transcription": "查白苗係西南夷，並無土司部落。明始歸流，在貴定、龍里、黔西等處，民苗雜居，稅糧共納，並無苗地物產。男子科頭赤足，婦人盤髻長簪，衣服尚白，短僅及膝。跳月之習與花苗同。祀祖擇大牯牛飼壯，即會各寨有牛者合鬥於野，勝即為吉。鬥後卜日砍牛以祀，主祭者服白衣青套，著細摺裙。祭後合親族高歌暢飲而散。",
     "translation": "The source places the group it calls the “White Miao” in Guiding, Longli, Qianxi, and surrounding districts, living among other residents. It says there were no native chieftain divisions or designated Miao lands, and taxes were paid collectively. Men are described as bareheaded and barefoot, women as wearing coiled hairstyles secured by long hairpins, and both as favoring white clothing. The account compares their “jumping the moon” custom with that of the Hua Miao. It describes an ancestral ritual in which strong bulls from different villages were made to fight, victory being interpreted as auspicious. The chosen animal was then slaughtered on a selected day for sacrifice, followed by communal singing and drinking among relatives.",
     "notes": "2026-11-22 AI 图像视读初稿，尚未研究者逐字校核。『青套』等祭服词汇与『合鬥於野』仪式语句需回查。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0026": {
+    "title": "打牙犵狫",
+    "title_en": "Tooth-Chipping Gelao (historical group label)",
+    "transcription": "查打牙犵狫在平越、黔西等處。在平越者，唐時係金筑安撫司，宋元改金筑土知府，明洪武二十一年改楊義長官司。在黔西者，元明係宣慰使。國朝康熙三年改土歸流，置黔西府，二十二年改州，隸大定府。苗女以青羊皮織為長桶裙，將嫁必先打其二齒，恐妨夫家。又剪前髮而披後髮，取齊眉之意。性情剽悍，習俗鄙俚。應輸稅糧，民苗一體，並無苗額。平越土產香禾米、黃蘗、木香、紫竹、水竹；黔西產西瓜、白鵝、薏苡仁。",
+    "translation": "The source places those it calls the “Tooth-Chipping Gelao” around Pingyue and Qianxi and recounts the administrative history of both districts from the Tang through the Qing. It describes women as wearing long tubular skirts made with blue-colored sheepskin material. It claims that, before marriage, two teeth were knocked out, allegedly to avoid bringing harm to the husband's household. The passage also describes cutting the hair in front and wearing the hair behind down. The author calls the group fierce and its customs coarse—judgments that should not be mistaken for impartial descriptions. It says taxes were paid alongside other inhabitants without a separate Miao assessment. The final sentences list local rice, plants, bamboo, fruits, and other products.",
+    "notes": "依据 3000px 原件逐列 AI 视读，未由研究者人工核校。族称『打牙犵狫』、涉及打齿与婚姻的叙述以及『楊義』官名仍须严格复核。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0029": {
+    "title": "棘人",
+    "title_en": "Ji people (provisional historical group label)",
+    "transcription": "查棘人在普安州屬，元時係普安路，明永樂元年改普安安撫司，十三年改置普安州，領土州同一員。國朝康熙四十一年廢土州同，改土歸流。棘人男女皆披毧衣，垢不沐浴，六月二十四日祭天過歲，朔望日不乞火，性淳好佛，常持素珠誦梵咒。凡倮猓、狆家、犵狫言語有不諳者，常以棘人為通事。應輸稅糧，民苗共納。土產橙、榛、芭蕉、羅漢松、筍竹。",
+    "translation": "The group provisionally read as the “Ji people” is placed under Pu'an Department. The account traces administrative changes from Pu'an Circuit under the Yuan through native offices of the Ming and their abolition in the forty-first year of Kangxi. It claims that men and women wore woolen garments and did not bathe frequently. It describes an annual rite to heaven on the twenty-fourth day of the sixth lunar month, a taboo on borrowing fire at new and full moons, and the recitation of Buddhist incantations while holding prayer beads. The text says members of this group often served as interpreters when speakers of other local languages could not understand one another. It notes collective tax payment and ends by listing local fruits and plants. The ethnonym and the author's social judgments require particular caution.",
+    "notes": "AI 按竖排原图视读，未经研究者独立校订。右侧原题名暂读『棘人』；『棘』的古字形可能另有异体，需与同类苗图异本比勘。",
     "status": "image_checked_draft",
     "page_kind": "caption",
     "translation_status": "ai_draft",
