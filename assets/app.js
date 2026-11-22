@@ -2,9 +2,8 @@
   'use strict';
   const LEGACY_PLATES = Array.isArray(window.MIAO_RECORDS) ? window.MIAO_RECORDS : [];
   const SHENGHUO_EXTRA_SCANS = Array.isArray(window.MIAO_SHENGHUO_EXTRA_SCANS) ? window.MIAO_SHENGHUO_EXTRA_SCANS : [];
-  // Restore PDF leaves 1-4 and 45-47 around the original 40 plates (pages 5-44).
-  const LEGACY = [...SHENGHUO_EXTRA_SCANS.filter(r => r.pdf_page < 5),
-    ...LEGACY_PLATES, ...SHENGHUO_EXTRA_SCANS.filter(r => r.pdf_page > 44)];
+  // Original 40 plates (PDF pages 5–44), followed by supplemental scans for pages 45–47 only.
+  const LEGACY = [...LEGACY_PLATES, ...SHENGHUO_EXTRA_SCANS.filter(r => r.pdf_page > 44)];
   const IMPORTED = Array.isArray(window.MIAO_IMPORTED_RECORDS) ? window.MIAO_IMPORTED_RECORDS : [];
   const IMAGE_DRAFTS = window.MIAO_VISUAL_DRAFTS && typeof window.MIAO_VISUAL_DRAFTS === 'object' ? window.MIAO_VISUAL_DRAFTS : {};
   const COLUMN_REVIEWS = window.MIAO_COLUMN_REVIEWS && typeof window.MIAO_COLUMN_REVIEWS === 'object' ? window.MIAO_COLUMN_REVIEWS : {};
