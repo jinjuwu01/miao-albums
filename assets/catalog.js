@@ -99,7 +99,7 @@
         const cards = canvases.slice(offset,end).map((c,i) => {
           const img = getImg(c);
           const label = typeof c.label === "string" ? c.label : (c.label?.en?.[0] || c.label?.none?.[0] || "");
-          const href = c["@id"] || c.id || x.url;
+          const href = img ? img.replace("/full/360,/0/default.jpg", "/full/1600,/0/default.jpg") : x.url;
           return `<a class="leaf-tile" href="${esc(validURL(href))}" target="_blank" rel="noopener noreferrer">
             ${img ? `<img loading="lazy" src="${esc(img)}" alt="${esc("Scan " + (offset+i+1))}">` : '<span class="leaf-no-image">IIIF</span>'}
             <span>${esc(label || "第 "+(offset+i+1)+" 頁 / Leaf "+(offset+i+1))}</span></a>`;
