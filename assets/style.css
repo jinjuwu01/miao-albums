@@ -77,3 +77,7 @@
 .method-intro-en p.method-en,.method-grid article p.method-en{font-family:var(--font-en)}
 .hero-copy>p:not(.hero-en):not(.hero-title-en){font-family:var(--font-zh)}
 .site-header nav,.brand-copy small,.eyebrow,.header-version{font-family:var(--sans)}
+
+/* Chen Hao Man Miao Tushuo: one left-hand inscription + one right-hand painting per original spread. Original scan remains unchanged. */
+.plate-frame.plate-half.chenhao-half{aspect-ratio:0.75;max-width:100%;}
+.result-thumb.spread-right img{transform:scale(1.8);transform-origin:right center}
