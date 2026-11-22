@@ -5,8 +5,8 @@
 - 原件：[Wellcome Collection, MS Chinese 99](https://wellcomecollection.org/works/f8b2bkkd)，公版標記 Public Domain Mark。「百苗圖」是本站的系列工作名稱，不代表原件書名。
 - 已核查使用者上傳的 **52 張 3000px 掃描**：其中 **29 頁為左側竪排題記、右側彩繪的對開圖文頁**；其餘 23 張是封面、空白、襯頁或色卡等非正文頁。全套頁面保留，不刪除或合併非正文影像。
 - [圖冊獨立數據檔](data/wellcome_ms99_scans.js)：52 條原始掃描記錄；29 幅圖文頁可單獨放大題記或顯示彩繪。網站圖像通過 Wellcome IIIF 遠程展示；未把高清 JPG 全部存入 GitHub。
-- [AI 高解析度視讀及英譯草稿](data/wellcome_ms99_ocr_drafts.js)：目前 **14 頁**，均標記 `image_checked_draft`、`ai_draft`。此為 AI 依照使用者實際高清圖像逐列核讀，不等同學者已校訂的文字。其餘 15 幅仍待校，**不可把沒有轉錄當作沒有文字**。
-- [API OCR 候選層](data/wellcome_ms99_api_ocr_candidates.js)：與上述 AI 圖像視讀的文字分開存儲。API 工作流不會覆寫已視讀的 14 份草稿。
+- [AI 高解析度視讀及英譯草稿](data/wellcome_ms99_ocr_drafts.js)：目前 **18 頁**，均標記 `image_checked_draft`、`ai_draft`。此為 AI 依照使用者實際高清圖像逐列核讀，不等同學者已校訂的文字。其餘 11 幅仍待校，**不可把沒有轉錄當作沒有文字**。
+- [API OCR 候選層](data/wellcome_ms99_api_ocr_candidates.js)：與上述 AI 圖像視讀的文字分開存儲。API 工作流不會覆寫已視讀的 18 份草稿。
 - 最重要的個別條目之一：[第 36 掃描頁（猺苗）](https://jinjuwu01.github.io/miao-albums/index.html#wellcome-ms99-p0036)，末尾記錄『土產硃砂、雄磺』；仍須以原圖及相關版本複核。
 - [逐列 OCR 復核工具](review.html) 可以選擇 Wellcome 原頁；非文字掃描不需要 OCR。
 
@@ -23,7 +23,7 @@ python3 scripts/process_wellcome_ms99.py --mode download --pages 1-52 --width 30
 python3 scripts/process_wellcome_ms99.py --mode ocr --pages 5-6 --publish
 ```
 
-這條命令把獨立 OCR 候選保存至 `data/wellcome_ms99_api_ocr_candidates.js`，不覆寫 `data/wellcome_ms99_ocr_drafts.js`，也不會自動提交 GitHub。上站前請人工檢查原文分列、古字、版面和英譯。現有 14 頁草稿未進行獨立學者核校。
+這條命令把獨立 OCR 候選保存至 `data/wellcome_ms99_api_ocr_candidates.js`，不覆寫 `data/wellcome_ms99_ocr_drafts.js`，也不會自動提交 GitHub。上站前請人工檢查原文分列、古字、版面和英譯。現有 18 頁草稿未進行獨立學者核校。
 
 ---
 
