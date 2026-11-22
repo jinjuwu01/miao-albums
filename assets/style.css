@@ -56,22 +56,23 @@
 .reader-notice .note-en{font:11px/1.7 Georgia,serif;color:#896e5c;margin:7px 0 0}
 @media(max-width:760px){.hero-copy>.hero-en{font-size:13px}.local-edits-info .method-en{line-height:1.8}}
 
-/* Bilingual introduction above the hero: Chinese left, English right. */
-.hero-about{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);column-gap:clamp(32px,4vw,64px);align-items:start;width:100%;padding:0 0 23px;border-bottom:1px solid var(--border);scroll-margin-top:16px}
-.hero-about-zh,.hero-about-en{min-width:0;max-width:525px}
-.hero-about h2{font:500 19px/1.45 var(--serif);letter-spacing:.01em;margin:0 0 11px;color:var(--ink)}
-.hero-about-en h2{font:500 19px/1.45 var(--serif);letter-spacing:.01em}
-.hero-about p{font:normal 13px/1.85 var(--sans);color:#58625e;margin:0}
-.hero-about-en p{font:normal 13px/1.85 var(--sans);color:#777e79}
+/* Miao-albums introduction: one bilingual heading, parallel reading underneath. */
+.hero{row-gap:30px}
+.hero-about{grid-column:1/-1;width:100%;padding:0 0 24px;border-bottom:1px solid var(--border);scroll-margin-top:16px}
+.hero-about h2{font:500 19px/1.5 var(--serif);letter-spacing:.01em;margin:0 0 17px;color:var(--ink)}
+.hero-about h2 span{font:normal 16px/1.5 Georgia,"Times New Roman",serif;letter-spacing:0;color:var(--muted);margin-left:10px}
+.hero-about-body{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);column-gap:clamp(32px,4vw,64px);align-items:start}
+.hero-about-body p{min-width:0;max-width:525px;margin:0;font:normal 13px/1.85 var(--sans);color:#58625e}
+.hero-about-body p.hero-about-en{color:#777e79}
 .site-header nav{column-gap:clamp(16px,2vw,34px)}
-@media(max-width:1100px){
-  .hero-about{grid-template-columns:minmax(0,1fr) minmax(0,.9fr);column-gap:32px}
-}
+@media(max-width:1100px){.hero-about-body{grid-template-columns:minmax(0,1fr) minmax(0,.9fr);column-gap:32px}}
 @media(max-width:760px){
-  .hero-about{grid-template-columns:1fr;row-gap:18px;padding-bottom:21px;scroll-margin-top:10px}
-  .hero-about h2{font-size:18px;margin-bottom:8px}
-  .hero-about p{font-size:12.5px;line-height:1.9}
-  .hero-about-en p{font-size:12.5px}
+  .hero{row-gap:24px}
+  .hero-about{padding-bottom:20px;scroll-margin-top:10px}
+  .hero-about h2{font-size:18px;margin-bottom:14px}
+  .hero-about h2 span{display:block;font-size:15px;margin:2px 0 0}
+  .hero-about-body{grid-template-columns:1fr;row-gap:16px}
+  .hero-about-body p{font-size:12.5px;line-height:1.9;max-width:none}
   .site-header nav{column-gap:clamp(12px,3vw,23px)}
 }
 @media(max-width:425px){.site-header nav{column-gap:9px}}
