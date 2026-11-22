@@ -142,10 +142,15 @@ def read_candidate_overlay(repo):
     if not file.exists():
         return {}
     text = file.read_text(encoding="utf-8")
-    match = re.search(r"window\\.MIAO_MANCHESTER_OCR_CANDIDATES\\s*=\\s*(\\{[\\s\\S]*?\\})\\s*;", text)
-    if not match:
+    signature = "window.MIAO_MANCHESTER_OCR_CANDIDATES"
+    if signature not in text:
+        raise ValueError(f"Cannot find OCR overlay; refusing to overwrite {file}")
+    assignment = text.index("=", text.index(signature))
+    first = text.index("{", assignment)
+    last = text.rfind("}")
+    if last < first:
         raise ValueError(f"Cannot parse existing OCR overlay; refusing to overwrite {file}")
-    return json.loads(match.group(1))
+    return json.loads(text[first:last + 1])
 
 
 def publish(root, repo):
