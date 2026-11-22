@@ -1,5 +1,5 @@
-// AI manuscript-visual transcription and provisional English translations, source-specific. NOT human reviewed.
-// Many readings are only excerpts. Do not mistake excerpt coverage for complete OCR coverage.
+// Distinct manuscript-copy AI visual-reading/English translation drafts, NOT human approved.
+// Some records are partial excerpts: absence of text is an uncompleted reading, not absence of source text.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -1921,6 +1921,206 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "notes": "下冊最後一幅；正文開頭與族稱可見，其他欄仍未校讀。 原件有字形未定者留待高清人工校對；中文和英文都屬 AI 試讀。",
     "tags": [
       "洞夷苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p025": {
+    "title": "大頭龍家",
+    "title_en": "大頭龍家 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "大頭龍家，普定、鎮寧州有之。男戴竹笠，婦穿土青布衣、長裙，鬃馬髮雜髮盤髻如蓋，故名大頭龍家。男女俱勤耕作。",
+    "transcription": "大頭龍家，普定、鎮寧州有之。男戴竹笠，婦穿土青布衣、長裙，鬃馬髮雜髮盤髻如蓋，故名大頭龍家。男女俱勤耕作。",
+    "translation": "The Datou Longjia, or 'Big-Head Longjia,' are said to live in Puding and Zhenning. According to the compiler, men wear bamboo hats, while women wear blue-green cloth garments and long skirts, arranging hair together with horsehair into a bun resembling a broad cover. The group is said to have received its name from this hairstyle. Both women and men are described as diligent cultivators.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 25; paired painting Canvas 24",
+    "notes": "本頁四列較清楚，馬鬃和長裙字句可能存在倒文，屬未校完整試讀。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "大頭龍家"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p027": {
+    "title": "打牙犵狫",
+    "title_en": "打牙犵狫 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "打牙犵狫在黔西、平越、清平等州。女子將嫁，必先折去門牙二齒，云恐妨害夫家，即謂鑿齒之民也。其俗前髮披於兩耳，齊眉。",
+    "transcription": "打牙犵狫在黔西、平越、清平等州。女子將嫁，必先折去門牙二齒，云恐妨害夫家，即謂鑿齒之民也。其俗前髮披於兩耳，齊眉。",
+    "translation": "The Daya Gelao are placed by the author in Qianxi, Pingyue, Qingping and related jurisdictions. The account alleges that before marriage a woman has two front teeth removed, purportedly to avoid bringing harm to her husband's household. The compiler associates this practice with the historical expression 'tooth-chiseling peoples.' It also describes hair worn at the sides of the head, level with the eyebrows. The remainder of the inscription has not yet been transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 27; paired painting Canvas 26",
+    "notes": "右半後數列較長，前段齒飾的歷史敘述需保持引述角度，不視為核實民族誌；『折』字待校。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "打牙犵狫"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p029": {
+    "title": "剪髮犵狫",
+    "title_en": "剪髮犵狫 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "剪髮犵狫在貴定、施秉及平遠州，又名剪毛犵狫。男女皆蓄髮寸許，勤耕力作。",
+    "transcription": "剪髮犵狫在貴定、施秉及平遠州，又名剪毛犵狫。男女皆蓄髮寸許，勤耕力作。",
+    "translation": "The Jianfa Gelao are described as living in Guiding, Shibing, and Pingyuan, and are also called Jianmao Gelao in this copy. Men and women are said to keep their hair only about an inch long and to work diligently at cultivation.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 29; paired painting Canvas 28",
+    "notes": "本篇只有數列，依原頁右至左較完整讀取；別稱與量詞仍待高清核對。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "剪髮犵狫"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p031": {
+    "title": "黑樓苗",
+    "title_en": "黑樓苗 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "黑樓苗在清江八寨之間，合鄰近諸寨，於高坦之處立建一樓，名曰聚堂樓。高數層，用一木挖空，長丈許，放置頂層，名曰長鼓。凡有不平之事，即登樓擊長鼓。",
+    "transcription": "黑樓苗在清江八寨之間，合鄰近諸寨，於高坦之處立建一樓，名曰聚堂樓。高數層，用一木挖空，長丈許，放置頂層，名曰長鼓。凡有不平之事，即登樓擊長鼓。",
+    "translation": "The account places the Heilou Miao among the eight fortified settlements of Qingjiang. It claims that neighboring villages collectively erect a multistorey structure on elevated level ground, called a 'Gathering Hall Tower.' A hollowed-out wooden object more than a zhang long is placed on its upper storey and called the 'long drum'; in the event of a dispute, people are said to ascend the tower and beat it. Further columns concerning weapons and assembly remain untranslated.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 31; paired painting Canvas 30",
+    "notes": "前四列初讀，相鄰小字與器具名稱需復核；未錄的持械集會後半篇不應當作已校讀。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "黑樓苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p033": {
+    "title": "洪州苗",
+    "title_en": "洪州苗 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "洪州苗在黎平府境內，男與漢人□，耕種為業，婦善紡織棉葛二布，其葛布尤精細，故有洪州葛布之名。",
+    "transcription": "洪州苗在黎平府境內，男與漢人□，耕種為業，婦善紡織棉葛二布，其葛布尤精細，故有洪州葛布之名。",
+    "translation": "The manuscript locates the Hongzhou Miao within Liping Prefecture. It says the men resemble Han people in an aspect that is not yet clear and engage in farming, while women skillfully weave both cotton and kudzu-fibre cloth. It particularly praises the fine quality of the latter, attributing to it the name 'Hongzhou kudzu cloth.'",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 33; paired painting Canvas 32",
+    "notes": "原件短篇，可辨出『洪州葛布』物產線索；第一列男子與漢人比較的一字難讀，留□，不可自動補『同』。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "洪州苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p035": {
+    "title": "生苗",
+    "title_en": "生苗 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "生苗在黃平州、施秉及台拱、凱里等地。多野，性好獵，所食皆生物，即魚肉以微熟合為鮮。",
+    "transcription": "生苗在黃平州、施秉及台拱、凱里等地。多野，性好獵，所食皆生物，即魚肉以微熟合為鮮。",
+    "translation": "The source places people it calls Sheng Miao in Huangping, Shibing, Taigong, Kaili and nearby localities. The historical compiler describes them as associated with hunting and claims that they prefer food raw or only lightly cooked, including fish and meat. This characterization reflects the author's perspective and should not be treated as independently verified ethnography.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "full_visual_draft_with_uncertainties",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 35; paired painting Canvas 34",
+    "notes": "短篇三列，『多野』及『即魚肉以微熟合為鮮』等字形待再核對；以史料作者之說處理。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "生苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p037": {
+    "title": "狗耳龍家",
+    "title_en": "狗耳龍家 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "狗耳龍家在安順、大定等府及廣順州之康佐司。男子蒙首而不冠，婦女辮髮螺髻，束以布而結於頂，布結之餘垂指若狗耳狀。衣短衣，以五色藥珠為飾。",
+    "transcription": "狗耳龍家在安順、大定等府及廣順州之康佐司。男子蒙首而不冠，婦女辮髮螺髻，束以布而結於頂，布結之餘垂指若狗耳狀。衣短衣，以五色藥珠為飾。",
+    "translation": "The Gou'er Longjia are placed in Anshun, Dading, and an administrative jurisdiction associated with Guangshun. Men are said to cover their heads without wearing hats. Women coil their hair, bind it in cloth at the crown, and let the ends hang down like a dog's ears, the feature to which the historical label alludes. The source also describes short garments ornamented with multicolored beads. The remaining passage concerning festivals and marriage is not yet transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 37; paired painting Canvas 36",
+    "notes": "前四列服飾文字初讀，末段立春及婚姻敘述未錄；原族稱為清代編者用語。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "狗耳龍家"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p039": {
+    "title": "土犵狫",
+    "title_en": "土犵狫 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "土犵狫在威寧州，男編草為衣。",
+    "transcription": "土犵狫在威寧州，男編草為衣。",
+    "translation": "The source places the people it calls Tu Gelao in Weining and describes men making garments from grass. Further statements about bodily practices remain untranscribed because the handwritten characters are uncertain.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 39; paired painting Canvas 38",
+    "notes": "篇幅短而有難字，只有地點與草衣片段可確定，未讀列不以推測補入。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "土犵狫"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p041": {
+    "title": "紅苗",
+    "title_en": "紅苗 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "紅苗在銅仁府及楚省有之，多吳、石、麻、白等姓。衣服悉用粗布。",
+    "transcription": "紅苗在銅仁府及楚省有之，多吳、石、麻、白等姓。衣服悉用粗布。",
+    "translation": "The compiler places the Hong Miao in Tongren Prefecture and parts of the province historically called Chu. It lists surnames including Wu, Shi, Ma, and Bai and says clothing is generally made from coarse cloth. Later comments about social conduct and intergroup disputes have not been fully transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 41; paired painting Canvas 40",
+    "notes": "僅取兩列地名、姓氏及衣服用料，後續相鬥、婚姻條款未校。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "紅苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p043": {
+    "title": "里民子",
+    "title_en": "里民子 (historical designation)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "里民子在大定府之黔西州、貴陽府之貴筑及安順州有之。男子貿易營生，婦穿細耳草鞋。",
+    "transcription": "里民子在大定府之黔西州、貴陽府之貴筑及安順州有之。男子貿易營生，婦穿細耳草鞋。",
+    "translation": "The manuscript places the Liminzi in Qianxi under Dading Prefecture and in the Guizhu and Anshun jurisdictions. It describes men as engaged in trade and mentions women's clothing and footwear. The later columns, including textile production, remain to be checked.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "text_completeness": "excerpt_only",
+    "english_completeness": "excerpt_only",
+    "ocr_engine": "AI visual reading against source manuscript scan, not human-reviewed OCR",
+    "source_review": "John Rylands Library Chinese Crawford 398, IIIF Canvas 43; paired painting Canvas 42",
+    "notes": "已核原頁地名與生計開頭；『細耳草鞋』等字句需與高清再比，未作全文校定。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。",
+    "tags": [
+      "里民子"
     ],
     "visual_tags": []
   }
