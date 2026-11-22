@@ -139,6 +139,10 @@
       return `<button class="result-item ${r.id===selected?'selected':''}" type="button" data-record="${esc(r.id)}" aria-current="${r.id===selected?'true':'false'}"><span class="result-thumb ${r.plate_half?`half-${r.plate_half}`:''} ${r.spread_layout==='caption_left_artwork_right'?'spread-right':''}"><img src="${esc(r.thumb || r.image)}" alt="${esc(r.source_title)} · 第${r.pdf_page}页 / Page ${r.pdf_page} thumbnail" loading="lazy"></span><span class="result-item-body"><span class="item-top"><strong>${esc(r.title)}</strong><span>${String(r.folio).padStart(2,'0')}/${r.plate_total||r.page_total||40}</span></span><small>${esc(r.source_title)} · ${pageRef(r)}</small><p>${highlight(txt.slice(0,100),dom.search.value)}</p><span class="dot-status">${statusLabel(r)}</span></span></button>`;
     }).join('');
     dom.list.querySelectorAll('[data-record]').forEach(b=>b.addEventListener('click',()=>select(b.dataset.record)));
+    // Preserve the original source link; a failed remote thumbnail is not a missing manuscript.
+    dom.list.querySelectorAll('img').forEach(img=>img.addEventListener('error',()=>{
+      if (!img.src.includes('remote-scan-unavailable.svg')) img.src='images/remote-scan-unavailable.svg';
+    }));
     renderReader();
   }
   function select(id){selected=id;mode=BASE.find(r=>r.id===id)?.plate_half?'half':'full';zoom=1;dx=0;dy=0;isEditing=false;history.replaceState(null,'',`#${id}`);showResults();
@@ -161,6 +165,10 @@
       ${mukongNoText?'':`<details class="ocr-details"><summary>${r.ocr_raw_scope==='both_halves_merged'?'原始 OCR（左右两幅合并） · Merged-spread OCR ▾':(['illustration','non_text'].includes(r.page_kind)?'机器误检记录（不作为正文） · OCR noise, not source text ▾':'机器 OCR 原文（未校） · Unverified raw OCR ▾')}</summary><p>${esc(r.ocr_raw||(r.page_kind==='scan_only'?'本页未进行 OCR。 / OCR not performed for this page.':'无可用 OCR 文字。 / No OCR text available.'))}</p><small>OCR 可能误字、漏字、错序；不可直接引用。 / OCR may contain errors and scrambled column order; do not cite without verification.</small></details>`}
       <div class="reader-notice"><strong>版本说明 / Editorial status:</strong> ${esc(r.notes)}<p class="note-en" lang="en">${mukongNoText?'No OCR is required for this non-text scan.':'Machine-generated text requires checking against the original image; notes may be available in Chinese only.'}</p></div></div></div>
       <div class="reader-bottom"><p>画面标签 / Visual tags (provisional): ${esc((r.visual_tags||[]).join(' · ')||'未编目 / Uncatalogued')}</p>${mukongNoText?'':`<a class="quiet-button" href="review.html?id=${encodeURIComponent(r.id)}">逐列 OCR 校读 / Column review ↗</a>`}${mukongNoText?'':`<button class="quiet-button" id="edit-open" type="button">✎ ${isEditing?'关闭编辑 / Close editor':'校订文字 / Edit text'}</button>`}</div><div id="editor-mount"></div>`;
+    const currentScan=byId('scan-image');
+    if (currentScan) currentScan.addEventListener('error',()=>{
+      if (!currentScan.src.includes('remote-scan-unavailable.svg')) currentScan.src='images/remote-scan-unavailable.svg';
+    });
     byId('prev-record').addEventListener('click',()=>idx>0&&select(results[idx-1].id));
     byId('next-record').addEventListener('click',()=>idx<results.length-1&&select(results[idx+1].id));
     byId('show-full').addEventListener('click',()=>changeMode('full',r));
