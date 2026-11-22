@@ -5,10 +5,11 @@
   const PLATES54 = Array.isArray(window.MIAOMAN_54_PLATES) ? window.MIAOMAN_54_PLATES : [];
   const DRAFTS42 = window.MIAOMAN_42_DRAFTS && typeof window.MIAOMAN_42_DRAFTS==='object' ? window.MIAOMAN_42_DRAFTS : {};
   const SINGLE82 = window.MIAOMAN_SINGLE_82_DRAFTS && typeof window.MIAOMAN_SINGLE_82_DRAFTS==='object' ? window.MIAOMAN_SINGLE_82_DRAFTS : {};
+  const CHENHAO80 = window.MANMIAO_CHENHAO_80_DRAFTS && typeof window.MANMIAO_CHENHAO_80_DRAFTS==='object' ? window.MANMIAO_CHENHAO_80_DRAFTS : {};
   const BASE = [
     ...(Array.isArray(window.MIAO_RECORDS) ? window.MIAO_RECORDS : []),
     ...IMPORTED.flatMap(r=>(r.collection_id==='9e2b3d98dc2e'&&r.pdf_page>=3&&r.pdf_page<=29&&PLATES54.length===54)?PLATES54.filter(p=>p.pdf_page===r.pdf_page):[r])
-  ].map(r=>({...r,...(DRAFTS42[r.id]||{}),...(SINGLE82[r.id]||{})}));
+  ].map(r=>({...r,...(DRAFTS42[r.id]||{}),...(SINGLE82[r.id]||{}),...(CHENHAO80[r.id]||{})}));
   const DRAFTS = window.MIAO_VISUAL_DRAFTS || {};
   const KEY = "miao_column_reviews_v1";
   const SCHEMA = "miao-column-review-v1";
