@@ -12,7 +12,8 @@
   const MIAOMAN_48_DRAFTS = window.MIAOMAN_48_DRAFTS && typeof window.MIAOMAN_48_DRAFTS === 'object' ? window.MIAOMAN_48_DRAFTS : {};
   const MIAOMAN_41_DRAFTS = window.MIAOMAN_41_DRAFTS && typeof window.MIAOMAN_41_DRAFTS === 'object' ? window.MIAOMAN_41_DRAFTS : {};
   const MIAOMAN_82_DRAFTS = window.MIAOMAN_82_DRAFTS && typeof window.MIAOMAN_82_DRAFTS === 'object' ? window.MIAOMAN_82_DRAFTS : {};
-  const BASE = [...LEGACY, ...IMPORTED].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), ...(DIAN_36_DRAFTS[r.id] || {}), ...(MIAOFAN_36_DRAFTS[r.id] || {}), ...(DIAN_PAGE_FIXES[r.id] || {}), ...(MIAOMAN_48_DRAFTS[r.id] || {}), ...(MIAOMAN_41_DRAFTS[r.id] || {}), ...(MIAOMAN_82_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
+  const MIAOMAN_41FRAMES_DRAFTS = window.MIAOMAN_41FRAMES_DRAFTS && typeof window.MIAOMAN_41FRAMES_DRAFTS === 'object' ? window.MIAOMAN_41FRAMES_DRAFTS : {};
+  const BASE = [...LEGACY, ...IMPORTED].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), ...(DIAN_36_DRAFTS[r.id] || {}), ...(MIAOFAN_36_DRAFTS[r.id] || {}), ...(DIAN_PAGE_FIXES[r.id] || {}), ...(MIAOMAN_48_DRAFTS[r.id] || {}), ...(MIAOMAN_41_DRAFTS[r.id] || {}), ...(MIAOMAN_82_DRAFTS[r.id] || {}), ...(MIAOMAN_41FRAMES_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
   const byId = id => document.getElementById(id);
   const dom = {list:byId('result-list'),reader:byId('reader-content'),search:byId('search-input'),count:byId('result-count'),summary:byId('search-summary'),filter:byId('status-filter'),sort:byId('sort-order'),album:byId('album-filter')};
   let selected = BASE.some(r=>r.id===decodeURIComponent(location.hash.slice(1))) ? decodeURIComponent(location.hash.slice(1)) : (BASE[0]?.id || '');
