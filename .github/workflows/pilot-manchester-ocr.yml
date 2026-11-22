@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - '.github/workflows/pilot-manchester-ocr.yml'
+      - 'scripts/pilot_external_ocr.py'
   workflow_dispatch:
 permissions:
   contents: write
