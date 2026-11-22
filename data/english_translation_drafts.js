@@ -2264,5 +2264,85 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-fdb097a9db87-p0022": {
     "translation": "The Yao Miao live around Pingyue and bear many Ji surnames. The source praises their gentle nature and women's weaving and dyeing. The first day of the eleventh lunar month is a major festival. In some communities, young women occupy bamboo houses during courtship, attracting men with lusheng music; burial may involve binding bodies in vines among trees rather than burying them.",
     "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0023": {
+    "translation": "The Nong Miao live near Yongfeng, Luohu, and Ceheng. Formerly administered under Guangxi, the area was transferred to Guizhou in the fifth year of Yongzheng (1727). People farm diligently; men have hair and clothing similar to Han styles, while women retain headscarves, long skirts, and short jackets.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0024": {
+    "translation": "The Daya Gelao live around Qianxi, Pingyue, and Qingzhen. The source says brides have their two front teeth removed to avert harm to their husband's families. They arrange hair short in front and long behind, and comprise five branches that do not intermarry. Men and women wear seamless woolen tube skirts.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0025": {
+    "translation": "The Jianfa Gelao live around Guiding, Shibing, and Pingyuan. Men and women keep a tuft of hair on top and cut the sides. They farm diligently and cremate the dead on a pile of firewood.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0026": {
+    "translation": "The Zhushi Gelao live around Shiqian, Liping, Guzhou, Pingyuan, and Qingping. In extremely derogatory language, the author alleges poor hygiene, eating hunted animals voraciously, and feuding. Men carry knives and crossbows, and disputes may involve cattle and wine. It says people in Qingping speak Chinese and observe local regulations.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0027": {
+    "translation": "The Hong Gelao live around Guangshun, Pingyuan, and Qingping. The dead are placed in coffins but not buried: the coffins may rest in caves, near rivers, or beside large trees without a covering structure.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0028": {
+    "translation": "The Hua Gelao, also called Dou Miao, live around Shibing, Longquan, and Huangping. The source says men prefer hunting deer and trapping birds to farming, while women's sleeves are embroidered in five colors and adorned with silver and cocoon-like ornaments.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0029": {
+    "translation": "The Shui Gelao live near Shibing and Yuqing. They fish skillfully and can enter deep waters during winter. Men's dress is compared with Han clothing, while women wear finely pleated long skirts. Marriage and funerals follow Han customs, according to the source.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0030": {
+    "translation": "The Guoluan Gelao live in Pingyuan. Men weave diagonally patterned cloth. Women wrap blue headscarves in a circle like a pot's rim. When someone falls ill, a ritual specialist is invited to pray before a decorated tiger's head in a basket rather than administering medicine. The text also mentions wine and farming.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0031": {
+    "translation": "The Pipao Gelao live around Huangping. Men and women wear short garments with an outer cape that is shorter in front than behind; skirts are made from wool. The author praises their diligence and notes casting iron plowshares as a livelihood.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0032": {
+    "translation": "The Lin Ge Miao live in scattered districts and have surnames Wang, Li, Jin, and Wen. In winter households dig earthen hearths and sleep under hides instead of quilts. Spirit rites use a straw dragon boat decorated with colored banners. Some villages observe elaborate mourning for forty-nine days, with children of poorer households substituting when necessary. The text emphasizes family discipline and school learning.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0033": {
+    "translation": "The Ge Zhuang Miao [heading uncertain] live in Libo. Men cultivate land and women spin and weave, wearing short clothing. At a parent's death a body is placed between boards rather than in a coffin; mourners sing, and children remain at the grave for three days.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0034": {
+    "translation": "The Bo people live near Pu'an. Men and women wear felt garments. The source claims they rarely bathe but are gentle and devoted to Buddhism. They act as interpreters among groups whose languages differ.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0035": {
+    "translation": "The Manren live near Xintian and Danjiang. Men wear grass capes and women blue garments and short skirts. Funeral rites include cattle slaughter, singing, and dancing. Fishing and hunting are common. The last day of the twelfth lunar month is called an important festival in this version. The Ranjia Man of Yanhe are said to share these customs.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0036": {
+    "translation": "The Turen live near Guiyang and Guangshun and intermarry with military and civilian households. Men trade and women farm, singing in the fields. New Year rituals include gongs, drums, and hymns to spirits; performers receive food from households. The author says a former reputation for fighting has declined.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0037": {
+    "translation": "The Yao live around Guiding, Qingping, and Dushan. Said to have migrated from Guangxi during Yongzheng, they settle by streams and convey water through connected bark tubes. They gather medicinal herbs and practice medicine after farming. The author praises their honesty.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0038": {
+    "translation": "The Dongren live mainly downstream in Guizhou. In winter they gather reed flowers as stuffing for warmth. The text describes spouses traveling together and food seasoned with salt or sauces. Communities in Shiqian are compared with Han people; those in Hongzhou are disparaged as acquisitive.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0039": {
+    "translation": "The Yangbao Miao live near Zunyi and Longquan. Marriage uses matchmakers and funerals include mourning ceremonies. The author portrays them as resistant to official summons, but says village elders can settle disputes.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0040": {
+    "translation": "The Zangguang Miao [name uncertain] live around Duyun, Liping, Shiqian, Shibing, Longli, and Longquan, and bear surnames including Wen, Yang, Zhang, Shi, and Ou. Men cultivate fields according to household needs; women weave garments. Fishing and hunting are leisure activities, and dogs may be given at marriages and funerals.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0041": {
+    "translation": "The Jiugu Miao live around Xinglong and Kaili. A legend traces their nine branches to survivors of Zhuge Liang's southern campaign. The text describes elaborate iron armor, helmets, shields, spears, crossbows, and large bows drawn by several men. Qing campaigns in 1732 allegedly disarmed the group and established fortified garrisons.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-fdb097a9db87-p0042": {
+    "translation": "The Bafan Miao live in Dingfan [here written with a different character]. Their clothing resembles Han dress. Women reportedly do more work than men, cultivating by day and weaving at night. Rice is stored after harvest and pounded in a hollow wooden mortar. Festivals feature long waist drums, and burials may take place quietly at night without choosing an auspicious date. [Some wording is corrupted.]",
+    "translation_status": "ai_draft"
   }
 };
