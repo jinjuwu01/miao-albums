@@ -160,5 +160,61 @@ window.MIAO_ENGLISH_DRAFTS = {
   "new-qiansheng-plate040": {
     "translation": "The Qing Zhongjia live around Qingjiang, Guzhou, and Danjiang. They wear blue headcloths and clothing. Women are said to excel at embroidery and games involving boards or balls. A chosen lover is called a 'malang.' Couples may meet at night, with their parents' knowledge, while avoiding a woman's brothers. Betrothal gifts include cattle and wine. The account states that carved wooden tallies serve as tokens in place of written documents.\n\nVerse (provisional): Women are praised for needlework and games; the poem describes courtship with a malang tolerated by parents but hidden from brothers.",
     "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate041": {
+    "translation": "The Huizhu Longjia live under Anshun Prefecture. Women wear white tops and tube skirts, with square cloth headscarves and a single tail of hair smeared with lard. At celebrations they purchase wine, slaughter sheep, and bring two or three new outfits, apparently as displays of wealth. For funerals the dead are cremated, with the bones gathered for burial. Ancestral graves are honored on the seventh day of the seventh lunar month.\n\nVerse (provisional): Hair is dressed with lard and fine new garments display prosperity. After cremation, bones are buried; sacrifices are made at the graves on the seventh day of the seventh month.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate042": {
+    "translation": "The Gou'er Longjia live around Anshun, Dading, and Kangwusi in Guangshun. Men bind cloth around their heads without hats. Women arrange their hair and cloth into two protruding corners likened to dog's ears, and decorate their garments with multicolored beads. After the beginning of spring, a wooden 'spirit pole' is raised in the fields. Unmarried men and women gather around it for moon dancing and partner selection. The account describes cattle or horses paid after elopement, while noting increased use of matchmakers.\n\nVerse (provisional): A white cloth and pole distinguish this village; couples agree to elope. Clothing has its own colors, and cattle and horses figure in the negotiation of marriages.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate043": {
+    "translation": "The Madeng Longjia live between the various western forts and Dingying administrative districts of Zhenning. Zhang, Zhao, and other surnames are common. They favor white clothing, changing to blue for mourning. Women make headpieces of fine cloth shaped like horse stirrups. Agriculture provides their livelihood.\n\nVerse (provisional): Families named Zhang, Huang, Liu, and Zhao wear fine white cloth and stirrup-shaped headdresses; mourning clothes change to blue, and the tall headdress gives a stately appearance.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate044": {
+    "translation": "The Datou Longjia live in Zhenning and Puding. Men wear bamboo hats. Women wear short skirts and dark-blue or earth-colored tops, with elaborately coiled hair resembling a bowl, from which the name 'large-headed Longjia' is said to derive. The account praises both men and women for diligent farming.\n\nVerse (provisional): Hair is coiled in elaborate knots and blue cloth forms the short skirts. Men and women farm and weave frugally, then gather at markets to drink wine. [Some characters describing the hairstyle are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate045": {
+    "translation": "The Hua Miao live in the jurisdictions of Guiyang, Dading, and Zunyi. The source portrays them as simple and law-fearing, describing garments pieced together from blue and white cloth without conventional collars or sleeves. Every spring, unmarried men play the lusheng and women shake bells at a moon-dancing ground, singing and dancing all day and choosing partners. The text describes subsequent marriage negotiations and gifts, sometimes varying with the bride's perceived beauty, and notes ceremonies at the bride's home. [The last portion is difficult to read.]\n\nVerse (provisional): Girls shake bells as young men play the lusheng at dances; the poem also mentions funerary rites and offerings of cattle to spirits.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate046": {
+    "translation": "The Bai Miao live in Longli, Guiding, and Qianxi. They wear white clothing. Men are described as bareheaded and barefoot, while women pin their hair into elaborate coils. At ancestral sacrifices, cattle and pigs are selected and cattle may be made to fight; the victor is seen as auspicious and used for divination before slaughter. Participants wear white clothes and finely pleated skirts, then gather with relatives to sing and drink.\n\nVerse (provisional): Cattle are sacrificed to the ancestors and their contest divines fortune. Relatives sing and drink, while the ritual leader wears a long white and blue pleated skirt.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate047": {
+    "translation": "The Qing Miao live in Qianxi, Zhenning, Xiuwen, Guizhu, and elsewhere. Blue clothing is favored; women arrange their hair with blue cloth and decorative headscarves, while men wear bamboo hats and straw sandals. The source contrasts an earlier reputation for ferocity with their present diligence and peacefulness. In Pingyuan they are also called Qing Miao ('Miao of the wooded hills').\n\nVerse (provisional): Once described as fierce, they are now said to farm and cut firewood peacefully. Bamboo hats, straw sandals, and moonlit lusheng playing characterize the group.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate048": {
+    "translation": "The Hei Miao live across Duyun, the Eight Stockades, Danjiang, Zhenyuan, Liping, Qingjiang, and Guzhou. The source notes many subdivisions and differing customs but says black clothing is common. It praises their agility on rocky, thorny paths while describing a former reputation for conflict and weapons such as spears, crossbows, and swords. Following Qing military campaigns and pacification in 1735, the author claims, fighting declined. In spring, whole villages gather for moon dancing with long bamboo lusheng instruments. At funerals, the deceased's former lovers may wave colored brocade tied to bamboo poles before the grave, and men and women offer rites.\n\nVerse (provisional): Spring rituals seek a good harvest; white feathers and weapons recall the author's descriptions of the group's former customs.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate049": {
+    "translation": "The Kemeng Dongyang Miao [name uncertain] live around Jinzhusi in Guangshun. They hollow dwellings into steep cliffs, sometimes reached by bamboo ladders. Farmers are said to use iron tools rather than cattle. The passage describes selecting partners through lusheng dancing and mourning practices in which singing replaces weeping at the time of death. In the following spring, hearing cuckoos brings grief because, as the mourners reportedly say, 'the bird returns with the season, but our parent will never return.' [Parts of the marriage and funerary descriptions are unclear.]\n\nVerse (provisional): Only when the cuckoo returns do they grieve; at the time of death songs and dances took place. They inhabit high caves reached by bamboo ladders and carry water up on their shoulders.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate050": {
+    "translation": "The Dong Miao live in Tianzhu and Jinping. They settle on level land near water and chiefly grow cotton. Men's clothing resembles Han dress, and many work as hired laborers for Han households. Women wear blue headscarves and bordered garments. They weave fine Dong handkerchiefs, speak Chinese, and are described as responsive to local authority.\n\nVerse (provisional): Fine woven silk and cotton cloth have long been handed down. They speak Chinese, live on level ground, and cultivate cotton diligently.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate051": {
+    "translation": "The Qing Miao [here written with the character for wooded ravines] live near mountain forest gullies in Pingyuan. The account says they cultivate upland grains rather than lowland fields, and that men and women weave their own garments.\n\nVerse (provisional): They prefer planting grain on mountain slopes, dwell in forested gullies far from towns, and weave their own clothes rather than seek urban luxuries.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate052": {
+    "translation": "The Dongjia Miao also live in Libo County. Their garments reach no farther than the knees. At the start of the year they offer fish, meat, wine, and rice to a spirit or deity named Yaogu [name uncertain]. They dwell near water and grow cotton, which women spin and weave. The men can speak Chinese but, according to the text, use carved wooden marks instead of writing to confirm agreements.\n\nVerse (provisional): At New Year they offer fish, meat, wine, and rice to Yaogu. They grow cotton, spin and weave, and trust wooden tally marks in their affairs.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate053": {
+    "translation": "The Shuijia Miao live in Libo County; their territory is said to have passed from Guangxi to Duyun Prefecture in Guizhou in 1732. Men and women are industrious and frugal. Men fish and hunt, while women's weaving produces cloth known as 'Shuijia cloth.' They wear tube skirts and short tops trimmed with patterned material. At New Year, groups of men and women sing and dance hand in hand, and those who take a liking to one another may become couples.\n\nVerse (provisional): Men fish, hunt, and farm; women weave Shuijia cloth. At the year's beginning couples form amid songs and dancing.",
+    "translation_status": "ai_draft"
+  },
+  "new-qiansheng-plate054": {
+    "translation": "The Bai'ezi live around Yongfeng and Luohu. Men arrange their hair in pointed topknots and wear long white garments. Women are described as wearing shorter clothing without skirts. The text compares their customs with those of another group, records prayers to spirits when people fall ill, and says the sick do not wash their hair. [The accompanying verse appears to reverse some clothing details and is uncertain.]\n\nVerse (provisional): The poem refers to pointed coiled hairstyles and petitions to spirits, identifying Yongfeng and Luohu as the group's home.",
+    "translation_status": "ai_draft"
   }
 };
