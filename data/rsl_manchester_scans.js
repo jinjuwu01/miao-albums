@@ -56,6 +56,9 @@
   for(let n=1;n<=202;n++) {
     const vol=n<=102?1:2;
     const isLeaf = (n>=2&&n<=95)||(n>=104&&n<=195);
+    // Image-verified from the institution's actual canvas scans (2026-11-22).
+    const confirmedBlank = n>=2&&n<=5;
+    const confirmedPreface = n===6||n===7;
     const leaf = vol===1?n-1:n-103;
     const cover = n===1||n===103;
     const back = n===96||n===196;
@@ -73,15 +76,19 @@
       shelfmark:"Chinese Crawford 398",volume:vol===1?"上冊 / Volume I":"下冊 / Volume II",
       folio:n, pdf_page:n, page_total:202, plate_total:null,
       source_canvas:"https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398/canvas/"+n,
-      scan_index:n, page_kind:isLeaf?"scan_only":"non_text",
+      scan_index:n, page_kind:confirmedBlank?"non_text":confirmedPreface?"preface":isLeaf?"scan_only":"non_text",
       image:manImage(n,1000), thumb:manImage(n,320), high_res_image:manImage(n,2000),
       text_image:manImage(n,2000), paired_image:null,
-      title:isLeaf?(vol===1?"上冊":"下冊")+"原葉第"+leaf+"號（待校讀）":name,
-      title_en:isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
+      title:confirmedPreface?"《蠻獠圖說》總序（續頁，待逐字校讀）":confirmedBlank?"空白襯頁（無需 OCR）":isLeaf?(vol===1?"上冊":"下冊")+"原葉第"+leaf+"號（待校讀）":name,
+      title_en:confirmedPreface?"General preface to Manliao tushuo (image-checked; transcription pending)":confirmedBlank?"Blank endpaper; no OCR needed":isLeaf?"Volume "+vol+" · source leaf "+leaf+" (unverified)":name,
       ocr_raw:"", transcription:"", translation:"",
       translation_status:isLeaf?"not_started":"not_applicable",
-      status:isLeaf?"scan_only":"non_text",
-      notes:isLeaf?
+      status:confirmedBlank?"non_text":confirmedPreface?"preface_pending":isLeaf?"scan_only":"non_text",
+      notes:confirmedBlank?
+       "已逐張核查館方影像：本張為空白襯頁，沒有可辨認的中文題記。不進行 OCR。":
+       confirmedPreface?
+       "已逐張核查館方影像：本張為《蠻獠圖說》總序正文，屬手寫竪排文字；需按右至左列序逐字校讀，並獨立製作英譯。":
+       isLeaf?
        "曼徹斯特大學約翰·萊蘭茲圖書館，Chinese Crawford 398，官方 IIIF Canvas "+n+"，"+(vol===1?"上":"下")+"冊第"+leaf+"葉。圖文性質、題記文字與彩繪分割尚未逐張人工核對。此影像為館方遠端提供；放大影像及下載圖像適用不同的使用條款。":
        "曼徹斯特大學約翰·萊蘭茲圖書館，Chinese Crawford 398，官方 IIIF Canvas "+n+"，"+name+"。非正文頁照原序保留，不進行圖說 OCR。",
       tags:[],visual_tags:[],ocr_engine:null
