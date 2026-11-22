@@ -8,7 +8,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 4,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。右頁題名及左頁正文已核讀；旁注涉及銅鼓與馬援，字形尚有疑難，未混入正文。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。右頁題名及左頁正文已核讀；旁注涉及銅鼓與馬援，字形尚有疑難，未混入正文。",
+    "translation": "The Hua Tuliao favor blue and indigo clothing. Women wear short embroidered jackets and tubular skirts. At weddings the groom does not personally fetch the bride; those escorting her bring food and wine to make offerings to the groom's ancestors. From the first to the second lunar month, they beat bronze drums and dance for enjoyment, calling the festival \"Passing the Little New Year.\""
   },
   "ocr-eb4f91a82238-p0005": {
     "title": "腊欲（疑）",
@@ -17,7 +18,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 5,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。題名「腊欲」字形待核；保留歷史作者對群體的評價性措辭。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。題名「腊欲」字形待核；保留歷史作者對群體的評價性措辭。",
+    "translation": "The Layu (name uncertain) are described by the author as extremely simple-minded and straightforward. Men wear blue and indigo, women white. When grain is insufficient they grow melons and vegetables for food. Weddings and funerals are frugal."
   },
   "ocr-eb4f91a82238-p0006": {
     "title": "腊兜（疑）",
@@ -26,7 +28,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 6,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。題名「腊兜」及「開一窩」待進一步核讀。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。題名「腊兜」及「開一窩」待進一步核讀。",
+    "translation": "The Ladou (name uncertain) resemble the Pula and are said to fear approaching Han people. Both men and women farm and weave, and marriage, funerals, and food are frugal. Men wear blue broad-sleeved jackets with collars; women wear red broad-sleeved jackets with an opening for pulling them over the head."
   },
   "ocr-eb4f91a82238-p0007": {
     "title": "□烏（疑）",
@@ -35,7 +38,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 7,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。原圖首字及「□獲」存疑，使用「□」而不依語境臆補；與舊 OCR 的「孤烏」需再比較。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。原圖首字及「□獲」存疑，使用「□」而不依語境臆補；與舊 OCR 的「孤烏」需再比較。",
+    "translation": "The group whose name is partly illegible (□wu) is described as slow-moving and claims descent from an ancestor whose name is also partly illegible (□huo). They live in remote mountain regions beyond the reach of Han travelers, channel water into fields, and fish for a living. Men wear blue jackets without waistbands; women wear short jackets, blue-green skirts, and square blue-cloth headwraps with silver ornaments on top."
   },
   "ocr-eb4f91a82238-p0008": {
     "title": "舍烏",
@@ -44,7 +48,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 8,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。校正舊 OCR「舍焉」等誤字，保留清代用字。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。校正舊 OCR「舍焉」等誤字，保留清代用字。",
+    "translation": "The Shewu are described as plain and straightforward, with exceedingly frugal marriage rites. At parents' funerals they slaughter animals, hang paper banners, offer sacrifices and feasts, and play suona horns. In their leisure they hunt birds with crossbows and compete to see who catches the most."
   },
   "ocr-eb4f91a82238-p0009": {
     "title": "普剽",
@@ -53,7 +58,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 9,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。原圖「剽／刺」等相近字需再獨立核驗；已按右起豎列重排。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。原圖「剽／刺」等相近字需再獨立核驗；已按右起豎列重排。",
+    "translation": "The Pupiao follow customs somewhat different from those of the Ciwu. They do not shave their heads. Men wear short blue-and-white jackets with long collars and drape cloth blankets edged with flame motifs over themselves in every season. Women wear tubular skirts and many red and green beads. At funerals sons-in-law dance while relatives beat drums and gongs, blow ox horns, and offer sacrifices, calling the rite \"entertaining the corpse.\""
   },
   "ocr-eb4f91a82238-p0010": {
     "title": "水擺夷",
@@ -62,7 +68,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 10,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。末兩列「入罨中」等疑字仍需精校；神怪敘述是歷史作者的記載，非客觀事實。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。末兩列「入罨中」等疑字仍需精校；神怪敘述是歷史作者的記載，非客觀事實。",
+    "translation": "The Shui Baiyi often live near water and enjoy bathing. Men ferry boats and women take hired work to earn food. The account says a widow becomes a \"ghost's wife\" and may not remarry. It then attributes supernatural transformations to these women, including changing clothing into images of elephants, horses, pigs, sheep, cats, or dogs, ensnaring passersby and replacing their internal organs with earth. These are supernatural accusations in the historical source, not factual observations."
   },
   "ocr-eb4f91a82238-p0011": {
     "title": "白猓羅",
@@ -71,7 +78,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 11,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。據原圖校正原 OCR 的族稱「白猥擺」。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。據原圖校正原 OCR 的族稱「白猥擺」。",
+    "translation": "The Bai Guoluo are described as straightforward and unpretentious, favoring blue and indigo garments. Women wrap their heads with cloth. After farming, the whole family brings wine and food outdoors to sacrifice to the earth deity. Elders sit cross-legged while younger members kneel and offer food and drink as if entertaining honored guests."
   },
   "ocr-eb4f91a82238-p0012": {
     "title": "黑猓羅",
@@ -80,7 +88,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 12,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。「橫穿」「雞鳥」字形及分句待複核；按原圖完整豎列保留正文。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。「橫穿」「雞鳥」字形及分句待複核；按原圖完整豎列保留正文。",
+    "translation": "The Hei Guoluo are described as plain and as cultivating mostly dry fields. Their thatched dwellings have a central hearth around which men and women sleep. The account says they fear beatings but not death. Their dress resembles Han clothing; women wear blue-cloth head coverings and blue jackets studded with rows of silver ornaments. They subsist on mixed grains. Marriages are arranged by matchmakers, with a cow and six or twelve taels of silver as betrothal gifts. Funerary customs resemble those of Han people, although bodies are cremated; sacrificial sheep and pigs are beaten to death, while chickens and birds are not killed."
   },
   "ocr-eb4f91a82238-p0013": {
     "title": "聶素（疑）",
@@ -89,7 +98,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 13,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。首二字歷史族稱待複核。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。首二字歷史族稱待複核。",
+    "translation": "The Niesu (name uncertain) live in Yongpingli. Their clothing, food, and daily necessities resemble those of the Guoluo. They read, cultivate fields, spin, weave, and trade. The author describes their disposition as relatively mild."
   },
   "ocr-eb4f91a82238-p0014": {
     "title": "沙人",
@@ -98,7 +108,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 14,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。短題記，已核對左頁兩列。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。短題記，已核對左頁兩列。",
+    "translation": "The Sha people have customs resembling those of the Nong but are said to be fiercer. Meat offered at the funerals of relatives is not eaten, but either discarded or given to other members of the community."
   },
   "ocr-eb4f91a82238-p0015": {
     "title": "黑拐雞（疑）",
@@ -107,7 +118,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 15,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。族稱第二字及「帶左錦」「種蔽」等字串、斷句未確認；只作暫讀，保留舊 OCR。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。族稱第二字及「帶左錦」「種蔽」等字串、斷句未確認；只作暫讀，保留舊 OCR。",
+    "translation": "The Hei Guaiji (name uncertain) are described in strongly hostile terms, likened to savage animals. They settle in defensible places, carry bows and crossbows, and sleep under oxhides, keeping hearth fires burning through the seasons. The account claims they pursue even small grudges for generations yet forget major favors. A phrase concerning their food is unclear. They are found mainly in Wangnong and Annan."
   },
   "ocr-eb4f91a82238-p0016": {
     "title": "山車",
@@ -116,7 +128,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 16,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。「鵠面鳩形」等字形待複核；「火化」兩字見左端末列。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。「鵠面鳩形」等字形待複核；「火化」兩字見左端末列。",
+    "translation": "The Shanche live in Fengchunli and are said not to fear cold. The author disparages their thin appearance. Men wear clothes woven with alternating red and white threads. Women wrap their heads in square-scarf shapes and wear short jackets with white skirts. They wear no mourning clothes at funerals but sacrifice animals and cremate the body on a wooden bed."
   },
   "ocr-eb4f91a82238-p0017": {
     "title": "普馬",
@@ -125,7 +138,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 17,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。多列連讀疑難，尤其「用綴」「取用舟跳」，必須研究者逐字複核。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。多列連讀疑難，尤其「用綴」「取用舟跳」，必須研究者逐字複核。",
+    "translation": "The Puma are depicted as having unusual customs. They cultivate by slash-and-burn and value property in marriage negotiations. The account describes an elaborate secondary-burial rite: a dead person's body, whether male or female, is buried beneath a longhouse in a frequently used place and doused with boiling water until the flesh decomposes. The bones are removed and cleaned; after the flesh is reburied, the bones are kept in a sewn bag. Relatives wear red and green, slaughter pigs and cattle, and have the son-in-law carry the remains while dancing. The bones are kept at home for three years before burial. During illness they may be brought out in a ritual performed in a boat (wording uncertain), because the unburied bones are believed to cause trouble."
   },
   "ocr-eb4f91a82238-p0018": {
     "title": "普列",
@@ -134,7 +148,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 18,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。已據高清圖校正舊 OCR 對題名的錯識。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。已據高清圖校正舊 OCR 對題名的錯識。",
+    "translation": "The Pulie live in Dong'anli. They bind their hair in topknots. On sowing days they lead an ox nearby and offer a pig's head to the earth deity. They arrange marriage through matchmakers and cremate the dead."
   },
   "ocr-eb4f91a82238-p0019": {
     "title": "僰子（疑）",
@@ -143,7 +158,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 19,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。首字可疑，舊 OCR 曾誤為「燃」；「六月念四日」按圖面暫錄。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。首字可疑，舊 OCR 曾誤為「燃」；「六月念四日」按圖面暫錄。",
+    "translation": "The Bozi (name uncertain) are presented as a branch of the ancient Bai kingdom. The author calls them cunning but frugal, also naming them Minjiazi. They study books, and their weddings, funerals, and sacrifices resemble Han customs; their clothing and food also differ from other groups. On the twenty-fourth day of the sixth month, they eat chopped raw meat mixed with garlic and light torches in celebration."
   },
   "ocr-eb4f91a82238-p0020": {
     "title": "黑土獠",
@@ -152,7 +168,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 20,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。正文末句涉及葫笙，按圖面核錄，仍應精校。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。正文末句涉及葫笙，按圖面核錄，仍應精校。",
+    "translation": "The Hei Tuliao favor wet-rice cultivation. Men wear blue jackets. Women wear short upper garments with square brocade-like panels of five-colored cloth sewn at front and back, and blue tubular skirts. Their weddings and funerals resemble those of the Hua Tuliao. At funerals the son-in-law plays a gourd reed-pipe and dances before the corpse."
   },
   "ocr-eb4f91a82238-p0021": {
     "title": "白土獠",
@@ -161,7 +178,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "full_caption",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 21,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。舊 OCR 漏掉部分首尾列；「阿迷」與「聞舊」的字形待核。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。舊 OCR 漏掉部分首尾列；「阿迷」與「聞舊」的字形待核。",
+    "translation": "The Bai Tuliao are characterized by the author as crafty but dedicated farmers. They settle near water for convenient cultivation. The first day of the tenth lunar month begins their year. They have learned Chinese. The text says the group was formerly unknown in the area and that many migrated from Ami and Mengzi."
   },
   "ocr-eb4f91a82238-p0024": {
     "title": "馬剌",
@@ -170,7 +188,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 24,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。第二冊僅有彩畫旁的兩字題名，左頁無說明，不生成不存在的正文。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。第二冊僅有彩畫旁的兩字題名，左頁無說明，不生成不存在的正文。",
+    "translation": "Title only: Mala (historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0025": {
     "title": "剌烏（疑）",
@@ -179,7 +198,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 25,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第一字形近「剌／刺」，需要第二輪核讀。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第一字形近「剌／刺」，需要第二輪核讀。",
+    "translation": "Title only: Ciwu (group name uncertain). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0026": {
     "title": "阿猓（疑）",
@@ -188,7 +208,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 26,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第二字與舊 OCR「稞」有異，需再核。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第二字與舊 OCR「稞」有異，需再核。",
+    "translation": "Title only: Aguo (group name uncertain). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0027": {
     "title": "阿者",
@@ -197,7 +218,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 27,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。",
+    "translation": "Title only: Azhe (historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0028": {
     "title": "阿繫（疑）",
@@ -206,7 +228,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 28,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第二字寫法特殊，讀法待確認。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第二字寫法特殊，讀法待確認。",
+    "translation": "Title only: Axi (group name uncertain). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0029": {
     "title": "旱擺夷",
@@ -215,7 +238,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 29,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，校正舊 OCR「早擺夷」。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，校正舊 OCR「早擺夷」。",
+    "translation": "Title only: Han Baiyi (historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0030": {
     "title": "黑猓剌（疑）",
@@ -224,7 +248,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 30,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第二、三字寫法尚待核。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第二、三字寫法尚待核。",
+    "translation": "Title only: Hei Guola (group name uncertain). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0031": {
     "title": "阿渡",
@@ -233,7 +258,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 31,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。",
+    "translation": "Title only: Adu (historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0032": {
     "title": "阿成",
@@ -242,7 +268,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 32,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。",
+    "translation": "Title only: Acheng (historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0033": {
     "title": "白猓剌（疑）",
@@ -251,7 +278,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 33,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；「猓剌」兩字暫錄，待核。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；「猓剌」兩字暫錄，待核。",
+    "translation": "Title only: Bai Guola (group name uncertain). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0034": {
     "title": "剌猴（疑）",
@@ -260,7 +288,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 34,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第一字的刀旁與剌／刺易混。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第一字的刀旁與剌／刺易混。",
+    "translation": "Title only: Lahou (group name uncertain). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0035": {
     "title": "窩泥",
@@ -269,7 +298,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 35,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。",
+    "translation": "Title only: Woni (historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0036": {
     "title": "猺人",
@@ -278,7 +308,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 36,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。",
+    "translation": "Title only: Yao people (historical source label). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0037": {
     "title": "阿夏",
@@ -287,7 +318,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 37,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。",
+    "translation": "Title only: Axia (historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0038": {
     "title": "白母雞",
@@ -296,7 +328,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 38,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。",
+    "translation": "Title only: Bai Muji (\"White Muji\"; historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0039": {
     "title": "儂人（疑）",
@@ -305,7 +338,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 39,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；舊 OCR 誤為「傻人」，按圖面初步讀作「儂人」。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；舊 OCR 誤為「傻人」，按圖面初步讀作「儂人」。",
+    "translation": "Title only: Nong people (group identification uncertain). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0040": {
     "title": "普岔",
@@ -314,7 +348,8 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 40,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名，左頁空白。",
+    "translation": "Title only: Pucha (historical group name). No descriptive caption is present on this page."
   },
   "ocr-eb4f91a82238-p0041": {
     "title": "花猓剌（疑）",
@@ -323,6 +358,7 @@ window.MIAO_MIAOFAN_36_DRAFTS = {
     "transcription_kind": "image_label_only",
     "review_batch": "miaofan-36-image-review-v1",
     "source_pdf_page": 41,
-    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第二、三字形需學者再核。"
+    "notes": "2026-11-21 AI 依《苗蕃圖》用戶提供的高清掃描逐頁校讀；尚未經研究者獨立逐字確認，不可當作學術定本。未修改原始 PaddleOCR。僅題名；第二、三字形需學者再核。",
+    "translation": "Title only: Hua Guola (group name uncertain). No descriptive caption is present on this page."
   }
 };
