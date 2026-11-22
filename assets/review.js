@@ -1,7 +1,7 @@
 (() => {
   "use strict";
   const $ = id => document.getElementById(id);
-  const IMPORTED = [...(Array.isArray(window.MIAO_IMPORTED_RECORDS) ? window.MIAO_IMPORTED_RECORDS : []), ...(Array.isArray(window.MIAO_JINGONG_68_DRAFTS) ? window.MIAO_JINGONG_68_DRAFTS : []), ...(Array.isArray(window.MIAO_QIANSHENG_68_DRAFTS) ? window.MIAO_QIANSHENG_68_DRAFTS : []), ...(Array.isArray(window.MIAO_WELLCOME_MS99_SCANS) ? window.MIAO_WELLCOME_MS99_SCANS : [])];
+  const IMPORTED = [...(Array.isArray(window.MIAO_IMPORTED_RECORDS) ? window.MIAO_IMPORTED_RECORDS : []), ...(Array.isArray(window.MIAO_JINGONG_68_DRAFTS) ? window.MIAO_JINGONG_68_DRAFTS : []), ...(Array.isArray(window.MIAO_QIANSHENG_68_DRAFTS) ? window.MIAO_QIANSHENG_68_DRAFTS : []), ...(Array.isArray(window.MIAO_WELLCOME_MS99_SCANS) ? window.MIAO_WELLCOME_MS99_SCANS : []), ...(Array.isArray(window.MIAO_RSL_MANCHESTER_SCANS) ? window.MIAO_RSL_MANCHESTER_SCANS : [])];
   const PLATES54 = Array.isArray(window.MIAOMAN_54_PLATES) ? window.MIAOMAN_54_PLATES : [];
   const DRAFTS42 = window.MIAOMAN_42_DRAFTS && typeof window.MIAOMAN_42_DRAFTS==='object' ? window.MIAOMAN_42_DRAFTS : {};
   const SINGLE82 = window.MIAOMAN_SINGLE_82_DRAFTS && typeof window.MIAOMAN_SINGLE_82_DRAFTS==='object' ? window.MIAOMAN_SINGLE_82_DRAFTS : {};
@@ -15,7 +15,7 @@
   ].map(r=>({...r,...(DRAFTS42[r.id]||{}),...(SINGLE82[r.id]||{}),...(CHENHAO80[r.id]||{}),...(GUIZHOU20[r.id]||{}),source_title:r.source_file==='进贡苗蛮图.清.陈枚画.清绘本.pdf'?'進貢苗蠻圖（陳枚畫）':r.source_file==='黔省诸苗全图.上下册.清绘本.pdf'?'黔省諸苗全圖（上下冊）':r.source_title}));
   // Keep Mu Konggong's 37 painting leaves separate from their 37 caption leaves.
   // A picture-only leaf (or cover/endpaper) does not require text recognition.
-  const isMukongNoText = r => (r?.collection_id==='9150bfea03fe' && ['illustration','non_text'].includes(r.page_kind)) || (r?.collection_id==='wellcome-ms-chinese-99' && r.page_kind==='non_text');
+  const isMukongNoText = r => (r?.collection_id==='9150bfea03fe' && ['illustration','non_text'].includes(r.page_kind)) || (r?.collection_id==='wellcome-ms-chinese-99' && r.page_kind==='non_text') || (['rsl-f274-54','manchester-c398'].includes(r?.collection_id) && r.page_kind==='non_text');
   const DRAFTS = window.MIAO_VISUAL_DRAFTS || {};
   const KEY = "miao_column_reviews_v1";
   const SCHEMA = "miao-column-review-v1";
