@@ -283,7 +283,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0050.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0051.webp",
     "picture_pdf_page": 50,
-    "pdf_text_page": 51
+    "pdf_text_page": 51,
+    "translation": "The Nong people live in Guangnan, with customs broadly similar to those of another group named in the draft as Jiyi (reading uncertain). Their leaders are described as descendants of Nong Zhigao, hence the group's name. They live in raised houses without chairs or stools, sit on the ground, and remove shoes before climbing the ladders. The account alleges a strong preference for dog and mouse meat. Women wear short jackets and long skirts; men wrap their heads in blue patterned cloth and wear short coarse-cloth garments. A passage about their equipment and the Jiaozhi region is unclear but names knives, shields, spears, and armor as objects kept close even while sleeping. Similar groups are said to live in three districts including Wangnong Mountain and Jiaohua."
   },
   "ocr-ddaac6c2e519-p0053": {
     "title": "黑羅羅",
@@ -297,7 +298,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0052.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0053.webp",
     "picture_pdf_page": 52,
-    "pdf_text_page": 53
+    "pdf_text_page": 53,
+    "translation": "The Hei Luoluo men gather their hair with cloth bands, wear hanging earrings, felt garments, and knives. Women cover their heads with blue cloth about a square foot in size, adorn themselves with red and green beads, shells, and ornaments, wear tubular skirts and ivory bracelets, and go barefoot. The author treats them as a high-status group among the local peoples, noting that many native officials and military commanders come from it. Despite wearing Chinese-style official clothing, those officials are said to retain local practices; official women wear colorful headwraps, large gold and silver earrings, and elaborate layered brocade garments, some trailing to the ground, with black sheepskins over their backs. Commanders' wives wear shorter felt and cloth garments. In Qujing, people in remote mountains are said to use split notched wooden tallies instead of written contracts, keeping one half each. They hold markets on chou and xu days. At funerals the wealthy reportedly cremate bodies wrapped in tiger pelts and others in sheepskins, scattering the ashes. Those in Chengjiang make dairy products, cut firewood, harvest crops, and sell their goods in markets. The account describes other localities: Anning and Lufeng residents carry salt for trade, while the Ejia group adds grass garments to felt and wool. It repeatedly portrays these people as fierce and prone to raiding, particularly those in Qiaodian of Wuding, and refers to groups in the forty-eight villages of Heqing, also called Haixizi, and to sites such as Chishiya and Tanglang Gudi around Binchuan. The ending mentions military campaigns since the Wanli era but is textually corrupt. Such descriptions of violence and status are the historical author's judgments."
   },
   "ocr-ddaac6c2e519-p0055": {
     "title": "僕喇",
@@ -311,7 +313,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0054.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0055.webp",
     "picture_pdf_page": 54,
-    "pdf_text_page": 55
+    "pdf_text_page": 55,
+    "translation": "The Pula share marriage and funerary customs with the Luoluo but speak a different language. They have disheveled hair, go barefoot, rarely wash their garments, and sleep under oxhides, wearing sheepskin and felt. Those in Xuanzhou are described as fierce raiders, whereas those in Shiping are described as peaceable, law-abiding registered households. Those in Wangnong are also called Mala: men wear chicken feathers and red-and-white woven garments, and women wear white; they cultivate mountain land and grow kapok."
   },
   "ocr-ddaac6c2e519-p0057": {
     "title": "喇魯",
@@ -325,7 +328,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0056.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0057.webp",
     "picture_pdf_page": 56,
-    "pdf_text_page": 57
+    "pdf_text_page": 57,
+    "translation": "The Lalu live in the wooded mountain valleys of Xinhua, farming and eating wheat or another grain (reading uncertain). From childhood to old age they seldom enter towns; they trap birds and beasts and wear hemp clothing, with armor made of rattan bark. The account describes them as dangerous raiders, individually residents but collectively bandits, and makes similar accusations against nearby Luokui groups, including the Lalu, Kongda, Lawu, Bijie, and Guoci. These are the author's hostile characterizations."
   },
   "ocr-ddaac6c2e519-p0059": {
     "title": "孔答",
@@ -339,7 +343,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0058.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0059.webp",
     "picture_pdf_page": 58,
-    "pdf_text_page": 59
+    "pdf_text_page": 59,
+    "translation": "The Kongda live in Xinhua Subprefecture. They wear short jackets of fine hemp with sheepskin over them, and trousers no longer than the knees. They carry knives, reportedly enjoy fighting, and farm while carrying javelins for protection. The author describes them as fierce and difficult to govern."
   },
   "ocr-ddaac6c2e519-p0061": {
     "title": "土獠",
@@ -353,7 +358,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0060.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0061.webp",
     "picture_pdf_page": 60,
-    "pdf_text_page": 61
+    "pdf_text_page": 61,
+    "translation": "The Tuliao are described as originating in an area where Sichuan, Guizhou, and western Guangdong meet, and as having migrated into Yunnan, especially around Shiping, Emei, and Lunan. Men wrap their heads in blue cloth and wear white hemp garments with a patch of red at the collar; women have red headscarves and embroidered clothing. The author calls them fierce, but says that those in Emei and Lunan sustain themselves by gathering wood and working their fields."
   },
   "ocr-ddaac6c2e519-p0063": {
     "title": "阿成",
@@ -367,7 +373,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0062.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0063.webp",
     "picture_pdf_page": 62,
-    "pdf_text_page": 63
+    "pdf_text_page": 63,
+    "translation": "The Acheng of Wangnong Mountain are depicted as violent and quarrelsome, always carrying spears and knives. The author claims they seek out birds, animals, insects, and mice to eat raw, move frequently, and belong to a group he labels the \"wild bandits\" of Luokui. These are allegations of the historical source."
   },
   "ocr-ddaac6c2e519-p0065": {
     "title": "阿者羅",
@@ -381,7 +388,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0064.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0065.webp",
     "picture_pdf_page": 64,
-    "pdf_text_page": 65
+    "pdf_text_page": 65,
+    "translation": "The Azhe Luoluo dress much like the Hei Luo and have marriage and funerary practices resembling those of the Bai Luo, but wear particularly large earrings. They are found in eastern localities such as Jiangchuan and Tonghai and, farther west, in Binchuan. In Tonghai, cattle serve as betrothal gifts and the groom carries the bride home himself. They cultivate mountain fields, hunt, and frequently migrate."
   },
   "ocr-ddaac6c2e519-p0067": {
     "title": "魯屋",
@@ -395,7 +403,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0066.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0067.webp",
     "picture_pdf_page": 66,
-    "pdf_text_page": 67
+    "pdf_text_page": 67,
+    "translation": "The Luwu Luoluo dress and eat like the Hei Luo but form a distinct group. They carry spears and shields and are described as exceptionally fierce, enjoying riding horses while hunting. They are found especially in Luguo village of Lin'an."
   },
   "ocr-ddaac6c2e519-p0069": {
     "title": "喇吾",
@@ -409,7 +418,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0068.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0069.webp",
     "picture_pdf_page": 68,
-    "pdf_text_page": 69
+    "pdf_text_page": 69,
+    "translation": "The Lawu dress and eat like the Luoluo. The author portrays them as cunning, combative, and prone to raids, allegedly reckless with life when displeased. They live in the mountains of Xinhua, cultivate by slash-and-burn methods, move with water and pasture, and use shamanic rites to avert misfortune. Their movements and relations with the authorities are described as unstable."
   },
   "ocr-ddaac6c2e519-p0071": {
     "title": "義昌",
@@ -423,7 +433,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0070.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0071.webp",
     "picture_pdf_page": 70,
-    "pdf_text_page": 71
+    "pdf_text_page": 71,
+    "translation": "The Yichang, also called Achang, are said to dislike heat and humidity and favor high mountains. They practice slash-and-burn cultivation; women adorn themselves with red rattan, and dogs are used in sacrifices. A phrase involving thirty-three winnowing baskets is difficult to interpret. They enjoy wine, carry loads, seek birds, beasts, and insects for raw food, and make clothing from wild kudzu fiber. They are said to have no chiefs, living among mountain valleys under the jurisdiction of native officials. The conclusion recounts a woman in a Yongchang village who, after her husband died, starved herself to death to preserve chastity; the author says this changed the local custom. Several personal and village names are uncertain."
   },
   "ocr-ddaac6c2e519-p0073": {
     "title": "古宗",
@@ -437,7 +448,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0072.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0073.webp",
     "picture_pdf_page": 72,
-    "pdf_text_page": 73
+    "pdf_text_page": 73,
+    "translation": "The Guzong are presented as a branch of the Xifan from the northwestern Yunnan border adjoining Tibetan areas, with communities in Lijiang and Heqing. Men divide their hair into hundreds of long braids, rarely combing or bathing; when they do comb, they reportedly offer an animal sacrifice. They wear long felt garments woven with lambs' tails or sheep's wool. Women adorn their hair with blue and white porcelain beads and other ornaments. Their foods include raw meat, turnips, and millet."
   },
   "ocr-ddaac6c2e519-p0075": {
     "title": "撒彌",
@@ -451,7 +463,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0074.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0075.webp",
     "picture_pdf_page": 74,
-    "pdf_text_page": 75
+    "pdf_text_page": 75,
+    "translation": "The Sami men bind their hair and wear long jackets, while women wear shorter jackets and skirts; the opening phrase describing men's hair is uncertain. They are found around Dian Lake. The author disparages their economic abilities but says they avoid theft. Mountain dwellers farm poor soils and sell firewood in towns, whereas lakeside households fish to support themselves."
   },
   "ocr-ddaac6c2e519-p0077": {
     "title": "普特",
@@ -465,7 +478,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0076.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0077.webp",
     "picture_pdf_page": 76,
-    "pdf_text_page": 77
+    "pdf_text_page": 77,
+    "translation": "The Pute are cold-hardy and make a living from fishing. Their boats, less than one zhang long, hold cooking equipment and the necessities of life. Some swim to catch fish, submerging entirely, their hair rising with the water, and emerge with large fish grasped in their hands or mouths. They are described as living by Dian Lake below Biji Mountain."
   },
   "ocr-ddaac6c2e519-p0079": {
     "title": "羅娑",
@@ -479,7 +493,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0078.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0079.webp",
     "picture_pdf_page": 78,
-    "pdf_text_page": 79
+    "pdf_text_page": 79,
+    "translation": "The Luosa, an ancient group of Wuding, are connected in the account with several old names and legends, including a claim that their descendants grow tails three inches long (a fabulous report, not a verified fact). They are also called Luowu and live in Chuxiong, Yao'an, Yongning, and Luoci. Men bind their hair in high topknots, wear hats and felt, and make clothing from coarse but strong fireweed-fiber cloth, sometimes sold in the provincial capital for grain sacks. Women have twin braids over their shoulders, decorated with green and blue beads, dark square-collared jackets, long skirts, and bare feet. They herd animals on wooded hillsides. Houses have no beds; people reportedly sleep on pine needles. Pine shelters are erected for weddings, funerals, and feasts. They cremate their dead, carry knives and spears, and the account portrays them as heavy drinkers, quarrelsome, and difficult to govern."
   },
   "ocr-ddaac6c2e519-p0081": {
     "title": "比苴",
@@ -493,7 +508,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0080.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0081.webp",
     "picture_pdf_page": 80,
-    "pdf_text_page": 81
+    "pdf_text_page": 81,
+    "translation": "The Bijie live in the hilly valleys of Xinhua, propping up thatched shelters with timber, with people and animals sharing space. They are skilled with bows and crossbows, sleep on the ground around fires rather than on beds, and eat beans, insects, and mice. They practice divination using bamboo strips, pine twigs, chicken bones, or shells, and the author claims their results are especially accurate. For transactions they use notched wooden tally contracts, and they cremate their dead."
   },
   "ocr-ddaac6c2e519-p0083": {
     "title": "蒲人",
@@ -507,7 +523,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0082.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0083.webp",
     "picture_pdf_page": 82,
-    "pdf_text_page": 83
+    "pdf_text_page": 83,
+    "translation": "The Pu people are identified with the ancient Baipu mentioned in Zhou and Spring and Autumn accounts as peoples of the west and south. The text traces them to the southwestern border of Yongchang and discusses variant names, including Pugan. Men wrap their heads in blue and red cloth and wear ornaments of green and blue cord, and some have numerous coils about the shoulders. Groups in Yongchang, Fengxi, Shidian, and many native jurisdictions farm diligently and ascend mountains barefoot. The author says these groups have become poorer over time. Migrants to Xinxing, Lufeng, Ami, and Zhennan are described as dark-complexioned, with topknots, bare feet, short pull-over jackets, copper bangles and earrings, knives, crossbows, large shields, and peacock feathers. Women wear bone hairpins and short colorful skirts. Brides reportedly choose their own spouses; bodies are wrapped in cloth and cremated. Instead of shoulder poles they carry loads in baskets, often live beside streams, and are strong swimmers. In Mengzi, a Puman group also called Puziman is depicted by the author as especially fierce and prone to robbery. Men reportedly ride without saddles, run barefoot with short armor over the legs, and wield spears and crossbows. They wear two joined cloth panels over the torso; women wrap red-and-black cloth over the chest and waist. The account disparages their manners and claims they sleep curled up without quilts or beds. These descriptions retain historical prejudices and include uncertain readings."
   },
   "ocr-ddaac6c2e519-p0085": {
     "title": "扯穫",
@@ -521,6 +538,7 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0084.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0085.webp",
     "picture_pdf_page": 84,
-    "pdf_text_page": 85
+    "pdf_text_page": 85,
+    "translation": "The Chehuo live on snowy mountains near Chuxiong, in houses high on peaks, reportedly without pottery tiles or ordinary woodworking tools. They farm hillsides and grow wheat, wear cloth garments and leather shoes, and decorate wooden utensils with tin. They are also found in Xinhua, where they are called Shanhuo."
   }
 };
