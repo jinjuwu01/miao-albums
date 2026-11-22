@@ -1,5 +1,5 @@
-// Source-specific provisional Chinese manuscript image readings and English translations; NOT human reviewed.
-// Full-page draft != approved edition. partial_visual_excerpt means only visible excerpt transcribed and translated.
+// Source-specific provisional Chinese image readings and English draft translations. NOT human reviewed.
+// partial_visual_excerpt marks incomplete reading; editorial brackets and ellipses are not original manuscript text.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -408,5 +408,35 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     ],
     "visual_tags": [],
     "translation_scope": "corresponds_to_excerpt_only"
+  },
+  "rsl-f274-v1-p018": {
+    "title": "紅苗",
+    "title_en": "Red Miao (Qing manuscript label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "ocr_raw": "第十四 紅苗\n紅苗在銅仁府屬。\n〔其餘各列仍待逐字校讀；本行為編者說明，非原文〕",
+    "transcription": "第十四 紅苗\n紅苗在銅仁府屬。\n〔其餘各列仍待逐字校讀；本行為編者說明，非原文〕",
+    "translation": "Fourteenth: Red Miao. The opening locates the people categorized by this historical label within Tongren Prefecture. The rest of the handwritten description, including its statements about dress and ritual practices, has not yet been transcribed or translated.",
+    "translation_status": "ai_draft",
+    "ocr_engine": "Image-led AI reading, provisional; not conventional OCR",
+    "notes": "俄羅斯國立圖書館 Ф.274 №54.1，Commons PDF第18頁。已核對左彩繪右題記。僅錄清晰開頭，不用概述代替失讀字；原文對該群體習俗的判斷均為歷史作者視角。",
+    "source_review": "Original cropped image images/external_pilot/rsl_v1_p018_right.jpg",
+    "translation_scope": "opening_only; no conjectural completion"
+  },
+  "rsl-f274-v2-p007": {
+    "title": "洞苗",
+    "title_en": "Dong Miao (historical category)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "ocr_raw": "第四十五 洞苗\n洞苗去天柱、錦屏……\n……擇平坦近水而居。\n……男女衣服與漢人同。\n〔省略號標明未校字句，並非原文標點〕",
+    "transcription": "第四十五 洞苗\n洞苗去天柱、錦屏……\n……擇平坦近水而居。\n……男女衣服與漢人同。\n〔省略號標明未校字句，並非原文標點〕",
+    "translation": "Forty-fifth: Dong Miao. The inscription refers to Tianzhu and Jinping, says that the people choose level ground near water for their homes, and describes women's and men's clothing as similar to that worn by Han people. Omitted text between these observations remains unread; this is a partial excerpt, not the entire inscription.",
+    "translation_status": "ai_draft",
+    "ocr_engine": "Image-led AI reading, provisional; not conventional OCR",
+    "notes": "俄羅斯國立圖書館 Ф.274 №54.2，Commons PDF第7頁。已核對右頁多列竪排文字，因具體地名距離及中間字句未能確認，刻意用省略號隔開可辨片段；禁止把分隔片段當連續逐字原文。",
+    "source_review": "Original cropped image images/external_pilot/rsl_v2_p007_right.jpg",
+    "translation_scope": "selected_noncontiguous_verified_phrases"
   }
 };
