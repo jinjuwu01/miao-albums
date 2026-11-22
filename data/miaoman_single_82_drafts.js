@@ -342,17 +342,18 @@ window.MIAOMAN_SINGLE_82_DRAFTS = {
     "page_kind": "caption",
     "title": "狗耳龍家",
     "title_en": "Plate 10 · historical label (provisional)",
-    "transcription": "在安順大定等府屬男女服色皆白髮結如狗耳狀立春後竪木於野謂之鬼杆上懸白布一疋未婚男女在彼剪衣換帶跳躍私奔聘以牛馬通媒",
-    "transcription_kind": "provisional_ocr_column_draft",
-    "status": "ocr_reordered_draft",
+    "transcription": "在安順、大定等府屬，男女服色皆白，髮結如狗耳狀。立春後豎木於野，謂之鬼杆，上懸白布一尺。未婚男女在彼剪衣換帶，跳躍私奔，聘以牛馬通媒妁。",
+    "transcription_kind": "provisional_visual_draft",
+    "status": "image_checked_draft",
     "review_batch": "miaoman-single82-firstpass-v1",
     "related_record_id": "ocr-fed119d6b353-p0021",
     "column_order": [
       2,
       1,
-      0
+      0,
+      3
     ],
-    "notes": "第10幅，PDF第20頁彩繪、第21頁解說。原始PaddleOCR逐欄初排，仍待逐字校圖；錯字、漏字、錯列可能存在。原始OCR完整保留。五冊82圖本的第10幅（PDF第21頁）只是暫定版本比較線索，未用另一版本取代本冊文字。"
+    "notes": "第10幅，PDF第20頁彩繪、第21頁解說。本次根據高清圖像逐列初核，仍須研究者復審。原始OCR完整保留。五冊82圖本的第10幅（PDF第21頁）只是暫定版本比較線索，未用另一版本取代本冊文字。 二次目視複核校正孤立單字與題記列序。"
   },
   "ocr-e7b41523743e-p0020": {
     "folio": 10,
@@ -488,18 +489,19 @@ window.MIAOMAN_SINGLE_82_DRAFTS = {
     "page_kind": "caption",
     "title": "紅苗",
     "title_en": "Plate 14 · historical label (provisional)",
-    "transcription": "在銅仁府屬多龍石吳麻白等姓衣服悉用斑絲女織以此為務同類相鬥非婦人不可解五月寅日夫婦各宿不敢言不出戶謂之忌鬼神白虎將祖父遺衣服裝像衆皆擊鼓名曰弔",
-    "transcription_kind": "provisional_ocr_column_draft",
-    "status": "ocr_reordered_draft",
+    "transcription": "在銅仁府屬，多龍、石、吳、麻、白等姓。衣服悉用斑絲，女織以此為務。同類相鬥，非婦人不可解。五月寅日夫婦各宿，不敢言、不出戶，謂之忌鬼神白虎。將祖父遺衣服裝像，衆皆擊鼓，名曰弔古。",
+    "transcription_kind": "provisional_visual_draft",
+    "status": "image_checked_draft",
     "review_batch": "miaoman-single82-firstpass-v1",
     "related_record_id": "ocr-fed119d6b353-p0029",
     "column_order": [
       3,
       2,
       1,
-      0
+      0,
+      4
     ],
-    "notes": "第14幅，PDF第28頁彩繪、第29頁解說。原始PaddleOCR逐欄初排，仍待逐字校圖；錯字、漏字、錯列可能存在。原始OCR完整保留。五冊82圖本的第14幅（PDF第29頁）只是暫定版本比較線索，未用另一版本取代本冊文字。"
+    "notes": "第14幅，PDF第28頁彩繪、第29頁解說。本次根據高清圖像逐列初核，仍須研究者復審。原始OCR完整保留。五冊82圖本的第14幅（PDF第29頁）只是暫定版本比較線索，未用另一版本取代本冊文字。 二次目視複核校正孤立單字與題記列序。"
   },
   "ocr-e7b41523743e-p0028": {
     "folio": 14,
@@ -2889,9 +2891,9 @@ window.MIAOMAN_SINGLE_82_DRAFTS = {
     "page_kind": "caption",
     "title": "尖頂苗",
     "title_en": "Plate 79 · historical label (provisional)",
-    "transcription": "在貴陽府屬男子梳尖頂髻以仲冬朔為大節夫婦耦耕咸知禮法",
-    "transcription_kind": "provisional_ocr_column_draft",
-    "status": "ocr_reordered_draft",
+    "transcription": "在貴陽府屬，男子梳尖頂髻，以仲冬朔為大節，夫婦耦耕，咸知禮法。",
+    "transcription_kind": "provisional_visual_draft",
+    "status": "image_checked_draft",
     "review_batch": "miaoman-single82-firstpass-v1",
     "related_record_id": "ocr-fed119d6b353-p0175",
     "column_order": [
@@ -2899,7 +2901,7 @@ window.MIAOMAN_SINGLE_82_DRAFTS = {
       3,
       0
     ],
-    "notes": "第79幅，PDF第158頁彩繪、第159頁解說。原始PaddleOCR逐欄初排，仍待逐字校圖；錯字、漏字、錯列可能存在。原始OCR完整保留。五冊82圖本的第79幅（PDF第175頁）只是暫定版本比較線索，未用另一版本取代本冊文字。"
+    "notes": "第79幅，PDF第158頁彩繪、第159頁解說。本次根據高清圖像逐列初核，仍須研究者復審。原始OCR完整保留。五冊82圖本的第79幅（PDF第175頁）只是暫定版本比較線索，未用另一版本取代本冊文字。 二次目視複核校正孤立單字與題記列序。"
   },
   "ocr-e7b41523743e-p0158": {
     "folio": 79,
