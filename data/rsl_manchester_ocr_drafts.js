@@ -1,4 +1,4 @@
-// Manchester source-specific readings: second-pass full-column drafts now attached to more pages; all uncertain readings marked □.
+// Manchester and Russian page-specific OCR; Manchester second-pass transcriptions preserve all source columns and uncertainties.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -451,21 +451,35 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "title_en": "猓羅圖說 — image-checked draft",
     "page_kind": "caption",
     "status": "image_checked_draft",
-    "ocr_raw": "猓羅在大定府屬，有黑白二種。黑者為大姓，其人皆深目長身，鈎鼻雜髭而留鬚。其俗尚鬼，又名羅鬼。蜀漢時有濟火者，後武侯破孟獲有功，封羅甸國王，即安氏遠祖也。",
-    "transcription": "猓羅在大定府屬，有黑白二種。黑者為大姓，其人皆深目長身，鈎鼻雜髭而留鬚。其俗尚鬼，又名羅鬼。蜀漢時有濟火者，後武侯破孟獲有功，封羅甸國王，即安氏遠祖也。",
-    "translation": "The source locates the Luoluo in Dading Prefecture and divides them into Black and White groups, describing the former as the higher-status lineages. The compiler gives a physical description, asserts that they venerate spirits, and says they are therefore also known as Luogui. It further recounts a historical genealogy linking a person named Jihuo, Zhuge Liang's southern campaigns, the title 'King of Luodian,' and the ancestry of the An lineage. These are claims in the manuscript, not independently verified facts. The remainder of the long caption is still untranscribed.",
+    "ocr_raw": "猓羅在大定府屬有黑白二種黑者為大姓其人皆深目長身鉤鼻蓬髮而留髯其俗尚鬼又名羅鬼蜀漢時有濟火者從武侯破孟獲有功封羅甸國王即安氏遠祖也世掌其土分四十八部之長曰□目其等有九最貴者曰更苴不名不拜賜鐵銀□狀凡大事悉即決吉凶則慕魁以下皆有識字文字類蒙古書男以青帕籠髮而束於額若牛角狀短衣大袖□裳衫□性最專一□即□厚不敵二往造甲利刀鏢鎗勁弩□畜□馬好射獵習擊刺故其兵為諸蠻魁",
+    "transcription": "猓羅在大定府屬有黑白二種黑者為大姓其人皆深目長身鉤鼻蓬髮而留髯其俗尚鬼又名羅鬼蜀漢時有濟火者從武侯破孟獲有功封羅甸國王即安氏遠祖也世掌其土分四十八部之長曰□目其等有九最貴者曰更苴不名不拜賜鐵銀□狀凡大事悉即決吉凶則慕魁以下皆有識字文字類蒙古書男以青帕籠髮而束於額若牛角狀短衣大袖□裳衫□性最專一□即□厚不敵二往造甲利刀鏢鎗勁弩□畜□馬好射獵習擊刺故其兵為諸蠻魁",
+    "translation": "The Luoluo are recorded in Dading Prefecture and divided into Black and White groups, the former being described as the leading lineage. The compiler comments on physical appearance and spirit worship, also calling them Luogui. An account of the Shu-Han period says that Jihuo assisted Marquis Wu in defeating Meng Huo and was enfeoffed with Luodian; he is presented as the ancestor of the An lineage. The passage describes hereditary rule over local territory, a hierarchy of forty-eight divisions and nine grades, with the highest bearing the title provisionally read as Gengju. It then refers to iron or silver objects, divination, writing resembling Mongolian script, blue headcloths bound into horn-like shapes, short robes, and weapons including armor, blades, spears and strong crossbows. Hunting, marksmanship and martial training are also mentioned. Several important graphs concerning hereditary titles and weapons remain uncertain.",
     "translation_status": "ai_draft",
-    "transcription_scope": "partial_visual_excerpt",
-    "ocr_engine": "AI image-led reading from actual manuscript crop; machine Tesseract rejected",
-    "source_review": "Verified against new 2026-11-22 scan samples, with unverified characters marked",
-    "notes": "曼徹斯特IIIF Canvas 11，彩繪配對Canvas 10。已核原圖前數列，後續對四十八部、服飾、武備之描述尚未逐字核讀，不與俄藏本的《黑猓羅》混合。　英譯僅涵蓋本條已轉錄部分；未校列不能視為完成。",
+    "transcription_scope": "full_page_column_pass_provisional",
+    "ocr_engine": "AI-assisted source-image visual transcription, ten vertical original columns, uncertainty □",
+    "source_review": "Manchester Chinese Crawford 398 canvas 11, ten columns reviewed 2026-11-22",
+    "notes": "曼徹斯特IIIF Canvas 11，彩繪配對Canvas 10。已核原圖前數列，後續對四十八部、服飾、武備之描述尚未逐字核讀，不與俄藏本的《黑猓羅》混合。　英譯僅涵蓋本條已轉錄部分；未校列不能視為完成。 【第二輪整頁試讀】十欄逐列對照本藏原圖，古族名及職官字形尚待專門校勘，凡不能確認者標□，舊節選另存。",
     "tags": [
       "猓羅圖說"
     ],
     "visual_tags": [],
-    "translation_scope": "corresponds_to_excerpt_only",
-    "text_completeness": "excerpt_only",
-    "english_completeness": "excerpt_only"
+    "translation_scope": "English draft following visually transcribed original manuscript; administrative titles and weapons uncertain",
+    "text_completeness": "provisional_full_or_near_full",
+    "english_completeness": "provisional",
+    "prior_transcription_20261122": "猓羅在大定府屬，有黑白二種。黑者為大姓，其人皆深目長身，鈎鼻雜髭而留鬚。其俗尚鬼，又名羅鬼。蜀漢時有濟火者，後武侯破孟獲有功，封羅甸國王，即安氏遠祖也。",
+    "transcription_columns": [
+      "猓羅在大定府屬有黑白二種黑者為大姓其人皆",
+      "深目長身鉤鼻蓬髮而留髯其俗尚鬼又名羅鬼",
+      "蜀漢時有濟火者從武侯破孟獲有功封羅甸國",
+      "王即安氏遠祖也世掌其土分四十八部之長曰□",
+      "目其等有九最貴者曰更苴不名不拜賜鐵銀",
+      "□狀凡大事悉即決吉凶則慕魁以下皆有識",
+      "字文字類蒙古書男以青帕籠髮而束於額若",
+      "牛角狀短衣大袖□裳衫□性最專一□即□厚",
+      "不敵二往造甲利刀鏢鎗勁弩□畜□馬好射獵",
+      "習擊刺故其兵為諸蠻魁"
+    ],
+    "english_kind": "provisional_source_translation"
   },
   "rsl-f274-v1-p018": {
     "title": "紅苗",
