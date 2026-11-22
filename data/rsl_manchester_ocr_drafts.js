@@ -1,5 +1,4 @@
-// Source-specific AI visual readings and draft English translations, not human reviewed.
-// Unreadable characters and partial passages are marked; do not merge with other copies.
+// Provisional bilingual AI image-readings; do NOT present as complete or human-reviewed where excerpted.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -1063,6 +1062,120 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "notes": "本藏本下冊：已把右側題記與左彩繪分別配對。『里民子』清代題首，並非當代族稱。第三列『細耳草鞋』字形待核，只作未校試讀。 中文及英譯尚未人工校訂，未轉錄部分不得視為完成。",
     "tags": [
       "里民子"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p013": {
+    "title": "蔡家苗",
+    "title_en": "蔡家苗 (Qing-era compiler's label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "蔡家苗在貴筑、修文、清鎮等州，威寧、平遠等州。\n〔男子衣冠及婦女製衣文字尚有疑字〕\n……青布高一尺許，若牛角狀，以長簪綰之，翁媳不通言，猶存古禮。",
+    "transcription": "蔡家苗在貴筑、修文、清鎮等州，威寧、平遠等州。\n〔男子衣冠及婦女製衣文字尚有疑字〕\n……青布高一尺許，若牛角狀，以長簪綰之，翁媳不通言，猶存古禮。",
+    "translation": "The Caijia Miao are placed in Guizhu, Xiuwen, Qingzhen, Weining, Pingyuan and adjacent localities. The manuscript describes a tall blue-cloth headdress, about one foot high, shaped like a horn and secured with a long hairpin. It also claims that fathers-in-law and daughters-in-law do not speak to one another, presenting this as an ancient custom. An intermediate passage on garments has not yet been reliably transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "excerpt_only",
+    "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 13; paired painting 12",
+    "notes": "Canvas 13，配彩繪 Canvas 12；只翻譯兩個可辨片段，省略號為校讀標記。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "tags": [
+      "蔡家苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p015": {
+    "title": "白猓羅",
+    "title_en": "白猓羅 (Qing-era compiler's label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n〔其餘有關飲食、喪葬的具體敘述待核〕\n……居普定者名阿和，與此類。",
+    "transcription": "白猓羅在大定及安順二府有之，與黑猓羅同而為下姓。\n〔其餘有關飲食、喪葬的具體敘述待核〕\n……居普定者名阿和，與此類。",
+    "translation": "The manuscript places the White Luoluo in Dading and Anshun, classifies them alongside the Black Luoluo but as a lower-status lineage, and uses heavily disparaging language to describe food and funeral customs. It ends by identifying people in Puding as Ahe. The intervening details remain untranscribed because several graphs require checking.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "excerpt_only",
+    "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 15; paired painting 14",
+    "notes": "Canvas 15，彩繪 Canvas 14；此處是曼徹斯特藏本，不能複製俄藏白猓羅文字替代其中異文。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "tags": [
+      "白猓羅"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p017": {
+    "title": "宋家苗",
+    "title_en": "宋家苗 (Qing-era compiler's label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "宋家苗在貴陽、安順二府，本中國之裔，春秋時放流而入於夷者也。其語言文字悉與漢同。\n〔婚姻與家務敘述等其餘列待校〕",
+    "transcription": "宋家苗在貴陽、安順二府，本中國之裔，春秋時放流而入於夷者也。其語言文字悉與漢同。\n〔婚姻與家務敘述等其餘列待校〕",
+    "translation": "The compiler places the Songjia Miao in Guiyang and Anshun prefectures. It asserts that they originally came from the central regions of China and were exiled to what it terms 'barbarian' territory in antiquity, and that their language and writing resemble those of the Han. This is the historical author's origin narrative, not independently verified genealogy. The remainder of the inscription, concerning marriage and household practices, has not yet been translated.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "excerpt_only",
+    "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 17; paired painting 16",
+    "notes": "Canvas 17，彩繪 Canvas 16。原件開首列清晰；未校列不以俄藏《宋家苗》補全。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "tags": [
+      "宋家苗"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p019": {
+    "title": "曾竹龍家",
+    "title_en": "曾竹龍家 (Qing-era compiler's label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "曾竹龍家在安順府境內。婦女衣尚白，而穿桶裙，取戴細布方巾，口髮一尾，於後長尺餘，用豬油抹髮。\n〔後續迎接親友與節慶等段落待校〕",
+    "transcription": "曾竹龍家在安順府境內。婦女衣尚白，而穿桶裙，取戴細布方巾，口髮一尾，於後長尺餘，用豬油抹髮。\n〔後續迎接親友與節慶等段落待校〕",
+    "translation": "The source situates the Zengzhu Longjia in Anshun Prefecture. It describes women wearing white garments and tubular skirts, a fine-cloth headdress, and hair gathered into a long tail behind the head, with pig fat used as a dressing. Later columns on entertaining visitors and celebrations have not been transcribed. The designation and customs are presented from the compiler's viewpoint.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "excerpt_only",
+    "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 19; paired painting 18",
+    "notes": "Canvas 19，彩繪 Canvas 18；原題用字似『曾竹龍家』，與俄藏上冊『曾竹籠家』可能為異文，需保留兩本各自的文字，不合併。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "tags": [
+      "曾竹龍家"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p021": {
+    "title": "青仲家",
+    "title_en": "青仲家 (Qing-era compiler's label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "青仲家在古州、清江、丹江等處。男子以青布蒙首，服色尚青，女子色白而多敏工刺繡。\n〔其餘宴飲、婚姻、祭祀與刻符記事的文字待校〕",
+    "transcription": "青仲家在古州、清江、丹江等處。男子以青布蒙首，服色尚青，女子色白而多敏工刺繡。\n〔其餘宴飲、婚姻、祭祀與刻符記事的文字待校〕",
+    "translation": "The manuscript places the Qing Zhongjia around Guzhou, Qingjiang, and Danjiang. It says that men cover their heads with blue cloth and prefer blue garments, while women are described as fair-complexioned and skilled at embroidery. The author's remaining claims concerning social gatherings, marriage, ritual and communication have not yet been transcribed.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "excerpt_only",
+    "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 21; paired painting 20",
+    "notes": "Canvas 21，彩繪 Canvas 20；文字雖可辨仍需逐列校核異文，不用俄藏青仲家自動覆蓋。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "tags": [
+      "青仲家"
+    ],
+    "visual_tags": []
+  },
+  "manchester-c398-p023": {
+    "title": "補籠仲家",
+    "title_en": "補籠仲家 (Qing-era compiler's label)",
+    "page_kind": "caption",
+    "status": "image_checked_draft",
+    "ocr_raw": "補籠仲家，貴陽府之定番州、廣順州、興義、安順兩府皆有之。以十二月朔為大節，歲時擊銅鼓為樂。若掠得銅鼓，即云武侯南征時所遺。\n〔後續禮俗與喪祭等段落待校〕",
+    "transcription": "補籠仲家，貴陽府之定番州、廣順州、興義、安順兩府皆有之。以十二月朔為大節，歲時擊銅鼓為樂。若掠得銅鼓，即云武侯南征時所遺。\n〔後續禮俗與喪祭等段落待校〕",
+    "translation": "The account places the Bulong Zhongjia in jurisdictions associated with Guiyang, Dingfan, Guangshun, Xingyi, and Anshun. It says the first day of the twelfth lunar month is an important festival and that bronze drums are beaten at seasonal celebrations. The compiler reports a local claim that certain acquired drums originated in the Marquis Wu's southern campaign. Later descriptions of ritual practices and mourning have not yet been translated.",
+    "translation_status": "ai_draft",
+    "transcription_scope": "partial_visual_excerpt",
+    "translation_scope": "excerpt_only",
+    "ocr_engine": "Model-assisted source-image column reading, NOT an automatic OCR verification",
+    "source_review": "John Rylands Library Chinese Crawford 398 IIIF canvas 23; paired painting 22",
+    "notes": "Canvas 23，彩繪 Canvas 22；漢字及異文按此館藏另存，與俄藏《補籠仲家》分別處理。 所錄為 AI 中英試讀稿，尚未逐字人工校勘，原件局部疑字和省略句仍待處理。",
+    "tags": [
+      "補籠仲家"
     ],
     "visual_tags": []
   }
