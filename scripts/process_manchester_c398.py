@@ -136,15 +136,27 @@ def read_existing_drafts(repo):
     i, j = content.index("{"), content.rindex("}") + 1
     return json.loads(content[i:j])
 
+def read_candidate_overlay(repo):
+    """Read any previously published source-specific OCR overlay without erasing it."""
+    file = repo / "data" / "manchester_ocr_candidates.js"
+    if not file.exists():
+        return {}
+    text = file.read_text(encoding="utf-8")
+    match = re.search(r"window\\.MIAO_MANCHESTER_OCR_CANDIDATES\\s*=\\s*(\\{[\\s\\S]*?\\})\\s*;", text)
+    if not match:
+        raise ValueError(f"Cannot parse existing OCR overlay; refusing to overwrite {file}")
+    return json.loads(match.group(1))
+
+
 def publish(root, repo):
     existing = read_existing_drafts(repo)
-    records = {}
+    records = read_candidate_overlay(repo)
     skipped = []
     for path in sorted((root / "ocr").glob("page_*.json")):
         obj = json.loads(path.read_text(encoding="utf-8"))
         n = int(path.stem.split("_")[-1])
         rid = f"manchester-c398-p{n:03d}"
-        if existing.get(rid, {}).get("transcription"):
+        if existing.get(rid, {}).get("transcription") or records.get(rid, {}).get("transcription"):
             skipped.append(n)
             continue
         kind = obj.get("page_kind")
@@ -177,8 +189,8 @@ def publish(root, repo):
         + json.dumps(records, ensure_ascii=False, indent=2) + ";\n",
         encoding="utf-8",
     )
-    print(f"Published {len(records)} new candidate entries into {dest}.")
-    print(f"Preserved {len(skipped)} existing image-checked manuscript draft entries.")
+    print(f"Overlay contains {len(records)} candidate entries after a non-destructive merge: {dest}.")
+    print(f"Skipped {len(skipped)} pages with existing transcriptions (legacy or candidate overlay).")
     return len(records)
 
 def main():
