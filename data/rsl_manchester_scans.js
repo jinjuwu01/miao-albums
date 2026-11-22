@@ -77,6 +77,9 @@
     const confirmedBlank = n>=2&&n<=5;
     const uploadedNonText = [93,95,105,107,193,195].includes(n);
     const uploadedSeal = n===95;
+    // The first caption of each volume is a landscape/sacred-site description,
+    // not an additional ethnic-group plate: vol. I canvas 9; vol. II canvas 109.
+    const descriptiveFrontispiece = (n===9||n===109);
     const uploadedCaptionText = ((n>=75&&n<=91)||(n>=109&&n<=191))&&n%2===1;
     const confirmedPreface = n===6||n===7;
     const checkedPainting = n>=8&&n<=74&&n%2===0;
@@ -108,7 +111,7 @@
       shelfmark:"Chinese Crawford 398",volume:vol===1?"上冊 / Volume I":"下冊 / Volume II",
       folio:n, pdf_page:n, page_total:202, plate_total:null,
       source_canvas:"https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398/canvas/"+n,
-      scan_index:n, page_kind:(confirmedBlank||uploadedNonText)?"non_text":confirmedPreface?"preface":checkedPainting?"illustration":(checkedText||uploadedCaptionText)?"caption":isLeaf?"scan_only":"non_text",
+      scan_index:n, content_genre:descriptiveFrontispiece?"landscape_description":null, page_kind:(confirmedBlank||uploadedNonText)?"non_text":confirmedPreface?"preface":checkedPainting?"illustration":(checkedText||uploadedCaptionText)?"caption":isLeaf?"scan_only":"non_text",
       image:manImage(n,1000), thumb:manImage(n,320), high_res_image:manImage(n,2000),
       text_image:manImage(n,2000), paired_image:relatedCanvas?manImage(relatedCanvas,1600):null,
       paired_pdf_page:relatedCanvas||null, pair_status:pairStatus,
@@ -120,6 +123,8 @@
       status:(confirmedBlank||uploadedNonText)?"non_text":confirmedPreface?"preface_pending":checkedPainting?"image_only":(checkedText||uploadedCaptionText)?"caption_pending":isLeaf?"scan_only":"non_text",
       notes:uploadedNonText?
        (uploadedSeal?"已核對上傳的 Manchester Chinese Crawford 398 掃描：Canvas 95 只有印記，無連續題記正文；保留原影像，不做強制 OCR。":"已核對上傳的 Manchester Chinese Crawford 398 掃描：本頁為空白頁或襯頁，無需中文正文 OCR。"):
+       descriptiveFrontispiece?
+       "已核對上傳的曼徹斯特原藏本：本頁為山水／寺洞景觀圖說，非族群分圖。獨立保留圖文及本藏本措辭。":
        uploadedCaptionText?
        "已逐張核對 2026-11-22 上傳的原藏本高清 JPEG：Canvas "+n+" 有手寫竪排中文題記，應由右至左逐列校讀。題記與相鄰彩繪的實際配對仍待檢查原彩繪頁；未核讀者標作待 OCR，不沿用俄藏抄本文字。":
        checkedPainting?
