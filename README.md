@@ -2,26 +2,28 @@
 
 ## Wellcome Collection 99 · 無題《百苗圖》系列本（2026-11-22）
 
-- [館藏原始頁面](https://wellcomecollection.org/works/f8b2bkkd)：Wellcome Chinese Collection 99 / MS Chinese 99；館藏頁未提供正式書名，「百苗圖」在本站僅為系列工作題名。
-- 授權：Wellcome 標示 **Public Domain Mark**；在本站保留館藏署名與鏈接。
-- [單獨的掃描編目](data/wellcome_ms99_scans.js)：在線瀏覽器顯示 **52 個數字掃描頁**。圖片目前使用 Wellcome IIIF 遠程服務，不表示高清原圖已存入本倉庫。頁圖 URL 採用館藏閱讀器所見規則推導；仍須逐頁核驗。
-- [單獨的 OCR / 英譯草稿層](data/wellcome_ms99_ocr_drafts.js)：初始為空，**沒有虛構 OCR 或翻譯**。掃描頁與題記／彩繪的對應尚待逐頁辨識；不要把 52 個掃描頁稱作 52 幅經確認的彩繪。
-- 網站首頁和 [逐列校讀工具](review.html) 均可選取這批掃描。僅在圖頁確實含文字時才進行 OCR；無文字的彩繪頁不得強制識別。
+- 原件：[Wellcome Collection, MS Chinese 99](https://wellcomecollection.org/works/f8b2bkkd)，公版標記 Public Domain Mark。「百苗圖」是本站的系列工作名稱，不代表原件書名。
+- 已核查使用者上傳的 **52 張 3000px 掃描**：其中 **29 頁為左側竪排題記、右側彩繪的對開圖文頁**；其餘 23 張是封面、空白、襯頁或色卡等非正文頁。全套頁面保留，不刪除或合併非正文影像。
+- [圖冊獨立數據檔](data/wellcome_ms99_scans.js)：52 條原始掃描記錄；29 幅圖文頁可單獨放大題記或顯示彩繪。網站圖像通過 Wellcome IIIF 遠程展示；未把高清 JPG 全部存入 GitHub。
+- [AI 高解析度視讀及英譯草稿](data/wellcome_ms99_ocr_drafts.js)：目前 **14 頁**，均標記 `image_checked_draft`、`ai_draft`。此為 AI 依照使用者實際高清圖像逐列核讀，不等同學者已校訂的文字。其餘 15 幅仍待校，**不可把沒有轉錄當作沒有文字**。
+- [API OCR 候選層](data/wellcome_ms99_api_ocr_candidates.js)：與上述 AI 圖像視讀的文字分開存儲。API 工作流不會覆寫已視讀的 14 份草稿。
+- 最重要的個別條目之一：[第 36 掃描頁（猺苗）](https://jinjuwu01.github.io/miao-albums/index.html#wellcome-ms99-p0036)，末尾記錄『土產硃砂、雄磺』；仍須以原圖及相關版本複核。
+- [逐列 OCR 復核工具](review.html) 可以選擇 Wellcome 原頁；非文字掃描不需要 OCR。
 
-從 Wellcome IIIF 下載到本機（需要網絡）：
+本機下載全冊原始圖片：
 
 ```bash
 python3 -m pip install requests openai
-python3 scripts/process_wellcome_ms99.py --mode download --pages 1-52
+python3 scripts/process_wellcome_ms99.py --mode download --pages 1-52 --width 3000
 ```
 
-以上圖片默認保存在 `~/Downloads/wellcome_ms99/scans/`，**不會自動推送 GitHub**。逐頁檢視圖片、核對頁序和著錄後，才適合做 OCR。若要以 OpenAI Responses API 進行可重複的 AI 圖像識讀及英譯，請在自己的電腦安全地設置 `OPENAI_API_KEY`，先測試少量頁面：
+如需利用 OpenAI API 產生新的 OCR+英譯候選（按 API 使用量計費），先在本機安全設置 `OPENAI_API_KEY`，再小規模測試：
 
 ```bash
-python3 scripts/process_wellcome_ms99.py --mode ocr --pages 2-4 --publish
+python3 scripts/process_wellcome_ms99.py --mode ocr --pages 5-6 --publish
 ```
 
-`--publish` 僅將本機的候選文字寫入 `data/wellcome_ms99_ocr_drafts.js`，不自動 commit / push；上站前必須人工檢視 JSON、逐字核對圖像，並審閱英譯。成本取決於實際呼叫模型和圖片大小。**此流程尚未在本對話環境中完整下載測試或執行 API。**
+這條命令把獨立 OCR 候選保存至 `data/wellcome_ms99_api_ocr_candidates.js`，不覆寫 `data/wellcome_ms99_ocr_drafts.js`，也不會自動提交 GitHub。上站前請人工檢查原文分列、古字、版面和英譯。現有 14 頁草稿未進行獨立學者核校。
 
 ---
 
