@@ -10,7 +10,8 @@
   const MIAOFAN_36_DRAFTS = window.MIAO_MIAOFAN_36_DRAFTS && typeof window.MIAO_MIAOFAN_36_DRAFTS === 'object' ? window.MIAO_MIAOFAN_36_DRAFTS : {};
   const DIAN_PAGE_FIXES = window.MIAO_DIAN_PAGE_FIXES && typeof window.MIAO_DIAN_PAGE_FIXES === 'object' ? window.MIAO_DIAN_PAGE_FIXES : {};
   const MIAOMAN_48_DRAFTS = window.MIAOMAN_48_DRAFTS && typeof window.MIAOMAN_48_DRAFTS === 'object' ? window.MIAOMAN_48_DRAFTS : {};
-  const BASE = [...LEGACY, ...IMPORTED].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), ...(DIAN_36_DRAFTS[r.id] || {}), ...(MIAOFAN_36_DRAFTS[r.id] || {}), ...(DIAN_PAGE_FIXES[r.id] || {}), ...(MIAOMAN_48_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
+  const MIAOMAN_41_DRAFTS = window.MIAOMAN_41_DRAFTS && typeof window.MIAOMAN_41_DRAFTS === 'object' ? window.MIAOMAN_41_DRAFTS : {};
+  const BASE = [...LEGACY, ...IMPORTED].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), ...(DIAN_36_DRAFTS[r.id] || {}), ...(MIAOFAN_36_DRAFTS[r.id] || {}), ...(DIAN_PAGE_FIXES[r.id] || {}), ...(MIAOMAN_48_DRAFTS[r.id] || {}), ...(MIAOMAN_41_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
   const byId = id => document.getElementById(id);
   const dom = {list:byId('result-list'),reader:byId('reader-content'),search:byId('search-input'),count:byId('result-count'),summary:byId('search-summary'),filter:byId('status-filter'),sort:byId('sort-order'),album:byId('album-filter')};
   let selected = BASE.some(r=>r.id===decodeURIComponent(location.hash.slice(1))) ? decodeURIComponent(location.hash.slice(1)) : (BASE[0]?.id || '');
@@ -25,7 +26,7 @@
   const conv = {};
   PAIRS.split(/\s+/).forEach(x=>{if([...x].length===2)conv[[...x][0]]=[...x][1];});
   const norm = s => [...String(s??'').normalize('NFKC').toLowerCase()].map(ch=>conv[ch]||ch).join('').replace(/[\s\p{P}\p{S}]+/gu,' ' ).trim();
-  const searchable = r => norm([r.source_title,r.source_file,r.title,r.title_en,r.transcription,r.translation,(['illustration','non_text','colophon'].includes(r.page_kind)||r.review_batch==='miaoman48-2026-11-source-aware-v1'?'':r.ocr_raw),r.notes,...(r.tags||[]),...(r.visual_tags||[])].join(' '));
+  const searchable = r => norm([r.source_title,r.source_file,r.title,r.title_en,r.transcription,r.translation,(['illustration','non_text','colophon','preface'].includes(r.page_kind)||r.review_batch==='miaoman48-2026-11-source-aware-v1'?'':r.ocr_raw),r.notes,...(r.tags||[]),...(r.visual_tags||[])].join(' '));
   const match = (r,query) => {
     if (!query.trim()) return true;
     const corpus=searchable(r);
@@ -58,7 +59,7 @@
     if(idx<0)return esc(input);
     return `${esc(input.slice(0,idx))}<mark>${esc(input.slice(idx,idx+first.length))}</mark>${esc(input.slice(idx+first.length))}`;
   }
-  function statusLabel(r){return r.status==='image_only'?'彩绘页 · 题记另页 / Illustration':r.status==='non_text'?'非图说正文 / Front matter':r.status==='colophon_pending'?'题跋待校 / Colophon pending':r.status==='human_reviewed'?'人工逐列校读 / Human-reviewed':r.status==='local_edit'?'本机校订 / Local edit':r.status==='image_checked_draft'?'AI 图像校读草稿 / AI image-checked draft':r.status==='ocr_reordered_draft'?'OCR 竖排整理稿（待核图） / Ordered OCR draft':r.status==='editorial_draft'?'人工试校 / Editorial draft':'机器待校 / Unverified OCR';}
+  function statusLabel(r){return r.status==='image_only'?'彩绘页 · 题记另页 / Illustration':r.status==='non_text'?'非图说正文 / Front matter':r.status==='colophon_pending'?'题跋待校 / Colophon pending':r.status==='preface_pending'?'序文待校 / Preface awaiting review':r.status==='human_reviewed'?'人工逐列校读 / Human-reviewed':r.status==='local_edit'?'本机校订 / Local edit':r.status==='image_checked_draft'?'AI 图像校读草稿 / AI image-checked draft':r.status==='ocr_reordered_draft'?'OCR 竖排整理稿（待核图） / Ordered OCR draft':r.status==='editorial_draft'?'人工试校 / Editorial draft':'机器待校 / Unverified OCR';}
   function showResults(){
     results=getResults();
     dom.count.textContent=`${results.length} 条 / records`;
@@ -66,7 +67,7 @@
     if(!results.length){dom.list.innerHTML='<div class="no-results">没有匹配记录。 / No matching pages.<br>请尝试其他关键词。 / Try another query.</div>';dom.reader.innerHTML='<div class="empty-state">暂无匹配记录。 / No results.</div>';return;}
     if(!results.some(r=>r.id===selected))selected=results[0].id;
     dom.list.innerHTML=results.slice(0,250).map(r=>{
-      const txt=r.transcription||(['illustration','non_text','colophon'].includes(r.page_kind)?(r.page_kind==='illustration'?'彩绘页；文字题记见相邻扫描页':r.page_kind==='colophon'?'本页含题跋文字，待逐字校读':'非正文页，不适用 OCR'):r.ocr_raw)||(r.visual_tags||[]).join(' · ');
+      const txt=r.transcription||(['illustration','non_text','colophon','preface'].includes(r.page_kind)?(r.page_kind==='illustration'?'彩绘页；文字题记见相邻扫描页':r.page_kind==='colophon'?'本页含題跋文字，待逐字校讀':r.page_kind==='preface'?'本页为序文，尚待逐字校读':'非正文页，不适用 OCR'):r.ocr_raw)||(r.visual_tags||[]).join(' · ');
       return `<button class="result-item ${r.id===selected?'selected':''}" type="button" data-record="${esc(r.id)}" aria-current="${r.id===selected?'true':'false'}"><img src="${esc(r.thumb || r.image)}" alt="${esc(r.source_title)} · 第${r.pdf_page}页 / Page ${r.pdf_page} thumbnail" loading="lazy"><span class="result-item-body"><span class="item-top"><strong>${esc(r.title)}</strong><span>${String(r.folio).padStart(2,'0')}/${r.page_total||40}</span></span><small>${esc(r.source_title)} · PDF 第 ${r.pdf_page} 页 / Page ${r.pdf_page}</small><p>${highlight(txt.slice(0,100),dom.search.value)}</p><span class="dot-status">${statusLabel(r)}</span></span></button>`;
     }).join('');
     dom.list.querySelectorAll('[data-record]').forEach(b=>b.addEventListener('click',()=>select(b.dataset.record)));
@@ -78,8 +79,8 @@
   function renderReader(){
     const r=results.find(x=>x.id===selected);if(!r)return;
     const idx=results.findIndex(x=>x.id===selected);
-    const caption=r.transcription || (['illustration','non_text','colophon'].includes(r.page_kind)?'':r.ocr_raw) || '';
-    const emptyCaption=r.page_kind==='illustration'?`本页是彩绘画页。请查看 PDF 第 ${r.paired_pdf_page} 页的文字题记。 / Illustration: see the paired transcription page.`:r.page_kind==='colophon'?'此页有文字题跋，尚待逐字核读。请直接查看原始扫描。 / Colophon awaiting transcription.':r.page_kind==='non_text'?'本页不是图说正文，不进行强制 OCR。 / No caption transcription is expected for this leaf.':'本页未检出文字，请核对扫描件。 / No text detected; consult the image.';
+    const caption=r.transcription || (['illustration','non_text','colophon','preface'].includes(r.page_kind)?'':r.ocr_raw) || '';
+    const emptyCaption=r.page_kind==='illustration'?`本页是彩绘画页。请查看 PDF 第 ${r.paired_pdf_page} 页的文字题记。 / Illustration: see the paired transcription page.`:r.page_kind==='colophon'?'此页有文字题跋，尚待逐字核读。请直接查看原始扫描。 / Colophon awaiting transcription.':r.page_kind==='preface'?'此页为原册序文，尚待逐字校读。请直接查看原始扫描。 / Preface awaiting visual transcription.':r.page_kind==='non_text'?'本页不是图说正文，不进行强制 OCR。 / No caption transcription is expected for this leaf.':'本页未检出文字，请核对扫描件。 / No text detected; consult the image.';
     const translation=r.translation||'';
     const isOriginal=['editorial_draft','image_checked_draft','ocr_reordered_draft','human_reviewed','local_edit'].includes(r.status);
     dom.reader.innerHTML=`
@@ -88,7 +89,7 @@
       <div class="reader-grid"><div class="scan-pane"><div class="pane-title">原始图像 <small>ORIGINAL SCAN</small></div><div class="image-stage" id="image-stage"><img id="scan-image" src="${esc(mode==='full'?r.image:r.text_image)}" alt="第 ${r.pdf_page} 页 / Page ${r.pdf_page} ${mode==='paired'?'相关扫描 / paired scan':mode==='full'?'扫描预览 / scan':'题记裁图 / caption crop'}" draggable="false"></div><div class="image-toolbar"><div><button type="button" class="${mode==='full'?'active':''}" id="show-full">整页 / Full page</button><button type="button" class="${mode==='crop'?'active':''}" id="show-crop" ${r.text_image && r.text_image!==r.image?'':'disabled title="暂无独立题记裁图 / No caption crop available"'}>题记放大 / Crop</button>${r.paired_image?`<button type="button" id="show-paired" class="${mode==='paired'?'active':''}">${r.page_kind==='caption'?'配套彩绘 / Painting':'对应题记 / Caption'}</button>`:''}</div><div><button id="zoom-out" type="button" aria-label="缩小图像">−</button><span id="zoom-indicator" style="font-size:10px;min-width:28px;text-align:center">1×</span><button id="zoom-in" type="button" aria-label="放大图像">＋</button><a href="${esc(r.image)}" target="_blank" rel="noopener noreferrer">查看原图 / View image ↗</a></div></div><p class="source-note">来源 / Source: ${esc(r.source_title)} · PDF 第 ${r.pdf_page} 页 / Page ${r.pdf_page}。网页仅提供图像预览；引证前请核对原件。 / Web preview only; verify against the original scan before citing.</p></div>
       <div class="text-pane"><div class="pane-title">题记与翻译 <small>PARALLEL READING</small></div><article class="text-card"><div class="text-card-head"><strong>${r.status==='human_reviewed'?'人工逐列校读稿':r.status==='image_checked_draft'?'AI 图像校读草稿':r.status==='ocr_reordered_draft'?'OCR 竖排整理稿（待逐字核图）':isOriginal?'中文试校稿':'机器 OCR 初稿'} <span>${r.status==='human_reviewed'?'Human-reviewed transcription':r.status==='image_checked_draft'?'Image-checked draft':r.status==='ocr_reordered_draft'?'Ordered OCR; not yet image-verified':isOriginal?'Editorial transcription':'Unverified OCR'}</span></strong><span>${statusLabel(r)}</span></div><div class="text-card-body chinese">${caption?highlight(caption,dom.search.value):'<span class="text-placeholder">'+esc(emptyCaption)+'</span>'}</div></article>
       <article class="text-card"><div class="text-card-head"><strong>AI 英译 <span>English translation</span></strong><span>${translation?'试译 / Draft only':'无译文 / Not available'}</span></div><div class="text-card-body english">${translation?highlight(translation,dom.search.value):'<span class="text-placeholder">本页尚无英文译文；须先核对 OCR，避免错误翻译。 / No English translation yet. OCR must be checked against the scan before translation.</span>'}</div></article>
-      <details class="ocr-details"><summary>${['illustration','non_text'].includes(r.page_kind)?'机器误检记录（不作为正文） · OCR noise, not source text ▾':'机器 OCR 原文（未校） · Unverified raw OCR ▾'}</summary><p>${esc(r.ocr_raw||'无可用 OCR 文字。 / No OCR text available.')}</p><small>OCR 可能误字、漏字、错序；不可直接引用。 / OCR may contain errors and scrambled column order; do not cite without verification.</small></details>
+      <details class="ocr-details"><summary>${['illustration','non_text','preface'].includes(r.page_kind)?'机器误检记录（不作为正文） · OCR noise, not source text ▾':'机器 OCR 原文（未校） · Unverified raw OCR ▾'}</summary><p>${esc(r.ocr_raw||'无可用 OCR 文字。 / No OCR text available.')}</p><small>OCR 可能误字、漏字、错序；不可直接引用。 / OCR may contain errors and scrambled column order; do not cite without verification.</small></details>
       <div class="reader-notice"><strong>版本说明 / Editorial status:</strong> ${esc(r.notes)}<p class="note-en" lang="en">Machine-generated text requires checking against the original image; notes may be available in Chinese only.</p></div></div></div>
       <div class="reader-bottom"><p>画面标签 / Visual tags (provisional): ${esc((r.visual_tags||[]).join(' · ')||'未编目 / Uncatalogued')}</p><a class="quiet-button" href="review.html?id=${encodeURIComponent(r.id)}">逐列 OCR 校读 / Column review ↗</a><button class="quiet-button" id="edit-open" type="button">✎ ${isEditing?'关闭编辑 / Close editor':'校订文字 / Edit text'}</button></div><div id="editor-mount"></div>`;
     byId('prev-record').addEventListener('click',()=>idx>0&&select(results[idx-1].id));
@@ -119,7 +120,7 @@
   const albums=[...new Set(BASE.map(r=>r.source_title))];
   for (const title of albums) { const option=document.createElement('option'); option.value=title; option.textContent=title; dom.album.appendChild(option); }
   if(byId('total-records')) byId('total-records').textContent=String(BASE.length);
-  if(byId('total-ocr')) byId('total-ocr').textContent=String(BASE.filter(r=>Boolean(r.ocr_raw)&&!['illustration','non_text'].includes(r.page_kind)).length);
+  if(byId('total-ocr')) byId('total-ocr').textContent=String(BASE.filter(r=>Boolean(r.ocr_raw)&&!['illustration','non_text','preface'].includes(r.page_kind)).length);
   if(byId('edited-records')) byId('edited-records').textContent=String(new Set(BASE.filter(r=>['editorial_draft','image_checked_draft','ocr_reordered_draft','human_reviewed'].includes(r.status)).map(r=>(r.source_title==='苗族生活图.40幅.清代彩绘'?'苗族生活图':r.source_title)+'#'+r.pdf_page)).size).padStart(2,'0');
   byId('search-button').addEventListener('click',showResults);
   dom.search.addEventListener('input',showResults);
