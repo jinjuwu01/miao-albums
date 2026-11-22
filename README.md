@@ -1,5 +1,30 @@
 # 苗图数字档案 · Miao Albums Digital Archive
 
+## Wellcome Collection 99 · 無題《百苗圖》系列本（2026-11-22）
+
+- [館藏原始頁面](https://wellcomecollection.org/works/f8b2bkkd)：Wellcome Chinese Collection 99 / MS Chinese 99；館藏頁未提供正式書名，「百苗圖」在本站僅為系列工作題名。
+- 授權：Wellcome 標示 **Public Domain Mark**；在本站保留館藏署名與鏈接。
+- [單獨的掃描編目](data/wellcome_ms99_scans.js)：在線瀏覽器顯示 **52 個數字掃描頁**。圖片目前使用 Wellcome IIIF 遠程服務，不表示高清原圖已存入本倉庫。頁圖 URL 採用館藏閱讀器所見規則推導；仍須逐頁核驗。
+- [單獨的 OCR / 英譯草稿層](data/wellcome_ms99_ocr_drafts.js)：初始為空，**沒有虛構 OCR 或翻譯**。掃描頁與題記／彩繪的對應尚待逐頁辨識；不要把 52 個掃描頁稱作 52 幅經確認的彩繪。
+- 網站首頁和 [逐列校讀工具](review.html) 均可選取這批掃描。僅在圖頁確實含文字時才進行 OCR；無文字的彩繪頁不得強制識別。
+
+從 Wellcome IIIF 下載到本機（需要網絡）：
+
+```bash
+python3 -m pip install requests openai
+python3 scripts/process_wellcome_ms99.py --mode download --pages 1-52
+```
+
+以上圖片默認保存在 `~/Downloads/wellcome_ms99/scans/`，**不會自動推送 GitHub**。逐頁檢視圖片、核對頁序和著錄後，才適合做 OCR。若要以 OpenAI Responses API 進行可重複的 AI 圖像識讀及英譯，請在自己的電腦安全地設置 `OPENAI_API_KEY`，先測試少量頁面：
+
+```bash
+python3 scripts/process_wellcome_ms99.py --mode ocr --pages 2-4 --publish
+```
+
+`--publish` 僅將本機的候選文字寫入 `data/wellcome_ms99_ocr_drafts.js`，不自動 commit / push；上站前必須人工檢視 JSON、逐字核對圖像，並審閱英譯。成本取決於實際呼叫模型和圖片大小。**此流程尚未在本對話環境中完整下載測試或執行 API。**
+
+---
+
 清代《苗族生活图》研究用试验性数据库。**这不是已完成的学术校勘版。**
 
 
