@@ -987,11 +987,11 @@ window.MIAOMAN_82_DRAFTS = {
     "page_kind": "caption",
     "title": "林猪（疑）",
     "title_en": "Plate 30 · historical label (provisional)",
-    "transcription": "林猪有王黎金文等姓在各州縣冬則掘地為爐\n\n〔題詩（OCR 分行；列序待核）〕\n新求草龍齊拜祝\n出郊祭鬼各絲然挽髻銜梳特地偏\n花衣相映彩旗鮮",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "provisional_ocr_column_draft",
+    "transcription": "林猪有王黎金文等姓在各州縣冬則掘地為爐\n\n〔題詩（初校）〕\n出郊祭鬼各紛然\n挽髻銜梳特地偏\n新求草龍齊拜祝\n花衣相映彩旗鮮",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-82-first-pass-20261121-v1",
-    "notes": "第 2 冊第 14 幅：PDF 第 65 頁題記、第 66 頁彩繪。原始 PaddleOCR 按竖排栏次初步重排；正文尚未完成逐字核图，题诗分行及列序仍待复核。 历史族称与图题存疑。原始 PaddleOCR 完整保留，引用前请复核原图。",
+    "notes": "第 2 冊第 14 幅：PDF 第 65 頁題記、第 66 頁彩繪。本次已据高清题记图像逐列核读，仍是需要研究者审定的 AI 草稿。 历史族称与图题存疑。原始 PaddleOCR 完整保留，引用前请复核原图。",
     "plate_total": 82
   },
   "ocr-fed119d6b353-p0066": {
@@ -1611,11 +1611,11 @@ window.MIAOMAN_82_DRAFTS = {
     "page_kind": "caption",
     "title": "洞家苗",
     "title_en": "Plate 48 · historical label (provisional)",
-    "transcription": "勤儉由來祗古桐聚盤過歲猶嫌豐種花自織衣仍短洞家苗在荔波每歲首以魚肉酒飯祭祖乃大定類也喜紡織男子雖通漢語不識文字以木刻為信\n\n〔題詩（OCR 分行；列序待核）〕\n木刻為憑類古風",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "provisional_ocr_column_draft",
+    "transcription": "洞家苗在荔波每歲首以魚肉酒飯祭祖乃大定類也喜紡織男子雖通漢語不識文字以木刻為信\n\n〔題詩（初校）〕\n勤儉由來祗古桐\n聚盤過歲猶嫌豐\n種花自織衣仍短\n木刻為憑類古風",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-82-first-pass-20261121-v1",
-    "notes": "第 3 冊第 16 幅：PDF 第 105 頁題記、第 106 頁彩繪。原始 PaddleOCR 按竖排栏次初步重排；正文尚未完成逐字核图，题诗分行及列序仍待复核。原始 PaddleOCR 完整保留，引用前请复核原图。",
+    "notes": "第 3 冊第 16 幅：PDF 第 105 頁題記、第 106 頁彩繪。本次已据高清题记图像逐列核读，仍是需要研究者审定的 AI 草稿。原始 PaddleOCR 完整保留，引用前请复核原图。",
     "plate_total": 82
   },
   "ocr-fed119d6b353-p0106": {
@@ -1947,11 +1947,11 @@ window.MIAOMAN_82_DRAFTS = {
     "page_kind": "caption",
     "title": "清江黑苗",
     "title_en": "Plate 57 · historical label (provisional)",
-    "transcription": "清江黑苗男以紅布女以青布束髮愛穿錦袍攜高崗唱引之苟合生子成家\n\n〔題詩（OCR 分行；列序待核）〕\n婚姻何用通媒始\n生性率多愛錦袍\n歌舞相從飲濁醪\n大環寬褲自嗷嘈",
-    "status": "ocr_reordered_draft",
-    "transcription_kind": "provisional_ocr_column_draft",
+    "transcription": "清江黑苗男以紅布女以青布束髮愛穿錦袍攜高崗唱引之苟合生子成家\n\n〔題詩（初校）〕\n生性率多愛錦袍\n大環寬褲自嗷嘈\n婚姻何用通媒妁\n歌舞相從飲濁醪",
+    "status": "image_checked_draft",
+    "transcription_kind": "provisional_visual_draft",
     "review_batch": "miaoman-82-first-pass-20261121-v1",
-    "notes": "第 4 冊第 9 幅：PDF 第 127 頁題記、第 128 頁彩繪。原始 PaddleOCR 按竖排栏次初步重排；正文尚未完成逐字核图，题诗分行及列序仍待复核。原始 PaddleOCR 完整保留，引用前请复核原图。",
+    "notes": "第 4 冊第 9 幅：PDF 第 127 頁題記、第 128 頁彩繪。本次已据高清题记图像逐列核读，仍是需要研究者审定的 AI 草稿。原始 PaddleOCR 完整保留，引用前请复核原图。",
     "plate_total": 82
   },
   "ocr-fed119d6b353-p0128": {
