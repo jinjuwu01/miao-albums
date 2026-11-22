@@ -24,7 +24,9 @@ jobs:
         run: |
           node --check assets/app.js
           node --check data/dian_page_fixes.js
+          node --check data/miaoman_48_drafts.js
           node scripts/check_dian_pages.mjs
+          node scripts/check_miaoman_48.mjs
       - name: Prepare static site
         run: |
           mkdir -p _site
