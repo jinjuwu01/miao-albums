@@ -544,5 +544,85 @@ window.MIAO_ENGLISH_DRAFTS = {
   "new-jingong-plate067": {
     "translation": "The Kemeng Guyang Miao live in Jinzhusi, Guangshun. They carve dwellings into high cliffs, sometimes reached by long bamboo ladders, and cultivate slopes using hand tools rather than draft cattle. Courtship involves lusheng dancing, while betrothal gifts may be exchanged after children are born. The source describes singing and dancing rather than weeping immediately after a parent's death in a rite termed naoshi. Yet, upon hearing the cuckoo in spring, the family weeps, saying that the bird returns each year but the deceased parent does not. [Some agricultural and marriage terms are uncertain.]",
     "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0002": {
+    "translation": "The Qing Miao live near forested mountains in Pingyuan and are described as a branch of the Qing Miao. Rather than cultivating conventional fields, they grow crops on mountain slopes. Men and women generally weave their own clothing.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0003": {
+    "translation": "The Shuijia Miao are recorded in Libo, Zunyi, and Tongren, lands said to have passed from western Guangxi to Guizhou in 1732. Men fish and hunt, and women weave fine cloth. They wear tube skirts and short jackets trimmed with patterned fabric. At New Year groups of men and women sing and dance hand in hand; those who become attached may marry. [The name of the cloth and part of the courtship sentence are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0004": {
+    "translation": "The Yetou Miao [name uncertain] live around Guzhou downstream and are described as related to the Dong Miao and classified as Hei Miao. They cultivate without oxen, using human labor and sharp iron implements. The first day of the eleventh lunar month is a major festival. Women wear elaborately coiled hair. [The rest of the caption has not yet been reliably transcribed.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0005": {
+    "translation": "The Qingjiang Miao [heading uncertain] are described as wearing white cloth around the hair, white rooster feathers, large earrings, and wide trousers. They plant many trees and maintain relationships with neighboring Han households. Following the autumn harvest, villages select festival dates in the tenth lunar month. [Much of the description remains untranscribed.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0006": {
+    "translation": "The Pingfa Miao live in the Xintian area of Guiding and around Danjiang. Men wear short jackets and trousers. The surviving text describes women's short tube skirts, but several clothing details and most of the caption remain unreadable.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0007": {
+    "translation": "The Bai'erzi live around Weining and neighboring Yunnan. The account says some of their practices resemble those of Han communities. It explains their name through families formed when Han men married into households of Miao women. [The intervening account of trade and customs is fragmentary.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0008": {
+    "translation": "The Tu Gelao live around Qingzhen, Pingyue, and Weining. The surviving text mentions clothing made from sheep's wool, settlement in high mountains, and the cultivation of mixed grains for food. [Most other details remain unreadable.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0009": {
+    "translation": "The Yaque Miao live under Guiyang Prefecture. Women wear white clothing with embroidered designs on the chest and sleeves. They prefer mountain settlements and grow mixed grains for food. The author likens their speech to birdsong and says disputes involving officials are referred to village elders. [Several descriptions of clothing are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0010": {
+    "translation": "The Xixi Miao live around Tianzhu and Liping. Women wear skirts above the knees and wrap blue cloth around their feet or legs. Unmarried men carry lusheng instruments and women bring other items [unreadable] to courtship gatherings. Betrothal gifts of cattle may follow after children are born.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0011": {
+    "translation": "The group called Sheng Miao is recorded around Taigong, Kaili, Huangping, and Shibing. In hostile language, the account claims that they eat raw food, carry spears and blades, raid in small groups, and practice divination by observing two snails placed in a basin. It also describes restrictions on widows' remarriage and asserts that customs have recently changed. [Portions of the original caption are missing.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0012": {
+    "translation": "The Luohan Miao live around the Eight Stockades of Qingjiang and Danjiang. Men wear fox-tail head ornaments and loose hair and particularly revere Maitreya Buddha. Around the third day of the third lunar month, men and women bring food offerings and sing and dance for three days while avoiding cooking fires. [A later section concerning childbirth and the role of husbands remains unreadable.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0013": {
+    "translation": "The Dong Miao live around Guizhu, Xiuwen, Longli, Qingzhen, and Guangshun. The source describes women in patterned garments and short pleated skirts. At Mid-Autumn villages invite ritual specialists to honor ancestors and deceased relatives, slaughter cattle, and arrange offerings. The author describes the people as observing social duties and assisting officials. [Several clothing and ritual details are missing.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0014": {
+    "translation": "The Heishan Miao live around Taigong, Qingjiang, and Guzhou. They bind their hair with blue cloth and inhabit remote mountain valleys. [The remainder of the Chinese draft concerning cultivation and alleged raiding is not yet legible enough to translate.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0015": {
+    "translation": "The Bai Guoluo live in Shuixi and Yongning and are characterized in the source as a subordinate branch of the Guoluo. The surviving text mentions cooking with a three-legged pot and a related group in Puding called Ahe. It also describes cattle being slaughtered after ritual offerings and meat shared at communal feasts. [Much of the caption remains fragmentary.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0016": {
+    "translation": "The Yao people [historical label] are said to have arrived from western Guangxi during the Yongzheng reign. They use connected lengths of bark to lead water to their homes, gather medicinal plants in the mountains, and practice medicine from village to village. They worship Panhu and preserve a treasured text in difficult-to-decipher seal-script characters. The author praises their honesty, claiming that lost property is left untouched. [The name of the book and several other words require checking.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0017": {
+    "translation": "The Zhangguang Miao [group designation uncertain] live around Qingjiang, Shiqian, Shibing, and other places. Men cultivate according to the size of their households; women weave enough cloth to clothe them. Fishing and hunting are leisure activities. [The account of marriage, funerals, and the rest of the caption is incomplete.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0018": {
+    "translation": "The Hua Gelao, also called Bai Gelao, live around Zhenyuan, Shibing, Huangping, and Weining. The source characterizes men as hunters of deer and birds rather than enthusiastic farmers. Women wear multicolored ornaments that the caption likens to beads. [The last part of the description is unreadable.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0019": {
+    "translation": "The Guoluan Gelao live in Pingyuan. Men wear diagonally woven ramie cloth and wrap their hair in blue headcloths resembling the rim of a cooking pot. The surviving text refers to short tops and long skirts, and to calling on spirits or ritual specialists when someone is ill. [The specific ritual details are unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0020": {
+    "translation": "The Shui Gelao live around Zhenyuan, Shibing, and other locations. They are skilled at catching fish and can enter deep water even in winter, explaining their name. Men's garments are short, and the passage mentions finely pleated skirts. Marriage and funeral customs are said to resemble those of Han people. [Some clothing and ceremony details are illegible.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-4e93ed1ef413-p0021": {
+    "translation": "The Pingzhai or Chezai Miao [first character uncertain] live around Guzhou. Men practice various crafts and women excel at needlework. Young people sing and meet in open-air moon-dancing grounds, even in the presence of their parents. The text traces the community to soldiers of Ma Sanbao who supposedly settled there and formed more than six hundred Miao households. [One word about men's musical performance and part of the historical narrative are uncertain.]",
+    "translation_status": "ai_draft"
   }
 };
