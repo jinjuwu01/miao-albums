@@ -5,6 +5,7 @@
   const RSL_MANCHESTER_OCR_DRAFTS = window.MIAO_RSL_MANCHESTER_OCR_DRAFTS || {};
   const PLATES54 = Array.isArray(window.MIAOMAN_54_PLATES) ? window.MIAOMAN_54_PLATES : [];
   const DRAFTS42 = window.MIAOMAN_42_DRAFTS && typeof window.MIAOMAN_42_DRAFTS==='object' ? window.MIAOMAN_42_DRAFTS : {};
+  const FIVE82 = window.MIAOMAN_82_DRAFTS && typeof window.MIAOMAN_82_DRAFTS==='object' ? window.MIAOMAN_82_DRAFTS : {};
   const SINGLE82 = window.MIAOMAN_SINGLE_82_DRAFTS && typeof window.MIAOMAN_SINGLE_82_DRAFTS==='object' ? window.MIAOMAN_SINGLE_82_DRAFTS : {};
   const CHENHAO80 = window.MANMIAO_CHENHAO_80_DRAFTS && typeof window.MANMIAO_CHENHAO_80_DRAFTS==='object' ? window.MANMIAO_CHENHAO_80_DRAFTS : {};
   const GUIZHOU20 = window.GUIZHOU_QUANSHENG_20_DRAFTS && typeof window.GUIZHOU_QUANSHENG_20_DRAFTS==='object' ? window.GUIZHOU_QUANSHENG_20_DRAFTS : {};
@@ -13,10 +14,10 @@
     ...(Array.isArray(window.MIAO_RECORDS) ? window.MIAO_RECORDS : []),
     ...(Array.isArray(window.MIAO_SHENGHUO_EXTRA_SCANS) ? window.MIAO_SHENGHUO_EXTRA_SCANS.filter(r => r.pdf_page > 44) : []),
     ...IMPORTED.flatMap(r=>(r.collection_id==='9e2b3d98dc2e'&&r.pdf_page>=3&&r.pdf_page<=29&&PLATES54.length===54)?PLATES54.filter(p=>p.pdf_page===r.pdf_page):[r])
-  ].map(r=>({...r,...(DRAFTS42[r.id]||{}),...(SINGLE82[r.id]||{}),...(CHENHAO80[r.id]||{}),...(GUIZHOU20[r.id]||{}),...(RSL_MANCHESTER_OCR_DRAFTS[r.id]||{}),source_title:r.source_file==='进贡苗蛮图.清.陈枚画.清绘本.pdf'?'進貢苗蠻圖（陳枚畫）':r.source_file==='黔省诸苗全图.上下册.清绘本.pdf'?'黔省諸苗全圖（上下冊）':r.source_title}));
+  ].map(r=>({...r,...(DRAFTS42[r.id]||{}),...(FIVE82[r.id]||{}),...(SINGLE82[r.id]||{}),...(CHENHAO80[r.id]||{}),...(GUIZHOU20[r.id]||{}),...(RSL_MANCHESTER_OCR_DRAFTS[r.id]||{}),source_title:r.source_file==='进贡苗蛮图.清.陈枚画.清绘本.pdf'?'進貢苗蠻圖（陳枚畫）':r.source_file==='黔省诸苗全图.上下册.清绘本.pdf'?'黔省諸苗全圖（上下冊）':r.source_title}));
   // Keep Mu Konggong's 37 painting leaves separate from their 37 caption leaves.
   // A picture-only leaf (or cover/endpaper) does not require text recognition.
-  const isMukongNoText = r => (r?.collection_id==='9150bfea03fe' && ['illustration','non_text'].includes(r.page_kind)) || (r?.collection_id==='wellcome-ms-chinese-99' && r.page_kind==='non_text') || (['rsl-f274-54','manchester-c398'].includes(r?.collection_id) && ['illustration','non_text'].includes(r.page_kind));
+  const isMukongNoText = r => (r?.collection_id==='9150bfea03fe' && ['illustration','non_text'].includes(r.page_kind)) || (r?.collection_id==='fed119d6b353' && r.page_kind==='illustration') || (r?.collection_id==='wellcome-ms-chinese-99' && r.page_kind==='non_text') || (['rsl-f274-54','manchester-c398'].includes(r?.collection_id) && ['illustration','non_text'].includes(r.page_kind));
   const DRAFTS = window.MIAO_VISUAL_DRAFTS || {};
   const KEY = "miao_column_reviews_v1";
   const SCHEMA = "miao-column-review-v1";
