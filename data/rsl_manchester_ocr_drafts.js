@@ -1,4 +1,4 @@
-// Provisional source-specific OCR and complete English renderings of provisional Chinese, not human-certified.
+// Manchester provisional Chinese and English in corresponding order. English retains unreadable characters.
 window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
   "rsl-f274-v1-p005": {
     "title": "黑猓羅",
@@ -2293,11 +2293,11 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "status": "image_checked_draft",
     "ocr_raw": "土犵狫在威寧州男□草為衣不□與猓羅□工以油燒熟入□蹈山似猿",
     "transcription": "土犵狫在威寧州男□草為衣不□與猓羅□工以油燒熟入□蹈山似猿",
-    "translation": "The text places the Tu Gelao in Weiningzhou and describes clothing made of grass. It goes on to mention the Luoluo, oil, heating, and movement in mountains likened to that of apes; the exact relationships between these phrases remain uncertain in the handwriting.",
+    "translation": "The Earth Gelao live in Weining Prefecture. Men [unreadable character] grass to make clothing and do not [unreadable]; a following comparison with the Luoluo is uncertain. They [unclear phrase] heat something in oil, enter [unreadable], and traverse the mountains like apes. Much of this brief caption remains illegible in the present Chinese reading.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 39, examined 2026-11-22; columns 4",
     "notes": "篇幅短而有難字，只有地點與草衣片段可確定，未讀列不以推測補入。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2312,8 +2312,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "工以油燒熟入□蹈",
       "山似猿"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The text places the Tu Gelao in Weiningzhou and describes clothing made of grass. It goes on to mention the Luoluo, oil, heating, and movement in mountains likened to that of apes; the exact relationships between these phrases remain uncertain in the handwriting.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p041": {
     "title": "紅苗",
@@ -2322,11 +2324,11 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "status": "image_checked_draft",
     "ocr_raw": "紅苗在銅仁府及楚省有之多吳石麻白等姓衣服悉用粗布女工以此為務若同類相鬥必婦勸□解至月寅日夫婦各宿不敢言不出戶以避鬼神忌白虎□凡牲畜皆殺以大去毛微煮帶血食之即乾隆六十年至嘉慶二年□征服者",
     "transcription": "紅苗在銅仁府及楚省有之多吳石麻白等姓衣服悉用粗布女工以此為務若同類相鬥必婦勸□解至月寅日夫婦各宿不敢言不出戶以避鬼神忌白虎□凡牲畜皆殺以大去毛微煮帶血食之即乾隆六十年至嘉慶二年□征服者",
-    "translation": "The Hong Miao are said to live in Tongren Prefecture and in the region called Chu, with surnames including Wu, Shi, Ma, and Bai. Clothing is made from coarse cloth, and women are described as working with it. The account says women intervene when members of the same group quarrel. On a specified day, spouses sleep separately, refrain from speaking or going outside, and seek to avoid spirits and the White Tiger. It further describes preparing livestock for food, then refers to the period from Qianlong's sixtieth year to Jiaqing's second year. Some graphs in these passages remain unresolved.",
+    "translation": "The Red Miao live in Tongren Prefecture and in the region called Chu. Many bear the surnames Wu, Shi, Ma, and Bai. Their clothing is all made from coarse cloth, and women work at making it. If members of the same group fight, women invariably persuade them to [unreadable] settle the dispute. On a certain yin day of the month, husbands and wives sleep apart, do not dare to speak, and do not leave the house, in order to avoid spirits and the White Tiger [unreadable]. Whenever livestock are slaughtered, most of the hair is removed; the flesh is cooked only slightly and eaten with the blood still in it. The final clause refers to a campaign of subjugation between the sixtieth year of Qianlong and the second year of Jiaqing, but the character preceding “subjugated” is unclear.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 41, examined 2026-11-22; columns 7",
     "notes": "僅取兩列地名、姓氏及衣服用料，後續相鬥、婚姻條款未校。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2344,8 +2346,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "毛微煮帶血食之即乾隆六十年",
       "至嘉慶二年□征服者"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Hong Miao are said to live in Tongren Prefecture and in the region called Chu, with surnames including Wu, Shi, Ma, and Bai. Clothing is made from coarse cloth, and women are described as working with it. The account says women intervene when members of the same group quarrel. On a specified day, spouses sleep separately, refrain from speaking or going outside, and seek to avoid spirits and the White Tiger. It further describes preparing livestock for food, then refers to the period from Qianlong's sixtieth year to Jiaqing's second year. Some graphs in these passages remain unresolved.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p043": {
     "title": "里民子",
@@ -2354,11 +2358,11 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "status": "image_checked_draft",
     "ocr_raw": "里民子在大定府之黔西州貴陽府之貴筑□安順州有之清鎮□等處男貿易營生婦穿細耳草鞋□閒即紡織羊毛布為衣愛養牲畜與漢人同",
     "transcription": "里民子在大定府之黔西州貴陽府之貴筑□安順州有之清鎮□等處男貿易營生婦穿細耳草鞋□閒即紡織羊毛布為衣愛養牲畜與漢人同",
-    "translation": "Liminzi are recorded in Qianxi under Dading Prefecture, Guizhu under Guiyang Prefecture, and around Anshun and Qingzhen. Men are said to earn a living through trade. The description mentions women's footwear, spinning and weaving woollen cloth, and keeping livestock, and says that their practices resemble those of Han people. Several characters cannot be confidently read.",
+    "translation": "The Liminzi live in Qianxi Prefecture under Dading, in Guizhu under Guiyang, in [unreadable] Anshun Prefecture, and around Qingzhen [unreadable]. Men make their living through trade. Women wear fine [unreadable modifier] straw shoes. In spare moments they spin and weave woolen cloth for clothing. They are fond of raising livestock, as are the Han people.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 43, examined 2026-11-22; columns 5",
     "notes": "已核原頁地名與生計開頭；『細耳草鞋』等字句需與高清再比，未作全文校定。 兩種藏本以實際館藏號區別；中文及英譯僅為研究試讀稿。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2374,8 +2378,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "細耳草鞋□閒即紡織羊毛",
       "布為衣愛養牲畜與漢人同"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "Liminzi are recorded in Qianxi under Dading Prefecture, Guizhu under Guiyang Prefecture, and around Anshun and Qingzhen. Men are said to earn a living through trade. The description mentions women's footwear, spinning and weaving woollen cloth, and keeping livestock, and says that their practices resemble those of Han people. Several characters cannot be confidently read.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p045": {
     "title": "林犵",
@@ -2386,9 +2392,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "林犵有王黎金文等姓散家各州□列掘地為爐層火煨□以牛衣藉之不脫複□花鬼用草龍揮□旗色往郊外祭之連節歌舞為歡在都勻府之清平者衣服又與漢同之□□長教訓甚嚴故子弟多入泮者",
     "transcription": "林犵有王黎金文等姓散家各州□列掘地為爐層火煨□以牛衣藉之不脫複□花鬼用草龍揮□旗色往郊外祭之連節歌舞為歡在都勻府之清平者衣服又與漢同之□□長教訓甚嚴故子弟多入泮者",
-    "translation": "The Lin Ge have surnames including Wang, Li, Jin and Wen and are dispersed among several prefectures. The compiler describes heating a pit or hearth and another difficult-to-read practice, then rites involving grass dragons or banners and offerings outside the settlement accompanied by singing and dancing. For those in Qingping under Duyun, clothing is said to resemble Han dress; the final lines mention strict education of children and some entering the schools. Several central characters require another check.",
+    "translation": "The Lin Ge have surnames such as Wang, Li, Jin, and Wen, and their households are scattered among the prefectures. [Unclear passage:] they dig pits to make stoves, build layered fires to roast [unreadable], and place ox-hide garments beneath it without taking them off. They perform [unreadable] rites for a “flower spirit,” using a grass dragon and waving flags of [unreadable] colors; they go to the outskirts to make offerings. At successive festivals they sing and dance for pleasure. Those living in Qingping under Duyun dress like the Han. [Unreadable words] elders discipline the young strictly, and for this reason many sons enter the government schools.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "Source-image-led provisional manual/AI visual transcription of vertical columns, no cross-copy imports",
     "source_review": "User-provided Manchester Chinese Crawford 398 canvas 45; 6 columns inspected 2026-11-22",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。已核對前兩列姓氏及散居描述；其餘對火葬和祭祀的文字仍待校對。 【第二輪整頁欄次補錄】按曼徹斯特原圖由右至左整理全部可見欄次，存疑以□標示；舊文保留 prior_transcription_20261122，譯文亦已重寫，非校定本。",
@@ -2405,8 +2411,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "勻府之清平者衣服又與漢同之□",
       "□長教訓甚嚴故子弟多入泮者"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Unverified English translation drafted from source-visible manuscript transcription; unreadable graphs shown □"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Lin Ge have surnames including Wang, Li, Jin and Wen and are dispersed among several prefectures. The compiler describes heating a pit or hearth and another difficult-to-read practice, then rites involving grass dragons or banners and offerings outside the settlement accompanied by singing and dancing. For those in Qingping under Duyun, clothing is said to resemble Han dress; the final lines mention strict education of children and some entering the schools. Several central characters require another check.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p047": {
     "title": "花撞",
@@ -2417,9 +2425,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "花撞在荔波郡男善耕作女工紡織衣短裙僅可遮膝□親□始□□□敬□程尤為苗俗中□罕見者",
     "transcription": "花撞在荔波郡男善耕作女工紡織衣短裙僅可遮膝□親□始□□□敬□程尤為苗俗中□罕見者",
-    "translation": "The Huazhuang are placed in Libo. Men are described as skilled cultivators and women as spinners and weavers; their skirts are short and barely cover the knees. The rest is partly unreadable, though the author ends by judging the described custom to be unusual among Miao customs. The illegible characters are deliberately not reconstructed.",
+    "translation": "The Huazhuang live in Libo. Men are adept at farming and women skilled in spinning and weaving. Their clothes are short, and their skirts barely cover the knees. [A largely unreadable passage mentioning relatives, the beginning of a practice, respect, and procedure.] The author says this is something rarely encountered among Miao customs [the qualifying character is unreadable].",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "Source-image-led provisional manual/AI visual transcription of vertical columns, no cross-copy imports",
     "source_review": "User-provided Manchester Chinese Crawford 398 canvas 47; 4 columns inspected 2026-11-22",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。前三列可辨。關於婚姻與習俗的餘列未轉錄，不能作為全文引用。 【第二輪整頁欄次補錄】按曼徹斯特原圖由右至左整理全部可見欄次，存疑以□標示；舊文保留 prior_transcription_20261122，譯文亦已重寫，非校定本。",
@@ -2434,8 +2442,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "親□始□□□敬□程尤為",
       "苗俗中□罕見者"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Unverified English translation drafted from source-visible manuscript transcription; unreadable graphs shown □"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Huazhuang are placed in Libo. Men are described as skilled cultivators and women as spinners and weavers; their skirts are short and barely cover the knees. The rest is partly unreadable, though the author ends by judging the described custom to be unusual among Miao customs. The illegible characters are deliberately not reconstructed.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p049": {
     "title": "水犵狫",
@@ -2446,9 +2456,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "水犵狫在施秉□餘慶□□之河若捕魚潛去□入深淵故名水犵狫男子衣服與漢人無異婦女雖不穿桶裙□□細摺長裙占苗俗也守法畏官婚祭俱惟□漢禮",
     "transcription": "水犵狫在施秉□餘慶□□之河若捕魚潛去□入深淵故名水犵狫男子衣服與漢人無異婦女雖不穿桶裙□□細摺長裙占苗俗也守法畏官婚祭俱惟□漢禮",
-    "translation": "The Shui Gelao are described near Shibing, Yuqing and rivers in the surrounding region. They are said to be expert at catching fish, diving into deep pools; the compiler derives the name 'Water Gelao' from this skill. Men's clothing is described as indistinguishable from Han garments, while women's long pleated skirts retain local features. The final passage says they respect the law and officials and follow rites similar to Han practices at marriages and sacrifices. Some specific words are unclear.",
+    "translation": "The Water Gelao live in Shibing [unreadable], Yuqing [unreadable], and along the rivers there. When catching fish they dive [unreadable] into deep pools; hence they are called Water Gelao. Men's clothes are no different from those of Han people. Although women do not wear tubular skirts, they [unreadable] wear long, finely pleated skirts, which are considered a Miao custom. They abide by the law and fear officials. In marriage and sacrifice they follow [unreadable qualifier] Han rites.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "Source-image-led provisional manual/AI visual transcription of vertical columns, no cross-copy imports",
     "source_review": "User-provided Manchester Chinese Crawford 398 canvas 49; 5 columns inspected 2026-11-22",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。已按右至左初讀地名及捕魚段；族稱乃編纂者使用，末段衣裙婚姻待核。 【第二輪整頁欄次補錄】按曼徹斯特原圖由右至左整理全部可見欄次，存疑以□標示；舊文保留 prior_transcription_20261122，譯文亦已重寫，非校定本。",
@@ -2464,8 +2474,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "雖不穿桶裙□□細摺長裙占苗",
       "俗也守法畏官婚祭俱惟□漢禮"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Unverified English translation drafted from source-visible manuscript transcription; unreadable graphs shown □"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Shui Gelao are described near Shibing, Yuqing and rivers in the surrounding region. They are said to be expert at catching fish, diving into deep pools; the compiler derives the name 'Water Gelao' from this skill. Men's clothing is described as indistinguishable from Han garments, while women's long pleated skirts retain local features. The final passage says they respect the law and officials and follow rites similar to Han practices at marriages and sacrifices. Some specific words are unclear.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p051": {
     "title": "青苗",
@@ -2476,9 +2488,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "青苗在黔西鎮寧二州及貴筑修文□境內衣尚青婦以青布籠髮上裝九華巾男竹笠草履性情□悍今六□子在平遠者又名箐苗也",
     "transcription": "青苗在黔西鎮寧二州及貴筑修文□境內衣尚青婦以青布籠髮上裝九華巾男竹笠草履性情□悍今六□子在平遠者又名箐苗也",
-    "translation": "The Qing Miao are placed in Qianxi, Zhenning, Guizhu, Xiuwen and neighboring areas. Their clothing favors blue. Women wrap their hair in blue cloth with a headpiece provisionally read as a 'nine-flower kerchief'; men wear bamboo hats and straw footwear. The account comments on temperament and says that a group living in Pingyuan is also called Qing Miao, written with the character for mountain thickets. The exact intervening group name is uncertain.",
+    "translation": "The Green Miao live within Qianxi and Zhenning prefectures and Guizhu and Xiuwen counties [unreadable place]. They favor blue clothing. Women wrap their hair in blue cloth and place a “nine-flower kerchief” [term uncertain] on top. Men wear bamboo hats and straw shoes. Their disposition is described as [unreadable] fierce. Those in Pingyuan who are called Liu[unreadable]zi are also known as Qing Miao [written with the character for a mountain thicket].",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "Source-image-led provisional manual/AI visual transcription of vertical columns, no cross-copy imports",
     "source_review": "User-provided Manchester Chinese Crawford 398 canvas 51; 5 columns inspected 2026-11-22",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。『九華巾』字形待核；餘列男服、作息與性格評述不以他本補入。 【第二輪整頁欄次補錄】按曼徹斯特原圖由右至左整理全部可見欄次，存疑以□標示；舊文保留 prior_transcription_20261122，譯文亦已重寫，非校定本。",
@@ -2494,8 +2506,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "竹笠草履性情□悍今六",
       "□子在平遠者又名箐苗也"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Unverified English translation drafted from source-visible manuscript transcription; unreadable graphs shown □"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Qing Miao are placed in Qianxi, Zhenning, Guizhu, Xiuwen and neighboring areas. Their clothing favors blue. Women wrap their hair in blue cloth with a headpiece provisionally read as a 'nine-flower kerchief'; men wear bamboo hats and straw footwear. The account comments on temperament and says that a group living in Pingyuan is also called Qing Miao, written with the character for mountain thickets. The exact intervening group name is uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p053": {
     "title": "獠苗（題字待核）",
@@ -2506,9 +2520,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "獠苗在貞豐州羅斛冊亨分州等家原隸粵西雍正五年改撥黔省勤耕力作雜髮穿衣俱效漢人短衣長裙家首尚循苗俗",
     "transcription": "獠苗在貞豐州羅斛冊亨分州等家原隸粵西雍正五年改撥黔省勤耕力作雜髮穿衣俱效漢人短衣長裙家首尚循苗俗",
-    "translation": "The Liao Miao are recorded in Zhenfeng, Luohu, Ceheng and their environs. The account says these territories were formerly administered from Guangxi and transferred to Guizhou in Yongzheng's fifth year. It depicts the inhabitants as diligent agricultural workers, describes hairstyle and clothing resembling those of Han people, and adds that some household customs still followed what the compiler calls Miao practices.",
+    "translation": "The Liao Miao live in Zhenfeng, Luohu, Ceheng Subprefecture, and other localities [reading of the administrative term uncertain]. They formerly belonged to western Guangdong/Guangxi and were reassigned to Guizhou in the fifth year of Yongzheng. They work diligently at farming. Their hair and clothing are said to imitate those of Han people: short upper garments and long skirts. In their households, however, they still follow Miao customs.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 53, examined 2026-11-22; columns 4",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。右首『獠』字形有異體可能，行政變遷僅按手稿所述，不等同已核實史實。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2523,8 +2537,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "黔省勤耕力作雜髮穿衣俱效",
       "漢人短衣長裙家首尚循苗俗"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Liao Miao are recorded in Zhenfeng, Luohu, Ceheng and their environs. The account says these territories were formerly administered from Guangxi and transferred to Guizhou in Yongzheng's fifth year. It depicts the inhabitants as diligent agricultural workers, describes hairstyle and clothing resembling those of Han people, and adds that some household customs still followed what the compiler calls Miao practices.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p055": {
     "title": "花苗",
@@ -2535,9 +2551,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "花苗在大定遵義安順貴陽等府所屬無姓氏性愚而畏法俗陋而力勤衣用敗布緝條織成青白相間婦女用顏色布鑲成八寶衣男女皆插紅木梳於額前□歲孟春擇平壤之地為月場未婚男女吹竹笙振銅鈴歌舞戲謔暮則攜所私以奔近□多用媒妁聘資親女□婚媾為盈縮□必男至女家成婚越宿同歸苗俗大類如此",
     "transcription": "花苗在大定遵義安順貴陽等府所屬無姓氏性愚而畏法俗陋而力勤衣用敗布緝條織成青白相間婦女用顏色布鑲成八寶衣男女皆插紅木梳於額前□歲孟春擇平壤之地為月場未婚男女吹竹笙振銅鈴歌舞戲謔暮則攜所私以奔近□多用媒妁聘資親女□婚媾為盈縮□必男至女家成婚越宿同歸苗俗大類如此",
-    "translation": "The Flower Miao are said to live in territories under Dading, Zunyi, Anshun and Guiyang. The compiler disparages them as lacking surnames and being 'simple-minded' yet industrious. The text describes reused cloth woven in alternating blue and white stripes and garments with multicolored decoration. Both men and women wear red wooden combs at the forehead. In spring, unmarried people gather at a 'moon ground', where reed pipes, bells, singing and dancing accompany courtship. It also describes matchmaking, marriage gifts, weddings at the bride's home, and the couple subsequently returning together. Several glyphs in the marriage passage remain unresolved.",
+    "translation": "The Flower Miao live in the jurisdictions of Dading, Zunyi, Anshun, Guiyang, and other prefectures. They are said to have no surnames. The compiler disparages them as foolish but afraid of the law, crude in custom but diligent in labor. Their clothes are made from old cloth cut into strips and woven in alternating blue and white. Women border garments with colored cloth to make “eight-treasure clothing.” Both men and women put red wooden combs at the front of their heads.\n\nEvery year in early spring [unreadable word] they select level ground as a “moon ground.” Unmarried men and women blow bamboo reed pipes, shake bronze bells, sing, dance, and joke with one another. At dusk they take those with whom they have formed private attachments and run away together. Recently [unreadable word], matchmakers have increasingly been used. Betrothal goods [unreadable phrase about female relatives and marriage] are increased or decreased according to [unreadable]. The man must go to the woman's house to marry, and after spending a night they return together. Such, broadly, are Miao customs.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "Source-image-led provisional manual/AI visual transcription of vertical columns, no cross-copy imports",
     "source_review": "User-provided Manchester Chinese Crawford 398 canvas 55; 8 columns inspected 2026-11-22",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。只試讀前數列及衣料句；族群偏見明確歸於清代作者；婚嫁與節慶後段未讀。 【第二輪整頁欄次補錄】按曼徹斯特原圖由右至左整理全部可見欄次，存疑以□標示；舊文保留 prior_transcription_20261122，譯文亦已重寫，非校定本。",
@@ -2556,8 +2572,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "用媒妁聘資親女□婚媾為盈縮□必男",
       "至女家成婚越宿同歸苗俗大類如此"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Unverified English translation drafted from source-visible manuscript transcription; unreadable graphs shown □"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Flower Miao are said to live in territories under Dading, Zunyi, Anshun and Guiyang. The compiler disparages them as lacking surnames and being 'simple-minded' yet industrious. The text describes reused cloth woven in alternating blue and white stripes and garments with multicolored decoration. Both men and women wear red wooden combs at the forehead. In spring, unmarried people gather at a 'moon ground', where reed pipes, bells, singing and dancing accompany courtship. It also describes matchmaking, marriage gifts, weddings at the bride's home, and the couple subsequently returning together. Several glyphs in the marriage passage remain unresolved.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p057": {
     "title": "紅犵狫",
@@ -2568,9 +2586,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "紅犵狫在廣順平遠州清平□境內性情獷悍每多惡習近經嚴禁□多獲長生子孫六□行",
     "transcription": "紅犵狫在廣順平遠州清平□境內性情獷悍每多惡習近經嚴禁□多獲長生子孫六□行",
-    "translation": "The historical label Hong Gelao is placed in Guangshun, Pingyuan and Qingping. The writer characterizes the people as fierce and accuses them of objectionable customs, saying that prohibitions have recently been imposed. The closing line is partly unreadable and should not be interpreted as a definite statement.",
+    "translation": "The Red Gelao live in Guangshun, Pingyuan Prefecture, and within Qingping [unreadable place]. Their disposition is described as fierce and their customs as often objectionable. Recently strict prohibitions have been imposed [unreadable]. The closing words appear to mention longevity, children and grandchildren, and “six [unreadable] practices,” but the present reading does not yield a dependable sentence.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 57, examined 2026-11-22; columns 4",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。當前只採信地名與族稱；其後帶貶義的性格敘述字形仍不確定，不直接錄入。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2585,8 +2603,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "每多惡習近經嚴禁□多",
       "獲長生子孫六□行"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The historical label Hong Gelao is placed in Guangshun, Pingyuan and Qingping. The writer characterizes the people as fierce and accuses them of objectionable customs, saying that prohibitions have recently been imposed. The closing line is partly unreadable and should not be interpreted as a definite statement.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p059": {
     "title": "花犵狫",
@@ -2597,9 +2617,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "花犵狫又名花兜在鎮遠府之施秉□石阡府之龍泉□平越之黃平州等家男子懶耕而好獵多以逐鹿羅雀為事婦女織□□采□油周身飾以蠟蟲繭□□珠□如貫珠乃古犵狫之□□",
     "transcription": "花犵狫又名花兜在鎮遠府之施秉□石阡府之龍泉□平越之黃平州等家男子懶耕而好獵多以逐鹿羅雀為事婦女織□□采□油周身飾以蠟蟲繭□□珠□如貫珠乃古犵狫之□□",
-    "translation": "The Flower Gelao, also called Huadou in this account, are located around Shibing under Zhenyuan, Longquan under Shiqian and Huangping under Pingyue. The compiler characterizes men as reluctant farmers but keen hunters, particularly pursuing deer and trapping birds. The passage then discusses women's weaving and the use of insect wax or cocoon-like ornaments worn on the body, compared with strings of beads. Important textile terms in the last three columns remain uncertain.",
+    "translation": "The Flower Gelao, also called Huadou, live in Shibing under Zhenyuan Prefecture [unreadable], Longquan under Shiqian Prefecture [unreadable], and Huangping under Pingyue, among other places. Men are said to be reluctant to cultivate the land but fond of hunting, frequently pursuing deer and snaring birds. Women weave [unreadable materials] and gather [unreadable] oil. They decorate their whole bodies with wax insects, cocoons, and [unreadable] beads, resembling strings of pearls. This is said to be a [unreadable characteristic or object] of the ancient Gelao.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "Source-image-led provisional manual/AI visual transcription of vertical columns, no cross-copy imports",
     "source_review": "User-provided Manchester Chinese Crawford 398 canvas 59; 6 columns inspected 2026-11-22",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。『花兜』與施秉黃平地名可辨，後列工藝作物不作推測性補全。 【第二輪整頁欄次補錄】按曼徹斯特原圖由右至左整理全部可見欄次，存疑以□標示；舊文保留 prior_transcription_20261122，譯文亦已重寫，非校定本。",
@@ -2616,8 +2636,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "周身飾以蠟蟲繭□□珠□如",
       "貫珠乃古犵狫之□□"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Unverified English translation drafted from source-visible manuscript transcription; unreadable graphs shown □"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Flower Gelao, also called Huadou in this account, are located around Shibing under Zhenyuan, Longquan under Shiqian and Huangping under Pingyue. The compiler characterizes men as reluctant farmers but keen hunters, particularly pursuing deer and trapping birds. The passage then discusses women's weaving and the use of insect wax or cocoon-like ornaments worn on the body, compared with strings of beads. Important textile terms in the last three columns remain uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p061": {
     "title": "鍋圈犵狫（題字待核）",
@@ -2628,9 +2650,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "鍋圈犵狫在平越州男以斜織斜紋布為衣婦以青帕籠髮如鍋圈狀青衣短裙弓履不服藥用□作庫設一具飾以紅綠線置□箸四延鬼師禱之性嗜酒而惜農業",
     "transcription": "鍋圈犵狫在平越州男以斜織斜紋布為衣婦以青帕籠髮如鍋圈狀青衣短裙弓履不服藥用□作庫設一具飾以紅綠線置□箸四延鬼師禱之性嗜酒而惜農業",
-    "translation": "The Guoquan Gelao are located in Pingyuezhou. The text says men wear diagonally woven patterned cloth, and women wrap their hair with blue headcloths so that it resembles the ring of a cooking pot. Blue clothing, short skirts, and shoes are mentioned. It then describes an object decorated with red and green threads, a ritual specialist praying over it, and a fondness for wine alongside agricultural work. The medicinal and ritual vocabulary requires further checking.",
+    "translation": "The Pot-Ring Gelao live in Pingyue Prefecture. Men wear diagonally woven, diagonally patterned cloth. Women wrap their hair with blue headcloths resembling the ring of a pot. They wear blue garments, short skirts, and curved [uncertain] shoes, and do not take medicine. They use [unreadable] to make or prepare [unclear object], setting out one item decorated with red and green thread and placing [unreadable] chopsticks on four sides. A ritual specialist is invited to pray over it. They are said to be fond of wine while valuing agriculture.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 61, examined 2026-11-22; columns 5",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。『鍋圈／銅圈』可能涉及本藏本異字，保留待核；末句『男子□不服藥』不轉譯為確定事實。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2646,8 +2668,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "設一具飾以紅綠線置□箸四延",
       "鬼師禱之性嗜酒而惜農業"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Guoquan Gelao are located in Pingyuezhou. The text says men wear diagonally woven patterned cloth, and women wrap their hair with blue headcloths so that it resembles the ring of a cooking pot. Blue clothing, short skirts, and shoes are mentioned. It then describes an object decorated with red and green threads, a ritual specialist praying over it, and a fondness for wine alongside agricultural work. The medicinal and ritual vocabulary requires further checking.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p063": {
     "title": "土人",
@@ -2658,9 +2682,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "土人名夷官□在貴陽府之廣順州者與軍民通婚姻男多貿易女勤耕作種植時田歌相和清越可聽歲首扮儺擊鼓以唱神歌□之□家皆飲食之在□水者最好閒今則悍俗還淳焉",
     "transcription": "土人名夷官□在貴陽府之廣順州者與軍民通婚姻男多貿易女勤耕作種植時田歌相和清越可聽歲首扮儺擊鼓以唱神歌□之□家皆飲食之在□水者最好閒今則悍俗還淳焉",
-    "translation": "The source calls the Turen by a further designation, provisionally read as Yiguan, and locates them in Guangshun under Guiyang Prefecture. It says they intermarry with military and civilian households, that men engage in trade, and that women cultivate fields. During planting, field songs answer each other. At the beginning of the year, people perform nuo rituals, beat drums, and sing to deities. A closing remark contrasts people living by water and an alleged change from rough to more settled customs. Several characters are unclear.",
+    "translation": "The people called Turen are known as Yiguan [the designation is uncertain]. Those living in Guangshun under Guiyang Prefecture intermarry with military and civilian households. Men often engage in trade, while women work diligently at cultivation. During planting, field songs respond to one another, their clear, ringing sound pleasant to hear. At the beginning of the year they perform nuo masked rituals, beat drums, and sing songs to the spirits. [An unclear phrase] households all eat and drink together. Those who live near [unreadable] water are said to be particularly idle; today, however, their formerly fierce customs are said to have returned to simplicity.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 63, examined 2026-11-22; columns 6",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。已讀前中數列，『夷官』及性別與貿易字句仍應與原大圖核對。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2677,8 +2701,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "歌□之□家皆飲食之在□水者",
       "最好閒今則悍俗還淳焉"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The source calls the Turen by a further designation, provisionally read as Yiguan, and locates them in Guangshun under Guiyang Prefecture. It says they intermarry with military and civilian households, that men engage in trade, and that women cultivate fields. During planting, field songs answer each other. At the beginning of the year, people perform nuo rituals, beat drums, and sing to deities. A closing remark contrasts people living by water and an alleged change from rough to more settled customs. Several characters are unclear.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p065": {
     "title": "洞人",
@@ -2689,9 +2715,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "洞人皆在下游而洪州尤衆性多猜忌夫婦出入必偕飲食□將□剖採茅花以禦寒",
     "transcription": "洞人皆在下游而洪州尤衆性多猜忌夫婦出入必偕飲食□將□剖採茅花以禦寒",
-    "translation": "The account says the Dongren live downstream and are especially numerous in Hongzhou. It alleges that they are suspicious and that husbands and wives go out together. It also mentions food and collecting reeds or grass-flower material to keep warm; some characters are unresolved.",
+    "translation": "The Dongren all live downstream, and are especially numerous in Hongzhou. They are described as suspicious by disposition, and husbands and wives invariably go out and come in together. In their food and drink they [unreadable], and they cut and gather reed flowers to protect themselves from the cold.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 65, examined 2026-11-22; columns 4",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。只錄前列地理及編者性格評語，後半不作已完成全文；貶抑性敘述要註明史料偏見。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2706,8 +2732,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "出入必偕飲食□將□",
       "剖採茅花以禦寒"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The account says the Dongren live downstream and are especially numerous in Hongzhou. It alleges that they are suspicious and that husbands and wives go out together. It also mentions food and collecting reeds or grass-flower material to keep warm; some characters are unresolved.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p067": {
     "title": "夷人",
@@ -2718,9 +2746,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "夷人在普安□營司男女皆披毯衣□不沐浴性醇謹而信佛凡猓羅种家犵狫語不相諳者常誦梵咒相愛女必祝永年",
     "transcription": "夷人在普安□營司男女皆披毯衣□不沐浴性醇謹而信佛凡猓羅种家犵狫語不相諳者常誦梵咒相愛女必祝永年",
-    "translation": "The Yi people are located around administrative stations in Pu'an. Men and women are said to wear felt garments; the text comments on bathing and describes them as cautious and faithful to Buddhism. It names the Luoluo, Zhongjia, and Gelao in a discussion of mutually unintelligible speech, and mentions reciting Buddhist incantations. The final clause about affection and long life remains uncertain.",
+    "translation": "The people called Yiren live in the administrative stations of Pu'an [unreadable]. Men and women alike wear felt cloaks and [unreadable] do not bathe. Their disposition is described as honest and cautious, and they believe in Buddhism. When the speech of the Luoluo, Zhongjia, and Gelao is mutually unintelligible, [unclear connection] they often chant Buddhist incantations. The closing clause reads approximately, “When in love with a woman, one must pray for long life,” but its precise syntax is uncertain.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 67, examined 2026-11-22; columns 4",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。只試讀右側三列；『不浴』是編纂者的表述，語言通事段待校。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2735,8 +2763,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "佛凡猓羅种家犵狫語不相諳",
       "者常誦梵咒相愛女必祝永年"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Yi people are located around administrative stations in Pu'an. Men and women are said to wear felt garments; the text comments on bathing and describes them as cautious and faithful to Buddhism. It names the Luoluo, Zhongjia, and Gelao in a discussion of mutually unintelligible speech, and mentions reciting Buddhist incantations. The final clause about affection and long life remains uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p069": {
     "title": "楊洞羅漢苗（題字待核）",
@@ -2747,9 +2777,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "楊洞羅漢苗在黎平府男耕作貿易婦髮鬢散飾插木梳於額前富者以金銀作連環耳墜衣短而繫邊帶結於背胸前刺繡一方以銀若飾之長裙短裙或長裙而□禪□縷餘錦數日又以香水沃髮愛潔淨尤為苗蠻中□雅淳者",
     "transcription": "楊洞羅漢苗在黎平府男耕作貿易婦髮鬢散飾插木梳於額前富者以金銀作連環耳墜衣短而繫邊帶結於背胸前刺繡一方以銀若飾之長裙短裙或長裙而□禪□縷餘錦數日又以香水沃髮愛潔淨尤為苗蠻中□雅淳者",
-    "translation": "The Yangdong Luohan Miao are placed in Liping Prefecture. Men are said to farm and trade. Women wear their hair with wooden combs inserted near the forehead, while wealthier people have linked gold and silver earrings. Clothing includes short upper garments, decorated ties and embroidery at the chest, sometimes with silver ornaments, and skirts of different lengths. The description also speaks of scented water used on the hair and praises cleanliness. Several terms for dress remain uncertain.",
+    "translation": "The Yangdong Luohan Miao live in Liping Prefecture. Men farm and trade. Women's hair and side-locks are worn loose and adorned with wooden combs inserted at the forehead. Wealthier women have linked gold or silver earrings. They wear short garments fastened with edging or ties that knot at the back; an embroidered square is worn at the front of the chest and adorned with silver or [unclear ornaments]. They wear long or short skirts, or long skirts with [unreadable] pleating and additional brocade threads. After several days they wash their hair with scented water. They prize cleanliness and are described as among the most elegant and gentle of the peoples called Miao and Man [one descriptor is unreadable].",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 69, examined 2026-11-22; columns 7",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。首字『楊／陽』形近待核，不強併俄藏『陽洞羅漢苗』異文；末尾長裙等描述未錄。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2767,8 +2797,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "□縷餘錦數日又以香水沃髮愛",
       "潔淨尤為苗蠻中□雅淳者"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Yangdong Luohan Miao are placed in Liping Prefecture. Men are said to farm and trade. Women wear their hair with wooden combs inserted near the forehead, while wealthier people have linked gold and silver earrings. Clothing includes short upper garments, decorated ties and embroidery at the chest, sometimes with silver ornaments, and skirts of different lengths. The description also speaks of scented water used on the hair and praises cleanliness. Several terms for dress remain uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p071": {
     "title": "白苗",
@@ -2779,9 +2811,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "白苗在龍里貴定□及黔西州地方服色尚白男科頭跣足婦鬢髮長簪□祀祖必擇大牯牛以角端正者飼之肥壯乃合各寨之牛於野鬥之勝則為吉即卜期屠之以祭祖祭者服白衣青衿細摺長裙□□合親屬族黨高歌唱飲名曰□之處",
     "transcription": "白苗在龍里貴定□及黔西州地方服色尚白男科頭跣足婦鬢髮長簪□祀祖必擇大牯牛以角端正者飼之肥壯乃合各寨之牛於野鬥之勝則為吉即卜期屠之以祭祖祭者服白衣青衿細摺長裙□□合親屬族黨高歌唱飲名曰□之處",
-    "translation": "The White Miao are located in Longli, Guiding, Qianxizhou and nearby areas. Their clothing favors white. Men are described as bareheaded and barefoot, while women wear long hairpins. For ancestral sacrifices, a large bull with well-formed horns is fed until fat. Bulls from different villages are brought together to fight; a victory is taken as auspicious, and a date is then selected for slaughter and ancestral rites. The participants wear white clothing, blue collars and finely pleated long skirts. Relatives and clanspeople gather, sing and drink. The closing name for this gathering remains uncertain.",
+    "translation": "The White Miao live around Longli, Guiding [unreadable], and Qianxi Prefecture. White is favored in their clothing. Men go bareheaded and barefoot, while women have side-locks of hair held by long pins. For ancestral sacrifices, they must choose a large bull with properly formed horns and feed it until it is fat and strong. Then bulls from the various villages are brought together in the open and made to fight; a victory is taken as an auspicious sign. They select a day and slaughter the bull to sacrifice to the ancestors. Worshippers wear white garments, blue collars, and long finely pleated skirts [unreadable]. Relatives and members of the clan gather, sing loudly, and drink. The closing designation for the place or occasion is unreadable.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 71, examined 2026-11-22; columns 7",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。僅取前列地理及衣髮段；牛祭、婚俗及後段仍不確定，避免補寫。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2799,8 +2831,10 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "祭者服白衣青衿細摺長裙□□",
       "合親屬族黨高歌唱飲名曰□之處"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The White Miao are located in Longli, Guiding, Qianxizhou and nearby areas. Their clothing favors white. Men are described as bareheaded and barefoot, while women wear long hairpins. For ancestral sacrifices, a large bull with well-formed horns is fed until fat. Bulls from different villages are brought together to fight; a victory is taken as auspicious, and a date is then selected for slaughter and ancestral rites. The participants wear white clothing, blue collars and finely pleated long skirts. Relatives and clanspeople gather, sing and drink. The closing name for this gathering remains uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p073": {
     "title": "馬鐙龍家",
@@ -2811,9 +2845,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
     "text_completeness": "provisional_full_or_near_full",
     "ocr_raw": "馬鐙龍家鎮寧州普定□及谷西堡頂營司之間多劉趙張等姓衣尚弓大故□易之以青婦人繡布作冠若馬鐙狀以耕種為業",
     "transcription": "馬鐙龍家鎮寧州普定□及谷西堡頂營司之間多劉趙張等姓衣尚弓大故□易之以青婦人繡布作冠若馬鐙狀以耕種為業",
-    "translation": "The Madeng Longjia are described around Zhenningzhou, Puding, Guxibao, and Dingying Si. The account lists surnames including Liu, Zhao and Zhang. A difficult clothing phrase follows. Women are said to make embroidered cloth headdresses shaped like horse stirrups, and farming is named as the main occupation.",
+    "translation": "The Stirrup Longjia live around Zhenning Prefecture, Puding [unreadable], Guxibao, and Dingying Office, and many have the surnames Liu, Zhao, or Zhang. They favor [an unclear clothing expression that appears to mention blue]. Women fashion embroidered cloth into headdresses shaped like horse stirrups. They make their living by farming.",
     "translation_status": "ai_draft",
-    "english_completeness": "provisional",
+    "english_completeness": "full_relative_to_chinese_draft",
     "ocr_engine": "AI visual transcription checked against uploaded Manchester canvas (right-to-left columns), NOT a certified edition",
     "source_review": "Original user-uploaded Manchester Chinese Crawford 398 canvas 73, examined 2026-11-22; columns 5",
     "notes": "館藏 IIIF 原圖已核，這是局部中文試讀及對應英譯，不是完成全文。本藏本題名暫讀『馬鐙』，俄藏作『馬蹬』，兩版本詞形須分開保存；其他列未完整校讀。 【第二輪逐欄核讀 2026-11-22】已逐列對照 Manchester 原圖補至最後一欄；存疑字符作□，標點待校。英文為對應新轉錄之試譯。",
@@ -2829,7 +2863,9 @@ window.MIAO_RSL_MANCHESTER_OCR_DRAFTS = {
       "以青婦人繡布作冠若馬鐙",
       "狀以耕種為業"
     ],
-    "english_kind": "provisional_source_translation",
-    "translation_scope": "Provisional translation of the newly transcribed visible page; uncertainties retained"
+    "english_kind": "source_aligned_translation_draft",
+    "translation_scope": "Complete English rendering of the extant provisional Chinese transcription in source order, not a certified reconstruction of illegible manuscript text.",
+    "prior_english_summary_20261122": "The Madeng Longjia are described around Zhenningzhou, Puding, Guxibao, and Dingying Si. The account lists surnames including Liu, Zhao and Zhang. A difficult clothing phrase follows. Women are said to make embroidered cloth headdresses shaped like horse stirrups, and farming is named as the main occupation.",
+    "translation_full_draft_20261122": true
   }
 };
