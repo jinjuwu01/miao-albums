@@ -29,7 +29,7 @@ vm.runInNewContext(read("data/rsl_manchester_ocr_drafts.js"),ctx);
 const drafts=ctx.window.MIAO_RSL_MANCHESTER_OCR_DRAFTS;
 const entries=Object.entries(drafts);
 const byId=new Map(a.map(x=>[x.id,x]));
-ok(entries.length>=102,"expected at least 102 Chinese/English draft records");
+ok(entries.length>=117,"expected at least 117 Chinese/English draft records");
 for(const [id,item] of entries){
   const source=byId.get(id);
   ok(source,"draft has no physical copy scan: "+id);
@@ -45,8 +45,8 @@ for(const r of inspectedRsl){
 }
 const manText=a.filter(x=>x.collection_id==="manchester-c398"&&x.page_kind==="caption");
 const manPaint=a.filter(x=>x.collection_id==="manchester-c398"&&x.page_kind==="illustration");
-ok(manText.length===18,"expected eighteen image-checked Manchester description leaves");
-ok(manPaint.length===19,"expected nineteen image-checked Manchester illustration leaves");
+ok(manText.length===33,"expected thirty-three image-checked Manchester description leaves");
+ok(manPaint.length===34,"expected thirty-four image-checked Manchester illustration leaves");
 for(const x of manText){
   ok(x.paired_image&&x.paired_pdf_page===x.scan_index-1,"caption paired with wrong Manchester painting: "+x.id);
 }
