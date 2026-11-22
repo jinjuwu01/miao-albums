@@ -20,7 +20,7 @@
   for (const vol of RSL) {
     const file = encodeURIComponent(vol.file).replace(/%2F/g,"/");
     const pdf = "https://commons.wikimedia.org/wiki/File:" + file;
-    const preview = (page,width) => "https://upload.wikimedia.org/wikipedia/commons/thumb/" +
+    const preview = (page,width) => "https://thumb.wikimedia.org/wikipedia/commons/thumb/" +
       vol.hash + "/" + file + "/page" + page + "-" + width + "px-" + file + ".jpg";
     for (let page=1;page<=vol.total;page++) {
       const id="rsl-f274-v"+vol.volume+"-p"+String(page).padStart(3,"0");
