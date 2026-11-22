@@ -35,7 +35,19 @@
   const OLD_EDIT_ID_BY_PREFERRED = new Map(IMPORTED.filter(r => REPLACEMENT_BY_LEAF.has(r.collection_id+':'+r.pdf_page))
     .map(r => [REPLACEMENT_BY_LEAF.get(r.collection_id+':'+r.pdf_page), r.id]));
   const IMPORTED_DISPLAY = IMPORTED_UNIQUE.flatMap(r=>(r.collection_id==='9e2b3d98dc2e'&&r.pdf_page>=3&&r.pdf_page<=29&&MIAOMAN_54_PLATES.length===54)?MIAOMAN_54_PLATES.filter(p=>p.pdf_page===r.pdf_page):[r]);
-  const BASE = [...LEGACY, ...IMPORTED_DISPLAY, ...JINGONG_PLATES, ...QIANSHENG_PLATES].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), ...(DIAN_36_DRAFTS[r.id] || {}), ...(MIAOFAN_36_DRAFTS[r.id] || {}), ...(DIAN_PAGE_FIXES[r.id] || {}), ...(MIAOMAN_48_DRAFTS[r.id] || {}), ...(MIAOMAN_41_DRAFTS[r.id] || {}), ...(MIAOMAN_82_DRAFTS[r.id] || {}), ...(MIAOMAN_41FRAMES_DRAFTS[r.id] || {}), ...(MIAOMAN_54_FRONT[r.id] || {}), ...(MIAOMAN_42_DRAFTS[r.id] || {}), ...(MIAOMAN_SINGLE_82_DRAFTS[r.id] || {}), ...(MANMIAO_CHENHAO_80_DRAFTS[r.id] || {}), ...(GUIZHOU_QUANSHENG_20_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
+  const BASE_RAW = [...LEGACY, ...IMPORTED_DISPLAY, ...JINGONG_PLATES, ...QIANSHENG_PLATES].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), ...(DIAN_36_DRAFTS[r.id] || {}), ...(MIAOFAN_36_DRAFTS[r.id] || {}), ...(DIAN_PAGE_FIXES[r.id] || {}), ...(MIAOMAN_48_DRAFTS[r.id] || {}), ...(MIAOMAN_41_DRAFTS[r.id] || {}), ...(MIAOMAN_82_DRAFTS[r.id] || {}), ...(MIAOMAN_41FRAMES_DRAFTS[r.id] || {}), ...(MIAOMAN_54_FRONT[r.id] || {}), ...(MIAOMAN_42_DRAFTS[r.id] || {}), ...(MIAOMAN_SINGLE_82_DRAFTS[r.id] || {}), ...(MANMIAO_CHENHAO_80_DRAFTS[r.id] || {}), ...(GUIZHOU_QUANSHENG_20_DRAFTS[r.id] || {}), source_title:r.source_file==='进贡苗蛮图.清.陈枚画.清绘本.pdf'?'進貢苗蠻圖（陳枚畫）':(r.source_title || '苗族生活图'), sort_index:i}));
+  // The imported OCR and later image-checked plates come from the same 79-page PDF.
+  // Present them under one album and in source-PDF order, keeping 68 preferred
+  // image-checked pages and 11 additional original OCR pages. Do not discard scans.
+  const JINGONG_TITLE = '進貢苗蠻圖（陳枚畫）';
+  const JINGONG_RECORDS = BASE_RAW.filter(r => r.source_title === JINGONG_TITLE).sort((a,b) => a.pdf_page - b.pdf_page);
+  let jingongInserted = false;
+  const BASE = BASE_RAW.flatMap(r => {
+    if (r.source_title !== JINGONG_TITLE) return [r];
+    if (jingongInserted) return [];
+    jingongInserted = true;
+    return JINGONG_RECORDS;
+  }).map((r,i) => ({...r,sort_index:i}));
   const byId = id => document.getElementById(id);
   const dom = {list:byId('result-list'),reader:byId('reader-content'),search:byId('search-input'),count:byId('result-count'),summary:byId('search-summary'),filter:byId('status-filter'),sort:byId('sort-order'),album:byId('album-filter')};
   let selected = BASE.some(r=>r.id===decodeURIComponent(location.hash.slice(1))) ? decodeURIComponent(location.hash.slice(1)) : (BASE[0]?.id || '');
