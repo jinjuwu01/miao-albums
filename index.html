@@ -38,7 +38,7 @@
   <div class="quick-stats" aria-label="数据库当前规模 / Archive statistics">
     <div><span class="stat-number" id="total-records">40</span><span>条页面记录 <small>Page records</small></span></div>
     <div><span class="stat-number" id="total-ocr">40</span><span>页有 OCR 文字 <small>OCR text</small></span></div>
-    <div class="stats-note">（部分彩繪頁、封面及裝飾頁不含文字，因此無需 OCR。俄羅斯國立圖書館藏《百苗圖》上下冊各41幅題記均已完成第一輪逐頁 AI 圖像轉錄：存疑字以「□」標記，部分長篇行草仍有未能完整釋讀的片段，不能視為人工校定全文。部分英譯仍只涵蓋舊版節選，曼徹斯特藏本亦待進一步校讀。）引用前請核對原圖。<span lang="en">(Illustrations, covers, and blank leaves require no OCR. Both Russian State Library Bai Miao Tu volumes now have an initial image-led Chinese reading for all 41 caption leaves each. Uncertain characters appear as □; some cursive passages remain unresolved. These are not certified complete scholarly transcriptions. English translations may cover only earlier excerpts; Manchester remains under review.) Verify all quotations against the scans.</span></div>
+    <div class="stats-note">（部分彩繪頁、封面及裝飾頁不含文字，因此無需 OCR。俄羅斯國立圖書館藏《百苗圖》上下冊各41幅題記均已完成第一輪逐頁 AI 圖像轉錄：存疑字以「□」標記，部分長篇行草仍有未能完整釋讀的片段，不能視為人工校定全文。部分英譯仍只涵蓋舊版節選，曼徹斯特藏本現有33頁題記及2頁序文的局部 AI 試讀，其餘圖像只建立索引與待核配對，沒有補寫不可驗證的 OCR。）引用前請核對原圖。<span lang="en">(Illustrations, covers, and blank leaves require no OCR. Both Russian State Library Bai Miao Tu volumes now have an initial image-led Chinese reading for all 41 caption leaves each. Uncertain characters appear as □; some cursive passages remain unresolved. These are not certified complete scholarly transcriptions. English translations may cover only earlier excerpts; Manchester currently has 33 partial caption drafts plus 2 preface excerpts; other leaves are indexed, not transcribed, and candidate page pairings still require source verification.) Verify all quotations against the scans.</span></div>
   </div>
 
   <section class="explore" id="explore" aria-labelledby="explore-title">
@@ -48,7 +48,7 @@
       <div class="searchbar"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7.5"/><path d="m17 17 4.5 4.5"/></svg><input id="search-input" type="search" autocomplete="off" placeholder="織錦 / 织锦 / 婚姻 / brocade / 牛…"><button id="search-button" type="button">检索 <span>Search</span></button></div>
       <div class="search-hints"><span>试试 / Try:</span><button class="chip" data-query="織錦">織錦</button><button class="chip" data-query="婚姻">婚姻</button><button class="chip" data-query="舞蹈">舞蹈</button><button class="chip" data-query="brocade">brocade</button><span class="syntax-hint">空格 / Space = AND · | = OR · -词 / -word = NOT</span></div>
     </div>
-    <div class="toolbar"><div class="toolbar-left"><strong id="result-count">40 条 / records</strong><span id="search-summary">跨图册目录 / All albums</span></div><div class="toolbar-right"><label for="album-filter">图册 / Album</label><select id="album-filter"><option value="all">全部图册 / All albums</option></select><label for="status-filter">状态 / Status</label><select id="status-filter"><option value="all">全部记录 / All records</option><option value="editorial_draft">校读草稿（待复核） / Provisional drafts</option><option value="ocr_unverified">机器识别 / Unverified OCR</option></select><label for="sort-order">排序 / Sort</label><select id="sort-order"><option value="asc">正序 / Ascending</option><option value="desc">倒序 / Descending</option></select><button id="export-button" class="quiet-button" type="button" title="导出当前检索结果 / Export search results">导出 CSV / Export ↓</button></div></div>
+    <div class="toolbar"><div class="toolbar-left"><strong id="result-count">40 条 / records</strong><span id="search-summary">跨图册目录 / All albums</span></div><div class="toolbar-right"><label for="album-filter">图册 / Album</label><select id="album-filter"><option value="all">全部图册 / All albums</option></select><label for="status-filter">状态 / Status</label><select id="status-filter"><option value="all">全部记录 / All records</option><option value="editorial_draft">校读草稿（待复核） / Provisional drafts</option><option value="pending_ocr">待识读 / Awaiting transcription</option><option value="ocr_unverified">机器识别 / Unverified OCR</option></select><label for="sort-order">排序 / Sort</label><select id="sort-order"><option value="asc">正序 / Ascending</option><option value="desc">倒序 / Descending</option></select><button id="export-button" class="quiet-button" type="button" title="导出当前检索结果 / Export search results">导出 CSV / Export ↓</button></div></div>
 
     <div class="workspace">
       <aside class="result-panel" aria-label="检索结果"><div class="panel-heading">PAGE INDEX <span>画幅目录</span></div><div class="result-list" id="result-list"></div><div class="result-footer">点选记录查看图文对照 / Select a page to compare image and text</div></aside>
@@ -104,7 +104,8 @@
 <script src="data/wellcome_ms99_scans.js?v=20261122-ms99-collectedheadings-v4"></script>
 <script src="data/wellcome_ms99_api_ocr_candidates.js?v=20261122-ms99-api-v1"></script>
 <script src="data/wellcome_ms99_ocr_drafts.js?v=20261122-ms99-29collated-v5"></script>
-<script src="data/rsl_manchester_scans.js?v=20261122-rsl-v2-titles-v10"></script>
+<script src="data/rsl_manchester_scans.js?v=20261122-c398-candidate-pairs-v11"></script>
+<script src="data/manchester_ocr_candidates.js?v=20261122-c398-placeholder-v1"></script>
 <script src="data/rsl_manchester_ocr_drafts.js?v=20261122-rsl-v2-firstpass-v8"></script>
-<script src="assets/app.js?v=20261122-rsl-fullpass-and-en-excerpts-v10"></script>
+<script src="assets/app.js?v=20261122-c398-pair-review-queue-v11"></script>
 </body></html>
