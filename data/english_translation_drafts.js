@@ -696,5 +696,65 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-06b056128ca2-p0019": {
     "translation": "The Yangdong Luohan Miao live around Liping. Women wear their hair loosely with wooden combs above the forehead. Wealthy women wear linked gold or silver earrings. They raise silkworms and weave brocade; short jackets are tied with bands and embroidered panels decorated with silver coins. Some wear short skirts, others long skirts without trousers, with an embroidered hanging panel called a 'garment tail.' The account emphasizes hair washing and describes marriage patterns and relations with another group called Sheng Miao. [The last several sentences are uncertain.]",
     "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0020": {
+    "translation": "The Dong people [historical designation, heading uncertain] are portrayed as suspicious and quarrelsome. Husbands and wives reportedly travel together carrying weapons; they season food with salt and sauces and gather reed flowers for winter insulation. Communities in the Shiqian and Langxi districts are said to resemble Han people and to enjoy falconry. The account then makes severe accusations of raiding and robbery against communities in Hongzhou, despite noting fertile fields and diligent farming. These allegations reflect the historical author's perspective, not independently verified group characteristics.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0021": {
+    "translation": "The Xi Miao live in Pingyue and Qingping, with surnames including Xie, Ma, Luo, He, Lu, and Lei. They favor blue clothing; men wear felt hats, leather boots or go barefoot, and may drape sheepskins over their shoulders. Women coil their hair with wooden combs. The account describes spouses sleeping separately before having children. After the tenth-month harvest, villages gather cattle for a rite led by singers with young participants playing lusheng and dancing for three days before cattle are sacrificed in thanksgiving. On New Year's Eve, households call the names of relatives over chicken and wine in a soul-calling ritual. The author praises the people as honest and rarely involved in litigation.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0022": {
+    "translation": "The Guoluan Gelao live in Pingyuan. Men weave twilled ramie garments. Women wrap uncombed hair in blue cloth shaped like the rim of a cooking pot and wear short tops and unpleated long skirts. For illness a ritual specialist is invited to pray before a tiger's head decorated with five-colored wool and placed in a winnowing basket. The dead are placed sideways, reportedly to prevent their return. The source criticizes heavy drinking and neglect of farming.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0023": {
+    "translation": "The Hua Gelao [heading uncertain] comprise several branches. One piece of cloth wrapped around the waist forms a tube skirt, and clothing colors distinguish groups with flowered or red cloth who do not intermarry. Coffins are placed in cliff caves or beside large rivers without burial or covering. Wooden memorial structures and small elevated buildings roofed with fir leaves are described. The author emphasizes speed, courage, and feasting in highly exoticizing language, comparing these funeral practices with those of the Bai Guoluo and other groups.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0024": {
+    "translation": "The Yangbao are said to be descended from a Bozhou population and to live around Zunyi and Longquan. Their marriage, mourning, and sacrificial practices are compared with Han customs. The author describes them as resistant to official summons in some cases.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0025": {
+    "translation": "The Dong Miao live around Guizhu, Longli, and Qingping. They favor light-blue clothing, with women's flowered sleeveless garments and finely pleated skirts. Spring courtship dances resemble those of the Hua Miao. At Mid-Autumn, families honor ancestors and deceased relatives with a carefully selected ox, raised until fat after harvest, and slaughtered for a communal feast. Relatives sing and drink while a ritual specialist calls the names of spirits before wooden boards laid with food and wine. Birds or animals caught during spring hunting may also be offered.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0026": {
+    "translation": "The Qing Miao live in Xiuwen, Zhenning, and Qianxi. They wear blue garments: women wrap blue cloth around their heads, and men wear bamboo hats and straw sandals. The author portrays them as combative but law-abiding. In Pingyuan, a related group called Qing Miao of the wooded hills lives in shifting mountain settlements, grows millet, wheat, and other grains instead of irrigated crops, and weaves its own hemp garments. The text also describes an unmarried man's distinctive haircut.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0027": {
+    "translation": "The Songjia of Guiyang are said in this account to descend from people of the ancient state of Song who were taken south by Chu and became a frontier population. They speak and write Chinese. Men wear hats and long garments, women hairpins and short-fronted tops. The text describes an unusual wedding in which the groom's party comes to the bride's house and the bride's relatives enact a forcible 'taking of the bride'; rituals of bathing and service to the mother-in-law follow. Mourning may involve a twenty-one-day period of simple food and drink. The author says men and women farm and weave diligently and that some enter local schools. [Some wedding details are uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0028": {
+    "translation": "The group provisionally labeled Gedou lives around Zhenyuan, Shibing, and Huangping, preferably on elevated ground. Houses have bamboo fences and earthen walls. Men wear plain local clothing; women wear short embroidered garments decorated in five colors on the chest and sleeves and strings of ornaments compared with silkworm cocoons or beads. The account says people enjoy wine, carry knives and crossbows, hunt deer and birds, and possess arrows whose wounds are said to be fatal, yet do not engage in robbery.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0029": {
+    "translation": "The Guoluo are described in two branches, black and white, under Dading. The text offers a historical-etymological account of the name and portrays certain features and spiritual beliefs in stereotyped language. It traces the ruling lineage to Jihuo, said to have aided Zhuge Liang, and to the ancestral line of the An chieftains. A hierarchy of hereditary local officials is detailed, including forty-eight divisions, headmen, and nine ranks. Senior figures are said to receive ceremonial insignia and settle important affairs. These ancient claims and some titles require corroboration.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0030": {
+    "translation": "The Bo people live around Pu'an and the encampments of local officials. Men and women wear felt garments and are described as seldom bathing. They serve as interpreters among Guoluo, Xiajia, and other communities that do not share a language. A festival or New Year is held on the twenty-fourth day of the sixth lunar month; fires are not lit on new- and full-moon days. The author says they are Buddhist devotees who use prayer beads and chant mantras.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0031": {
+    "translation": "The Bafan live in Dingfan. Their clothing resembles Han attire. The source says women work more than men, farming by day and weaving at night. Rice is stored after harvest and pounded in wooden mortars when needed. At seasonal gatherings relatives play long waist drums. Their New Year is placed on the fifteenth day of the tenth lunar month in this version. Burials take place quietly at night without choosing an auspicious day, so that relatives will not be disturbed.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0032": {
+    "translation": "The Hei Miao are found in the Eight Stockades, Danjiang, Zhenyuan, Qingjiang, Liping, and Guzhou. The text classifies mountain and riverside settlements under different historical labels, also distinguishing communities under native chieftains from those without officials. Black garments are common; women wear hairpins, earrings, and silver neck rings. Men and women move skillfully over difficult hillsides and farm or gather wood, with women also spinning at night. The passage gives detailed, often derogatory descriptions of glutinous-rice meals, eating by hand, obtaining salty flavor from bracken ash, and preserving meat, fish, and other animal foods in jars until fermented and pungent. It also remarks on scarcity of warm clothing and bedding. This ethnographic account contains authorial judgments and should be checked against the scan.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0033": {
+    "translation": "The Caijia Miao live around Guizhu, Xiuwen, Qingping, Qingzhen, Weining, Dading, and Pingyuan. A legend traces them to captives taken by Chu. Men wear felt garments; women use tall horn-shaped felt head ornaments wrapped in blue cloth and fastened with long hairpins, with short jackets and long skirts. Fathers-in-law and daughters-in-law avoid speaking directly. During mourning they eat millet gruel instead of rice or meat; relatives slaughter cattle, gather, play the lusheng, and dance. The source also records widow sacrifice at a husband's death, sometimes prevented by intervention from the woman's natal family.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-06b056128ca2-p0034": {
+    "translation": "The Madeng Longjia live between Ninggu, Xibao, and Dingying in the Anshun area. The source lists Zhao, Li, Xie, and other surnames. People favor white clothing, changing to blue for mourning. Women's cloth headdresses resemble horse stirrups. Some men study and gain admission to local schools.",
+    "translation_status": "ai_draft"
   }
 };
