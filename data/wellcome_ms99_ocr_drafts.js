@@ -1,4 +1,5 @@
-// Wellcome MS Chinese 99 · provisional AI image readings (NOT human-reviewed).
+// Wellcome MS Chinese 99: AI image readings with provisional English translations.
+// NOT independent scholarly transcriptions. See notes for uncertain glyphs.
 window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
   "wellcome-ms99-p0005": {
     "title": "倮猓",
@@ -215,5 +216,83 @@ window.MIAO_WELLCOME_MS99_OCR_DRAFTS = {
     "translation_status": "ai_draft",
     "ocr_raw": "",
     "transcription_kind": "ai_image_reading_provisional"
+  },
+  "wellcome-ms99-p0017": {
+    "title": "龍家苗",
+    "title_en": "Longjia Miao (historical label)",
+    "transcription": "查龍家苗在廣順、大定、平遠等處。在廣順者，明洪武設金筑安撫司，萬曆三十九年改土歸流，置廣順州。在大定、平遠者，宋時係烏撒部，元明內附，授宣慰使。國朝康熙三年改土歸流，置大定、平遠二府；二十三年改平遠府為平遠州，隸大定府。苗人男子束髮不冠，婦人辮髮螺結，上指若狗耳狀。衣斑衣，用五色□珠為飾，貧則以薏苡代之。春日立竿於野，男女競舞擇配，既奔則女氏之親黨贖以牛馬，始通媒妁。應輸稅糧，民苗一體，並無苗額。廣順土產紫草；大定土產巖尖、穀毧蓑、烏梅、山丹、杜鵑、豪猪、竹鼯；平遠土產無花菓、薏苡仁。",
+    "translation": "The Longjia Miao are located around Guangshun, Dading, and Pingyuan. The account traces the administration of Guangshun from a Ming native pacification office to a department, and that of Dading and Pingyuan from the Wusa division to Qing regular administration. It describes men wearing their hair bound without hats and women forming braided coils that point upward like dogs’ ears. Their patterned garments have multicolored bead ornaments, for which poorer people substitute Job’s tears. In spring, young men and women dance around a pole to select partners; following an elopement, the woman’s kin are said to receive cattle or horses before formal matchmaking. Taxes are described as paid together with other residents, without a distinct Miao quota. The source lists purple gromwell from Guangshun, and several fruits, plants, and animals from Dading and Pingyuan.",
+    "notes": "2026-11-22 依用户上传高清图的 AI 逐列视读，未由研究者独立核对。『五色□珠』字形暂不确定；保留原作者的制度与婚俗叙述。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0020": {
+    "title": "蠻人〔題名待核〕",
+    "title_en": "Man people (provisional historical label)",
+    "transcription": "查蠻人在貴定、都勻等處。貴定明初係新添衛，領平伐、大平伐、新添、把平、丹平各長官司；明萬曆三十一年設貴定縣。國朝順治十八年革丹平司改土歸流，康熙二十六年裁衛歸縣，雍正五年革把平司，仍領平伐、大平伐、新添四土司。都勻明時係都勻衛，後改都勻府，領丹平、丹行、平州、天壩、平浪、邦水、都勻正副各長官司。國朝康熙二十三年革丹平司，五十二年革丹行司，五十五年革平州司，五十九年革天壩司，雍正五年革平浪司，俱改土歸流，仍領邦水、都勻正副三土司。蠻俗男子衣草蓑，婦人著花短裙，以十月朔為大節，殺牛祭鬼，以丑戌日為市。情耕作，喜漁獵，出入必帶刀弩。應輸稅糧，民苗一體，並無苗額。貴定土產葛布；都勻產苗酒、黑鉛、白鉛、棉花、銀杏、百合、鯽魚、方竹。",
+    "translation": "The people provisionally identified by the historical label ‘Man’ are recorded in Guiding and Duyun. Much of the account recounts the creation and abolition of hereditary native offices and their replacement by regular government administration from the Ming through the Yongzheng reign. It says men wear grass rain capes, women short decorated skirts, and that the first day of the tenth lunar month marks a major festival with cattle sacrifice. Market days are described by the cyclical days chou and xu. The writer reports agriculture, fishing, and hunting, and says people carry knives and crossbows when they leave home. It states that taxes followed the same arrangements as for other residents, without a separate Miao assessment. Local products include kudzu cloth from Guiding and wine, lead, cotton, ginkgo, lilies, fish, and bamboo from Duyun.",
+    "notes": "AI 高精度原图视读初稿，未独立人工校核。原题名字形与『情耕作』一语待核；各土司与撤设年代应再对照方志。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0023": {
+    "title": "土人",
+    "title_en": "Tu people (historical administrative label)",
+    "transcription": "查土人在廣順、貴筑、貴定等處。廣順明初係金筑安撫司，萬曆二十九年改土歸流置州；貴筑明初係貴筑長官司，萬曆二十一年改土歸流置縣；貴定明初係新添衛，領平伐、大平伐、新添、把平、丹平各長官司，萬曆二十一年設貴定縣。國朝順治十八年革丹平司改土歸流，康熙二十六年裁衛歸縣，雍正五年革把平司，仍領平伐、大平伐、新添四土司。土俗男子貿易，婦人耕作，每種植時田歌相答，清越可聽。歲首迎山魈以為儺戲，戎服裝飾，吹笙擊鼓以唱神歌，遍歷遠近村屯，男女聚觀，飽以酒食。歲時祀節，俱有羊豕。應輸稅糧，民苗一體，並無苗額。廣順土產紫草；貴筑產雞□菌、降真香、生鐵、天蘇、□竹、梳竹、葛蒲、木薑子、羊棗藤；貴定產葛布。",
+    "translation": "The group called ‘Tu people’ is placed in Guangshun, Guizhu, and Guiding. After detailing the history of native chieftain offices and regular administrative jurisdictions, the author describes men trading and women farming. During planting, people are said to exchange songs across the fields. At the new year they welcome a mountain spirit and perform nuo rituals, wearing ceremonial garments, playing reed instruments and drums, and singing sacred songs as they travel among villages; onlookers offer food and drink. Sheep and pigs are mentioned in seasonal rites. The text describes tax payment without a distinct Miao quota, and lists local herbs, timber-related materials, iron, and cloth. Several plant and fungus names remain uncertain.",
+    "notes": "依高清扫描的 AI 竖排视读；未经独立人工校核。个别土产名称（『雞□菌』『□竹』）及『戎服』字形尚待校对，缺字不猜补。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0030": {
+    "title": "九股苗",
+    "title_en": "Jiugu Miao (historical group label)",
+    "transcription": "查九股苗在清平縣屬之凱里地方。後漢武侯南征戎之，沿畫僅存九人，遂為九股，散處蔓延，地廣族夥。先為播州之安寧安撫司所轄，明正德改為凱里安撫司，屬清平縣。國朝康熙四十一年革凱里司改土歸流，並無苗賦，亦無物產。其苗人服食與黑苗同，而性尤剽悍。頭頂鐵盔，前有護，後無遮；背身披鐵鎧，上如背搭，下用鐵鍊，週身坐則縮而立則伸；腿以鐵片纏裹，左執木牌，右持標桿，口啣利刃，捷走如飛。雍正十年蠢動，勦撫，□施□兵甲，建城安汛，與內地埒。",
+    "translation": "The Jiugu Miao are located around Kaili in Qingping County. The source presents a legendary explanation for the name ‘Nine Branches,’ claiming that only nine people remained after a campaign attributed to Zhuge Liang; this should not be treated as established history. It traces the group's jurisdiction under native officials in Bozhou and Kaili and their abolition in the forty-first Kangxi year. The historical author describes them as particularly fierce and gives detailed descriptions of iron helmets, armor that folds or extends with movement, iron leg coverings, wooden shields, spears, and blades held in the mouth. The final lines refer to military suppression and pacification in the tenth Yongzheng year, followed by the establishment of fortified and garrisoned sites. Several final characters remain unclear.",
+    "notes": "AI 依据高清题记视读，未经独立人工校核。起首『後漢武侯』和末句『□施□兵甲』及『戎／殘』疑字须比勘异本；保留历史作者的负面评价。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0043": {
+    "title": "羅漢苗",
+    "title_en": "Luohan Miao (historical group label)",
+    "transcription": "查羅漢苗在黎平府。明時湖耳、潭溪諸司來朝，置蠻夷十四長官司。永樂十一年以古州、曹滴、潭溪、八丹、洪州、西山、福祿、永從七長官司置黎平府。宣德十年以湖耳、亮寨、歐陽、新化、龍里、中林、赤溪七長官司隸黎平府。弘治八年革福祿、永從二司改土歸流置永從縣。國朝順治十七年革曹滴司，康熙二十三年革赤溪司，二十五年革西山司，俱改土歸流，仍領古州、八丹、亮寨、新化、龍里、中林、潭溪正副、洪州正副、歐陽正副十四土司。額征化海認納苗賦銀一百六十八兩八錢六分一釐三毫。苗婦髮髻散絡額，插木梳；富者以金銀作連環耳墜。養蠶織錦，衣短衫，繫雙帶結於背，胸前刺繡一方，以銀錢飾之。長裙、短裙，或長裙而無袴，加布一幅刺繡垂之，曰衣尾。數日必浙水以沃髮，未室者插翼於首。土產苗錦、皮布、木耳、排香草、青皮香。",
+    "translation": "The Luohan Miao are described as living within Liping Prefecture. A substantial first section recounts the formation of the prefecture from numerous native-official jurisdictions, changes under the Yongle, Xuande, Hongzhi, Shunzhi, and Kangxi reigns, and an assessed Miao tax paid in silver. The description of women mentions hair arranged with combs, linked gold or silver earrings for wealthier families, sericulture and brocade weaving, short jackets, embroidered chest panels adorned with coins, and different forms of skirts. A decorated strip of fabric hanging from the garment is called the ‘yiwei’ or ‘clothing tail.’ The author also notes hair washing and unmarried people wearing feathers. Listed products include Miao brocade, cloth, wood-ear mushrooms, and fragrant herbs. The passage is a historical observation, and unfamiliar terms should be checked against the manuscript.",
+    "notes": "2026-11-22 AI 对照高清题记逐列核读，未由研究者独立校核。『浙水』疑为『漸／濯』等误读，暂保留并标疑；多处土司名及征银量应继续核对。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
+  },
+  "wellcome-ms99-p0047": {
+    "title": "狄猺狑狪〔題名待核〕",
+    "title_en": "Six groups in Libo (historical heading uncertain)",
+    "transcription": "查狄猺狑狪六種雜居荔波縣屬。元時係南丹安撫司，明洪武間改土歸流，置荔波縣，隸廣西省。國朝雍正十年改歸黔省，隸都勻府，並無苗賦，亦無物產。其風俗、衣服雖別，語言嗜好不甚相遠。歲時致祭，樂飲，雜魚肉酒飯，男女成列，連袂而舞，相悅者負之而去，遂婚媾焉。",
+    "translation": "The source describes six groups living together in Libo County, using several historical ethnonyms whose precise handwritten characters require verification. It states that Libo was formerly under the native pacification office of Nandan, came under regular administration in the Ming, and was assigned to Guangxi, before being transferred to Guizhou under Duyun Prefecture in the tenth Yongzheng year. It claims the groups have different clothing and customs but relatively similar speech and preferences. The account describes seasonal sacrifices, communal food and drink, and men and women dancing in lines while holding hands; partners who took a liking to each other reportedly formed marriages. It records no separate Miao tax or local products.",
+    "notes": "AI 高精度图像逐列初读，未经人工独立核校。题头四个族称难辨，暂用『狄猺狑狪』作为疑读；正文称『六種』，不能据暂读四字推断人数或族群数量。",
+    "status": "image_checked_draft",
+    "page_kind": "caption",
+    "translation_status": "ai_draft",
+    "ocr_raw": "",
+    "transcription_kind": "ai_image_reading_provisional",
+    "transcription_scope": "provisional_full_with_uncertainties"
   }
 };
