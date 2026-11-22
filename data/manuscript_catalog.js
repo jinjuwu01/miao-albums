@@ -36,7 +36,7 @@ window.MIAO_MANUSCRIPT_CATALOG = {
       manifest:"https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398",
       note:"兩冊，清代十八世紀本；館方 IIIF 包含逐葉影像。與本站已有的其他八十二種系統抄本，關係尚待逐幅比對。曼徹斯特圖像權利須遵循館方聲明。",
       note_en:"Two-volume eighteenth-century copy with a published IIIF manifest. Relationship to other eighty-two-type manuscripts remains uncollated. Check Manchester's image-use terms.",
-      source:"University of Manchester IIIF manifest, Chinese Crawford 398", imported_pages:0
+      source:"University of Manchester IIIF manifest, Chinese Crawford 398", imported_pages:202, ocr_pages:0, import_scope:"scan_index_only"
     },
     {
       id:"cdf-miaozhong", work_id:"work-miaozhong", title:"苗種圖說", title_en:"Miaozhong tushuo",
@@ -82,7 +82,7 @@ window.MIAO_MANUSCRIPT_CATALOG = {
       additional_links:[{label:"下冊 PDF / Volume II",url:"https://commons.wikimedia.org/wiki/File:RSL01013071654_%E7%99%BE%E8%8B%97%E5%9C%96_%E6%B8%85%E7%B9%AA%E6%9C%AC_%E4%B8%8B%E5%86%8A.pdf"}],
       note:"兩冊各 41 條圖說；Commons 上冊 47 頁、下冊 46 頁。以俄羅斯國立圖書館實際書號為版本識別；切勿以「百苗圖」擬題當作原題。",
       note_en:"Two volumes of 41 entries each; Wikimedia Commons PDF scans have 47 and 46 pages. Bai Miao tu is a supplied title, not the manuscript's original title.",
-      source:"Wikimedia Commons files citing Russian State Library catalogue and Shuge scans", imported_pages:0
+      source:"Wikimedia Commons files citing Russian State Library catalogue and Shuge scans", imported_pages:93, ocr_pages:0, import_scope:"scan_index_only"
     },
     {
       id:"waseda-ni16-02436", work_id:"work-chenhao", title:"苗族習俗圖説", title_en:"Miaozu xisu tushuo",
