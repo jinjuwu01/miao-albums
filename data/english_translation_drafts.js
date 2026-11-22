@@ -1472,5 +1472,113 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-1125a70eadfd-p0085": {
     "translation": "The Liudong people live in Liping. Women wear short garments, colorful skirts, patterned shoes, and leg wraps. Young couples exchange clothing or belts to arrange marriages. Female neighbors escort the bride with blue umbrellas, and celebrations involve three days of singing, drinking, and dancing. The bride may return to her natal home, with the groom visiting at night until childbirth completes the formal marriage arrangements.\n\nVerse (provisional): The poem describes exchanging clothing instead of relying on matchmakers, the use of umbrellas during bridal escorts, and praises the group's reported literacy.",
     "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0001": {
+    "translation": "The lama religion is said to come from the Western Regions. Its followers abstain from wine, sexual misconduct, and theft, learn Sanskrit letters and spells, and recite scriptures three times each day. When traveling, they carry a sitting mat, bamboo staff, robes, and bowl. They are found under Lijiang Prefecture.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0002": {
+    "translation": "The Nu people live by the Nu River. Men tie their hair with cords into tall styles and women cover their heads with cloth. Both wear hemp clothing and work at farming. The source says they submit annual tribute and are found in Weixi under Lijiang.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0003": {
+    "translation": "The Cimao live along the Lancang River. The source describes them as gentle, comparable with the Mosuo, and usually dressed in white. Men and women work to sustain their households. They are found around Lijiang and Dongchuan.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0004": {
+    "translation": "The Burmese people are said to comprise several branches and to favor Buddhism and commerce. The text describes hunting with firearms and a secret method of ignition involving wheat flour; one phrase about food and the mechanism is uncertain. They are recorded under Lijiang.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0005": {
+    "translation": "The Mosuo are identified with the Moxie of Tang sources. Men wear piled hair knots and women dark-cloth hats. They farm and herd livestock. Women are said to intervene successfully in village disputes. Scholar households dress in Chinese styles. They live under Lijiang.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0006": {
+    "translation": "The Guzong, described as local Tibetan people, are said to wear animal-fur garments and rarely wash. Women adorn their heads with beads. They grow barley and wheat and favor butter and turnips. They are found near Lijiang and Zhenyuan. [One clothing character is uncertain.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0007": {
+    "translation": "The Biaobiao, also called Lixi, wear felt and woolen belts and are described as expert crossbow users. The source tells of a demonstration in which a woman carries a small wooden target on her back and an archer strikes the target without harming her. It says neighboring Tibetan groups fear their skill. They live near Lijiang and Dali.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0008": {
+    "translation": "The group called Yuren [character uncertain] is portrayed by the source as living without houses and wearing leaves, with derogatory allegations about eating raw food. The text adds that some have begun farming or working as hired laborers. Their location beyond a river under Lijiang remains uncertain.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0009": {
+    "translation": "The Mosuo in Yongchang are described as having pierced ears, colorful clothing, careful food preparation, and a preference for cleanliness. The source says they are skilled with firearms and crossbows.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0010": {
+    "translation": "The Pu people under Yongchang are said to bind men's hair with red cloth and favor colorful garments. Women wear flowered sashes and skirts, though poorer households may not. They farm diligently and carry heavy loads with agility.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0011": {
+    "translation": "The Youla live under Yongchang. The historical author portrays them as fierce and compares their appearance with the Guoluo, saying they have little surplus grain and do not cultivate enough food.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0012": {
+    "translation": "The Jiexiezi under Tengyue in Yongchang are described in dehumanizing language about eyes, mouths, and voices. The author claims they are physically strong, wear only cloth around the abdomen, and eat poorly cooked rice and meat. These are the source's prejudicial characterizations.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0013": {
+    "translation": "The group called Yeren near Tengyue is described through exoticizing claims of red hair, yellow eyes, sleeping in treetops, hunting animals, and crossing rugged terrain.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0014": {
+    "translation": "The Lalu, also called Laniao Yi, live under Yongchang and Lin'an. Some are said to eat snakes in remote districts. They are described as retiring from strangers and living in elevated houses beside water, with cattle and sheep beneath, while diligently pursuing their occupations.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0015": {
+    "translation": "The Echang are said to prefer high peaks because they fear heat and dampness. They gather kudzu fiber for clothing, drink wine, eat some insects and birds uncooked, and use chopped bamboo in daily practices. Dogs are used in sacrifices. They live near Yongchang, Dali, and Shunning. [A phrase about divination is unclear.]",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0016": {
+    "translation": "The Kawa under Shunning are portrayed in derogatory language about appearance, but said to farm well and bind their hair with red vines. Their communities form separate stockades; some Kawa interact frequently with Han neighbors.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0017": {
+    "translation": "The Da Guohei in Shunning are disparaged as cave dwellers living on wild grains, vegetables, and hunted animals. A related Xiao Guohei group is said to have similar customs but somewhat different appearance.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0018": {
+    "translation": "The Menghua Yi around Yunzhou in Shunning are compared with the Guoluo. Six days before New Year's Eve, they prepare food and wine, light torches, sing, and dance so the light reaches fields and homes, a rite said to drive off disease in the coming year.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0019": {
+    "translation": "The Guohei are described as a branch of the Pu or Bo people with customs resembling those of Bai communities. Women farm, men hunt, and households live in deep forests around Shunning and Chuxiong.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0020": {
+    "translation": "The Limi under Shunning are described as dark-complexioned. Men favor dark garments and women colorful clothing. They inhabit remote hills and are said to hunt birds for food, sometimes without cooking. This reflects the author's ethnographic claims.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0021": {
+    "translation": "The Xiao Liemi are said to excel at shooting and to roast birds and rodents caught outdoors. They also cultivate fields. The author praises their simple customs as a survival of antiquity.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0022": {
+    "translation": "The Manqie under Chuxiong are portrayed as suspicious and extravagant. At the beginning of the twelfth lunar month, they gather outdoors for drinking and music made from wood and leaves, continuing until New Year even if food is scarce afterward.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0023": {
+    "translation": "The Sama cultivate hemp, soak and process its fibers, and carry their products to market. The source praises their obedience and courtesy, especially among families combining agriculture and classical study. They live under Chuxiong.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0024": {
+    "translation": "The Pu Man under Chuxiong are described as living in mountain districts, speaking Chinese, observing courtesy, swimming well, and eating banana pith as a vegetable. The author compares their voices with birdsong and uses stereotyped physical descriptions.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0025": {
+    "translation": "The Chesu, also named Chesu with an alternate character, live in mountain valleys under Chuxiong. They hunt, weave textiles, work diligently, and are said to obey the law.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0026": {
+    "translation": "The Xifan are depicted as strong, skilled at archery, and moving with grazing herds. Some pursue learning and copy Tibetan religious scriptures onto palm leaves for recitation during ceremonies. They live around Yongbei and Lijiang.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-9e2b3d98dc2e-plate0027": {
+    "translation": "The 'Wild Xifan' wear loose hair and felt garments and do not remain in fixed settlements. They grow wheat and raise cattle and yaks. The author distinguishes their customs from those of other Tibetan groups near Yongbei and Yongchang.",
+    "translation_status": "ai_draft"
   }
 };
