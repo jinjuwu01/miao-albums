@@ -7,7 +7,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原圖「女髻戴梳」，不含舊試校稿誤增的「已」字。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 5
+    "source_pdf_page": 5,
+    "translation": "The Luohan Miao live under the jurisdiction of Liping Prefecture. Both men and women wear blue-green clothing and short capes. The account disparages their customs as \"crude\" and says that marriage begins with sexual unions before formal betrothal. Unmarried men insert feathers in their hair, while women wear combs in their coiffures. They are skilled at weaving brocade. When going out, they carry knives and crossbows; the account characterizes them as fierce and fond of fighting."
   },
   "ocr-0aa54e2d1b74-p0005": {
     "title": "羅漢苗",
@@ -15,7 +16,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原圖「女髻戴梳」，不含舊試校稿誤增的「已」字。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 5
+    "source_pdf_page": 5,
+    "translation": "The Luohan Miao live under the jurisdiction of Liping Prefecture. Both men and women wear blue-green clothing and short capes. The account disparages their customs as \"crude\" and says that marriage begins with sexual unions before formal betrothal. Unmarried men insert feathers in their hair, while women wear combs in their coiffures. They are skilled at weaving brocade. When going out, they carry knives and crossbows; the account characterizes them as fierce and fond of fighting."
   },
   "miao-002": {
     "title": "荔波六種雜居",
@@ -23,7 +25,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。起首族稱字形存疑，以□標記；分句標點為現代所加。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 6
+    "source_pdf_page": 6,
+    "translation": "Six groups, identified in the text as Di, Yang, an illegible name (□), Gou, Zhang, and Yao, live together in Libo County. Though their dress differs, their languages and tastes are said not to be very far apart. Every year they offer fish, wine, meat, and rice to Panhu. Men and women dance in rows with linked sleeves, and those who take a liking to one another leave together, one carrying the other."
   },
   "ocr-0aa54e2d1b74-p0006": {
     "title": "荔波六種雜居",
@@ -31,7 +34,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。起首族稱字形存疑，以□標記；分句標點為現代所加。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 6
+    "source_pdf_page": 6,
+    "translation": "Six groups, identified in the text as Di, Yang, an illegible name (□), Gou, Zhang, and Yao, live together in Libo County. Though their dress differs, their languages and tastes are said not to be very far apart. Every year they offer fish, wine, meat, and rice to Panhu. Men and women dance in rows with linked sleeves, and those who take a liking to one another leave together, one carrying the other."
   },
   "miao-003": {
     "title": "大肚苗",
@@ -39,7 +43,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。據原圖更正「都勺」為「都勻」、「媒杓」為「媒妁」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 7
+    "source_pdf_page": 7,
+    "translation": "The Dadu Miao are found in Bazhai and throughout Duyun Prefecture. They work tirelessly all year. Men and women favor blue-green clothing, but the women wear no trousers and wear skirts less than a foot long, fastened below the navel. Couples first form informal unions and only later employ matchmakers, giving cattle and bolts of cloth as betrothal gifts. They keep many chickens and ducks and make a living harvesting and selling purple dye plants."
   },
   "ocr-0aa54e2d1b74-p0007": {
     "title": "大肚苗",
@@ -47,7 +52,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。據原圖更正「都勺」為「都勻」、「媒杓」為「媒妁」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 7
+    "source_pdf_page": 7,
+    "translation": "The Dadu Miao are found in Bazhai and throughout Duyun Prefecture. They work tirelessly all year. Men and women favor blue-green clothing, but the women wear no trousers and wear skirts less than a foot long, fastened below the navel. Couples first form informal unions and only later employ matchmakers, giving cattle and bolts of cloth as betrothal gifts. They keep many chickens and ducks and make a living harvesting and selling purple dye plants."
   },
   "miao-004": {
     "title": "僰人",
@@ -55,7 +61,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留原圖歷史用字。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 8
+    "source_pdf_page": 8,
+    "translation": "The Bo people live in Pu'an Subprefecture. Men and women alike wear felt garments. On the twenty-fourth day of the sixth month, they sacrifice to Heaven and celebrate the new year. On the first and fifteenth days of the lunar month they do not ask others for fire. The account calls them simple in disposition and devoted to Buddhism; they often hold prayer beads and recite Sanskrit spells."
   },
   "ocr-0aa54e2d1b74-p0008": {
     "title": "僰人",
@@ -63,7 +70,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留原圖歷史用字。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 8
+    "source_pdf_page": 8,
+    "translation": "The Bo people live in Pu'an Subprefecture. Men and women alike wear felt garments. On the twenty-fourth day of the sixth month, they sacrifice to Heaven and celebrate the new year. On the first and fifteenth days of the lunar month they do not ask others for fire. The account calls them simple in disposition and devoted to Buddhism; they often hold prayer beads and recite Sanskrit spells."
   },
   "miao-005": {
     "title": "蔡家苗",
@@ -71,7 +79,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「制衣氊」附近字形及句讀須再核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 9
+    "source_pdf_page": 9,
+    "translation": "The Caijia Miao live in Guizhu, Xiuwen, Weining, Dading, and Pingyuan. Men make garments of felt; women form headdresses of felt covered in blue cloth, shaped like ox horns, about a foot high, and secured with long hairpins. They wear short jackets and long skirts. Fathers-in-law and daughters-in-law do not speak to one another. The account claims that a widow is to be buried with her husband unless her natal family takes her away."
   },
   "ocr-0aa54e2d1b74-p0009": {
     "title": "蔡家苗",
@@ -79,7 +88,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「制衣氊」附近字形及句讀須再核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 9
+    "source_pdf_page": 9,
+    "translation": "The Caijia Miao live in Guizhu, Xiuwen, Weining, Dading, and Pingyuan. Men make garments of felt; women form headdresses of felt covered in blue cloth, shaped like ox horns, about a foot high, and secured with long hairpins. They wear short jackets and long skirts. Fathers-in-law and daughters-in-law do not speak to one another. The account claims that a widow is to be buried with her husband unless her natal family takes her away."
   },
   "miao-006": {
     "title": "花苗",
@@ -87,7 +97,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。更正 OCR 的「開喪」為圖中文字「鬧喪」；標點為現代試加。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 10
+    "source_pdf_page": 10,
+    "translation": "The Hua Miao comprise two groups, distinguished as Datou and Xiaohua, whose customs are said to be alike. Their garments have no overlapping fronts: an opening at the neck allows them to be pulled over the head, and the cloth is decorated with wax-resist designs. Women wear coiffures as large as baskets, made with horsetails mixed with hair. In early spring, men and women gather in a courtship event called \"jumping the moon\": men play bamboo reed-pipes in front, women shake bells behind, and they sing and dance all day. Couples who become attached live together; after a child is born, the woman goes to the husband's household. At a relative's death they do not weep but gather kin and friends to sing, calling it a \"noisy funeral.\" They are found throughout central Guizhou."
   },
   "ocr-0aa54e2d1b74-p0010": {
     "title": "花苗",
@@ -95,7 +106,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。更正 OCR 的「開喪」為圖中文字「鬧喪」；標點為現代試加。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 10
+    "source_pdf_page": 10,
+    "translation": "The Hua Miao comprise two groups, distinguished as Datou and Xiaohua, whose customs are said to be alike. Their garments have no overlapping fronts: an opening at the neck allows them to be pulled over the head, and the cloth is decorated with wax-resist designs. Women wear coiffures as large as baskets, made with horsetails mixed with hair. In early spring, men and women gather in a courtship event called \"jumping the moon\": men play bamboo reed-pipes in front, women shake bells behind, and they sing and dance all day. Couples who become attached live together; after a child is born, the woman goes to the husband's household. At a relative's death they do not weep but gather kin and friends to sing, calling it a \"noisy funeral.\" They are found throughout central Guizhou."
   },
   "miao-007": {
     "title": "猺人",
@@ -103,7 +115,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「桶壅」「榜簿」等字形仍宜學術複核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 11
+    "source_pdf_page": 11,
+    "translation": "The Yao people were, according to this account, originally absent from Guizhou and migrated from western Guangdong to Pingfa and other places in Guiding. They do not remain in one place. They choose sites near streams and convey water through joined pieces of bark from large trees, so they need no water-carrying tubs at home. Men and women favor blue-green garments no longer than the knee. When not farming, they gather medicinal plants in the mountains and practice medicine. They possess writings called \"bangbu\" with round seals and seal-script characters whose meaning the author does not understand, and keep them as treasured secrets."
   },
   "ocr-0aa54e2d1b74-p0011": {
     "title": "猺人",
@@ -111,7 +124,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「桶壅」「榜簿」等字形仍宜學術複核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 11
+    "source_pdf_page": 11,
+    "translation": "The Yao people were, according to this account, originally absent from Guizhou and migrated from western Guangdong to Pingfa and other places in Guiding. They do not remain in one place. They choose sites near streams and convey water through joined pieces of bark from large trees, so they need no water-carrying tubs at home. Men and women favor blue-green garments no longer than the knee. When not farming, they gather medicinal plants in the mountains and practice medicine. They possess writings called \"bangbu\" with round seals and seal-script characters whose meaning the author does not understand, and keep them as treasured secrets."
   },
   "miao-008": {
     "title": "紅苗",
@@ -119,7 +133,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。歷史性貶抑語言只表示原圖作者的描述。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 12
+    "source_pdf_page": 12,
+    "translation": "The Hong Miao live in areas under Tongren and Songtao, with surnames including Shi, Ma, Tian, and Long. The author compares their customs to those of the \"Sheng Miao\" of Shibing. They favor red clothing. The account portrays them as exceptionally violent, engaged in robbery and killing, and says that disputes among their own people are settled when women intervene."
   },
   "ocr-0aa54e2d1b74-p0012": {
     "title": "紅苗",
@@ -127,7 +142,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。歷史性貶抑語言只表示原圖作者的描述。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 12
+    "source_pdf_page": 12,
+    "translation": "The Hong Miao live in areas under Tongren and Songtao, with surnames including Shi, Ma, Tian, and Long. The author compares their customs to those of the \"Sheng Miao\" of Shibing. They favor red clothing. The account portrays them as exceptionally violent, engaged in robbery and killing, and says that disputes among their own people are settled when women intervene."
   },
   "miao-009": {
     "title": "龍家子",
@@ -135,7 +151,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR 在「牛馬／喪」交界重複一「馬」；讀法待人工複核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 13
+    "source_pdf_page": 13,
+    "translation": "The Longjiazi in Zhenning are called Gou'er (\"dog ears\"). Women fashion dog-ear shapes over their coiffures. Although clothing may be blue-green, indigo, red, or black, yellow and white are invariably added as ornaments. In spring, men and women dance around a pole erected outdoors to choose partners, calling this \"jumping around the spirit pole.\" After a woman elopes, her relatives demand cattle or horses as compensation before the man's family engages a matchmaker. At funerals they sing and cry; burial is in a secluded, steep place, and sacrifices are offered on the seventh night of the seventh month."
   },
   "ocr-0aa54e2d1b74-p0013": {
     "title": "龍家子",
@@ -143,7 +160,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR 在「牛馬／喪」交界重複一「馬」；讀法待人工複核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 13
+    "source_pdf_page": 13,
+    "translation": "The Longjiazi in Zhenning are called Gou'er (\"dog ears\"). Women fashion dog-ear shapes over their coiffures. Although clothing may be blue-green, indigo, red, or black, yellow and white are invariably added as ornaments. In spring, men and women dance around a pole erected outdoors to choose partners, calling this \"jumping around the spirit pole.\" After a woman elopes, her relatives demand cattle or horses as compensation before the man's family engages a matchmaker. At funerals they sing and cry; burial is in a secluded, steep place, and sacrifices are offered on the seventh night of the seventh month."
   },
   "miao-010": {
     "title": "馬鐙龍家苗",
@@ -151,7 +169,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原文地名串讀與斷句待複核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 14
+    "source_pdf_page": 14,
+    "translation": "The Madeng Longjia Miao live between Dading, Zunyi, Ninggu, Xibao, and Dingying. Many have the surnames Zhang, Liu, or Zhao. They favor white clothing, changing to blue-green for mourning. They farm diligently. Women make black-cloth headdresses resembling stirrups; men bind up their hair. The account describes them as plain and honest and says they do not steal."
   },
   "ocr-0aa54e2d1b74-p0014": {
     "title": "馬鐙龍家苗",
@@ -159,7 +178,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原文地名串讀與斷句待複核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 14
+    "source_pdf_page": 14,
+    "translation": "The Madeng Longjia Miao live between Dading, Zunyi, Ninggu, Xibao, and Dingying. Many have the surnames Zhang, Liu, or Zhao. They favor white clothing, changing to blue-green for mourning. They farm diligently. Women make black-cloth headdresses resembling stirrups; men bind up their hair. The account describes them as plain and honest and says they do not steal."
   },
   "miao-011": {
     "title": "鍋圈犵狫",
@@ -167,7 +187,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。PaddleOCR 把歷史稱謂「犵狫」誤作「犯猪」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 15
+    "source_pdf_page": 15,
+    "translation": "The Guoquan Gelao live in Pingyuan Subprefecture. Men weave kudzu fiber into diagonal-patterned clothing. Women bind their disheveled hair with blue cloth into shapes resembling pot rings. They wear short jackets and long, unpleated skirts. When ill, they invite a ritual specialist, place a tiger's head decorated with five-colored yarn in a winnowing basket, and pray over it. For burial they lay the corpse on its side, saying this prevents the dead from knowing."
   },
   "ocr-0aa54e2d1b74-p0015": {
     "title": "鍋圈犵狫",
@@ -175,7 +196,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。PaddleOCR 把歷史稱謂「犵狫」誤作「犯猪」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 15
+    "source_pdf_page": 15,
+    "translation": "The Guoquan Gelao live in Pingyuan Subprefecture. Men weave kudzu fiber into diagonal-patterned clothing. Women bind their disheveled hair with blue cloth into shapes resembling pot rings. They wear short jackets and long, unpleated skirts. When ill, they invite a ritual specialist, place a tiger's head decorated with five-colored yarn in a winnowing basket, and pray over it. For burial they lay the corpse on its side, saying this prevents the dead from knowing."
   },
   "miao-012": {
     "title": "木狍",
@@ -183,7 +205,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「兩決鐵」字形與含義未確定，保持圖像校讀候選。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 16
+    "source_pdf_page": 16,
+    "translation": "The Mupao live in Guiding and Qianxi. The account describes them as cunning and fierce, skilled at pottery and metalworking, including making \"liangjue iron\" (reading uncertain). Women wear lopsided coiffures and short skirts covering the knees; men wrap small pieces of blue cloth around their heads. Each year in early winter they sacrifice to spirits, making a dragon shape of grass, inserting five-colored paper flags into it, and gathering outside the settlement, men and women together, to worship."
   },
   "ocr-0aa54e2d1b74-p0016": {
     "title": "木狍",
@@ -191,7 +214,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「兩決鐵」字形與含義未確定，保持圖像校讀候選。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 16
+    "source_pdf_page": 16,
+    "translation": "The Mupao live in Guiding and Qianxi. The account describes them as cunning and fierce, skilled at pottery and metalworking, including making \"liangjue iron\" (reading uncertain). Women wear lopsided coiffures and short skirts covering the knees; men wrap small pieces of blue cloth around their heads. Each year in early winter they sacrifice to spirits, making a dragon shape of grass, inserting five-colored paper flags into it, and gathering outside the settlement, men and women together, to worship."
   },
   "miao-013": {
     "title": "蠻人",
@@ -199,7 +223,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「丹平丹行」「州蓑」仍需核對原圖和地名。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 17
+    "source_pdf_page": 17,
+    "translation": "The people identified as Man live within the two jurisdictions Xintian and Danping/Danxing (place-name readings uncertain). Men wear rain-capes and women short, flower-patterned skirts. The first day of the tenth month is a major festival: they slaughter cattle to sacrifice to spirits. Markets are held on chou and xu days. The author portrays them as neglectful of farming, fond of fishing and hunting, indolent and fierce, and says they always carry knives and crossbows."
   },
   "ocr-0aa54e2d1b74-p0017": {
     "title": "蠻人",
@@ -207,7 +232,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「丹平丹行」「州蓑」仍需核對原圖和地名。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 17
+    "source_pdf_page": 17,
+    "translation": "The people identified as Man live within the two jurisdictions Xintian and Danping/Danxing (place-name readings uncertain). Men wear rain-capes and women short, flower-patterned skirts. The first day of the tenth month is a major festival: they slaughter cattle to sacrifice to spirits. Markets are held on chou and xu days. The author portrays them as neglectful of farming, fond of fishing and hunting, indolent and fierce, and says they always carry knives and crossbows."
   },
   "miao-014": {
     "title": "九股黑苗",
@@ -215,7 +241,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原圖記載具有明顯作者評價立場。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 18
+    "source_pdf_page": 18,
+    "translation": "The Jiugu Hei Miao live around Zhenyuan, Shibing, Qingping, and Kaili along the Qingshui River. The account alleges that their settlements cause trouble. They make powerful crossbows called pianjia: one person holds the middle while two others brace and draw the bow with their feet. The arrows are said to penetrate heavy armor."
   },
   "ocr-0aa54e2d1b74-p0018": {
     "title": "九股黑苗",
@@ -223,7 +250,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原圖記載具有明顯作者評價立場。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 18
+    "source_pdf_page": 18,
+    "translation": "The Jiugu Hei Miao live around Zhenyuan, Shibing, Qingping, and Kaili along the Qingshui River. The account alleges that their settlements cause trouble. They make powerful crossbows called pianjia: one person holds the middle while two others brace and draw the bow with their feet. The arrows are said to penetrate heavy armor."
   },
   "miao-015": {
     "title": "谷藺苗",
@@ -231,7 +259,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留「鎗弩」等原有字形。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 19
+    "source_pdf_page": 19,
+    "translation": "The Gulin Miao live in Dingfan Subprefecture. Both men and women wear short jackets. Women cover their coiffures with blue cloth and spin and weave diligently; their cloth is said to be especially fine and is known as Gulin cloth. The account describes the men as bold and fierce, skilled in striking and stabbing, always carrying spears and crossbows, and feared by other Miao groups."
   },
   "ocr-0aa54e2d1b74-p0019": {
     "title": "谷藺苗",
@@ -239,7 +268,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留「鎗弩」等原有字形。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 19
+    "source_pdf_page": 19,
+    "translation": "The Gulin Miao live in Dingfan Subprefecture. Both men and women wear short jackets. Women cover their coiffures with blue cloth and spin and weave diligently; their cloth is said to be especially fine and is known as Gulin cloth. The account describes the men as bold and fierce, skilled in striking and stabbing, always carrying spears and crossbows, and feared by other Miao groups."
   },
   "miao-016": {
     "title": "黑猓玀",
@@ -247,7 +277,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。舊 OCR 僅二十餘字，原圖四列已補錄；「貫筒為□□」二字未能可靠辨認。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 20
+    "source_pdf_page": 20,
+    "translation": "The Hei Guoluo are dark in appearance and are also called Wuman (\"Black Man\"). They habitually throw javelins. In their method, each holds a bamboo tube beneath the arm and throws while riding a horse; the phrase describing the tube (□□) is illegible. They are said to hit whatever they aim at."
   },
   "ocr-0aa54e2d1b74-p0020": {
     "title": "黑猓玀",
@@ -255,7 +286,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。舊 OCR 僅二十餘字，原圖四列已補錄；「貫筒為□□」二字未能可靠辨認。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 20
+    "source_pdf_page": 20,
+    "translation": "The Hei Guoluo are dark in appearance and are also called Wuman (\"Black Man\"). They habitually throw javelins. In their method, each holds a bamboo tube beneath the arm and throws while riding a horse; the phrase describing the tube (□□) is illegible. They are said to hit whatever they aim at."
   },
   "miao-017": {
     "title": "祥獛苗（疑）",
@@ -263,7 +295,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。開頭歷史族稱「祥獛」字形不確定；已補入舊 OCR 漏掉的右側列。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 21
+    "source_pdf_page": 21,
+    "translation": "The Xianggu Miao (ethnonym uncertain) live intermixed in Duyun, Shibing, Huangping, Shiqian, Longquan, Yuqing, Liping, Longli, and Jingbi. They do not paint their doors; when entering or leaving they seal them with mud. Their dress and marriage and funerary rites resemble those of Han people. Men cultivate according to the number of mouths to feed, and women weave according to their bodies' needs. Smiles accompany gifts at weddings and funerals (wording uncertain)."
   },
   "ocr-0aa54e2d1b74-p0021": {
     "title": "祥獛苗（疑）",
@@ -271,7 +304,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。開頭歷史族稱「祥獛」字形不確定；已補入舊 OCR 漏掉的右側列。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 21
+    "source_pdf_page": 21,
+    "translation": "The Xianggu Miao (ethnonym uncertain) live intermixed in Duyun, Shibing, Huangping, Shiqian, Longquan, Yuqing, Liping, Longli, and Jingbi. They do not paint their doors; when entering or leaving they seal them with mud. Their dress and marriage and funerary rites resemble those of Han people. Men cultivate according to the number of mouths to feed, and women weave according to their bodies' needs. Smiles accompany gifts at weddings and funerals (wording uncertain)."
   },
   "miao-018": {
     "title": "猓猓",
@@ -279,7 +313,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR 把開頭族稱誤讀為「猥獾」，地名及族稱應再核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 22
+    "source_pdf_page": 22,
+    "translation": "The Guoguo have long lived in Shuixi under Weining. The account traces them to the old Luodian kingdom and to a first enfeoffment of Ji Huo in the Han period. Their customs honor spirits, and they are also called Luogui, with black and white divisions. Since the Ming, female officials have often led the group. The author calls them fierce and quarrelsome; they have a distinct script called \"ghost writing.\""
   },
   "ocr-0aa54e2d1b74-p0022": {
     "title": "猓猓",
@@ -287,7 +322,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR 把開頭族稱誤讀為「猥獾」，地名及族稱應再核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 22
+    "source_pdf_page": 22,
+    "translation": "The Guoguo have long lived in Shuixi under Weining. The account traces them to the old Luodian kingdom and to a first enfeoffment of Ji Huo in the Han period. Their customs honor spirits, and they are also called Luogui, with black and white divisions. Since the Ming, female officials have often led the group. The author calls them fierce and quarrelsome; they have a distinct script called \"ghost writing.\""
   },
   "miao-019": {
     "title": "東苗",
@@ -295,7 +331,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR「親明」據圖改為「親朋」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 23
+    "source_pdf_page": 23,
+    "translation": "The Dong Miao live in Guizhu, Longli, and Qingping and are said to have clans but no surnames. They favor light-blue garments that do not reach the knee and tie their hair with patterned cloth. Women's patterned garments are sleeveless, with two panels covering front and back, and they wear finely pleated short skirts. On a kinsman's death they choose a bull, preferably one with a favorable hair whorl and straight horns; they fatten it until the grain ripens, brew wine, slaughter the animal, and gather family and friends to drink. At Mid-Autumn they sacrifice to ancestors, and their \"jumping the moon\" resembles that of the Hua Miao."
   },
   "ocr-0aa54e2d1b74-p0023": {
     "title": "東苗",
@@ -303,7 +340,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR「親明」據圖改為「親朋」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 23
+    "source_pdf_page": 23,
+    "translation": "The Dong Miao live in Guizhu, Longli, and Qingping and are said to have clans but no surnames. They favor light-blue garments that do not reach the knee and tie their hair with patterned cloth. Women's patterned garments are sleeveless, with two panels covering front and back, and they wear finely pleated short skirts. On a kinsman's death they choose a bull, preferably one with a favorable hair whorl and straight horns; they fatten it until the grain ripens, brew wine, slaughter the animal, and gather family and friends to drink. At Mid-Autumn they sacrifice to ancestors, and their \"jumping the moon\" resembles that of the Hua Miao."
   },
   "miao-020": {
     "title": "黑脚生苗",
@@ -311,7 +349,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留原圖「脚」「儻」等用字。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 24
+    "source_pdf_page": 24,
+    "translation": "The Heijiao Sheng Miao live along the Qingshui River and in Liping. They wear black clothing. Instead of oxen, they plow with a long wooden implement fitted with an iron share in the middle, carried and moved back and forth by two people. According to the marriage custom described, a paternal aunt's daughter must marry her maternal uncle's son; even if the man has no son, his family must receive bridewealth called \"nephew money.\" Otherwise, the woman is said to be unable to marry throughout her life."
   },
   "ocr-0aa54e2d1b74-p0024": {
     "title": "黑脚生苗",
@@ -319,7 +358,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留原圖「脚」「儻」等用字。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 24
+    "source_pdf_page": 24,
+    "translation": "The Heijiao Sheng Miao live along the Qingshui River and in Liping. They wear black clothing. Instead of oxen, they plow with a long wooden implement fitted with an iron share in the middle, carried and moved back and forth by two people. According to the marriage custom described, a paternal aunt's daughter must marry her maternal uncle's son; even if the man has no son, his family must receive bridewealth called \"nephew money.\" Otherwise, the woman is said to be unable to marry throughout her life."
   },
   "miao-021": {
     "title": "白羅鬼",
@@ -327,7 +367,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「灼毛斷血」「祇塚」等字仍疑難，須核原圖；勿將推測當作定本。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 25
+    "source_pdf_page": 25,
+    "translation": "The Bai Luogui live in Dading, Shuixi, Anshun, and Yongning, and are classified by the account as a lower-status surname group related to the Hei Guoluo. They are said to eat without plates or bowls and to singe hair and cook blood in three-legged pots. The author alleges that they roast and eat small creatures, including mice and birds. At death they wrap the body in ox or horsehide and cremate it. Those in Puding are called Ahe, follow similar customs, and trade tea."
   },
   "ocr-0aa54e2d1b74-p0025": {
     "title": "白羅鬼",
@@ -335,7 +376,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「灼毛斷血」「祇塚」等字仍疑難，須核原圖；勿將推測當作定本。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 25
+    "source_pdf_page": 25,
+    "translation": "The Bai Luogui live in Dading, Shuixi, Anshun, and Yongning, and are classified by the account as a lower-status surname group related to the Hei Guoluo. They are said to eat without plates or bowls and to singe hair and cook blood in three-legged pots. The author alleges that they roast and eat small creatures, including mice and birds. At death they wrap the body in ox or horsehide and cremate it. Those in Puding are called Ahe, follow similar customs, and trade tea."
   },
   "miao-022": {
     "title": "大苗",
@@ -343,7 +385,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR 漏掉右側數列；依高清掃描補錄「大苗隸都勻府屬天壩司」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 26
+    "source_pdf_page": 26,
+    "translation": "The Da Miao live in Tianba under Duyun Prefecture. Men and women wear short patterned clothing. Girls aged fifteen or sixteen build bamboo houses outdoors and meet partners there without parental interference. Only when an attachment becomes strong do the couple arrange marriage."
   },
   "ocr-0aa54e2d1b74-p0026": {
     "title": "大苗",
@@ -351,7 +394,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR 漏掉右側數列；依高清掃描補錄「大苗隸都勻府屬天壩司」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 26
+    "source_pdf_page": 26,
+    "translation": "The Da Miao live in Tianba under Duyun Prefecture. Men and women wear short patterned clothing. Girls aged fifteen or sixteen build bamboo houses outdoors and meet partners there without parental interference. Only when an attachment becomes strong do the couple arrange marriage."
   },
   "miao-023": {
     "title": "苗（平越清平）",
@@ -359,7 +403,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原圖開頭只見「苗在」，未擅自增補族稱；「祭白」「大擅衣」等待核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 27
+    "source_pdf_page": 27,
+    "translation": "The Miao living under Pingyue and Qingping have surnames including Xie, Ma, He, Luo, Lei, and Lu. They favor blue-green clothing: men wrap their heads in blue cloth and legs in white cloth; women coil their hair and use wooden combs. Newlyweds sleep in separate beds and share a room only after conception. After the harvest in the tenth month, they hold a rite called \"Sacrificing to Bai\" (jibai). A skilled singer, in distinctive clothing and a large felt hat, leads men and women who play reed-pipes and dance for three days and nights."
   },
   "ocr-0aa54e2d1b74-p0027": {
     "title": "苗（平越清平）",
@@ -367,7 +412,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原圖開頭只見「苗在」，未擅自增補族稱；「祭白」「大擅衣」等待核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 27
+    "source_pdf_page": 27,
+    "translation": "The Miao living under Pingyue and Qingping have surnames including Xie, Ma, He, Luo, Lei, and Lu. They favor blue-green clothing: men wrap their heads in blue cloth and legs in white cloth; women coil their hair and use wooden combs. Newlyweds sleep in separate beds and share a room only after conception. After the harvest in the tenth month, they hold a rite called \"Sacrificing to Bai\" (jibai). A skilled singer, in distinctive clothing and a large felt hat, leads men and women who play reed-pipes and dance for three days and nights."
   },
   "miao-024": {
     "title": "打牙犵狫",
@@ -375,7 +421,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。PaddleOCR 誤將「犵狫」讀作「狍猪」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 28
+    "source_pdf_page": 28,
+    "translation": "The Daya Gelao live in various districts of Guiyang. The author calls them fierce, reckless, and indifferent to life. It claims that before marriage women have their front teeth knocked out to prevent harm to their husbands. The account disparages their customs as crude, saying that men and women, old and young, observe no separation or avoidance in daily life and meals."
   },
   "ocr-0aa54e2d1b74-p0028": {
     "title": "打牙犵狫",
@@ -383,7 +430,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。PaddleOCR 誤將「犵狫」讀作「狍猪」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 28
+    "source_pdf_page": 28,
+    "translation": "The Daya Gelao live in various districts of Guiyang. The author calls them fierce, reckless, and indifferent to life. It claims that before marriage women have their front teeth knocked out to prevent harm to their husbands. The account disparages their customs as crude, saying that men and women, old and young, observe no separation or avoidance in daily life and meals."
   },
   "miao-025": {
     "title": "剪髮犵狫",
@@ -391,7 +439,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。歷史族稱「犵狫」據高清原圖復核；末字保留「匪」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 29
+    "source_pdf_page": 29,
+    "translation": "The Jianfa Gelao, one of five Gelao groups, live in Guiding County. Men tie a topknot at the crown, growing it only about an inch before cutting it. Men and women both farm and weave diligently. The author describes their customs as frugal and plain and their disposition as mild and law-abiding."
   },
   "ocr-0aa54e2d1b74-p0029": {
     "title": "剪髮犵狫",
@@ -399,7 +448,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。歷史族稱「犵狫」據高清原圖復核；末字保留「匪」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 29
+    "source_pdf_page": 29,
+    "translation": "The Jianfa Gelao, one of five Gelao groups, live in Guiding County. Men tie a topknot at the crown, growing it only about an inch before cutting it. Men and women both farm and weave diligently. The author describes their customs as frugal and plain and their disposition as mild and law-abiding."
   },
   "miao-026": {
     "title": "紫薑苗",
@@ -407,7 +457,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留原圖「后葬」字形，標點另加。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 30
+    "source_pdf_page": 30,
+    "translation": "The Zijiang Miao live in Duyun, Danjiang, and Qingping and are compared to the \"Nine-Name, Nine-Surname Miao\" of Dushan Subprefecture. The account calls them reckless and quarrelsome. They begin the year in the twelfth lunar month, shutting their doors for seven days; opening them prematurely is inauspicious. When a husband dies, his wife remarries before he is buried, because, as the saying goes, \"the mourning has an owner.\""
   },
   "ocr-0aa54e2d1b74-p0030": {
     "title": "紫薑苗",
@@ -415,7 +466,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留原圖「后葬」字形，標點另加。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 30
+    "source_pdf_page": 30,
+    "translation": "The Zijiang Miao live in Duyun, Danjiang, and Qingping and are compared to the \"Nine-Name, Nine-Surname Miao\" of Dushan Subprefecture. The account calls them reckless and quarrelsome. They begin the year in the twelfth lunar month, shutting their doors for seven days; opening them prematurely is inauspicious. When a husband dies, his wife remarries before he is buried, because, as the saying goes, \"the mourning has an owner.\""
   },
   "miao-027": {
     "title": "峒人苗",
@@ -423,7 +475,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「鏢奴弓」「水從」等連讀疑難，仍需對照原圖。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 31
+    "source_pdf_page": 31,
+    "translation": "The Dongren Miao live downstream. In winter they gather reed flowers for stuffing against the cold, and use salt and sauce in their food. Husbands and wives always go out together. The account depicts them as suspicious, given to killing, and seldom without javelins, crossbows, or bows. Those in the Shiqian and Langxi jurisdictions are said to resemble Han people, those in the Shuicong villages to take refuge in fortified locations, and those in Hongzhou to engage in robbery and killing."
   },
   "ocr-0aa54e2d1b74-p0031": {
     "title": "峒人苗",
@@ -431,7 +484,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「鏢奴弓」「水從」等連讀疑難，仍需對照原圖。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 31
+    "source_pdf_page": 31,
+    "translation": "The Dongren Miao live downstream. In winter they gather reed flowers for stuffing against the cold, and use salt and sauce in their food. Husbands and wives always go out together. The account depicts them as suspicious, given to killing, and seldom without javelins, crossbows, or bows. Those in the Shiqian and Langxi jurisdictions are said to resemble Han people, those in the Shuicong villages to take refuge in fortified locations, and those in Hongzhou to engage in robbery and killing."
   },
   "miao-028": {
     "title": "平伐苗",
@@ -439,7 +493,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。OCR「披州衣」疑為圖中「披卉衣」，有待第二人確認。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 32
+    "source_pdf_page": 32,
+    "translation": "The Pingfa Miao live in Xiaopingfa under Guiding. Men wear plant-fiber garments and short skirts; women wear long tubular skirts. They slaughter dogs for marriage ceremonies and when entertaining guests. They always carry long spears when going out."
   },
   "ocr-0aa54e2d1b74-p0032": {
     "title": "平伐苗",
@@ -447,7 +502,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。OCR「披州衣」疑為圖中「披卉衣」，有待第二人確認。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 32
+    "source_pdf_page": 32,
+    "translation": "The Pingfa Miao live in Xiaopingfa under Guiding. Men wear plant-fiber garments and short skirts; women wear long tubular skirts. They slaughter dogs for marriage ceremonies and when entertaining guests. They always carry long spears when going out."
   },
   "miao-029": {
     "title": "九孟牯羊苗",
@@ -455,7 +511,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「九孟」及「謂之鬧」附近句讀、字形仍須核對。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 33
+    "source_pdf_page": 33,
+    "translation": "The Jiumeng Guyang Miao live in Jinzhusi of Guangshun. They carve cavities into cliff faces and live there, using bamboo ladders instead of beds or ordinary stairways; some dwellings are said to rise to great heights. They cultivate with iron hoes rather than plows. Men and women pair off while dancing to reed-pipes. After childbirth a woman returns home (the exact wording is uncertain). When parents die they do not cry but laugh, dance, and sing loudly, calling it \"making a commotion.\" In the following year, when the cuckoo calls, the family weeps, saying: \"Even the bird returns each year, but our loved one does not.\""
   },
   "ocr-0aa54e2d1b74-p0033": {
     "title": "九孟牯羊苗",
@@ -463,7 +520,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「九孟」及「謂之鬧」附近句讀、字形仍須核對。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 33
+    "source_pdf_page": 33,
+    "translation": "The Jiumeng Guyang Miao live in Jinzhusi of Guangshun. They carve cavities into cliff faces and live there, using bamboo ladders instead of beds or ordinary stairways; some dwellings are said to rise to great heights. They cultivate with iron hoes rather than plows. Men and women pair off while dancing to reed-pipes. After childbirth a woman returns home (the exact wording is uncertain). When parents die they do not cry but laugh, dance, and sing loudly, calling it \"making a commotion.\" In the following year, when the cuckoo calls, the family weeps, saying: \"Even the bird returns each year, but our loved one does not.\""
   },
   "miao-030": {
     "title": "狎家",
@@ -471,7 +529,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「南龍」「狎家」按所見字形暫錄。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 34
+    "source_pdf_page": 34,
+    "translation": "The Xiajia live in Guiyang, Anshun, and Nanlong. They favor blue-green clothing. Men wrap their heads in blue cloth, while women wear short jackets and long skirts. In early spring every year, they braid small balls from five-colored cloth. Men and women dance, and those who favor one another elope without prohibition."
   },
   "ocr-0aa54e2d1b74-p0034": {
     "title": "狎家",
@@ -479,7 +538,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「南龍」「狎家」按所見字形暫錄。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 34
+    "source_pdf_page": 34,
+    "translation": "The Xiajia live in Guiyang, Anshun, and Nanlong. They favor blue-green clothing. Men wrap their heads in blue cloth, while women wear short jackets and long skirts. In early spring every year, they braid small balls from five-colored cloth. Men and women dance, and those who favor one another elope without prohibition."
   },
   "miao-031": {
     "title": "土人",
@@ -487,7 +547,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「山魈」據原圖訂正；「唱神發」存疑。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 35
+    "source_pdf_page": 35,
+    "translation": "The Turen live between Guizhu, Guiding, and Guangshun. Men trade while women do the farming. At New Year they welcome a mountain spirit in a nuo exorcistic rite. Some put on ritual costumes, play reed-pipes and drums, and sing while visiting villages near and far, dispersing after receiving food and wine."
   },
   "ocr-0aa54e2d1b74-p0035": {
     "title": "土人",
@@ -495,7 +556,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「山魈」據原圖訂正；「唱神發」存疑。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 35
+    "source_pdf_page": 35,
+    "translation": "The Turen live between Guizhu, Guiding, and Guangshun. Men trade while women do the farming. At New Year they welcome a mountain spirit in a nuo exorcistic rite. Some put on ritual costumes, play reed-pipes and drums, and sing while visiting villages near and far, dispersing after receiving food and wine."
   },
   "miao-032": {
     "title": "六額子",
@@ -503,7 +565,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。舊 OCR 漏「人長衣不着裙人死」段，已據圖補錄。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 36
+    "source_pdf_page": 36,
+    "translation": "The Liu'ezi live in Dading and are divided into black and white groups. Men wear pointed coiffures; women wear long garments without skirts. The dead are buried in coffins, but after a little more than a year kin gather at the grave with offerings of animals and wine, open the coffin, wash the bones until white, wrap them in cloth, and rebury them. The bones are exhumed and washed again every year or two, as many as seven times."
   },
   "ocr-0aa54e2d1b74-p0036": {
     "title": "六額子",
@@ -511,7 +574,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。舊 OCR 漏「人長衣不着裙人死」段，已據圖補錄。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 36
+    "source_pdf_page": 36,
+    "translation": "The Liu'ezi live in Dading and are divided into black and white groups. Men wear pointed coiffures; women wear long garments without skirts. The dead are buried in coffins, but after a little more than a year kin gather at the grave with offerings of animals and wine, open the coffin, wash the bones until white, wrap them in cloth, and rebury them. The bones are exhumed and washed again every year or two, as many as seven times."
   },
   "miao-033": {
     "title": "犵兜（疑）",
@@ -519,7 +583,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。開頭族稱「犵兜」和「海巴菴繭」字形待核；原 OCR 為「抱兜」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 37
+    "source_pdf_page": 37,
+    "translation": "The Gedou (name uncertain) live in Zhenyuan, Shibing, and Huangping, on high slopes without fences or walls. Men's clothing resembles that of the local Turen; women wear short jackets and side coiffures, embroidered with five colors at the chest and sleeves, and carry strings of objects called \"haiba'an cocoons\" on their backs (reading uncertain). In every season they take knives and crossbows into the mountains to hunt deer and trap birds. Their poisoned arrows are said to kill immediately upon drawing blood, but the account says they do not steal."
   },
   "ocr-0aa54e2d1b74-p0037": {
     "title": "犵兜（疑）",
@@ -527,7 +592,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。開頭族稱「犵兜」和「海巴菴繭」字形待核；原 OCR 為「抱兜」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 37
+    "source_pdf_page": 37,
+    "translation": "The Gedou (name uncertain) live in Zhenyuan, Shibing, and Huangping, on high slopes without fences or walls. Men's clothing resembles that of the local Turen; women wear short jackets and side coiffures, embroidered with five colors at the chest and sleeves, and carry strings of objects called \"haiba'an cocoons\" on their backs (reading uncertain). In every season they take knives and crossbows into the mountains to hunt deer and trap birds. Their poisoned arrows are said to kill immediately upon drawing blood, but the account says they do not steal."
   },
   "miao-034": {
     "title": "宋家苗",
@@ -535,7 +601,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留圖中文字，現代標點另加。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 38
+    "source_pdf_page": 38,
+    "translation": "The Songjia Miao live under Guiyang. Men wear hats and long-fronted jackets; women wear hairpins and short-fronted jackets. When a woman is about to marry, the groom's family sends people to fetch her, and her relatives beat the visitors with sticks, a custom called \"seizing the bride.\""
   },
   "ocr-0aa54e2d1b74-p0038": {
     "title": "宋家苗",
@@ -543,7 +610,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留圖中文字，現代標點另加。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 38
+    "source_pdf_page": 38,
+    "translation": "The Songjia Miao live under Guiyang. Men wear hats and long-fronted jackets; women wear hairpins and short-fronted jackets. When a woman is about to marry, the groom's family sends people to fetch her, and her relatives beat the visitors with sticks, a custom called \"seizing the bride.\""
   },
   "miao-035": {
     "title": "青苗",
@@ -551,7 +619,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「九華巾」「盖腰裙」之斷句與異體待核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 39
+    "source_pdf_page": 39,
+    "translation": "The Qing Miao have customs resembling those of the Luoluo and live in Zhenning. They are named for their preference for blue-green jackets and skirts. Women wear blue-cloth headdresses resembling nine-flower scarves, jackets covering the waist, and skirts covering the knees. The author portrays them as strong, combative, and prone to banditry, always carrying knives and crossbows. Each early spring, unmarried men and women sing together outdoors; those who favor one another arrange marriage through matchmakers."
   },
   "ocr-0aa54e2d1b74-p0039": {
     "title": "青苗",
@@ -559,7 +628,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「九華巾」「盖腰裙」之斷句與異體待核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 39
+    "source_pdf_page": 39,
+    "translation": "The Qing Miao have customs resembling those of the Luoluo and live in Zhenning. They are named for their preference for blue-green jackets and skirts. Women wear blue-cloth headdresses resembling nine-flower scarves, jackets covering the waist, and skirts covering the knees. The author portrays them as strong, combative, and prone to banditry, always carrying knives and crossbows. Each early spring, unmarried men and women sing together outdoors; those who favor one another arrange marriage through matchmakers."
   },
   "miao-036": {
     "title": "水犵狫",
@@ -567,7 +637,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR 將族稱錯讀為「水花狹」「水狍猪」，據原圖更正。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 40
+    "source_pdf_page": 40,
+    "translation": "The Shui Gelao live in Yuqing, Zhenyuan, Shibing, and elsewhere. They are adept at fishing and can enter deep water even in midwinter, hence the name \"Water Gelao.\" Men's dress resembles that of Han people; women wear finely pleated skirts following what the author calls Miao custom. Their marriage and funerary practices are also described as resembling Han customs."
   },
   "ocr-0aa54e2d1b74-p0040": {
     "title": "水犵狫",
@@ -575,7 +646,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。原 OCR 將族稱錯讀為「水花狹」「水狍猪」，據原圖更正。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 40
+    "source_pdf_page": 40,
+    "translation": "The Shui Gelao live in Yuqing, Zhenyuan, Shibing, and elsewhere. They are adept at fishing and can enter deep water even in midwinter, hence the name \"Water Gelao.\" Men's dress resembles that of Han people; women wear finely pleated skirts following what the author calls Miao custom. Their marriage and funerary practices are also described as resembling Han customs."
   },
   "miao-037": {
     "title": "楊保苗",
@@ -583,7 +655,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留作者評價性用詞。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 41
+    "source_pdf_page": 41,
+    "translation": "The Yangbao Miao are said to descend from Bozhou and live chiefly in Zunyi and Longquan among Han residents. Their marriages and burials resemble those of Han people. The account nevertheless describes them as cunning and fierce, alleging that they refuse to comply when officials or runners summon or arrest them."
   },
   "ocr-0aa54e2d1b74-p0041": {
     "title": "楊保苗",
@@ -591,7 +664,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。保留作者評價性用詞。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 41
+    "source_pdf_page": 41,
+    "translation": "The Yangbao Miao are said to descend from Bozhou and live chiefly in Zunyi and Longquan among Han residents. Their marriages and burials resemble those of Han people. The account nevertheless describes them as cunning and fierce, alleging that they refuse to comply when officials or runners summon or arrest them."
   },
   "miao-038": {
     "title": "八番",
@@ -599,7 +673,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「和稽儲之」字形未確認；「手舂」按原圖及語義暫錄。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 42
+    "source_pdf_page": 42,
+    "translation": "The Bafan live in Dingfan. Their clothing resembles that of Han people. According to the account, women labor while men rest. Rice is harvested and stored with its husks, then pounded by hand in wooden mortars for food. Markets are held on yin and wu days, and long waist-drums are played for entertainment. The fifteenth day of the tenth lunar month begins the year. Burials take place quietly at night without selecting an auspicious date, so, as the account says, the deceased \"will not know.\""
   },
   "ocr-0aa54e2d1b74-p0042": {
     "title": "八番",
@@ -607,7 +682,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「和稽儲之」字形未確認；「手舂」按原圖及語義暫錄。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 42
+    "source_pdf_page": 42,
+    "translation": "The Bafan live in Dingfan. Their clothing resembles that of Han people. According to the account, women labor while men rest. Rice is harvested and stored with its husks, then pounded by hand in wooden mortars for food. Markets are held on yin and wu days, and long waist-drums are played for entertainment. The fifteenth day of the tenth lunar month begins the year. Burials take place quietly at night without selecting an auspicious date, so, as the account says, the deceased \"will not know.\""
   },
   "miao-039": {
     "title": "補籠苗",
@@ -615,7 +691,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。沿用已核讀的第 43 頁試稿，改正「二十／三十」「雞大／雞犬」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 43
+    "source_pdf_page": 43,
+    "translation": "The Bulong Miao live under Nanlong and Anshun. They favor blue-green clothing and tie their heads with scarves. Women wear blue-cloth headwraps and long skirts with more than thirty pleats, with a patterned cloth hanging from the waist like a sash and covered with blue cloth. They begin the year in the twelfth lunar month. The account says they collect the bones of cattle, horses, chickens, and dogs to make vinegar, preferring it very sour and pungent. Wealthy families are said to boast of having kept vinegar vats for generations. Marriages are described as informal unions."
   },
   "ocr-0aa54e2d1b74-p0043": {
     "title": "補籠苗",
@@ -623,7 +700,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。沿用已核讀的第 43 頁試稿，改正「二十／三十」「雞大／雞犬」。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 43
+    "source_pdf_page": 43,
+    "translation": "The Bulong Miao live under Nanlong and Anshun. They favor blue-green clothing and tie their heads with scarves. Women wear blue-cloth headwraps and long skirts with more than thirty pleats, with a patterned cloth hanging from the waist like a sash and covered with blue cloth. They begin the year in the twelfth lunar month. The account says they collect the bones of cattle, horses, chickens, and dogs to make vinegar, preferring it very sour and pungent. Wealthy families are said to boast of having kept vinegar vats for generations. Marriages are described as informal unions."
   },
   "miao-040": {
     "title": "白苗",
@@ -631,7 +709,8 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「男科頭」「囚頭」保持可見字形，仍須最終複核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 44
+    "source_pdf_page": 44,
+    "translation": "The Bai Miao live in Guiding and Longli. Men go bareheaded; women wear loose coiffures, short jackets, and long skirts, favoring white. The author disparages their appearance as unwashed and foul-smelling. They make their living as hired laborers and tenant farmers."
   },
   "ocr-0aa54e2d1b74-p0044": {
     "title": "白苗",
@@ -639,6 +718,7 @@ window.MIAO_SHENGHUO_40_DRAFTS = {
     "status": "image_checked_draft",
     "notes": "2026-11-21／AI 依原始高清《苗族生活圖》掃描圖像逐幅校讀的工作草稿，未經研究者逐字確認；標點由今人試加，不是原圖所有。保留原始 OCR，且不得作為已校定史料直接引證。「男科頭」「囚頭」保持可見字形，仍須最終複核。",
     "review_batch": "shenghuo-40-ai-image-draft-v1",
-    "source_pdf_page": 44
+    "source_pdf_page": 44,
+    "translation": "The Bai Miao live in Guiding and Longli. Men go bareheaded; women wear loose coiffures, short jackets, and long skirts, favoring white. The author disparages their appearance as unwashed and foul-smelling. They make their living as hired laborers and tenant farmers."
   }
 };
