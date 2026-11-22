@@ -13,6 +13,9 @@
     ...(Array.isArray(window.MIAO_SHENGHUO_EXTRA_SCANS) ? window.MIAO_SHENGHUO_EXTRA_SCANS.filter(r => r.pdf_page > 44) : []),
     ...IMPORTED.flatMap(r=>(r.collection_id==='9e2b3d98dc2e'&&r.pdf_page>=3&&r.pdf_page<=29&&PLATES54.length===54)?PLATES54.filter(p=>p.pdf_page===r.pdf_page):[r])
   ].map(r=>({...r,...(DRAFTS42[r.id]||{}),...(SINGLE82[r.id]||{}),...(CHENHAO80[r.id]||{}),...(GUIZHOU20[r.id]||{}),source_title:r.source_file==='进贡苗蛮图.清.陈枚画.清绘本.pdf'?'進貢苗蠻圖（陳枚畫）':r.source_file==='黔省诸苗全图.上下册.清绘本.pdf'?'黔省諸苗全圖（上下冊）':r.source_title}));
+  // Keep Mu Konggong's 37 painting leaves separate from their 37 caption leaves.
+  // A picture-only leaf (or cover/endpaper) does not require text recognition.
+  const isMukongNoText = r => r?.collection_id==='9150bfea03fe' && ['illustration','non_text'].includes(r.page_kind);
   const DRAFTS = window.MIAO_VISUAL_DRAFTS || {};
   const KEY = "miao_column_reviews_v1";
   const SCHEMA = "miao-column-review-v1";
@@ -90,18 +93,21 @@
     if (selectedRecord && pageData) save();
     if (localUrl) { URL.revokeObjectURL(localUrl);localUrl=null; }
     selectedRecord=BASE.find(r=>r.id===id)||BASE[0];
+    const noText=isMukongNoText(selectedRecord);
     if (!selectedRecord) return;
     el.page.value=selectedRecord.id;
     pageData=newPage(selectedRecord);
     activeId=currentColumns()[0]?.id||null;
-    el.raw.textContent=selectedRecord.ocr_raw||"本页没有原始 OCR 文本。";
-    $("existing-draft").textContent=DRAFTS[selectedRecord.id]?.transcription||selectedRecord.transcription||"本页尚无已有校读稿。";
+    el.raw.textContent=noText?"本页为彩绘或装饰扫描，无文字，不需要 OCR。 / Picture-only or decorative scan: OCR is not applicable.":selectedRecord.ocr_raw||"本页没有原始 OCR 文本。";
+    $("existing-draft").textContent=noText?"本页无题记文字，OCR 不适用。 / No text to transcribe.":DRAFTS[selectedRecord.id]?.transcription||selectedRecord.transcription||"本页尚无已有校读稿。";
     currentImageReady=false;
+    $("add-column").disabled=noText;
+    $("sort-columns").disabled=noText;
     el.image.src=selectedRecord.image;
     $("image-resolution").textContent="载入图像中…";
     history.replaceState(null,"","?id="+encodeURIComponent(id));
     render();
-    notify("当前： "+(selectedRecord.source_title||"苗族生活图")+" · PDF 第 "+selectedRecord.pdf_page+" 页。");
+    notify(noText?"当前 PDF 第 "+selectedRecord.pdf_page+" 页为无文字扫描，保留原图，不进行 OCR。":"当前： "+(selectedRecord.source_title||"苗族生活图")+" · PDF 第 "+selectedRecord.pdf_page+" 页。");
   }
   function relPointer(e) {
     const r=el.overlay.getBoundingClientRect();
@@ -129,6 +135,7 @@
     node.style.width=(b[2]*100)+"%";node.style.height=(b[3]*100)+"%";
   }
   function createColumn(box) {
+    if (isMukongNoText(selectedRecord)) return;
     captureFields();
     const col=normalColumn({box});
     currentColumns().push(col);
@@ -206,7 +213,7 @@
     drawOverlay();renderList();renderEditor();renderSummary();
   }
   el.overlay.addEventListener("pointerdown",e=>{
-    if (!currentImageReady || e.button!==0) return;
+    if (!currentImageReady || e.button!==0 || isMukongNoText(selectedRecord)) return;
     const box=e.target.closest(".column-box");
     if (box) {e.preventDefault();selectColumn(box.dataset.columnId);return;}
     e.preventDefault();
