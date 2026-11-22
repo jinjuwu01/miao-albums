@@ -5,7 +5,8 @@
   const IMAGE_DRAFTS = window.MIAO_VISUAL_DRAFTS && typeof window.MIAO_VISUAL_DRAFTS === 'object' ? window.MIAO_VISUAL_DRAFTS : {};
   const COLUMN_REVIEWS = window.MIAO_COLUMN_REVIEWS && typeof window.MIAO_COLUMN_REVIEWS === 'object' ? window.MIAO_COLUMN_REVIEWS : {};
   const SHENGHUO_40_DRAFTS = window.MIAO_SHENGHUO_40_DRAFTS && typeof window.MIAO_SHENGHUO_40_DRAFTS === 'object' ? window.MIAO_SHENGHUO_40_DRAFTS : {};
-  const BASE = [...LEGACY, ...IMPORTED].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
+  const BOLIN_108_DRAFTS = window.MIAO_BOLIN_108_DRAFTS && typeof window.MIAO_BOLIN_108_DRAFTS === 'object' ? window.MIAO_BOLIN_108_DRAFTS : {};
+  const BASE = [...LEGACY, ...IMPORTED].map((r, i) => ({...r, ...(IMAGE_DRAFTS[r.id] || {}), ...(COLUMN_REVIEWS[r.id] || {}), ...(SHENGHUO_40_DRAFTS[r.id] || {}), ...(BOLIN_108_DRAFTS[r.id] || {}), source_title:r.source_title || '苗族生活图', sort_index:i}));
   const byId = id => document.getElementById(id);
   const dom = {list:byId('result-list'),reader:byId('reader-content'),search:byId('search-input'),count:byId('result-count'),summary:byId('search-summary'),filter:byId('status-filter'),sort:byId('sort-order'),album:byId('album-filter')};
   let selected = BASE.some(r=>r.id===decodeURIComponent(location.hash.slice(1))) ? decodeURIComponent(location.hash.slice(1)) : (BASE[0]?.id || '');
