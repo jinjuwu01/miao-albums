@@ -8,7 +8,7 @@
   const spread = new Set(mixed);
   const source = '百苗圖系列（Wellcome MS Chinese 99，無題本）';
   const collection = 'b14870435_chinese_99';
-  const knownTitles = {5:'倮猓',6:'黑倮猓',9:'白倮猓'};
+  const knownTitles = {5:'倮猓',6:'黑倮猓',9:'白倮猓',10:'馬鐙龍家苗',11:'蔡家苗',12:'補籠苗',13:'宋家苗',14:'白苗',15:'紅苗',16:'仲家苗',17:'龍家苗',18:'青苗',19:'峒人',20:'蠻人（待核）',23:'土人',24:'黑苗',25:'犵狫',26:'打牙犵狫',29:'棘人（待核）',30:'九股苗',34:'天苗',35:'六額子',36:'猺苗',37:'平伐苗',40:'花苗',43:'羅漢苗',46:'猺人'};
   const iiif = (page,region,width) =>
     'https://iiif.wellcomecollection.org/image/'+collection+'_'+String(page).padStart(4,'0')+
     '.jp2/'+region+'/'+width+',/0/default.jpg';
