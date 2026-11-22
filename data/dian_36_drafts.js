@@ -13,7 +13,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0006.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0007.webp",
     "picture_pdf_page": 6,
-    "pdf_text_page": 7
+    "pdf_text_page": 7,
+    "translation": "The Bai people are said to be a branch of the ancient Bai kingdom. Their ancestry is traced to King Ashoka of the Western Sea, a Buddhist who ate vegetarian food, avoided dyes, and did not kill living creatures, and was called the White-Rice King. The account then gives a partly uncertain genealogy, including the rulers Renguo and Fenglong Youna. It claims that during Emperor Wu's Yuanshou era, the Han court considered replacing the king of Dian, while the region retained the name Bai Kingdom. After Zhuge Liang pacified Nanzhong, he allegedly confirmed Youna in his former lands and gave him the surname Zhang. In Tang times, a seventeenth-generation descendant, Zhang Lejinqiu, yielded the kingdom to the Meng family and withdrew. Today's Bai people are said to descend from these Zhang lineages. The author rejects an earlier claim that the name arose by confusing Bo with Bai and says the two groups were not actually connected. Bai people are found throughout Yunnan, with customs said to differ little from those of Han people. Several names and historical details in the Chinese draft remain uncertain."
   },
   "ocr-ddaac6c2e519-p0009": {
     "title": "西番",
@@ -27,7 +28,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0008.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0009.webp",
     "picture_pdf_page": 8,
-    "pdf_text_page": 9
+    "pdf_text_page": 9,
+    "translation": "The Xifan live in Yongning, Beisheng, and places along the Jinsha River; one place-name is illegible (□). They braid their hair with agate and copper beads and reportedly comb it only once every three years. They wear patterned cloth and belts and drape themselves in felt garments, sometimes three or four layers even in hot weather. They live halfway up mountains under plank roofs, prize strength, and excel at archery. They possess scriptures in a script described as Burmese, written on leaves, and recite them to worship deities and expel spirits. The author portrays them as violent and as migrating with livestock. Another group, the \"wild Xifan,\" is described as coming and going unpredictably and as especially difficult to govern."
   },
   "ocr-ddaac6c2e519-p0011": {
     "title": "拇雞",
@@ -41,7 +43,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0010.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0011.webp",
     "picture_pdf_page": 10,
-    "pdf_text_page": 11
+    "pdf_text_page": 11,
+    "translation": "The Muji are described in disparaging terms as unattractive, especially the women. They wear disheveled hair in topknots adorned with chicken feathers; women's coiffures project like horns. Their embroidered garments are short, and dangling ornaments decorate their chests. They move frequently and often live in bamboo houses, cultivate mountain grain, and hunt monkeys and other animals. They carry knives, powerful crossbows, and poisoned arrows. The account alleges theft and violence even among close relatives. They are said to be governed from Wangnong Mountain in Ningzhou."
   },
   "ocr-ddaac6c2e519-p0013": {
     "title": "摩察",
@@ -55,7 +58,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0012.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0013.webp",
     "picture_pdf_page": 12,
-    "pdf_text_page": 13
+    "pdf_text_page": 13,
+    "translation": "The Mocha, a branch of the Hei Luo, live in Dali and Menghua. They use wooden bows and poisoned arrows and are said never to miss the birds or beasts they pursue. The author accuses them of raids and resistance when attacked. In Wuding they are also called Mucha, whose customs are said to be somewhat gentler."
   },
   "ocr-ddaac6c2e519-p0015": {
     "title": "撒完",
@@ -69,7 +73,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0014.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0015.webp",
     "picture_pdf_page": 14,
-    "pdf_text_page": 15
+    "pdf_text_page": 15,
+    "translation": "The Sawan live in villages of Mingyue in Mengzi County. Distinct from the black and white groups mentioned elsewhere, they farm diligently and capture insects and mice for food."
   },
   "ocr-ddaac6c2e519-p0017": {
     "title": "妙羅羅",
@@ -83,7 +88,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0016.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0017.webp",
     "picture_pdf_page": 16,
-    "pdf_text_page": 17
+    "pdf_text_page": 17,
+    "translation": "The Miao Luoluo are said to descend from native officials and commanders, variously called huotou, yingzhang, and guanna. They differ from the white and black groups. They wear earrings and purple woven garments. Women's clothing is embroidered at the chest and back, short in front, long and trailing behind, with curved hems like banner tails, pulled over the head through a square neck opening; their tubular skirts are closely pleated. In Ami, other groups are said to respect and fear them; when someone dies, the whole village contributes money. In Menghua, Lijiang, Heqing, Tengyue, Chuxiong, and Yao'an, the term \"Luoluo\" is used without distinguishing subgroups. Families live in thatched houses and sleep around a central hearth. The account describes some as fearless of beatings. For sacrifices, sheep and pigs are reportedly beaten to death. The Yao'an branch is accused of theft; those in Xinxing farm for a living. Those in Tengyue are said to depend on hunting. A Beisheng group is compared with the Luo of Jianchang in Sichuan: both sexes go barefoot, wearing leather shoes for dance festivals; men play reed-pipes while women sew, dance, and sing in patterned rhythms. In Shunzhou they are called Luoluoman; men wear folded hats, women triangular headdresses, and they gather firewood and farm. In Xinhua, a Baijiao Luo group is named for the white cloth wrapped around their shins. Some readings remain uncertain."
   },
   "ocr-ddaac6c2e519-p0019": {
     "title": "羯夷",
@@ -97,7 +103,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0018.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0019.webp",
     "picture_pdf_page": 18,
-    "pdf_text_page": 19
+    "pdf_text_page": 19,
+    "translation": "The Jieyi are said to originate from Mengyang in the far west and to have migrated into Tengyue. The account describes them with animalizing imagery, as having rounded eyes and birdlike beaks. They wear large earrings and a strip of cloth over the lower body rather than full garments. They reportedly eat uncooked rice and meat and are courageous fighters, armed with spears and knives, with shouts likened to barking dogs."
   },
   "ocr-ddaac6c2e519-p0021": {
     "title": "緬人",
@@ -111,7 +118,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0020.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0021.webp",
     "picture_pdf_page": 20,
-    "pdf_text_page": 21
+    "pdf_text_page": 21,
+    "translation": "The Mian people are divided into several groups called Lao Mian, Delengzi, and Awa, among others associated with places such as Mengbie, Yonghui, Puhuan, Dongwu, and Baigu (names uncertain). The author says these groups are generally named for their localities and portrays them as greedy, quarrelsome, and extravagant in eating. They are skilled in using firearms. The account claims that their gunpowder requires wheat flour for rapid, nearly soundless ignition, a secret method not disclosed to outsiders. They favor Buddhism; men and women wrap their heads in dark cloth. The closing comparison with another group is textually uncertain."
   },
   "ocr-ddaac6c2e519-p0023": {
     "title": "力夷",
@@ -125,7 +133,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0022.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0023.webp",
     "picture_pdf_page": 22,
-    "pdf_text_page": 23
+    "pdf_text_page": 23,
+    "translation": "The Liyi are found only in Yunlong Subprefecture. Men have disheveled hair, go barefoot, and wear hemp garments, felt coats, and woolen waistbands. Women wrap their heads in white hemp cloth. They are skilled with crossbows, seldom missing. The account says that a woman carries a small wooden shield three or four inches across ahead of the shooter, who strikes the shield without harming her; this skill allegedly enables them to prevail over the Xifan."
   },
   "ocr-ddaac6c2e519-p0025": {
     "title": "沙人",
@@ -139,7 +148,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0024.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0025.webp",
     "picture_pdf_page": 24,
-    "pdf_text_page": 25
+    "pdf_text_page": 25,
+    "translation": "The Sha people have customs broadly resembling those of the Nong, but are said to be stronger. In Guangxi they are under the Long lineage; in Fuzhou under the Li and Shen lineages. In the expansive Weimo and lower-water regions, local groups compete for territory and stronger groups annex weaker ones. The Qinglong Liuzhao are described as especially fierce. Large old fir trees grow on sheer cliffs; timber felled there is often damaged but is said to be harder than Sichuan timber. Sha people also live in Luoping and make wooden implements, while cattle are central to marriage and funerary rites."
   },
   "ocr-ddaac6c2e519-p0027": {
     "title": "喇記",
@@ -153,7 +163,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0026.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0027.webp",
     "picture_pdf_page": 26,
-    "pdf_text_page": 27
+    "pdf_text_page": 27,
+    "translation": "The Laji live in Kaihua Prefecture. The author portrays them as cunning, violent, and alternating between submission and rebellion. Men put chicken feathers in their hair and wear short patterned jackets. Women wear cloth caps and wrap unfastened tops right over left, with tubular skirts below. They cultivate beans and wheat on hillsides and frequently move their settlements."
   },
   "ocr-ddaac6c2e519-p0029": {
     "title": "怒人",
@@ -167,7 +178,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0028.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0029.webp",
     "picture_pdf_page": 28,
-    "pdf_text_page": 29
+    "pdf_text_page": 29,
+    "translation": "Among the Nu people of Lijiang, men tie their hair with rope into forms seven or eight inches high; women bind cloth into their hair. The author portrays them as stern and violent and otherwise similar to the Mosuo."
   },
   "ocr-ddaac6c2e519-p0031": {
     "title": "摩些",
@@ -181,7 +193,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0030.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0031.webp",
     "picture_pdf_page": 30,
-    "pdf_text_page": 31
+    "pdf_text_page": 31,
+    "translation": "The Mosuo are identified in the Tang histories as the Moxie, associated with the Shishun Qiang and the Wuman and with several valleys including Tieqiao, Dapo, Xiaopo, Santanlan, and Kunchi (some readings uncertain). The author says the term covers the local peoples of Lijiang and also groups in Beisheng, Shunzhou, and Lufeng. Men wrap their heads with cord and wear green beads on their ears; women have cloth hats. They raise cattle and sheep and produce musk. The account depicts them as brave riders and archers who carry short knives and sometimes respond to quarrels by beating gongs and drums and fighting until women negotiate peace. They are described as frugal, eating simple meals and competing in offerings of cattle and sheep at year's end; failing to attend an invitation is treated as shameful. On the fifth day of the first month they climb mountains to sacrifice to Heaven. At death, bodies are carried down mountains in bamboo baskets and cremated regardless of rank."
   },
   "ocr-ddaac6c2e519-p0033": {
     "title": "地羊鬼",
@@ -195,7 +208,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0032.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0033.webp",
     "picture_pdf_page": 32,
-    "pdf_text_page": 33
+    "pdf_text_page": 33,
+    "translation": "The Diyanggui are described as short-haired and yellow-eyed, deceitful and profit-seeking, frequently moving about and feuding with others. The account alleges they practice harmful magic, transforming people's internal organs into wood or stone and placing gu poison in food, and compares this to allegations about Boyi in Yuanjiang. These are hostile claims of the historical source, not verified facts."
   },
   "ocr-ddaac6c2e519-p0035": {
     "title": "乾羅羅",
@@ -209,7 +223,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0034.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0035.webp",
     "picture_pdf_page": 34,
-    "pdf_text_page": 35
+    "pdf_text_page": 35,
+    "translation": "The Qian Luoluo are said to spend lavishly on marriages, more than other groups. At death they wrap bodies in oxhide and dress them in new brocade. Before eating they place chopsticks in rice, look toward Heaven, and make a blessing to honor their origins. The author portrays them as courageous and combative, saying killings may be settled through payments but old enmities can override kinship. Many do not understand Chinese; official documents must also be rendered into Yi writing to be accepted. Salt and garlic are especially valued as commodities."
   },
   "ocr-ddaac6c2e519-p0037": {
     "title": "土人",
@@ -223,7 +238,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0036.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0037.webp",
     "picture_pdf_page": 36,
-    "pdf_text_page": 37
+    "pdf_text_page": 37,
+    "translation": "The Turen of Wuding wear padded jackets and tighten leather waist cords when hungry. Men carry knives and crossbows, while women drape themselves in sheepskins and felt. Betrothal gifts include cattle, sheep, knives, and armor. Brides meet their parents-in-law with loose hair. The author calls them stubborn and says they do not understand Chinese, fear government authority, and avoid litigation. Disputes are said to be settled by an ordeal: disputants invoke Heaven, place an object in boiling water, and retrieve it by hand; the guilty person's hand supposedly blisters while the innocent is unharmed. They farm and hunt and trade in town on yin, wu, and xu days."
   },
   "ocr-ddaac6c2e519-p0039": {
     "title": "窩泥",
@@ -237,7 +253,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0038.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0039.webp",
     "picture_pdf_page": 38,
-    "pdf_text_page": 39
+    "pdf_text_page": 39,
+    "translation": "The Woni, also called Ganni, have men who wear earrings and go barefoot. Women wear flower-patterned jackets and arrange their hair in small plaits with red and white cords, shells, and beads coiled into buns, with additional bead ornaments over the chest. They wear unpleated skirts with red and black decorations; married women tie rattan below the knees as a marker. At weddings the bride cries for a day. For cremation they burn the body on a pinewood frame. Participants bring cattle and sheep, wave fans, sing in circles, clap, and dance to gongs and drums. They eat rice with their hands rather than chopsticks. The account praises their thrift and describes shell money saved in caches of 120 strings, with some left, according to instructions given at death, for a future life. They live in Lin'an and several surrounding native jurisdictions, and in Jingdong and Yuezhou. In Beijia, also called Heni, men cut hair level with the eyebrows and wear short garments. One player leads reed-pipe music while men and women dance hand in hand. A male and female chicken are reportedly buried with the dead. The group is also called Ani in Ami and Eni in Dengchuan."
   },
   "ocr-ddaac6c2e519-p0041": {
     "title": "野人",
@@ -251,7 +268,8 @@ window.MIAO_DIAN_36_DRAFTS = {
     "thumb": "images/collections/ddaac6c2e519/thumb_0040.webp",
     "text_image": "images/collections/ddaac6c2e519/page_0041.webp",
     "picture_pdf_page": 40,
-    "pdf_text_page": 41
+    "pdf_text_page": 41,
+    "translation": "The Yeren, or \"wild people,\" are described in a highly hostile account as lacking houses and sleeping in treetops, with red hair and yellow eyes. They purportedly dress in bark and coarse cloth, decorate the head with bone rings, feathers, and red rattan, carry large hooked blades, hunt and eat animals raw, and move over difficult terrain with remarkable speed. The text accuses them of killing strangers and recounts official conflicts far beyond Tengyue near the Chashan area. It then reviews older gazetteer descriptions of similar people in Xundian who wore bark, used wooden bows, gathered wild food, and lacked cooking vessels, but observes that no such group is presently found there. Comparing Tang historical accounts of groups west of the Pyu kingdom, the author argues that the earlier identification with Xundian may be mistaken. A further comparison is drawn with alleged practices of \"Langren\" in western Guangdong, who cooked rice inside bamboo segments and ate snakes and insects. The author speculates that warfare may have destroyed or displaced these groups. All ethnographic and violent characterizations here are claims of the historical writer, and several place-names are uncertain."
   },
   "ocr-ddaac6c2e519-p0051": {
     "title": "儂人",
