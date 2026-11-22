@@ -1,4 +1,4 @@
-// Manchester full English drafts of provisional Chinese records; historical categories reflect manuscript author.
+// Complete provisional English rendering of extant source-specific Chinese OCR. Unreadable glyphs remain uncertain.
 window.MIAO_MANCHESTER_OCR_CANDIDATES = {
   "manchester-c398-p075": {
     "title": "狪家苗（題名待復核）",
@@ -538,16 +538,18 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "羅漢苗，八寨、丹江有之。男子披狐尾，披髮於後，最敬信佛。每逢三月三日，男女老幼攜□供佛，歌舞三日，不食烟火，以寒食之意也。",
     "transcription": "羅漢苗，八寨、丹江有之。男子披狐尾，披髮於後，最敬信佛。每逢三月三日，男女老幼攜□供佛，歌舞三日，不食烟火，以寒食之意也。",
-    "translation": "The Luohan Miao are said to live in Bazhai and Danjiang. Men are described as wearing fox tails and leaving their hair loose. The compiler says they honor Buddhism and hold a festival on the third day of the third month, with offerings, dance and three days without cooking fires, which it compares to the Cold Food Festival.",
+    "translation": "The Luohan Miao are found in Bazhai and Danjiang. Men drape fox tails about themselves and wear their hair loose down their backs. They are especially devout believers in Buddhism. Every year on the third day of the third lunar month, men and women, old and young alike, carry [unreadable offerings] to present to the Buddha. They sing and dance for three days, lighting no cooking fires, in the manner of the Cold Food Festival.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 163; checked 2026-11-22",
     "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The Luohan Miao are said to live in Bazhai and Danjiang. Men are described as wearing fox tails and leaving their hair loose. The compiler says they honor Buddhism and hold a festival on the third day of the third month, with offerings, dance and three days without cooking fires, which it compares to the Cold Food Festival.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p169": {
     "title": "尖頂苗",
@@ -556,16 +558,18 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "尖頂苗在貴陽府屬，男女皆梳尖頂髻，以仲冬朔為大節，夫婦耦耕力作。",
     "transcription": "尖頂苗在貴陽府屬，男女皆梳尖頂髻，以仲冬朔為大節，夫婦耦耕力作。",
-    "translation": "The Jianding Miao of Guiyang Prefecture are described as wearing pointed topknots. The first day of the eleventh lunar month is their major festival, and husbands and wives farm together.",
+    "translation": "The Pointed-Top Miao live within Guiyang Prefecture. Men and women alike arrange their hair in pointed topknots. They take the first day of midwinter [the eleventh lunar month] as their major festival. Husband and wife work side by side in the fields.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 169; checked 2026-11-22",
     "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The Jianding Miao of Guiyang Prefecture are described as wearing pointed topknots. The first day of the eleventh lunar month is their major festival, and husbands and wives farm together.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p173": {
     "title": "平伐苗",
@@ -574,16 +578,18 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "平伐苗在貴定之新添營。男子披草衣，著短裙；婦短衣而穿桶裙，以長簪綰髮。婚姻祭享皆用狗。",
     "transcription": "平伐苗在貴定之新添營。男子披草衣，著短裙；婦短衣而穿桶裙，以長簪綰髮。婚姻祭享皆用狗。",
-    "translation": "The Pingfa Miao live in Xintianying of Guiding. Men wear straw garments and short skirts, women short garments and tubular skirts, securing their hair with long hairpins. The text says dogs figure in marriage and ritual offerings.",
+    "translation": "The Pingfa Miao live at Xintian Garrison under Guiding. Men wear straw garments and short skirts. Women wear short upper garments and tubular skirts and arrange their hair with long hairpins. Dogs are used in both marriage rites and sacrificial offerings.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 173; checked 2026-11-22",
     "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The Pingfa Miao live in Xintianying of Guiding. Men wear straw garments and short skirts, women short garments and tubular skirts, securing their hair with long hairpins. The text says dogs figure in marriage and ritual offerings.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p179": {
     "title": "樓居黑苗",
@@ -592,16 +598,18 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "樓居黑苗，八寨、丹江有之。男勤耕種，性剛而愚；性以羊角為髻，好樓居，愛畜牲。人家樓上，畜養樓下。",
     "transcription": "樓居黑苗，八寨、丹江有之。男勤耕種，性剛而愚；性以羊角為髻，好樓居，愛畜牲。人家樓上，畜養樓下。",
-    "translation": "The Louju Black Miao are situated in Bazhai and Danjiang. Men are said to farm diligently and to wear hair or headwear shaped like a ram's horn. The source describes living upstairs in raised houses and keeping livestock below.",
+    "translation": "The Black Miao who live in raised houses are found in Bazhai and Danjiang. Men work diligently at cultivation and are described as strong-willed but foolish. They arrange their hair into buns resembling ram's horns, enjoy living in raised houses, and like keeping livestock. People live on the upper floor and raise their animals beneath it.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual reading from page image; not automated OCR",
     "source_review": "Manchester Chinese Crawford 398, user-supplied IIIF canvas 179; checked 2026-11-22",
     "notes": "已依原頁右至左欄次做圖像校讀初稿；難辨字作□，未經人工學術校訂。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The Louju Black Miao are situated in Bazhai and Danjiang. Men are said to farm diligently and to wear hair or headwear shaped like a ram's horn. The source describes living upstairs in raised houses and keeping livestock below.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p117": {
     "title": "白仲家",
@@ -859,16 +867,18 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "洛蘭苗，定番州多有之，性慄悍，善擊刺。出入攜帶鏢鎗，勤墾苗皆畏之。今□□耕作，男□女工紡織。其布精密，每入市人爭購之。相傳云欲作汗衫裙，須浮若蘭布。婚姻多用媒妁。",
     "transcription": "洛蘭苗，定番州多有之，性慄悍，善擊刺。出入攜帶鏢鎗，勤墾苗皆畏之。今□□耕作，男□女工紡織。其布精密，每入市人爭購之。相傳云欲作汗衫裙，須浮若蘭布。婚姻多用媒妁。",
-    "translation": "The group provisionally read as Luolan Miao is described in Dingfan, with the compiler stressing weapons and martial prowess. The account also praises close-woven cloth, weaving and market demand, and refers to marriage by matchmakers. The heading is not yet securely deciphered.",
+    "translation": "The Luolan Miao [group name uncertain] are numerous in Dingfan Prefecture. They are described as fierce and skilled at striking and stabbing. When going out they carry javelins and spears, and the [unreadable] Miao who cultivate the land are said to fear them. Nowadays [two unreadable characters] they cultivate the land; men [unreadable] and women are skilled at spinning and weaving. Their cloth is tightly and finely woven, and whenever it is brought to market people compete to purchase it. According to tradition, anyone wishing to make an undershirt or skirt must use cloth provisionally read as “Luolan cloth” [a source character is uncertain]. Marriages are generally arranged through matchmakers.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted manuscript-image reading (not automated OCR)",
     "source_review": "User-uploaded Manchester Chinese Crawford 398 canvas 161; image inspected 2026-11-22",
     "notes": "【整頁初稿】依原圖目視轉錄，存疑處標□，須繼續人工逐字復核。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The group provisionally read as Luolan Miao is described in Dingfan, with the compiler stressing weapons and martial prowess. The account also praises close-woven cloth, weaving and market demand, and refers to marriage by matchmakers. The heading is not yet securely deciphered.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p165": {
     "title": "清江黑苗",
@@ -877,16 +887,16 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "清江黑苗男以紅布束髮□戴銀坎圈耳墜大環穿寬褲男女俱跣足□種樹木與漢人通商往來稱曰同年喜穿戴相錦花凡漢人攜帶□花售之其價多倍未婚男曰羅漢女曰老卿每逢春晴和攜酒高岡男女唱和相悅者飲以牛角至暮則隨而奔之男必於生子後乃曰召□人方事耕作",
     "transcription": "清江黑苗男以紅布束髮□戴銀坎圈耳墜大環穿寬褲男女俱跣足□種樹木與漢人通商往來稱曰同年喜穿戴相錦花凡漢人攜帶□花售之其價多倍未婚男曰羅漢女曰老卿每逢春晴和攜酒高岡男女唱和相悅者飲以牛角至暮則隨而奔之男必於生子後乃曰召□人方事耕作",
-    "translation": "The Qingjiang Black Miao are described as tying their hair with red cloth, wearing silver rings and large earrings, loose trousers, and going barefoot. The text says they plant trees and trade with Han merchants, valuing ornamental flowers and textiles. It names unmarried men luohan and unmarried women laoqing. In fair spring weather, men and women bring wine to a hilltop, sing in response to one another and share drink from cattle horns. Those who choose each other may elope; the final clause connects the birth of a child with a change in the man's work or household status, but several characters are unclear.",
+    "translation": "Among the Qingjiang Black Miao, men tie their hair with red cloth and [unreadable] wear silver rings around their heads; large rings hang from their ears. They wear broad trousers, and both sexes go barefoot. They [unreadable] plant trees and trade with Han people, addressing each other as “same-year companions” (tongnian). They enjoy wearing embroidered floral ornaments. Whenever Han merchants bring [unreadable] flowers for sale, they pay several times the ordinary price. Unmarried men are called luohan and unmarried women laoqing.\n\nWhenever spring weather is fine, they carry wine to a hilltop. Men and women answer one another in song, and those who are mutually attracted drink from ox horns. At dusk they go away together. Only after the birth of a child does a man [an unclear phrase involving someone called zhao—unreadable] undertake agricultural work. The final relationship between childbirth and work remains uncertain.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft following source columns, uncertain glyphs and interpretations noted",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual transcription from user-supplied original Manchester image; uncertainty indicated",
     "source_review": "Manchester Chinese Crawford 398 original canvas 165, 8 vertical text columns reviewed 2026-11-22",
     "notes": "【局部校讀】只轉錄可辨認的部分，尚有原圖文字未錄入。保留舊藏本異文，不作人工定稿。 英文為試譯性概述，並非逐字對譯。 【第二輪竪排逐欄復讀】原圖右起各欄已錄入，難辨字以□標記；此為待逐字校定稿。舊有節選保存在 prior_transcription_20261122。",
-    "english_kind": "provisional_source_translation",
+    "english_kind": "source_aligned_translation_draft",
     "prior_transcription_20261122": "清江黑苗，男以紅布束髮，□戴銀坎圈，耳垂大環，穿寬褲，男女俱跣足。居□植樹木，與漢人通商往來，□曰同年。喜穿戴花，凡漢人攜帶□花售之，其價多倍。未婚男曰羅漢，女曰老卿。",
     "transcription_columns": [
       "清江黑苗男以紅布束髮□戴銀坎圈",
@@ -897,7 +907,9 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
       "攜酒高岡男女唱和相悅者飲以牛角至",
       "暮則隨而奔之男必於生子後乃曰召",
       "□人方事耕作"
-    ]
+    ],
+    "prior_english_summary_20261122": "The Qingjiang Black Miao are described as tying their hair with red cloth, wearing silver rings and large earrings, loose trousers, and going barefoot. The text says they plant trees and trade with Han merchants, valuing ornamental flowers and textiles. It names unmarried men luohan and unmarried women laoqing. In fair spring weather, men and women bring wine to a hilltop, sing in response to one another and share drink from cattle horns. Those who choose each other may elope; the final clause connects the birth of a child with a change in the man's work or household status, but several characters are unclear.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p167": {
     "title": "六洞夷人（題名待核）",
@@ -906,16 +918,16 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "六洞夷人在黎平二府有之婦女愛穿顏色花裙細花□鞋□繡以□未婚男女寄□衣換帶即卜吉而嫁之鄰近女子數十人各穿藍布傘往送名曰送親連袂舞至男家歡飲唱和三晝夜攜新婦同歸母家而散新郎□夜潛入女家與之同宿生子方過聘女家以布疋為嫁資或多至數十疋女則紡織惟勤男不知書識字□親始終之禮悉與漢同",
     "transcription": "六洞夷人在黎平二府有之婦女愛穿顏色花裙細花□鞋□繡以□未婚男女寄□衣換帶即卜吉而嫁之鄰近女子數十人各穿藍布傘往送名曰送親連袂舞至男家歡飲唱和三晝夜攜新婦同歸母家而散新郎□夜潛入女家與之同宿生子方過聘女家以布疋為嫁資或多至數十疋女則紡織惟勤男不知書識字□親始終之禮悉與漢同",
-    "translation": "The Liudong Yiren are recorded in the Liping region. Women are said to wear colorful skirts and embroidered shoes. The account describes a marriage procession of dozens of women, dressed in blue and carrying umbrellas, who escort the bride with dancing and singing to the groom's household. Festivities last three days and nights before the bride returns with her companions to her natal home. A groom later visits her, and bridewealth is settled after the birth of a child. Bolts of cloth, sometimes dozens, serve as dowry. The author emphasizes women's spinning and weaving; the conclusion compares some rites with Han customs. Certain characters remain uncertain.",
+    "translation": "The Liudong Yiren [historical heading to be verified] live in the Liping region [the reference to “two prefectures” is retained in the Chinese]. Women like brightly colored flowered skirts and finely patterned [unreadable] shoes, embroidered with [unreadable materials]. Unmarried men and women exchange [unreadable] garments and sashes, and after divining an auspicious outcome they marry.\n\nDozens of women from neighboring settlements, each carrying a blue-cloth umbrella, come to escort the bride; this is called “sending off the bride.” They dance hand in hand to the groom's house, where they feast, drink, and sing in response to one another for three days and nights. Then they accompany the new bride back to her natal home and disperse. The groom [unreadable word] visits the woman's home secretly at night and sleeps with her. Only after a child is born does he present the betrothal gifts. The bride's family provides bolts of cloth as a dowry, sometimes as many as several dozen. Women work especially diligently at spinning and weaving, while men are said not to know writing [an unreadable character follows]. The rites concerning kinship and the beginning and end of life are said to be the same as those of the Han.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft following source columns, uncertain glyphs and interpretations noted",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual transcription from user-supplied original Manchester image; uncertainty indicated",
     "source_review": "Manchester Chinese Crawford 398 original canvas 167, 8 vertical text columns reviewed 2026-11-22",
     "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。 【第二輪竪排逐欄復讀】原圖右起各欄已錄入，難辨字以□標記；此為待逐字校定稿。舊有節選保存在 prior_transcription_20261122。",
-    "english_kind": "provisional_source_translation",
+    "english_kind": "source_aligned_translation_draft",
     "prior_transcription_20261122": "六洞夷人，黎平二府有之。婦女愛穿顏色花鞋，脚綴以□。未婚男女高衣換帶，即卜吉而嫁之。鄰近女子數十人各穿藍布，拿往送，名曰送親。連袂歌舞至男家，歡飲唱和三晝夜，攜新婦同歸母家而散。",
     "transcription_columns": [
       "六洞夷人在黎平二府有之婦女愛穿顏色花裙",
@@ -926,7 +938,9 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
       "夜潛入女家與之同宿生子方過聘女家以布",
       "疋為嫁資或多至數十疋女則紡織惟勤",
       "男不知書識字□親始終之禮悉與漢同"
-    ]
+    ],
+    "prior_english_summary_20261122": "The Liudong Yiren are recorded in the Liping region. Women are said to wear colorful skirts and embroidered shoes. The account describes a marriage procession of dozens of women, dressed in blue and carrying umbrellas, who escort the bride with dancing and singing to the groom's household. Festivities last three days and nights before the bride returns with her companions to her natal home. A groom later visits her, and bridewealth is settled after the birth of a child. Bolts of cloth, sometimes dozens, serve as dowry. The author emphasizes women's spinning and weaving; the conclusion compares some rites with Han customs. Certain characters remain uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p171": {
     "title": "洞苗",
@@ -935,16 +949,18 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "洞苗，天柱郡、錦屏郡地方，擇平坦近水而居，以種棉花為務，服食類漢人。故多與之傭工，婦女戴壓角帽，著花邊裙，能織洞錦、洞帕，精美。此種最通漢語，聽約束，楚省多有之。",
     "transcription": "洞苗，天柱郡、錦屏郡地方，擇平坦近水而居，以種棉花為務，服食類漢人。故多與之傭工，婦女戴壓角帽，著花邊裙，能織洞錦、洞帕，精美。此種最通漢語，聽約束，楚省多有之。",
-    "translation": "The Dong Miao live around Tianzhu and Jinping on level ground near water, cultivate cotton, and wear clothing similar to that of Han people. Women make fine Dong brocade and cloth and wear decorated skirts. The compiler says they commonly speak Chinese and are also found in Hunan.",
+    "translation": "The Dong Miao live around Tianzhu and Jinping. They choose level ground near water for their settlements and devote themselves to growing cotton. Their dress and food are similar to those of Han people; consequently many work as hired laborers alongside them. Women wear angular-brimmed hats and skirts with patterned borders. They can weave exquisite Dong brocade and Dong cloths. This group is especially fluent in Chinese and obeys official regulations. Many are also found in the province called Chu.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 171 from user ZIP; 2026-11-22",
     "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The Dong Miao live around Tianzhu and Jinping on level ground near water, cultivate cotton, and wear clothing similar to that of Han people. Women make fine Dong brocade and cloth and wear decorated skirts. The compiler says they commonly speak Chinese and are also found in Hunan.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p175": {
     "title": "八寨黑苗",
@@ -953,16 +969,16 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "八寨黑苗在都匀屬女以色布鑲衣袖胸前繡錦一方護之名曰都肚者寮於曠野之□建屋名曰馬郎房至晚未婚男女相聚於此愛切者以牛角灌酒即故聘吉三日必歸寧或一年半載外氏而婚索其□錢不與或改嫁聘與女俱故者獨向女之子索之謂之鬼□錢也",
     "transcription": "八寨黑苗在都匀屬女以色布鑲衣袖胸前繡錦一方護之名曰都肚者寮於曠野之□建屋名曰馬郎房至晚未婚男女相聚於此愛切者以牛角灌酒即故聘吉三日必歸寧或一年半載外氏而婚索其□錢不與或改嫁聘與女俱故者獨向女之子索之謂之鬼□錢也",
-    "translation": "The Bazhai Black Miao are placed in Duyun. The source describes women's garments bordered with colorful cloth and a square embroidered piece protecting the chest, named dud u. Young people meet at night in a structure on open ground called the malang house. Cattle horns are used for serving wine and the account connects meetings with marriage agreements. It goes on to discuss returning to the natal home, payment obligations, remarriage and a claim to money described as 'ghost [unclear] money'. Several marriage-law details require closer comparison with the source.",
+    "translation": "The Bazhai Black Miao live under Duyun. Women border their sleeves with colored cloth and wear an embroidered square covering the front of the chest; this is called a dudu. On open ground [one character is unreadable], they build a house called a malang house. In the evening unmarried men and women gather there. Those strongly attached to each other serve wine in ox horns, and this forms part of their betrothal arrangements [the wording of the connecting phrase is uncertain].\n\nThree days after marriage a woman must return to her natal home, or remain there for a year or half a year [the exact chronology is unclear]. The wife's relatives demand [unreadable type of] payment in marriage. If it is not given, or if the woman remarries, the [unreadable] betrothal obligations follow the woman. In the event of death, the demand is made against her son alone. This is called “ghost [unreadable] money.” The legal relationships in these final clauses require further paleographic review.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft following source columns, uncertain glyphs and interpretations noted",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual transcription from user-supplied original Manchester image; uncertainty indicated",
     "source_review": "Manchester Chinese Crawford 398 original canvas 175, 8 vertical text columns reviewed 2026-11-22",
     "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。 【第二輪竪排逐欄復讀】原圖右起各欄已錄入，難辨字以□標記；此為待逐字校定稿。舊有節選保存在 prior_transcription_20261122。",
-    "english_kind": "provisional_source_translation",
+    "english_kind": "source_aligned_translation_draft",
     "prior_transcription_20261122": "八寨黑苗在都匀府，女子以色布鑲衣袖，胸前繡錦一方護之，名曰都肚。各寨於曠野之□建屋，名曰馬郎房。至晚未婚男女相聚於此，愛切者以牛角灌酒，即故聘。古三日必歸寧，或一年半載，外氏而婚索其財。",
     "transcription_columns": [
       "八寨黑苗在都匀屬女以色布鑲衣",
@@ -973,7 +989,9 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
       "或一年半載外氏而婚索其□錢不",
       "與或改嫁聘與女俱故者獨向女之子",
       "索之謂之鬼□錢也"
-    ]
+    ],
+    "prior_english_summary_20261122": "The Bazhai Black Miao are placed in Duyun. The source describes women's garments bordered with colorful cloth and a square embroidered piece protecting the chest, named dud u. Young people meet at night in a structure on open ground called the malang house. Cattle horns are used for serving wine and the account connects meetings with marriage agreements. It goes on to discuss returning to the natal home, payment obligations, remarriage and a claim to money described as 'ghost [unclear] money'. Several marriage-law details require closer comparison with the source.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p177": {
     "title": "黑仲家",
@@ -982,16 +1000,16 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "黑仲家清江所屬以樹木為業其寨多漢人在同往來熟識可以賒其出本合夥生理或借貸資本經商□不應付不□□期償還不妨直去以故即有虧折並可再行添借倘被人劫奪而不能出外追討則訂家家墓前在□配首□而去謂之挺白板里侯被捉之于□壹拘劫□俾人追償借項以贖之鄰近祖父之墓多受其害今則沒有連□保□",
     "transcription": "黑仲家清江所屬以樹木為業其寨多漢人在同往來熟識可以賒其出本合夥生理或借貸資本經商□不應付不□□期償還不妨直去以故即有虧折並可再行添借倘被人劫奪而不能出外追討則訂家家墓前在□配首□而去謂之挺白板里侯被捉之于□壹拘劫□俾人追償借項以贖之鄰近祖父之墓多受其害今則沒有連□保□",
-    "translation": "The Black Zhongjia are recorded in Qingjiang, with timber as an important occupation and frequent contact with Han merchants. The account describes partnerships, extending credit, lending trading capital and repayment difficulties. It continues with a disputed or coercive method for collecting debt, involving people unable to pursue borrowers and references to graves, detention, recovery of borrowed sums and redemption payments. Much of the precise customary-law language in the final three columns remains uncertain, so the English describes only what can be read with reasonable confidence.",
+    "translation": "The Black Zhongjia belong to Qingjiang and make their living from timber. Many Han people travel to and from their settlements. Acquaintances may obtain capital on credit, form business partnerships, or borrow trading funds. [An unclear clause concerns failing to respond or to repay at the appointed time.] They may go away directly; losses therefore occur, yet further loans may be added.\n\nIf someone has been robbed and cannot go out to pursue the matter, [a largely unreadable passage describes arrangements made at family graves, with an act or object called tingbaiban lihou in the present OCR]. When a person is caught or detained [unreadable phrase about robbery], others are made to recover the borrowed money for that person's redemption. Graves of nearby ancestors suffer much harm. Now, however, there is said to be no longer [an unreadable phrase about collective guarantees]. The account's detailed debt and customary-law vocabulary is not secure enough to translate more specifically.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English translation grounded in Manchester source columns; some glyphs and interpretations remain unclear",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI visual reading of uploaded original manuscript, right-to-left columns, uncertain glyphs represented by □",
     "source_review": "Original Manchester Chinese Crawford 398 scan canvas 177; all 8 columns revisited 2026-11-22",
     "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。【第二輪整頁原圖復讀】完成可見欄次的轉錄初稿，不可靠的字保留□；存疑較多的篇章仍需要人工逐字校定。",
-    "english_kind": "provisional_source_translation",
+    "english_kind": "source_aligned_translation_draft",
     "prior_transcription_20261122": "黑仲家，清江所屬，以樹木為業。其寨多漢人往來，熟識可以赊其出本，合夥生理，或借貸資本經商，多不應付。不能如期償還，不好直去以故，即有虧折。至外處借貸被人劫奪，不得出外追討。",
     "transcription_columns": [
       "黑仲家清江所屬以樹木為業其寨多漢",
@@ -1002,7 +1020,9 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
       "墓前在□配首□而去謂之挺白板里侯被",
       "捉之于□壹拘劫□俾人追償借項以贖之",
       "鄰近祖父之墓多受其害今則沒有連□保□"
-    ]
+    ],
+    "prior_english_summary_20261122": "The Black Zhongjia are recorded in Qingjiang, with timber as an important occupation and frequent contact with Han merchants. The account describes partnerships, extending credit, lending trading capital and repayment difficulties. It continues with a disputed or coercive method for collecting debt, involving people unable to pursue borrowers and references to graves, detention, recovery of borrowed sums and redemption payments. Much of the precise customary-law language in the final three columns remains uncertain, so the English describes only what can be read with reasonable confidence.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p181": {
     "title": "車寨苗",
@@ -1011,16 +1031,16 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "車寨苗古州有之男多藝業女工針指未婚者於平壤之所為月場男絡而女歌音清美於諸苗相悅者自為婚配名曰跳月雖父母在旁觀之亦莫為之此俗馬三保之兵流落六百戶於此招贅苗女為室滿苗款為六百戶生苗也",
     "transcription": "車寨苗古州有之男多藝業女工針指未婚者於平壤之所為月場男絡而女歌音清美於諸苗相悅者自為婚配名曰跳月雖父母在旁觀之亦莫為之此俗馬三保之兵流落六百戶於此招贅苗女為室滿苗款為六百戶生苗也",
-    "translation": "The Chez hai Miao are said to live in Guzhou. The source characterizes men as skilled in crafts and women in needlework. Unmarried people gather on level ground called a moon-ground: men make music and women sing, and those who fall in love select partners in a custom known as jumping the moon. Parents may watch without interfering. The closing lines attribute some local households to soldiers associated with Ma Sanbao who settled and married Miao women, referring to 'six hundred households'. Certain names and descriptions require verification.",
+    "translation": "The Chez hai Miao live in Guzhou. Men have various skills and occupations, and women are skilled at needlework. Unmarried people gather on level ground called a “moon ground.” Men make music [the Chinese verb is uncertain], while women sing, their voices said to be clearer and more beautiful than those of other Miao. Those attracted to each other choose their own marriage partners; this is called “jumping the moon.” Even when parents watch from the side, they do not interfere.\n\nThe compiler says the custom originated with soldiers associated with Ma Sanbao who were scattered among six hundred households, took Miao women as wives through marriage into the women's families, and settled there. The concluding phrase connects these households with the Sheng Miao, but the exact wording remains uncertain.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft following source columns, uncertain glyphs and interpretations noted",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual transcription from user-supplied original Manchester image; uncertainty indicated",
     "source_review": "Manchester Chinese Crawford 398 original canvas 181, 7 vertical text columns reviewed 2026-11-22",
     "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。 【第二輪竪排逐欄復讀】原圖右起各欄已錄入，難辨字以□標記；此為待逐字校定稿。舊有節選保存在 prior_transcription_20261122。",
-    "english_kind": "provisional_source_translation",
+    "english_kind": "source_aligned_translation_draft",
     "prior_transcription_20261122": "車寨苗，古州有之。男多藝業，女子針指。未婚者於平壤之所為月場，男笙而女歌，音清美於諸苗。相悅者自為婚配，名跳月。離父母在旁觀之，亦莫為之。此俗馬三保之兵流落六百戶，於此招贅苗女為室。",
     "transcription_columns": [
       "車寨苗古州有之男多藝業女",
@@ -1030,7 +1050,9 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
       "父母在旁觀之亦莫為之此俗馬",
       "三保之兵流落六百戶於此招贅苗",
       "女為室滿苗款為六百戶生苗也"
-    ]
+    ],
+    "prior_english_summary_20261122": "The Chez hai Miao are said to live in Guzhou. The source characterizes men as skilled in crafts and women in needlework. Unmarried people gather on level ground called a moon-ground: men make music and women sing, and those who fall in love select partners in a custom known as jumping the moon. Parents may watch without interfering. The closing lines attribute some local households to soldiers associated with Ma Sanbao who settled and married Miao women, referring to 'six hundred households'. Certain names and descriptions require verification.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p183": {
     "title": "猺人黑者（題名待核）",
@@ -1039,16 +1061,16 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "猺人黑者原□雍正年間自粵西遷來貴定清平獨山等□皆居之其土地喜傍溪澗以樹皮接續引水至家兒於出□耕作之餘入山採藥名曰□行醫所祀之神曰樂□所藏之書曰□□所傳圓印□文字不可解珍而秘之風俗淳厚見遺不拾",
     "transcription": "猺人黑者原□雍正年間自粵西遷來貴定清平獨山等□皆居之其土地喜傍溪澗以樹皮接續引水至家兒於出□耕作之餘入山採藥名曰□行醫所祀之神曰樂□所藏之書曰□□所傳圓印□文字不可解珍而秘之風俗淳厚見遺不拾",
-    "translation": "The Yao group described here is said to have migrated from western Guangdong or Guangxi during the Yongzheng reign and to reside near Guiding, Qingping and Dushan. The writer notes settlement beside streams and the use of joined bark channels to carry water into homes. People collect medicinal herbs in the mountains and practice healing. The account names a deity and a book or ritual text, though their exact names are unreadable, and says the characters or seals cannot be readily interpreted. It concludes by praising their customs as sincere and claiming that lost goods are not picked up by others.",
+    "translation": "The Yao people called “Black” [historical group name uncertain] are said to have migrated from western Guangdong/Guangxi during the Yongzheng reign and to have settled in Guiding, Qingping, Dushan, and other [unreadable] places. They like living beside streams. They join sections of tree bark together to conduct water to their homes. In spare time after [unreadable] cultivation they enter the mountains to gather medicinal herbs, and they are called [unreadable term] healers.\n\nThe deity they worship is called Le[unreadable], and the book they preserve is called [two unreadable characters]. They pass down a round seal [unreadable] whose writing cannot be understood. They treasure it and keep it secret. Their customs are described as simple and honest; when they see something another person has lost, they do not pick it up.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English draft following source columns, uncertain glyphs and interpretations noted",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted visual transcription from user-supplied original Manchester image; uncertainty indicated",
     "source_review": "Manchester Chinese Crawford 398 original canvas 183, 7 vertical text columns reviewed 2026-11-22",
     "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。 【第二輪竪排逐欄復讀】原圖右起各欄已錄入，難辨字以□標記；此為待逐字校定稿。舊有節選保存在 prior_transcription_20261122。",
-    "english_kind": "provisional_source_translation",
+    "english_kind": "source_aligned_translation_draft",
     "prior_transcription_20261122": "猺人黑者，原□雍正年間自粵西遷來，貴定、清平、獨山等處皆居之。喜傍溪澗，以樹皮接續，視水至家。兒於出□耕作之餘，入山採藥，名曰□行醫。",
     "transcription_columns": [
       "猺人黑者原□雍正年間自粵西遷來",
@@ -1058,7 +1080,9 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
       "所祀之神曰樂□所藏之書曰□□",
       "所傳圓印□文字不可解珍而秘",
       "之風俗淳厚見遺不拾"
-    ]
+    ],
+    "prior_english_summary_20261122": "The Yao group described here is said to have migrated from western Guangdong or Guangxi during the Yongzheng reign and to reside near Guiding, Qingping and Dushan. The writer notes settlement beside streams and the use of joined bark channels to carry water into homes. People collect medicinal herbs in the mountains and practice healing. The account names a deity and a book or ritual text, though their exact names are unreadable, and says the characters or seals cannot be readily interpreted. It concludes by praising their customs as sincere and claiming that lost goods are not picked up by others.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p185": {
     "title": "卡尤仲家",
@@ -1067,16 +1091,16 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "卡尤仲家在貴陽安順南籠都匀平越諸府衣尚青女以花帕蒙首衣短而下圍廣自以裁之雖嚴寒盛暑無增減裙長而細摺勾雲合角中以顏色鑲之六月六日為大節每歲孟春聚未婚男女跳月歌舞於曠野以彩布結小圓毬如瓜謂之花毬之意洽情銳彼此拋擲遂私焉或為不操帶仍而奔之須抱子始歸夫家近俗□滿變在□州者婚姻多用媒妁聘禮以姿色容牛之多寡即嘉慶三年□征服者今南籠改名興義平越府改為直隸州永□州□名貞豐",
     "transcription": "卡尤仲家在貴陽安順南籠都匀平越諸府衣尚青女以花帕蒙首衣短而下圍廣自以裁之雖嚴寒盛暑無增減裙長而細摺勾雲合角中以顏色鑲之六月六日為大節每歲孟春聚未婚男女跳月歌舞於曠野以彩布結小圓毬如瓜謂之花毬之意洽情銳彼此拋擲遂私焉或為不操帶仍而奔之須抱子始歸夫家近俗□滿變在□州者婚姻多用媒妁聘禮以姿色容牛之多寡即嘉慶三年□征服者今南籠改名興義平越府改為直隸州永□州□名貞豐",
-    "translation": "The Kayou Zhongjia are recorded across Guiyang, Anshun, Nanlong, Duyun and Pingyue. They favor blue clothing; women wear patterned headcloths, short upper garments and long finely pleated skirts with colored designs. The sixth day of the sixth lunar month is a major festival, and in early spring unmarried people gather on open ground for 'moon-dancing'. They toss small colored-cloth balls shaped like gourds in courtship and may form relationships, returning to the husband's household only after having a child. In some places matchmakers and marriage payments involving cattle are described. The final lines refer to a Jiaqing-period campaign and administrative renamings, including Nanlong becoming Xingyi and a reference to Zhenfeng. Several graphs in the ending are uncertain.",
+    "translation": "The Kayou Zhongjia live in Guiyang, Anshun, Nanlong, Duyun, Pingyue, and other prefectures. They favor blue clothing. Women cover their heads with flower-patterned cloths, and wear short upper garments with broad lower hems, which they cut and make themselves. They do not add or remove garments for severe winter cold or summer heat. Their skirts are long and finely pleated, with hooked-cloud and angular patterns edged in different colors. They take the sixth day of the sixth lunar month as a major festival.\n\nEvery year in early spring unmarried men and women gather in the open to sing, dance, and “jump the moon.” They tie colored cloth into small round balls shaped like gourds, called “flower balls.” When their feelings are mutually engaged, they throw the balls back and forth and form private unions. Some [an unclear clause about sashes or restraint] elope together. A woman returns to her husband's household only after carrying a child. Recently customs have [unreadable change], and in [unreadable] Prefecture marriages are often arranged by matchmakers. The number of cattle given as betrothal gifts depends on a woman's looks [the syntax is uncertain].\n\nA closing statement refers to people subdued in the third year of Jiaqing [one character unreadable]. Nanlong has now been renamed Xingyi, Pingyue Prefecture has been changed to a directly administered prefecture, and Yong[unreadable] Prefecture is [unreadable] named Zhenfeng.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_column_pass_provisional",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional translated draft of column-by-column original manuscript reading; uncertain characters marked □",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI image-led second-pass transcription, checked against original uploaded Manchester Chinese Crawford 398 scan",
     "source_review": "User-uploaded Manchester canvas 185; original vertical columns visually reviewed 2026-11-22",
     "notes": "【局部圖像試讀】仍有未轉錄欄次，僅已錄部分配英譯；原圖需再高精校讀。 英文為試譯性概述，並非逐字對譯。 【第二輪整頁逐欄稿】本次覆核補至最後一欄；存疑字□，不使用平行抄本替換；先前節選另存 prior_transcription_20261122。",
-    "english_kind": "provisional_source_translation",
+    "english_kind": "source_aligned_translation_draft",
     "prior_transcription_20261122": "卡尤仲家在貴陽、安順、南籠、都匀、平越諸府，衣尚青。女以花帕蒙首，衣短而下圍廣，自以裁之。雖嚴寒盛暑，無增減。裙長而細摺，勾雲合角中以顏色織之。六月六日為大節，每歲孟春，聚未婚男女跳月歌舞於曠野。",
     "transcription_columns": [
       "卡尤仲家在貴陽安順南籠都匀平越諸府衣",
@@ -1089,7 +1113,9 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
       "者婚姻多用媒妁聘禮以姿色容牛之多寡即嘉",
       "慶三年□征服者今南籠改名興義平越府改為",
       "直隸州永□州□名貞豐"
-    ]
+    ],
+    "prior_english_summary_20261122": "The Kayou Zhongjia are recorded across Guiyang, Anshun, Nanlong, Duyun and Pingyue. They favor blue clothing; women wear patterned headcloths, short upper garments and long finely pleated skirts with colored designs. The sixth day of the sixth lunar month is a major festival, and in early spring unmarried people gather on open ground for 'moon-dancing'. They toss small colored-cloth balls shaped like gourds in courtship and may form relationships, returning to the husband's household only after having a child. In some places matchmakers and marriage payments involving cattle are described. The final lines refer to a Jiaqing-period campaign and administrative renamings, including Nanlong becoming Xingyi and a reference to Zhenfeng. Several graphs in the ending are uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p187": {
     "title": "洞夷苗",
@@ -1098,16 +1124,18 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "洞夷苗在古州一帶，與同類同□，而為二居。大寨者曰俞□，小寨者曰洞夷。多聽大寨喚使，所謂下戶不敢通上戶。洞夷不敢犯，俞□犯則女家必聲奪其產，或傷其命。",
     "transcription": "洞夷苗在古州一帶，與同類同□，而為二居。大寨者曰俞□，小寨者曰洞夷。多聽大寨喚使，所謂下戶不敢通上戶。洞夷不敢犯，俞□犯則女家必聲奪其產，或傷其命。",
-    "translation": "The Dongyi Miao are described around Guzhou in a hierarchical relationship between large and small settlements. The account uses terms for upper and lower households and says people in smaller villages cannot freely enter into relationships with those in the larger villages. Several group names and passages are uncertain.",
+    "translation": "The Dongyi Miao live around Guzhou. They belong to the same [unreadable category] as another group but inhabit two different kinds of settlements. Those in the large settlements are called Yu[unreadable], and those in the small settlements are called Dongyi. The latter are generally summoned to serve by the large settlements. Hence the saying that lower households dare not associate with upper households. Dongyi people dare not transgress this boundary. If a Yu[unreadable] person does so, the woman's family will raise a complaint and seize that person's property, or even take their life [the subjects of the final clauses are uncertain].",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 187 from user ZIP; 2026-11-22",
     "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The Dongyi Miao are described around Guzhou in a hierarchical relationship between large and small settlements. The account uses terms for upper and lower households and says people in smaller villages cannot freely enter into relationships with those in the larger villages. Several group names and passages are uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p189": {
     "title": "西溪苗",
@@ -1116,16 +1144,18 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "西溪苗在天柱郡，女子裙不過膝，以青布纏腿。未婚男吹笙，女攜鑼，相聚戲謔，遂一所愛者，乃飲於墟野。歌舞苗合，隨而奔之。生子然方至聘之，以牛。",
     "transcription": "西溪苗在天柱郡，女子裙不過膝，以青布纏腿。未婚男吹笙，女攜鑼，相聚戲謔，遂一所愛者，乃飲於墟野。歌舞苗合，隨而奔之。生子然方至聘之，以牛。",
-    "translation": "The Xixi Miao are located in Tianzhu. The text describes short skirts, blue leg-wrappings, young men playing reed pipes and women gathering for music and dance. Courtship and marriage follow, with cattle mentioned as a betrothal gift. Some words remain uncertain.",
+    "translation": "The Xixi Miao live in Tianzhu. Women's skirts do not reach below the knees, and they wrap their legs with blue cloth. Unmarried men play reed pipes and women carry gongs. They gather to joke and play, then choose someone they love and drink together in the open countryside. Singing and dancing bring the Miao together, after which couples elope. Only after a child is born do they arrange betrothal, with a cow as the gift.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 189 from user ZIP; 2026-11-22",
     "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The Xixi Miao are located in Tianzhu. The text describes short skirts, blue leg-wrappings, young men playing reed pipes and women gathering for music and dance. Courtship and marriage follow, with cattle mentioned as a betrothal gift. Some words remain uncertain.",
+    "translation_full_draft_20261122": true
   },
   "manchester-c398-p191": {
     "title": "清江仲家",
@@ -1134,15 +1164,17 @@ window.MIAO_MANCHESTER_OCR_CANDIDATES = {
     "status": "image_checked_draft",
     "ocr_raw": "清江仲家，台拱有之。婦勤耕織，男以紅布腰佩環刀，聚黨出寨，外拿孤客，以樹作柵之禁。寨間索取錢文，名曰贖身。倘若□力彼不准脫，多受其害。自剿撫以來，今皆息矣。",
     "transcription": "清江仲家，台拱有之。婦勤耕織，男以紅布腰佩環刀，聚黨出寨，外拿孤客，以樹作柵之禁。寨間索取錢文，名曰贖身。倘若□力彼不准脫，多受其害。自剿撫以來，今皆息矣。",
-    "translation": "The Qingjiang Zhongjia are placed near Taigong. The author notes women's work in farming and weaving and men wearing red cloth and knives, then alleges that groups seized travelers and demanded payments described as ransom. It concludes that officials had suppressed the practice. Uncertain characters are retained.",
+    "translation": "The Qingjiang Zhongjia live around Taigong. Women work diligently at farming and weaving. Men wear red cloth and carry ring-handled knives at the waist. The compiler says they form groups, go out of their settlements, capture lone travelers, and confine them behind wooden palisades. They demand money between settlements, calling it “ransom for one's person.” If [unreadable condition] the captive cannot obtain release, much harm results. Since military suppression and pacification, such practices are said to have ceased.",
     "translation_status": "ai_draft",
     "transcription_scope": "full_page_visual_pass_provisional_with_uncertain_characters",
     "text_completeness": "provisional_full_or_near_full",
-    "english_completeness": "provisional",
-    "translation_scope": "Provisional English interpretive summary of only the Chinese reading; not a line-by-line translation",
+    "english_completeness": "full_relative_to_chinese_draft",
+    "translation_scope": "Full English rendering of extant provisional Chinese transcription in source order, including all legible content and explicit uncertainty; not a scholarly-collated translation.",
     "ocr_engine": "AI-assisted image-led reading (not autonomous OCR)",
     "source_review": "University of Manchester Chinese Crawford 398 canvas 191 from user ZIP; 2026-11-22",
     "notes": "【整頁圖像初稿】逐列試讀，字形與標點未經人工校定。 英文為試譯性概述，並非逐字對譯。",
-    "english_kind": "interpretive_summary"
+    "english_kind": "source_aligned_translation_draft",
+    "prior_english_summary_20261122": "The Qingjiang Zhongjia are placed near Taigong. The author notes women's work in farming and weaving and men wearing red cloth and knives, then alleges that groups seized travelers and demanded payments described as ransom. It concludes that officials had suppressed the practice. Uncertain characters are retained.",
+    "translation_full_draft_20261122": true
   }
 };
