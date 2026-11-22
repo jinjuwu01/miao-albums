@@ -1308,5 +1308,85 @@ window.MIAO_ENGLISH_DRAFTS = {
   "ocr-fed119d6b353-p0181": {
     "translation": "The Liudong people live around Liping. Women like colored garments and young couples exchange pieces of clothing and belts to signal affection. Female neighbors escort brides with cloth umbrellas, singing and drinking for three days. The groom later visits the bride at night, and a new household may be formally established after a child is born.\n\nVerse (OCR order uncertain): Colored skirts and umbrellas accompany the bride; exchanged garments serve as matchmakers, and singing lasts for three nights.",
     "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0005": {
+    "translation": "The Gulan Miao live in Dingfan. The source describes them as skilled with knives, spears, and crossbows. Men and women wear short garments; women cover their hair with blue scarves and weave exceptionally fine cloth, highly valued in markets. Marriage is arranged with matchmakers.\n\nVerse (provisional): Blue scarves cover women's hair; when cotton blossoms, they gather it for weaving. Their cloth sells well at market, and the poet praises this local industry.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0007": {
+    "translation": "The Yangdong Luohan Miao live in Liping. Men farm and trade. Women wear loose hair with wooden combs at the forehead, raise silkworms, and weave brocade. Short jackets are embroidered at the chest and tied at the back with silver ornaments; a hanging panel is called a 'garment tail.' Women wear trousers with short skirts or skirts without trousers. The author praises their washing and cleanliness.\n\nVerse (provisional): Women devote themselves to raising silkworms and weaving. Embroidered chest panels, hanging garment tails, colorful ribbons, and loose hairstyles distinguish their dress.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0009": {
+    "translation": "The Kemeng Guyang Miao live under Jinzhusi in Guangshun. They hollow dwellings into high cliffs and climb by bamboo ladders, cultivating with iron hand tools instead of ox-drawn plows. The text describes songs and dances immediately after a parent's death, in a practice called naoshi. When the cuckoo cries the following year, the family weeps that the bird returns while the parent cannot.\n\nVerse (provisional): They prefer caves on steep cliffs and climb bamboo ladders. The poet criticizes their funeral singing but finds deep affection in their mourning at the cuckoo's call.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0011": {
+    "translation": "The Dong Miao live near water in Tianzhu and Jinping and grow cotton on flat lands. Men's clothing resembles Han dress and many work for Han households. Women wear blue headscarves and flower-trimmed garments and produce finely woven Dong handkerchiefs. The source praises their ability to speak Chinese.\n\nVerse (provisional): Cotton grows near water, and fine handkerchiefs are woven. Women wear blue headcloths and patterned skirts; men's clothing resembles Han styles.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0013": {
+    "translation": "The Qing Miao live near wooded mountain ravines in Pingyuan. They grow upland grain and hemp rather than conventional field crops. Men and women weave their own hemp clothing.\n\nVerse (provisional): They live near mountain forests, cultivate upland grains and hemp, and weave their own clothes from hemp fibers.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0015": {
+    "translation": "The Zhongjia Miao live in Libo. Men and women wear blue patterned headscarves; those of unmarried people are longer. The last day of the tenth lunar month is a spirit festival. Unmarried men and women gather for midwinter singing and dancing and may form couples. Formal marriage gifts and recognition follow childbirth.\n\nVerse (provisional): Men and women freely choose partners; only after a child is born do they return to the natal family for formal recognition. Blue headscarves are common at the winter festival.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0017": {
+    "translation": "The Dongjia live in Libo. Their garments end above the knees. At New Year they eat fish, meat, wine, and rice together from serving vessels. They settle near water, grow cotton, and weave their own clothes. Men speak Chinese but are said not to know writing; wooden tally marks confirm agreements.\n\nVerse (provisional): Frugal Dongjia families gather for the New Year, grow cotton, weave short garments, and use carved wood as proof of promises.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0019": {
+    "translation": "The Dijia Miao live in Libo. Men wear long garments, while women wear flower-trimmed short tops and layered skirts without trousers. The text describes eating glutinous rice by hand and drinking water directly from streams.\n\nVerse (provisional): Women wear layered skirts and colored sleeve borders. Glutinous rice is eaten with salt wrapped in leaves, and stream water is regarded as a welcome drink.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0021": {
+    "translation": "The Liu'ezi of Dading and Weining have black and white branches. Men wear pointed topknots and women long garments without skirts. Relatives periodically reopen graves to wash the bones of the dead, wrap them in cloth, and rebury them, up to seven times. Illness is attributed to unclean ancestral bones.\n\nVerse (provisional): The black and white branches wash ancestral bones repeatedly; men wear pointed hair coils and women long garments. The poet laments the repeated disturbance of the dead.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0023": {
+    "translation": "The Bai'ezi live around Yongfeng and Luohu. Men wear pointed topknots resembling snail shells, and women long garments without skirts. Their customs resemble those of the Liu'ezi, except that they pray to spirits during illness rather than wash ancestral bones.\n\nVerse (provisional): White headcloths explain the name; in illness they pray for relief. Funeral offerings gather relatives, and women wear long garments.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0025": {
+    "translation": "The Ranjia Man live around Yanhe in Sinan Prefecture. They enjoy fishing and hunting and prize fish and shrimp as food. Their customs are compared with those of another group called Manren.\n\nVerse (provisional): The Ranjia live below Yanhe, catch fish and shrimp, and hunt in deep mountains. Their customs are said to resemble those of the Manren.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0027": {
+    "translation": "The Jiuming Jiuxing Miao live in Dushan. In hostile language, the source accuses them of falsifying names and fighting at marriage or funeral feasts. An injured party may settle the dispute through gifts of cattle and wine. Women cultivate hillsides.\n\nVerse (provisional): Names change and minor quarrels grow violent; rather than going to court, people settle disputes by offering cattle and wine.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0029": {
+    "translation": "The Yetou Miao live in Guzhou. They cultivate fields using human-powered iron tools rather than cattle. Women wear multicolored garments. The passage describes marriage obligations between a maternal uncle's son and his cousin, including gifts called 'nephew money' that can be demanded across generations before another union is permitted.\n\nVerse (provisional): Silver headpieces, embroidery, earrings, and neck rings are mentioned alongside payments required before a woman can marry outside a prescribed family relationship.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0031": {
+    "translation": "The Dongzai Miao live around Guzhou with the Yetou Miao, divided into larger and smaller stockades. Residents of the smaller settlement are expected to obey the larger. The source describes serious penalties when people marry across the status boundary and praises the Dongzai for boat handling.\n\nVerse (provisional): The Dongzai are subordinate to the Yetou in several affairs, and forbidden marriages bring confiscation of property.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0033": {
+    "translation": "The Eight-Stockade Miao, classified here as Hei Miao, wear colored embroidery on their sleeves and chest panels. Unmarried men and women gather in communal malang houses. Cattle and wine accompany betrothal; a bride returns to her natal home after three days, and further payments called 'head money' or 'ghost-head money' may be demanded.\n\nVerse (provisional): Embroidered panels protect the chest, colorful fabric trims the skirts, and marriage payments are said to continue for many years.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0035": {
+    "translation": "The Qingjiang Hei Miao wear red headcloths, large earrings, silver neck rings, and wide trousers. Men and women go barefoot. They plant trees and trade with Han households. Unmarried men and women sing and dance on hillsides, drink wine from ox horns, and may form unions after children are born.\n\nVerse (provisional): They love embroidered robes and ornate earrings. Singing, dancing, and shared wine are described as taking the place of formal matchmakers.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0037": {
+    "translation": "The Louju Hei Miao live in the Eight Stockades and Danjiang. They prefer houses with people upstairs and livestock below. The dead may remain in coffins for twenty years before whole villages select a date for collective burial in a communal ancestral ground. Ritual objects at the spirit hall are subject to taboos.\n\nVerse (provisional): Families inhabit upper-story houses, bury many coffins at a shared site, farm and weave, and make sacrificial offerings.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0039": {
+    "translation": "The Heishan Miao live in remote valleys of Taigong, Guzhou, and Qingjiang. The source accuses them of neglecting farming and profiting from plunder. They are said to practice divination with grasses to predict fortune and misfortune.\n\nVerse (provisional): The poet portrays mountain dwellers as stubborn, divining with grass and closing their doors to avert calamity.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0041": {
+    "translation": "The Hei Sheng Miao live under Qingjiang. The source alleges they formerly gathered armed bands to raid wealthy households, carrying torches, spears, and swords. It claims that since the thirteenth year of Yongzheng (1735) they have complied with the law.\n\nVerse (provisional): Once armed with long spears and short swords, they are now said to obey official rules after the dynasty's military campaigns.",
+    "translation_status": "ai_draft"
+  },
+  "ocr-1125a70eadfd-p0043": {
+    "translation": "The Gaopo Miao, also called Dingban Miao, live around Pingyuan and Qianxi. They wear black clothing, cultivate mountain grains, and use boards about a chi long to secure women's hair. The source describes informal partner choice and praises women's weaving.\n\nVerse (provisional): Amid bamboo fences and thatched houses on high slopes, families grow upland grains, mulberry, and hemp and eat simple vegetable dishes.",
+    "translation_status": "ai_draft"
   }
 };
